@@ -1,7 +1,103 @@
 {
   "date": "20260508",
-  "lastUpdated": "02:59 PM, 07 May 2026",
+  "lastUpdated": "08:45 PM, 07 May 2026",
   "movies": {
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 36,
+          "gross": 33050.0,
+          "sold": 41,
+          "totalSeats": 5331
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 49,
+          "gross": 72500.0,
+          "sold": 89,
+          "totalSeats": 10263
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 63,
+          "gross": 1633450.0,
+          "sold": 803,
+          "totalSeats": 11665
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1480
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 69550.0,
+          "sold": 79,
+          "totalSeats": 9225
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 4000.0,
+          "sold": 6,
+          "totalSeats": 1080
+        }
+      }
+    },
+    "Kara": {
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 36,
+          "gross": 33100.0,
+          "sold": 15,
+          "totalSeats": 7663
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 800.0,
+          "sold": 2,
+          "totalSeats": 1614
+        }
+      }
+    },
     "LIK: Love Insurance Kompany": {
       "formats": {
         "ET00005927": {
@@ -14,110 +110,14 @@
         }
       }
     },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 4,
-          "gross": 1600.0,
-          "sold": 2,
-          "totalSeats": 1046
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 24500.0,
-          "sold": 30,
-          "totalSeats": 5331
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 47,
-          "gross": 36450.0,
-          "sold": 37,
-          "totalSeats": 8907
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 63,
-          "gross": 1242450.0,
-          "sold": 595,
-          "totalSeats": 11665
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 800.0,
-          "sold": 2,
-          "totalSeats": 863
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1614
-        }
-      }
-    },
-    "29": {
-      "formats": {
-        "ET00006081": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 16,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 2817
-        }
-      }
-    },
-    "Kara": {
-      "formats": {
-        "ET00006042": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 33,
-          "gross": 20600.0,
-          "sold": 9,
-          "totalSeats": 7021
-        }
-      }
-    },
     "The Devil Wears Prada 2": {
       "formats": {
         "ET00006057": {
           "format": "2D",
           "language": "English",
           "shows": 19,
-          "gross": 473000.0,
-          "sold": 263,
+          "gross": 645900.0,
+          "sold": 362,
           "totalSeats": 2686
         }
       }
@@ -128,21 +128,9 @@
           "format": "2D",
           "language": "English",
           "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 13300.0,
+          "sold": 9,
           "totalSeats": 611
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 39750.0,
-          "sold": 43,
-          "totalSeats": 9945
         }
       }
     },
@@ -152,9 +140,21 @@
           "format": "2D",
           "language": "English",
           "shows": 10,
-          "gross": 2200.0,
-          "sold": 2,
+          "gross": 6400.0,
+          "sold": 5,
           "totalSeats": 1143
+        }
+      }
+    },
+    "29": {
+      "formats": {
+        "ET00006081": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 17,
+          "gross": 950.0,
+          "sold": 1,
+          "totalSeats": 2995
         }
       }
     },
@@ -170,14 +170,26 @@
         }
       }
     },
+    "Dhurandhar The Revenge": {
+      "formats": {
+        "ET00005960": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 14300.0,
+          "sold": 11,
+          "totalSeats": 99
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 4600.0,
-          "sold": 4,
+          "gross": 9400.0,
+          "sold": 8,
           "totalSeats": 406
         }
       }
@@ -188,21 +200,21 @@
           "format": "2D",
           "language": "English",
           "shows": 25,
-          "gross": 273100.0,
-          "sold": 138,
+          "gross": 335900.0,
+          "sold": 179,
           "totalSeats": 3449
         }
       }
     },
-    "Dhurandhar The Revenge": {
+    "Ek Din": {
       "formats": {
-        "ET00005960": {
+        "ET00006076": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 1,
-          "gross": 2600.0,
-          "sold": 2,
-          "totalSeats": 99
+          "shows": 4,
+          "gross": 18500.0,
+          "sold": 10,
+          "totalSeats": 709
         }
       }
     },
@@ -218,18 +230,6 @@
         }
       }
     },
-    "Animal Farm": {
-      "formats": {
-        "ET00006075": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 11000.0,
-          "sold": 10,
-          "totalSeats": 292
-        }
-      }
-    },
     "Mr. X": {
       "formats": {
         "ET00006049": {
@@ -239,6 +239,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 289
+        }
+      }
+    },
+    "Bhooth Bangla": {
+      "formats": {
+        "ET00006020": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 263
         }
       }
     },
@@ -254,15 +266,15 @@
         }
       }
     },
-    "Ek Din": {
+    "Animal Farm": {
       "formats": {
-        "ET00006076": {
+        "ET00006075": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 4,
-          "gross": 17600.0,
-          "sold": 8,
-          "totalSeats": 709
+          "language": "English",
+          "shows": 2,
+          "gross": 11000.0,
+          "sold": 10,
+          "totalSeats": 292
         }
       }
     },
@@ -275,18 +287,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 230
-        }
-      }
-    },
-    "Bhooth Bangla": {
-      "formats": {
-        "ET00006020": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 263
         }
       }
     }
