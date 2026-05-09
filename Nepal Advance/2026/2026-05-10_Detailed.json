@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "lastUpdated": "03:28 AM, 09 May 2026",
+  "lastUpdated": "07:57 AM, 09 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -261,16 +261,18 @@
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
       "movie_name": "Guru Aama",
       "show_id": "167390:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-05-10T15:15:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -522,10 +524,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 400,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -852,10 +854,10 @@
       "time": "",
       "seats": 177,
       "sold": 40,
-      "reserved": 8,
-      "available": 129,
-      "gross": 9840,
-      "occupancy_percent": 27.12
+      "reserved": 12,
+      "available": 125,
+      "gross": 10880,
+      "occupancy_percent": 29.38
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -986,11 +988,11 @@
       "date": "2026-05-10T11:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 230,
-      "gross": 7920,
-      "occupancy_percent": 7.26
+      "available": 228,
+      "gross": 8800,
+      "occupancy_percent": 8.06
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1031,11 +1033,11 @@
       "date": "2026-05-10T08:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 247,
+      "gross": 220,
+      "occupancy_percent": 0.4
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1266,16 +1268,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "167389:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-05-10T12:15:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1691,11 +1695,11 @@
       "date": "2026-05-10T20:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 1,
+      "sold": 3,
       "reserved": 0,
-      "available": 264,
-      "gross": 320,
-      "occupancy_percent": 0.38
+      "available": 262,
+      "gross": 960,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -1841,11 +1845,11 @@
       "date": "2026-05-10T16:45:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 4,
       "reserved": 12,
-      "available": 200,
-      "gross": 6960,
-      "occupancy_percent": 5.66
+      "available": 196,
+      "gross": 9280,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1991,11 +1995,11 @@
       "date": "2026-05-10T11:30:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 265,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 262,
+      "gross": 960,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -2016,16 +2020,18 @@
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
       "movie_name": "Paralko Aago",
       "show_id": "167386:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 1",
-      "date": "2026-05-10T12:00:00+05:45",
-      "time": "",
-      "seats": 120,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 120,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -2076,16 +2082,18 @@
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
       "movie_name": "Paralko Aago",
       "show_id": "167391:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-05-10T18:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -2736,16 +2744,18 @@
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "167387:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 1",
-      "date": "2026-05-10T15:00:00+05:45",
-      "time": "",
-      "seats": 120,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 120,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -3081,16 +3091,18 @@
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
       "movie_name": "Krishnavataram",
       "show_id": "167388:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 1",
-      "date": "2026-05-10T18:15:00+05:45",
-      "time": "",
-      "seats": 120,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-10",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 120,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -3116,11 +3128,11 @@
       "date": "2026-05-10T11:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 127,
+      "gross": 1680,
+      "occupancy_percent": 4.51
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -3357,10 +3369,10 @@
       "time": "",
       "seats": 259,
       "sold": 3,
-      "reserved": 0,
-      "available": 256,
-      "gross": 1320,
-      "occupancy_percent": 1.16
+      "reserved": 4,
+      "available": 252,
+      "gross": 3080,
+      "occupancy_percent": 2.7
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3521,11 +3533,11 @@
       "date": "2026-05-10T14:15:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 3,
+      "sold": 7,
       "reserved": 2,
-      "available": 46,
-      "gross": 7000,
-      "occupancy_percent": 9.8
+      "available": 42,
+      "gross": 12600,
+      "occupancy_percent": 17.65
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -3626,11 +3638,11 @@
       "date": "2026-05-10T14:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 440,
+      "occupancy_percent": 0.55
     }
   ]
 }
