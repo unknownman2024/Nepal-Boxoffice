@@ -1,16 +1,40 @@
 {
   "date": "20260511",
-  "lastUpdated": "10:28 AM, 10 May 2026",
+  "lastUpdated": "07:31 PM, 10 May 2026",
   "movies": {
-    "LIK: Love Insurance Kompany": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00005927": {
+        "ET00006009": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 368
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 700.0,
+          "sold": 2,
+          "totalSeats": 1948
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 50,
+          "gross": 21200.0,
+          "sold": 32,
+          "totalSeats": 9599
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 14550.0,
+          "sold": 24,
+          "totalSeats": 6045
         }
       }
     },
@@ -26,27 +50,15 @@
         }
       }
     },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 8,
-          "gross": 700.0,
-          "sold": 2,
-          "totalSeats": 1948
-        }
-      }
-    },
     "Michael": {
       "formats": {
         "ET00006006": {
           "format": "2D",
           "language": "English",
-          "shows": 49,
-          "gross": 356800.0,
-          "sold": 209,
-          "totalSeats": 8717
+          "shows": 54,
+          "gross": 511550.0,
+          "sold": 301,
+          "totalSeats": 10279
         }
       }
     },
@@ -56,33 +68,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 800.0,
+          "sold": 2,
           "totalSeats": 1119
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 10300.0,
-          "sold": 15,
-          "totalSeats": 8767
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 51,
-          "gross": 19650.0,
-          "sold": 25,
-          "totalSeats": 9827
         }
       }
     },
@@ -91,10 +79,70 @@
         "ET00006042": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 28,
-          "gross": 23700.0,
+          "shows": 27,
+          "gross": 25300.0,
           "sold": 17,
-          "totalSeats": 5849
+          "totalSeats": 5585
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 56,
+          "gross": 30450.0,
+          "sold": 37,
+          "totalSeats": 11115
+        }
+      }
+    },
+    "Mortal Kombat II": {
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 25,
+          "gross": 76300.0,
+          "sold": 49,
+          "totalSeats": 3310
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 3000.0,
+          "sold": 3,
+          "totalSeats": 460
+        }
+      }
+    },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 10,
+          "gross": 19000.0,
+          "sold": 11,
+          "totalSeats": 1164
+        }
+      }
+    },
+    "LIK: Love Insurance Kompany": {
+      "formats": {
+        "ET00005927": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 6800.0,
+          "sold": 8,
+          "totalSeats": 368
         }
       }
     },
@@ -116,57 +164,9 @@
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 3300.0,
-          "sold": 3,
+          "gross": 7700.0,
+          "sold": 7,
           "totalSeats": 406
-        }
-      }
-    },
-    "29": {
-      "formats": {
-        "ET00006081": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1321
-        }
-      }
-    },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 10,
-          "gross": 11200.0,
-          "sold": 6,
-          "totalSeats": 1164
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 10200.0,
-          "sold": 18,
-          "totalSeats": 5628
-        }
-      }
-    },
-    "Mortal Kombat II": {
-      "formats": {
-        "ET00006056": {
-          "format": "2D",
-          "language": "English",
-          "shows": 23,
-          "gross": 66100.0,
-          "sold": 42,
-          "totalSeats": 3006
         }
       }
     },
@@ -182,39 +182,27 @@
         }
       }
     },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 3000.0,
-          "sold": 3,
-          "totalSeats": 460
-        }
-      }
-    },
     "Ek Din": {
       "formats": {
         "ET00006076": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 2,
+          "shows": 3,
           "gross": 17600.0,
           "sold": 8,
-          "totalSeats": 146
+          "totalSeats": 602
         }
       }
     },
-    "Mr. X": {
+    "The Devil Wears Prada 2": {
       "formats": {
-        "ET00006049": {
+        "ET00006057": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 289
+          "language": "English",
+          "shows": 18,
+          "gross": 152200.0,
+          "sold": 98,
+          "totalSeats": 2516
         }
       }
     },
@@ -230,15 +218,27 @@
         }
       }
     },
-    "The Devil Wears Prada 2": {
+    "29": {
       "formats": {
-        "ET00006057": {
+        "ET00006081": {
           "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 108000.0,
-          "sold": 67,
-          "totalSeats": 2516
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1131
+        }
+      }
+    },
+    "Bhooth Bangla": {
+      "formats": {
+        "ET00006020": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 1300.0,
+          "sold": 2,
+          "totalSeats": 263
         }
       }
     },
@@ -254,18 +254,6 @@
         }
       }
     },
-    "Bhooth Bangla": {
-      "formats": {
-        "ET00006020": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 263
-        }
-      }
-    },
     "Rani": {
       "formats": {
         "ET00005624": {
@@ -275,6 +263,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 254
+        }
+      }
+    },
+    "Mr. X": {
+      "formats": {
+        "ET00006049": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 289
         }
       }
     },
