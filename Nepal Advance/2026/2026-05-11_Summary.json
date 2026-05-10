@@ -2,11 +2,11 @@
   {
     "movie_id": "6MXNMUqLfH29PBjfmBYswh",
     "movie_name": "Guru Aama",
-    "total_shows": 16,
-    "seats": 2931,
+    "total_shows": 17,
+    "seats": 3420,
     "sold": 43,
     "reserved": 30,
-    "available": 2858,
+    "available": 3347,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -41,12 +41,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 182,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -57,6 +57,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 304,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 247,
+        "sold": 0,
+        "reserved": 0,
+        "available": 247,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -139,17 +149,27 @@
         "available": 190,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 49,
-    "seats": 10484,
-    "sold": 44,
-    "reserved": 124,
-    "available": 10316,
+    "total_shows": 54,
+    "seats": 12621,
+    "sold": 53,
+    "reserved": 179,
+    "available": 12389,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -174,12 +194,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 6,
-        "seats": 0,
-        "sold": 0,
+        "venue": "qfx-labim",
+        "total_shows": 3,
+        "seats": 549,
+        "sold": 3,
         "reserved": 0,
-        "available": 0,
+        "available": 546,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -188,8 +208,8 @@
         "total_shows": 2,
         "seats": 386,
         "sold": 20,
-        "reserved": 0,
-        "available": 366,
+        "reserved": 1,
+        "available": 365,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -207,9 +227,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 1557,
-        "sold": 9,
+        "sold": 11,
         "reserved": 0,
-        "available": 1548,
+        "available": 1546,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -230,6 +250,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 1368,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 3,
+        "seats": 743,
+        "sold": 4,
+        "reserved": 54,
+        "available": 685,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -312,17 +342,27 @@
         "available": 1072,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 5,
+        "seats": 845,
+        "sold": 0,
+        "reserved": 0,
+        "available": 845,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
     "movie_name": "Mortal Kombat 2",
-    "total_shows": 6,
-    "seats": 810,
+    "total_shows": 7,
+    "seats": 1053,
     "sold": 0,
     "reserved": 10,
-    "available": 800,
+    "available": 1043,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -347,12 +387,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "qfx-labim",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 183,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 183,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -385,6 +425,16 @@
         "available": 182,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -392,10 +442,10 @@
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
     "total_shows": 15,
-    "seats": 2894,
+    "seats": 3101,
     "sold": 4,
-    "reserved": 55,
-    "available": 2835,
+    "reserved": 70,
+    "available": 3027,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -480,12 +530,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "qfx-bhaktapur",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 207,
         "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "reserved": 15,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -534,11 +584,11 @@
   {
     "movie_id": "U4zoKohWHiitMu75sAxbFF",
     "movie_name": "Malati Mangale",
-    "total_shows": 23,
-    "seats": 3648,
-    "sold": 36,
-    "reserved": 68,
-    "available": 3544,
+    "total_shows": 24,
+    "seats": 4345,
+    "sold": 40,
+    "reserved": 86,
+    "available": 4219,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -583,12 +633,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 3,
-        "seats": 0,
-        "sold": 0,
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 2,
         "reserved": 0,
-        "available": 0,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -639,6 +689,16 @@
         "sold": 2,
         "reserved": 0,
         "available": 266,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 2,
+        "seats": 455,
+        "sold": 2,
+        "reserved": 18,
+        "available": 435,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -701,17 +761,27 @@
         "available": 190,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
     "movie_name": "Krishnavataram",
-    "total_shows": 14,
-    "seats": 2145,
-    "sold": 16,
-    "reserved": 30,
-    "available": 2099,
+    "total_shows": 17,
+    "seats": 2823,
+    "sold": 17,
+    "reserved": 34,
+    "available": 2772,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -766,12 +836,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 1,
         "reserved": 0,
-        "available": 0,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -802,6 +872,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 0,
+        "reserved": 4,
+        "available": 203,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -844,17 +924,27 @@
         "available": 133,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 289,
+        "sold": 0,
+        "reserved": 0,
+        "available": 289,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
     "movie_name": "Raja Shivaji",
-    "total_shows": 2,
-    "seats": 343,
+    "total_shows": 3,
+    "seats": 403,
     "sold": 0,
     "reserved": 0,
-    "available": 343,
+    "available": 403,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -867,6 +957,16 @@
         "available": 343,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -874,10 +974,10 @@
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
     "total_shows": 11,
-    "seats": 1516,
-    "sold": 7,
+    "seats": 1876,
+    "sold": 10,
     "reserved": 18,
-    "available": 1491,
+    "available": 1848,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -912,12 +1012,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "qfx-labim",
         "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
+        "seats": 360,
+        "sold": 3,
         "reserved": 0,
-        "available": 0,
+        "available": 357,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -957,10 +1057,10 @@
     "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
     "movie_name": "The Devil Wears Prada 2",
     "total_shows": 7,
-    "seats": 455,
-    "sold": 5,
+    "seats": 815,
+    "sold": 7,
     "reserved": 4,
-    "available": 446,
+    "available": 804,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -975,12 +1075,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "qfx-labim",
         "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
+        "seats": 360,
+        "sold": 2,
         "reserved": 0,
-        "available": 0,
+        "available": 358,
         "housefull": 0,
         "fastfilling": 0
       },
