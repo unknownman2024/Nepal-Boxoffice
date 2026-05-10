@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "lastUpdated": "06:43 PM, 10 May 2026",
+  "lastUpdated": "08:20 PM, 10 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -5832,11 +5832,11 @@
       "date": "2026-05-10T20:45:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 9,
+      "sold": 44,
       "reserved": 0,
-      "available": 130,
-      "gross": 3690,
-      "occupancy_percent": 6.47
+      "available": 95,
+      "gross": 18040,
+      "occupancy_percent": 31.65
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -5847,11 +5847,11 @@
       "date": "2026-05-10T20:45:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 118,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 114,
+      "gross": 1600,
+      "occupancy_percent": 3.39
     },
     {
       "movie_id": "SoFzLZp6Q3wZ35PshW3zj5",
@@ -5862,11 +5862,11 @@
       "date": "2026-05-10T20:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 8,
+      "sold": 10,
       "reserved": 0,
-      "available": 209,
-      "gross": 3200,
-      "occupancy_percent": 3.69
+      "available": 207,
+      "gross": 4000,
+      "occupancy_percent": 4.61
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -5877,11 +5877,11 @@
       "date": "2026-05-10T20:45:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 11,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 166,
+      "gross": 5390,
+      "occupancy_percent": 6.21
     },
     {
       "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
@@ -5892,11 +5892,11 @@
       "date": "2026-05-10T20:45:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 6,
-      "reserved": 11,
-      "available": 165,
-      "gross": 9520,
-      "occupancy_percent": 9.34
+      "sold": 13,
+      "reserved": 2,
+      "available": 167,
+      "gross": 8400,
+      "occupancy_percent": 8.24
     },
     {
       "movie_id": "UiB82iFPd63iHcjiGjhcXg",
@@ -5907,11 +5907,26 @@
       "date": "2026-05-10T21:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 5,
-      "reserved": 1,
-      "available": 120,
-      "gross": 2400,
-      "occupancy_percent": 4.76
+      "sold": 9,
+      "reserved": 0,
+      "available": 117,
+      "gross": 3600,
+      "occupancy_percent": 7.14
+    },
+    {
+      "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
+      "movie_name": "Michael",
+      "show_id": "167639:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-05-10T21:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 8,
+      "reserved": 0,
+      "available": 174,
+      "gross": 3520,
+      "occupancy_percent": 4.4
     }
   ]
 }
