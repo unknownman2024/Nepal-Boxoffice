@@ -2,11 +2,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 100,
-    "seats": 21938,
-    "sold": 270,
-    "reserved": 334,
-    "available": 21334,
+    "total_shows": 103,
+    "seats": 20767,
+    "sold": 274,
+    "reserved": 332,
+    "available": 20161,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -64,8 +64,8 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 844,
-        "sold": 89,
-        "reserved": 86,
+        "sold": 91,
+        "reserved": 84,
         "available": 669,
         "housefull": 0,
         "fastfilling": 0
@@ -211,12 +211,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bageshwori",
-        "total_shows": 5,
-        "seats": 1446,
+        "venue": "Unknown",
+        "total_shows": 6,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 1446,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -252,11 +252,11 @@
       },
       {
         "venue": "qfx-cineflix-itahari",
-        "total_shows": 4,
-        "seats": 536,
+        "total_shows": 3,
+        "seats": 402,
         "sold": 11,
         "reserved": 0,
-        "available": 525,
+        "available": 391,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,6 +287,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 244,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 3,
+        "seats": 409,
+        "sold": 2,
+        "reserved": 0,
+        "available": 407,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -428,11 +438,11 @@
   {
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
-    "total_shows": 17,
-    "seats": 2993,
+    "total_shows": 20,
+    "seats": 3530,
     "sold": 6,
-    "reserved": 55,
-    "available": 2932,
+    "reserved": 70,
+    "available": 3454,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -585,17 +595,37 @@
         "available": 118,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 2,
+        "seats": 330,
+        "sold": 0,
+        "reserved": 0,
+        "available": 330,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 0,
+        "reserved": 15,
+        "available": 192,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "U4zoKohWHiitMu75sAxbFF",
     "movie_name": "Malati Mangale",
-    "total_shows": 31,
-    "seats": 5514,
-    "sold": 23,
-    "reserved": 44,
-    "available": 5447,
+    "total_shows": 36,
+    "seats": 6159,
+    "sold": 25,
+    "reserved": 92,
+    "available": 6042,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -800,12 +830,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bageshwori",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 288,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 288,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -816,6 +846,36 @@
         "sold": 0,
         "reserved": 0,
         "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 0,
+        "reserved": 0,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 3,
+        "seats": 661,
+        "sold": 2,
+        "reserved": 48,
+        "available": 611,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -987,11 +1047,11 @@
   {
     "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
     "movie_name": "Mortal Kombat 2",
-    "total_shows": 4,
-    "seats": 711,
+    "total_shows": 5,
+    "seats": 844,
     "sold": 3,
     "reserved": 12,
-    "available": 696,
+    "available": 829,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1034,6 +1094,16 @@
         "available": 150,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1073,11 +1143,11 @@
   {
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
-    "total_shows": 12,
-    "seats": 2018,
+    "total_shows": 13,
+    "seats": 2183,
     "sold": 14,
     "reserved": 25,
-    "available": 1979,
+    "available": 2144,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1158,6 +1228,16 @@
         "sold": 4,
         "reserved": 0,
         "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 0,
+        "reserved": 0,
+        "available": 165,
         "housefull": 0,
         "fastfilling": 0
       }
