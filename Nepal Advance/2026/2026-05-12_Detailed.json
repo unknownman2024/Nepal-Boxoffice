@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "lastUpdated": "03:14 AM, 11 May 2026",
+  "lastUpdated": "08:09 AM, 11 May 2026",
   "shows": [
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -41,11 +41,11 @@
       "date": "2026-05-12T11:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 178,
+      "gross": 400,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -282,10 +282,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 0,
-      "available": 210,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 208,
+      "gross": 400,
+      "occupancy_percent": 0.95
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -326,11 +326,11 @@
       "date": "2026-05-12T14:30:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 53,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 50,
+      "gross": 2400,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -461,11 +461,11 @@
       "date": "2026-05-12T20:00:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 3,
+      "sold": 5,
       "reserved": 18,
-      "available": 189,
-      "gross": 5040,
-      "occupancy_percent": 10.0
+      "available": 187,
+      "gross": 5520,
+      "occupancy_percent": 10.95
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -476,11 +476,11 @@
       "date": "2026-05-12T13:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 10,
+      "sold": 12,
       "reserved": 30,
-      "available": 172,
-      "gross": 14020,
-      "occupancy_percent": 18.87
+      "available": 170,
+      "gross": 14700,
+      "occupancy_percent": 19.81
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -566,11 +566,11 @@
       "date": "2026-05-12T19:00:00+05:45",
       "time": "",
       "seats": 192,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 189,
+      "gross": 600,
+      "occupancy_percent": 1.56
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1011,16 +1011,18 @@
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "167638:qfx-apex-mall",
-      "venue": "qfx-apex-mall",
-      "theatre": "QFX Apex Mall, Damauli - AUDI 2",
-      "date": "2026-05-12T18:00:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-12",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1212,10 +1214,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 8,
+      "available": 172,
+      "gross": 1600,
+      "occupancy_percent": 4.44
     },
     {
       "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
@@ -1796,11 +1798,11 @@
       "date": "2026-05-12T16:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 2,
+      "sold": 5,
       "reserved": 17,
-      "available": 179,
-      "gross": 4560,
-      "occupancy_percent": 9.6
+      "available": 176,
+      "gross": 5280,
+      "occupancy_percent": 11.11
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -2106,18 +2108,16 @@
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
       "movie_name": "Michael",
       "show_id": "167583:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-12",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-05-12T17:15:00+05:45",
+      "time": "",
+      "seats": 248,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 248,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
