@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "lastUpdated": "01:14 AM, 13 May 2026",
+  "lastUpdated": "03:40 AM, 13 May 2026",
   "shows": [
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -402,10 +402,10 @@
       "time": "",
       "seats": 519,
       "sold": 0,
-      "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 517,
+      "gross": 900,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2211,16 +2211,18 @@
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "65264:ini-lotse-ktm",
-      "venue": "ini-lotse-ktm",
-      "theatre": "iNi Lotse Mall - Audi 1",
-      "date": "2026-05-14T19:30:00+05:45",
-      "time": "",
-      "seats": 240,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-05-14",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 240,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -2442,10 +2444,10 @@
       "time": "",
       "seats": 203,
       "sold": 17,
-      "reserved": 2,
-      "available": 184,
-      "gross": 4750,
-      "occupancy_percent": 9.36
+      "reserved": 0,
+      "available": 186,
+      "gross": 4250,
+      "occupancy_percent": 8.37
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
