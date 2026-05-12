@@ -1,40 +1,16 @@
 {
   "date": "20260513",
-  "lastUpdated": "10:24 AM, 12 May 2026",
+  "lastUpdated": "08:53 PM, 12 May 2026",
   "movies": {
-    "LIK: Love Insurance Kompany": {
-      "formats": {
-        "ET00005927": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 184
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 14,
-          "gross": 1600.0,
-          "sold": 4,
-          "totalSeats": 1948
-        }
-      }
-    },
     "Dharmayuddhaya 2": {
       "formats": {
         "ET00005975": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 38,
-          "gross": 3300.0,
-          "sold": 7,
-          "totalSeats": 5902
+          "shows": 39,
+          "gross": 8400.0,
+          "sold": 17,
+          "totalSeats": 6165
         }
       }
     },
@@ -44,8 +20,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 6,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2450.0,
+          "sold": 5,
           "totalSeats": 1480
         }
       }
@@ -56,9 +32,33 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 7,
-          "gross": 2400.0,
-          "sold": 3,
+          "gross": 5600.0,
+          "sold": 7,
           "totalSeats": 1119
+        }
+      }
+    },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 14,
+          "gross": 2300.0,
+          "sold": 6,
+          "totalSeats": 1948
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 57,
+          "gross": 28700.0,
+          "sold": 43,
+          "totalSeats": 11519
         }
       }
     },
@@ -68,45 +68,9 @@
           "format": "2D",
           "language": "English",
           "shows": 59,
-          "gross": 365100.0,
-          "sold": 213,
+          "gross": 648600.0,
+          "sold": 405,
           "totalSeats": 10328
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 64,
-          "gross": 24150.0,
-          "sold": 30,
-          "totalSeats": 10609
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 55,
-          "gross": 16200.0,
-          "sold": 20,
-          "totalSeats": 10993
-        }
-      }
-    },
-    "Top Gun: Maverick": {
-      "formats": {
-        "ET00000972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 69400.0,
-          "sold": 25,
-          "totalSeats": 589
         }
       }
     },
@@ -116,33 +80,21 @@
           "format": "3D",
           "language": "English",
           "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1100.0,
+          "sold": 1,
           "totalSeats": 203
         }
       }
     },
-    "The Sheep Detectives": {
+    "OIC Gadafi": {
       "formats": {
-        "ET00006062": {
+        "ET00006051": {
           "format": "2D",
-          "language": "English",
-          "shows": 9,
-          "gross": 4000.0,
-          "sold": 4,
-          "totalSeats": 1053
-        }
-      }
-    },
-    "Mortal Kombat II": {
-      "formats": {
-        "ET00006056": {
-          "format": "2D",
-          "language": "English",
-          "shows": 24,
-          "gross": 51300.0,
-          "sold": 31,
-          "totalSeats": 3197
+          "language": "Sinhala",
+          "shows": 66,
+          "gross": 49700.0,
+          "sold": 62,
+          "totalSeats": 11135
         }
       }
     },
@@ -152,21 +104,9 @@
           "format": "2D",
           "language": "English",
           "shows": 3,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1900.0,
+          "sold": 2,
           "totalSeats": 361
-        }
-      }
-    },
-    "Top Gun": {
-      "formats": {
-        "ET00006086": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 68600.0,
-          "sold": 25,
-          "totalSeats": 445
         }
       }
     },
@@ -182,15 +122,51 @@
         }
       }
     },
+    "Mortal Kombat II": {
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 24,
+          "gross": 88600.0,
+          "sold": 54,
+          "totalSeats": 3197
+        }
+      }
+    },
+    "Top Gun": {
+      "formats": {
+        "ET00006086": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 76000.0,
+          "sold": 28,
+          "totalSeats": 445
+        }
+      }
+    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 5850.0,
-          "sold": 6,
+          "gross": 19850.0,
+          "sold": 19,
           "totalSeats": 295
+        }
+      }
+    },
+    "The Devil Wears Prada 2": {
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 300350.0,
+          "sold": 193,
+          "totalSeats": 2624
         }
       }
     },
@@ -199,10 +175,10 @@
         "ET00006042": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 34,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 5630
+          "shows": 35,
+          "gross": 6500.0,
+          "sold": 6,
+          "totalSeats": 5909
         }
       }
     },
@@ -212,8 +188,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 10,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 600.0,
+          "sold": 2,
           "totalSeats": 1493
         }
       }
@@ -224,21 +200,9 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 3,
-          "gross": 17600.0,
-          "sold": 8,
+          "gross": 18500.0,
+          "sold": 10,
           "totalSeats": 602
-        }
-      }
-    },
-    "Patriot": {
-      "formats": {
-        "ET00006074": {
-          "format": "2D",
-          "language": "Malayalam",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 261
         }
       }
     },
@@ -254,18 +218,6 @@
         }
       }
     },
-    "The Devil Wears Prada 2": {
-      "formats": {
-        "ET00006057": {
-          "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 181800.0,
-          "sold": 115,
-          "totalSeats": 2624
-        }
-      }
-    },
     "Rani": {
       "formats": {
         "ET00005624": {
@@ -275,6 +227,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 143
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Patriot": {
+      "formats": {
+        "ET00006074": {
+          "format": "2D",
+          "language": "Malayalam",
+          "shows": 2,
+          "gross": 2100.0,
+          "sold": 2,
+          "totalSeats": 261
         }
       }
     },
@@ -290,6 +266,30 @@
         }
       }
     },
+    "Top Gun: Maverick": {
+      "formats": {
+        "ET00000972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 72400.0,
+          "sold": 26,
+          "totalSeats": 589
+        }
+      }
+    },
+    "Mr. X": {
+      "formats": {
+        "ET00006049": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 473
+        }
+      }
+    },
     " Father": {
       "formats": {
         "ET00005963": {
@@ -302,27 +302,15 @@
         }
       }
     },
-    "Mr. X": {
+    "The Sheep Detectives": {
       "formats": {
-        "ET00006049": {
+        "ET00006062": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 289
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 232
+          "shows": 9,
+          "gross": 8000.0,
+          "sold": 8,
+          "totalSeats": 1053
         }
       }
     }
