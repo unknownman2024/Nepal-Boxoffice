@@ -2,11 +2,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 109,
-    "seats": 24166,
-    "sold": 278,
-    "reserved": 670,
-    "available": 23218,
+    "total_shows": 112,
+    "seats": 24737,
+    "sold": 288,
+    "reserved": 677,
+    "available": 23772,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "big-movies",
         "total_shows": 5,
         "seats": 1745,
-        "sold": 38,
-        "reserved": 253,
-        "available": 1454,
+        "sold": 41,
+        "reserved": 257,
+        "available": 1447,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -75,8 +75,8 @@
         "total_shows": 3,
         "seats": 1557,
         "sold": 0,
-        "reserved": 2,
-        "available": 1555,
+        "reserved": 0,
+        "available": 1557,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -94,9 +94,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1046,
-        "sold": 34,
-        "reserved": 114,
-        "available": 898,
+        "sold": 38,
+        "reserved": 115,
+        "available": 893,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -164,9 +164,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 7,
         "seats": 1733,
-        "sold": 44,
+        "sold": 46,
         "reserved": 126,
-        "available": 1563,
+        "available": 1561,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -184,9 +184,9 @@
         "venue": "qfx-jalma",
         "total_shows": 3,
         "seats": 795,
-        "sold": 3,
+        "sold": 4,
         "reserved": 0,
-        "available": 792,
+        "available": 791,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -275,8 +275,8 @@
         "total_shows": 3,
         "seats": 409,
         "sold": 0,
-        "reserved": 0,
-        "available": 409,
+        "reserved": 2,
+        "available": 407,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -285,8 +285,8 @@
         "total_shows": 4,
         "seats": 868,
         "sold": 0,
-        "reserved": 0,
-        "available": 868,
+        "reserved": 2,
+        "available": 866,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -319,17 +319,27 @@
         "available": 584,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 3,
+        "seats": 571,
+        "sold": 0,
+        "reserved": 0,
+        "available": 571,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "6MXNMUqLfH29PBjfmBYswh",
     "movie_name": "Guru Aama",
-    "total_shows": 17,
-    "seats": 2732,
-    "sold": 34,
+    "total_shows": 19,
+    "seats": 3089,
+    "sold": 37,
     "reserved": 83,
-    "available": 2615,
+    "available": 2969,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -357,9 +367,9 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 0,
+        "sold": 3,
         "reserved": 10,
-        "available": 188,
+        "available": 185,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -462,17 +472,27 @@
         "available": 117,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 2,
+        "seats": 357,
+        "sold": 0,
+        "reserved": 0,
+        "available": 357,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
-    "total_shows": 21,
-    "seats": 4203,
+    "total_shows": 22,
+    "seats": 4417,
     "sold": 28,
     "reserved": 113,
-    "available": 4062,
+    "available": 4276,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -655,37 +675,37 @@
         "available": 217,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 0,
+        "available": 214,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "U4zoKohWHiitMu75sAxbFF",
     "movie_name": "Malati Mangale",
-    "total_shows": 39,
-    "seats": 7039,
+    "total_shows": 41,
+    "seats": 7565,
     "sold": 45,
     "reserved": 192,
-    "available": 6802,
+    "available": 7328,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "ini-lotse-ktm",
-        "total_shows": 1,
-        "seats": 240,
+        "total_shows": 2,
+        "seats": 480,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -938,6 +958,16 @@
         "available": 288,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 2,
+        "seats": 286,
+        "sold": 0,
+        "reserved": 0,
+        "available": 286,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -947,8 +977,8 @@
     "total_shows": 18,
     "seats": 2707,
     "sold": 13,
-    "reserved": 108,
-    "available": 2586,
+    "reserved": 109,
+    "available": 2585,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -987,8 +1017,8 @@
         "total_shows": 1,
         "seats": 270,
         "sold": 2,
-        "reserved": 50,
-        "available": 218,
+        "reserved": 51,
+        "available": 217,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1120,8 +1150,8 @@
     "total_shows": 6,
     "seats": 1031,
     "sold": 17,
-    "reserved": 57,
-    "available": 957,
+    "reserved": 59,
+    "available": 955,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1160,8 +1190,8 @@
         "total_shows": 1,
         "seats": 279,
         "sold": 0,
-        "reserved": 42,
-        "available": 237,
+        "reserved": 44,
+        "available": 235,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1236,8 +1266,8 @@
     "total_shows": 14,
     "seats": 2605,
     "sold": 14,
-    "reserved": 116,
-    "available": 2475,
+    "reserved": 121,
+    "available": 2470,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1246,8 +1276,8 @@
         "total_shows": 1,
         "seats": 210,
         "sold": 3,
-        "reserved": 16,
-        "available": 191,
+        "reserved": 19,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1266,8 +1296,8 @@
         "total_shows": 2,
         "seats": 540,
         "sold": 4,
-        "reserved": 100,
-        "available": 436,
+        "reserved": 102,
+        "available": 434,
         "housefull": 0,
         "fastfilling": 0
       },

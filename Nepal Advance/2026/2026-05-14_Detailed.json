@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "lastUpdated": "03:40 AM, 13 May 2026",
+  "lastUpdated": "08:09 AM, 13 May 2026",
   "shows": [
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -57,10 +57,10 @@
       "time": "",
       "seats": 349,
       "sold": 23,
-      "reserved": 50,
-      "available": 276,
-      "gross": 13505,
-      "occupancy_percent": 20.92
+      "reserved": 51,
+      "available": 275,
+      "gross": 13690,
+      "occupancy_percent": 21.2
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -71,11 +71,11 @@
       "date": "2026-05-14T20:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 5,
-      "reserved": 50,
-      "available": 294,
-      "gross": 10175,
-      "occupancy_percent": 15.76
+      "sold": 8,
+      "reserved": 53,
+      "available": 288,
+      "gross": 11285,
+      "occupancy_percent": 17.48
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -341,11 +341,11 @@
       "date": "2026-05-14T13:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 18,
+      "sold": 20,
       "reserved": 22,
-      "available": 158,
-      "gross": 7000,
-      "occupancy_percent": 20.2
+      "available": 156,
+      "gross": 7350,
+      "occupancy_percent": 21.21
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -402,10 +402,10 @@
       "time": "",
       "seats": 519,
       "sold": 0,
-      "reserved": 2,
-      "available": 517,
-      "gross": 900,
-      "occupancy_percent": 0.39
+      "reserved": 0,
+      "available": 519,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -461,11 +461,11 @@
       "date": "2026-05-14T14:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 2,
+      "sold": 4,
       "reserved": 28,
-      "available": 182,
-      "gross": 8700,
-      "occupancy_percent": 14.15
+      "available": 180,
+      "gross": 9250,
+      "occupancy_percent": 15.09
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -537,10 +537,10 @@
       "time": "",
       "seats": 212,
       "sold": 4,
-      "reserved": 17,
-      "available": 191,
-      "gross": 5775,
-      "occupancy_percent": 9.91
+      "reserved": 18,
+      "available": 190,
+      "gross": 6050,
+      "occupancy_percent": 10.38
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -866,11 +866,11 @@
       "date": "2026-05-14T20:00:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 5,
+      "sold": 7,
       "reserved": 18,
-      "available": 225,
-      "gross": 5750,
-      "occupancy_percent": 9.27
+      "available": 223,
+      "gross": 6250,
+      "occupancy_percent": 10.08
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -971,11 +971,11 @@
       "date": "2026-05-14T14:30:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 3,
+      "sold": 4,
       "reserved": 0,
-      "available": 262,
-      "gross": 600,
-      "occupancy_percent": 1.13
+      "available": 261,
+      "gross": 800,
+      "occupancy_percent": 1.51
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1437,10 +1437,10 @@
       "time": "",
       "seats": 217,
       "sold": 0,
-      "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 215,
+      "gross": 600,
+      "occupancy_percent": 0.92
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1467,10 +1467,10 @@
       "time": "",
       "seats": 138,
       "sold": 0,
-      "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 136,
+      "gross": 560,
+      "occupancy_percent": 1.45
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -1676,11 +1676,11 @@
       "date": "2026-05-14T11:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 3,
       "reserved": 10,
-      "available": 188,
-      "gross": 1750,
-      "occupancy_percent": 5.05
+      "available": 185,
+      "gross": 2275,
+      "occupancy_percent": 6.57
     },
     {
       "movie_id": "6MXNMUqLfH29PBjfmBYswh",
@@ -2211,18 +2211,16 @@
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
       "movie_name": "Malati Mangale",
       "show_id": "65264:ini-lotse-ktm",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-14",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-lotse-ktm",
+      "theatre": "iNi Lotse Mall - Audi 1",
+      "date": "2026-05-14T19:30:00+05:45",
+      "time": "",
+      "seats": 240,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 240,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "U4zoKohWHiitMu75sAxbFF",
@@ -2849,10 +2847,10 @@
       "time": "",
       "seats": 270,
       "sold": 2,
-      "reserved": 50,
-      "available": 218,
-      "gross": 9620,
-      "occupancy_percent": 19.26
+      "reserved": 51,
+      "available": 217,
+      "gross": 9805,
+      "occupancy_percent": 19.63
     },
     {
       "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
@@ -3119,10 +3117,10 @@
       "time": "",
       "seats": 279,
       "sold": 0,
-      "reserved": 42,
-      "available": 237,
-      "gross": 7770,
-      "occupancy_percent": 15.05
+      "reserved": 44,
+      "available": 235,
+      "gross": 8140,
+      "occupancy_percent": 15.77
     },
     {
       "movie_id": "aqDu6NBWYyN8KWnPNt3Jh3",
@@ -3224,10 +3222,10 @@
       "time": "",
       "seats": 210,
       "sold": 3,
-      "reserved": 16,
-      "available": 191,
-      "gross": 3325,
-      "occupancy_percent": 9.05
+      "reserved": 19,
+      "available": 188,
+      "gross": 3850,
+      "occupancy_percent": 10.48
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3254,10 +3252,10 @@
       "time": "",
       "seats": 270,
       "sold": 4,
-      "reserved": 50,
-      "available": 216,
-      "gross": 9990,
-      "occupancy_percent": 20.0
+      "reserved": 51,
+      "available": 215,
+      "gross": 10175,
+      "occupancy_percent": 20.37
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3269,10 +3267,10 @@
       "time": "",
       "seats": 270,
       "sold": 0,
-      "reserved": 50,
-      "available": 220,
-      "gross": 9250,
-      "occupancy_percent": 18.52
+      "reserved": 51,
+      "available": 219,
+      "gross": 9435,
+      "occupancy_percent": 18.89
     },
     {
       "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
@@ -3663,6 +3661,126 @@
       "available": 181,
       "gross": 350,
       "occupancy_percent": 0.55
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "703521:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-05-14T20:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "703523:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-05-14T11:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "703520:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-05-14T17:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6MXNMUqLfH29PBjfmBYswh",
+      "movie_name": "Guru Aama",
+      "show_id": "703526:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-05-14T20:15:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6MXNMUqLfH29PBjfmBYswh",
+      "movie_name": "Guru Aama",
+      "show_id": "703518:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-05-14T12:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
+      "movie_name": "Paralko Aago",
+      "show_id": "703519:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-05-14T14:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "U4zoKohWHiitMu75sAxbFF",
+      "movie_name": "Malati Mangale",
+      "show_id": "703525:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-05-14T17:15:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "U4zoKohWHiitMu75sAxbFF",
+      "movie_name": "Malati Mangale",
+      "show_id": "703524:elite-cinemas",
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-2",
+      "date": "2026-05-14T14:15:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     }
   ]
 }
