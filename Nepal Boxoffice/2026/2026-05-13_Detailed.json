@@ -1,5 +1,36 @@
 {
   "date": "2026-05-13",
-  "lastUpdated": "04:28 AM, 13 May 2026",
-  "shows": []
+  "lastUpdated": "05:33 AM, 13 May 2026",
+  "shows": [
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "26825:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-05-13T08:45:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 11,
+      "reserved": 0,
+      "available": 197,
+      "gross": 2750,
+      "occupancy_percent": 5.29
+    },
+    {
+      "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
+      "movie_name": "Krishnavataram",
+      "show_id": "10498:birat-cine",
+      "venue": "birat-cine",
+      "theatre": "Birat Cine - Audi-1",
+      "date": "2026-05-13T08:00:00+05:45",
+      "time": "",
+      "seats": 122,
+      "sold": 0,
+      "reserved": 0,
+      "available": 122,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
