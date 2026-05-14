@@ -3,10 +3,10 @@
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
     "total_shows": 111,
-    "seats": 15864,
-    "sold": 313,
-    "reserved": 160,
-    "available": 15391,
+    "seats": 24095,
+    "sold": 482,
+    "reserved": 233,
+    "available": 23380,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -21,12 +21,32 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 38,
-        "seats": 0,
-        "sold": 0,
+        "venue": "qfx-labim",
+        "total_shows": 4,
+        "seats": 732,
+        "sold": 78,
         "reserved": 0,
-        "available": 0,
+        "available": 654,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 3,
+        "seats": 334,
+        "sold": 2,
+        "reserved": 0,
+        "available": 332,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 51,
+        "sold": 1,
+        "reserved": 1,
+        "available": 49,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -141,12 +161,72 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 6,
+        "seats": 1487,
+        "sold": 24,
+        "reserved": 72,
+        "available": 1391,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 3,
+        "seats": 915,
+        "sold": 0,
+        "reserved": 0,
+        "available": 915,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 3,
+        "seats": 801,
+        "sold": 9,
+        "reserved": 0,
+        "available": 792,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ini-simara",
         "total_shows": 3,
         "seats": 597,
         "sold": 0,
         "reserved": 0,
         "available": 597,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 4,
+        "seats": 876,
+        "sold": 13,
+        "reserved": 0,
+        "available": 863,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 132,
+        "sold": 11,
+        "reserved": 0,
+        "available": 121,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 3,
+        "seats": 568,
+        "sold": 28,
+        "reserved": 0,
+        "available": 540,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -171,12 +251,42 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-apex-mall",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 0,
+        "reserved": 0,
+        "available": 480,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 5,
+        "seats": 1446,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1446,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "pathivara-cine-plaza",
         "total_shows": 3,
         "seats": 804,
         "sold": 3,
         "reserved": 0,
         "available": 801,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 3,
+        "seats": 409,
+        "sold": 3,
+        "reserved": 0,
+        "available": 406,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -205,11 +315,11 @@
   {
     "movie_id": "trUCKctzSGWZY9iLmEX5SY",
     "movie_name": "Life Dyamage",
-    "total_shows": 24,
-    "seats": 3940,
+    "total_shows": 25,
+    "seats": 4171,
     "sold": 125,
     "reserved": 15,
-    "available": 3800,
+    "available": 4031,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -412,6 +522,16 @@
         "available": 198,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
+        "sold": 0,
+        "reserved": 0,
+        "available": 231,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -419,10 +539,10 @@
     "movie_id": "Ju3AHGL3A48ZzpjGSGdsbA",
     "movie_name": "Billie Eilish: Hit Me Hard and Soft-The Tour",
     "total_shows": 23,
-    "seats": 3555,
-    "sold": 143,
+    "seats": 3929,
+    "sold": 151,
     "reserved": 17,
-    "available": 3395,
+    "available": 3761,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -560,9 +680,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 1,
         "seats": 207,
-        "sold": 40,
+        "sold": 42,
         "reserved": 0,
-        "available": 167,
+        "available": 165,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -577,12 +697,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 231,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 6,
+        "reserved": 0,
+        "available": 137,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -591,11 +721,11 @@
   {
     "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
     "movie_name": "Pati Patni Aur Woh Do",
-    "total_shows": 71,
-    "seats": 12396,
+    "total_shows": 74,
+    "seats": 13673,
     "sold": 165,
     "reserved": 101,
-    "available": 12130,
+    "available": 13407,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -840,12 +970,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "chitwan-cineplex",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 362,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 362,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -878,6 +1008,16 @@
         "available": 190,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 3,
+        "seats": 915,
+        "sold": 0,
+        "reserved": 0,
+        "available": 915,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -885,10 +1025,10 @@
     "movie_id": "YPr9ZF5iG3RGL3AE5VjTfi",
     "movie_name": "Ek Mutthi Badal",
     "total_shows": 30,
-    "seats": 4560,
+    "seats": 4934,
     "sold": 40,
     "reserved": 25,
-    "available": 4495,
+    "available": 4869,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1133,12 +1273,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 231,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1151,6 +1291,16 @@
         "available": 292,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1158,10 +1308,10 @@
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
     "total_shows": 13,
-    "seats": 2137,
+    "seats": 2622,
     "sold": 3,
     "reserved": 0,
-    "available": 2134,
+    "available": 2619,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1276,12 +1426,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 342,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 342,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1334,10 +1494,10 @@
     "movie_id": "U4zoKohWHiitMu75sAxbFF",
     "movie_name": "Malati Mangale",
     "total_shows": 15,
-    "seats": 2646,
-    "sold": 43,
+    "seats": 2789,
+    "sold": 44,
     "reserved": 13,
-    "available": 2590,
+    "available": 2732,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1472,12 +1632,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "chitwan-cineplex",
         "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
+        "seats": 143,
+        "sold": 1,
         "reserved": 0,
-        "available": 0,
+        "available": 142,
         "housefull": 0,
         "fastfilling": 0
       }
