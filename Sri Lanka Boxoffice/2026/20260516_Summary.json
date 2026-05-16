@@ -1,5 +1,329 @@
 {
   "date": "20260516",
-  "lastUpdated": "05:23 AM, 16 May 2026",
-  "movies": {}
+  "lastUpdated": "08:07 AM, 16 May 2026",
+  "movies": {
+    "Dharmayuddhaya 2": {
+      "totalShows": 7,
+      "totalGross": 3100.0,
+      "totalSold": 6,
+      "totalSeats": 1154,
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 3100.0,
+          "sold": 6,
+          "totalSeats": 1154,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.52
+    },
+    "The Wife": {
+      "totalShows": 2,
+      "totalGross": 14800.0,
+      "totalSold": 20,
+      "totalSeats": 349,
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 14800.0,
+          "sold": 20,
+          "totalSeats": 349,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 5.73
+    },
+    "Sura Detuwo": {
+      "totalShows": 1,
+      "totalGross": 0,
+      "totalSold": 0,
+      "totalSeats": 0,
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0
+    },
+    "Riverstone": {
+      "totalShows": 10,
+      "totalGross": 53300.0,
+      "totalSold": 98,
+      "totalSeats": 1548,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 53300.0,
+          "sold": 98,
+          "totalSeats": 1548,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.33
+    },
+    "Karuppu": {
+      "totalShows": 15,
+      "totalGross": 450900.0,
+      "totalSold": 406,
+      "totalSeats": 2805,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 15,
+          "gross": 450900.0,
+          "sold": 406,
+          "totalSeats": 2805,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 14.47
+    },
+    "Giniyam Yamaya": {
+      "totalShows": 7,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 987,
+      "formats": {
+        "ET00006096": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 987,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "The Devil Wears Prada 2": {
+      "totalShows": 2,
+      "totalGross": 111400.0,
+      "totalSold": 72,
+      "totalSeats": 303,
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 111400.0,
+          "sold": 72,
+          "totalSeats": 303,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 23.76
+    },
+    "Michael": {
+      "totalShows": 8,
+      "totalGross": 561000.0,
+      "totalSold": 265,
+      "totalSeats": 1398,
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 561000.0,
+          "sold": 265,
+          "totalSeats": 1398,
+          "fastfilling": 1,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 18.96
+    },
+    "Chandarege Wife": {
+      "totalShows": 8,
+      "totalGross": 28600.0,
+      "totalSold": 54,
+      "totalSeats": 1632,
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 28600.0,
+          "sold": 54,
+          "totalSeats": 1632,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.31
+    },
+    "The Sheep Detectives": {
+      "totalShows": 1,
+      "totalGross": 20800.0,
+      "totalSold": 16,
+      "totalSeats": 111,
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 20800.0,
+          "sold": 16,
+          "totalSeats": 111,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 14.41
+    },
+    "Project Hail Mary": {
+      "totalShows": 1,
+      "totalGross": 10150.0,
+      "totalSold": 7,
+      "totalSeats": 144,
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 10150.0,
+          "sold": 7,
+          "totalSeats": 144,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.86
+    },
+    "Top Gun": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 226,
+      "formats": {
+        "ET00006086": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 226,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Mortal Kombat II": {
+      "totalShows": 5,
+      "totalGross": 64350.0,
+      "totalSold": 42,
+      "totalSeats": 430,
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 64350.0,
+          "sold": 42,
+          "totalSeats": 430,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 9.77
+    },
+    "Hoppers": {
+      "totalShows": 1,
+      "totalGross": 13000.0,
+      "totalSold": 10,
+      "totalSeats": 99,
+      "formats": {
+        "ET00006005": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 13000.0,
+          "sold": 10,
+          "totalSeats": 99,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 10.1
+    },
+    "OIC Gadafi": {
+      "totalShows": 13,
+      "totalGross": 59000.0,
+      "totalSold": 99,
+      "totalSeats": 2747,
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 13,
+          "gross": 59000.0,
+          "sold": 99,
+          "totalSeats": 2747,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.6
+    },
+    "Ek Din": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 172,
+      "formats": {
+        "ET00006076": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 172,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Kara": {
+      "totalShows": 2,
+      "totalGross": 1700.0,
+      "totalSold": 2,
+      "totalSeats": 287,
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 1700.0,
+          "sold": 2,
+          "totalSeats": 287,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.7
+    }
+  }
 }
