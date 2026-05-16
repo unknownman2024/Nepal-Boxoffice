@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "lastUpdated": "07:18 PM, 16 May 2026",
+  "lastUpdated": "08:24 PM, 16 May 2026",
   "shows": [
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -6710,11 +6710,11 @@
       "date": "2026-05-16T20:45:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 20,
+      "sold": 40,
       "reserved": 0,
-      "available": 188,
-      "gross": 9000,
-      "occupancy_percent": 9.62
+      "available": 168,
+      "gross": 18000,
+      "occupancy_percent": 19.23
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -7378,28 +7378,26 @@
       "date": "2026-05-16T21:40:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 165,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 159,
+      "gross": 2300,
+      "occupancy_percent": 3.64
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
       "movie_name": "Lalibazar",
       "show_id": "168389:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-05-16",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-05-16T21:00:00+05:45",
+      "time": "",
+      "seats": 183,
+      "sold": 46,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 137,
+      "gross": 22080,
+      "occupancy_percent": 25.14
     },
     {
       "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
@@ -7425,11 +7423,11 @@
       "date": "2026-05-16T21:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 3,
+      "sold": 8,
       "reserved": 0,
-      "available": 126,
-      "gross": 1320,
-      "occupancy_percent": 2.33
+      "available": 121,
+      "gross": 3520,
+      "occupancy_percent": 6.2
     }
   ]
 }
