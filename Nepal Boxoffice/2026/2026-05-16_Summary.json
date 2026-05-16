@@ -2,14 +2,24 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 45,
-    "seats": 9201,
-    "sold": 2045,
-    "reserved": 206,
-    "available": 6950,
+    "total_shows": 101,
+    "seats": 21396,
+    "sold": 4949,
+    "reserved": 670,
+    "available": 15777,
     "housefull": 0,
-    "fastfilling": 6,
+    "fastfilling": 18,
     "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bamel-cinemas",
         "total_shows": 1,
@@ -22,11 +32,11 @@
       },
       {
         "venue": "big-movies",
-        "total_shows": 2,
-        "seats": 619,
-        "sold": 141,
-        "reserved": 74,
-        "available": 404,
+        "total_shows": 3,
+        "seats": 968,
+        "sold": 207,
+        "reserved": 112,
+        "available": 649,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -42,233 +52,363 @@
       },
       {
         "venue": "bishwojyoti-cineplex",
-        "total_shows": 1,
-        "seats": 201,
-        "sold": 16,
-        "reserved": 0,
-        "available": 185,
+        "total_shows": 2,
+        "seats": 402,
+        "sold": 35,
+        "reserved": 3,
+        "available": 364,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "bsr-movies",
-        "total_shows": 2,
-        "seats": 384,
-        "sold": 12,
-        "reserved": 18,
-        "available": 354,
+        "total_shows": 3,
+        "seats": 576,
+        "sold": 32,
+        "reserved": 41,
+        "available": 503,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 1,
-        "seats": 169,
-        "sold": 3,
-        "reserved": 8,
-        "available": 158,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "chitwan-cineplex",
-        "total_shows": 1,
-        "seats": 219,
-        "sold": 119,
-        "reserved": 0,
-        "available": 100,
-        "housefull": 0,
-        "fastfilling": 1
-      },
-      {
-        "venue": "cineroyale",
-        "total_shows": 1,
-        "seats": 217,
-        "sold": 162,
-        "reserved": 1,
-        "available": 54,
-        "housefull": 0,
-        "fastfilling": 1
-      },
-      {
-        "venue": "city-cinema",
-        "total_shows": 1,
-        "seats": 189,
-        "sold": 0,
-        "reserved": 2,
-        "available": 187,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "dm-cinemas",
-        "total_shows": 1,
-        "seats": 224,
-        "sold": 0,
-        "reserved": 0,
-        "available": 224,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "fcube",
-        "total_shows": 3,
-        "seats": 622,
-        "sold": 117,
-        "reserved": 17,
-        "available": 488,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "friends-cinema-butwal-royal-cine-hub",
-        "total_shows": 1,
-        "seats": 213,
-        "sold": 13,
-        "reserved": 0,
-        "available": 200,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "friends-cinemas-illam",
-        "total_shows": 1,
-        "seats": 188,
-        "sold": 10,
-        "reserved": 0,
-        "available": 178,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "infinity-movies",
         "total_shows": 2,
-        "seats": 362,
-        "sold": 21,
-        "reserved": 0,
-        "available": 341,
+        "seats": 338,
+        "sold": 17,
+        "reserved": 20,
+        "available": 301,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "ini-cinemas-nb-center",
+        "venue": "central-multiplex",
         "total_shows": 1,
-        "seats": 210,
-        "sold": 40,
-        "reserved": 2,
-        "available": 168,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 1,
-        "seats": 240,
-        "sold": 26,
-        "reserved": 0,
-        "available": 214,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-qbox-butwal",
-        "total_shows": 1,
-        "seats": 196,
-        "sold": 90,
-        "reserved": 0,
-        "available": 106,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "kirtipur-cineplex",
-        "total_shows": 1,
-        "seats": 285,
-        "sold": 52,
-        "reserved": 0,
-        "available": 233,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "omax-cinema",
-        "total_shows": 1,
-        "seats": 378,
-        "sold": 9,
-        "reserved": 32,
-        "available": 337,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "one-cinemas-kalimati",
-        "total_shows": 1,
-        "seats": 136,
-        "sold": 49,
-        "reserved": 0,
-        "available": 87,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "one-cinemas-new-baneshwor",
-        "total_shows": 3,
-        "seats": 478,
-        "sold": 89,
-        "reserved": 0,
-        "available": 389,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "pathivara-cine-plaza",
-        "total_shows": 1,
-        "seats": 268,
-        "sold": 7,
-        "reserved": 0,
-        "available": 261,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "pokhara-cineplex",
-        "total_shows": 1,
-        "seats": 231,
-        "sold": 38,
-        "reserved": 0,
-        "available": 193,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "qfx-bageshwori",
-        "total_shows": 1,
-        "seats": 290,
-        "sold": 92,
-        "reserved": 0,
+        "seats": 230,
+        "sold": 24,
+        "reserved": 8,
         "available": 198,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bhaktapur",
+        "venue": "chitwan-cineplex",
         "total_shows": 2,
-        "seats": 496,
-        "sold": 231,
-        "reserved": 25,
-        "available": 240,
+        "seats": 438,
+        "sold": 267,
+        "reserved": 6,
+        "available": 165,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 2,
+        "seats": 434,
+        "sold": 345,
+        "reserved": 1,
+        "available": 88,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 2,
+        "seats": 378,
+        "sold": 13,
+        "reserved": 4,
+        "available": 361,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dm-cinemas",
+        "total_shows": 2,
+        "seats": 448,
+        "sold": 2,
+        "reserved": 0,
+        "available": 446,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dmax-cinemas",
+        "total_shows": 1,
+        "seats": 204,
+        "sold": 38,
+        "reserved": 3,
+        "available": 163,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 63,
+        "reserved": 1,
+        "available": 150,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 4,
+        "seats": 834,
+        "sold": 166,
+        "reserved": 38,
+        "available": 630,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 2,
+        "seats": 426,
+        "sold": 55,
+        "reserved": 14,
+        "available": 357,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 20,
+        "reserved": 0,
+        "available": 194,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas-illam",
+        "total_shows": 2,
+        "seats": 376,
+        "sold": 19,
+        "reserved": 0,
+        "available": 357,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "gsf-cinema",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 3,
+        "available": 140,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 3,
+        "seats": 543,
+        "sold": 40,
+        "reserved": 11,
+        "available": 492,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 1,
+        "seats": 292,
+        "sold": 15,
+        "reserved": 0,
+        "available": 277,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-cinemas-nb-center",
+        "total_shows": 2,
+        "seats": 420,
+        "sold": 44,
+        "reserved": 2,
+        "available": 374,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 2,
+        "seats": 480,
+        "sold": 49,
+        "reserved": 11,
+        "available": 420,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 2,
+        "seats": 392,
+        "sold": 236,
+        "reserved": 17,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "ini-simara",
+        "total_shows": 1,
+        "seats": 199,
+        "sold": 7,
+        "reserved": 0,
+        "available": 192,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "jai-nepal-cinema",
+        "total_shows": 1,
+        "seats": 306,
+        "sold": 27,
+        "reserved": 13,
+        "available": 266,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kamal-binayak-cinemas",
+        "total_shows": 1,
+        "seats": 75,
+        "sold": 2,
+        "reserved": 0,
+        "available": 73,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 2,
+        "seats": 386,
+        "sold": 73,
+        "reserved": 13,
+        "available": 300,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 33,
+        "reserved": 62,
+        "available": 214,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 107,
+        "reserved": 8,
+        "available": 63,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 108,
+        "reserved": 3,
+        "available": 22,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "omax-cinema",
+        "total_shows": 2,
+        "seats": 756,
+        "sold": 52,
+        "reserved": 54,
+        "available": 650,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 2,
+        "seats": 272,
+        "sold": 105,
+        "reserved": 9,
+        "available": 158,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 686,
+        "sold": 207,
+        "reserved": 1,
+        "available": 478,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 2,
+        "seats": 536,
+        "sold": 12,
+        "reserved": 0,
+        "available": 524,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 3,
+        "seats": 915,
+        "sold": 151,
+        "reserved": 10,
+        "available": 754,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 38,
+        "reserved": 0,
+        "available": 202,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 2,
+        "seats": 578,
+        "sold": 162,
+        "reserved": 0,
+        "available": 416,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 4,
+        "seats": 991,
+        "sold": 382,
+        "reserved": 97,
+        "available": 512,
         "housefull": 0,
         "fastfilling": 1
       },
       {
         "venue": "qfx-butwal",
-        "total_shows": 1,
-        "seats": 196,
-        "sold": 124,
-        "reserved": 0,
-        "available": 72,
+        "total_shows": 3,
+        "seats": 568,
+        "sold": 409,
+        "reserved": 13,
+        "available": 146,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 3
       },
       {
         "venue": "qfx-chhaya",
@@ -282,11 +422,11 @@
       },
       {
         "venue": "qfx-cineflix-itahari",
-        "total_shows": 2,
-        "seats": 268,
-        "sold": 35,
-        "reserved": 0,
-        "available": 233,
+        "total_shows": 3,
+        "seats": 402,
+        "sold": 50,
+        "reserved": 1,
+        "available": 351,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -302,51 +442,111 @@
       },
       {
         "venue": "qfx-jalma",
-        "total_shows": 1,
-        "seats": 268,
-        "sold": 56,
+        "total_shows": 2,
+        "seats": 536,
+        "sold": 131,
         "reserved": 0,
-        "available": 212,
+        "available": 405,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-labim",
-        "total_shows": 1,
-        "seats": 183,
-        "sold": 160,
+        "total_shows": 2,
+        "seats": 366,
+        "sold": 320,
         "reserved": 0,
-        "available": 23,
+        "available": 46,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 3,
+        "seats": 409,
+        "sold": 158,
+        "reserved": 16,
+        "available": 235,
         "housefull": 0,
         "fastfilling": 1
       },
       {
-        "venue": "qfx-one-stop-mall",
+        "venue": "qfx-skyline",
         "total_shows": 1,
-        "seats": 138,
-        "sold": 52,
+        "seats": 132,
+        "sold": 71,
+        "reserved": 6,
+        "available": 55,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 3,
+        "seats": 519,
+        "sold": 219,
+        "reserved": 7,
+        "available": 293,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 36,
         "reserved": 0,
-        "available": 86,
+        "available": 146,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "qfx-square-mall",
+        "venue": "ranjana-cineplex",
         "total_shows": 2,
-        "seats": 342,
-        "sold": 97,
-        "reserved": 4,
-        "available": 241,
+        "seats": 502,
+        "sold": 47,
+        "reserved": 17,
+        "available": 438,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 0
       },
       {
-        "venue": "ranjana-cineplex",
+        "venue": "sk-cinemas",
         "total_shows": 1,
-        "seats": 251,
-        "sold": 21,
-        "reserved": 15,
-        "available": 215,
+        "seats": 258,
+        "sold": 32,
+        "reserved": 12,
+        "available": 214,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "sts-cinema",
+        "total_shows": 2,
+        "seats": 788,
+        "sold": 41,
+        "reserved": 18,
+        "available": 729,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 58,
+        "reserved": 2,
+        "available": 130,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 2,
+        "seats": 494,
+        "sold": 61,
+        "reserved": 5,
+        "available": 428,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -355,11 +555,11 @@
   {
     "movie_id": "Ju3AHGL3A48ZzpjGSGdsbA",
     "movie_name": "Billie Eilish: Hit Me Hard and Soft-The Tour",
-    "total_shows": 13,
-    "seats": 2260,
-    "sold": 297,
+    "total_shows": 16,
+    "seats": 2561,
+    "sold": 339,
     "reserved": 28,
-    "available": 1935,
+    "available": 2194,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -375,11 +575,11 @@
       },
       {
         "venue": "city-cinema",
-        "total_shows": 1,
-        "seats": 98,
-        "sold": 0,
+        "total_shows": 2,
+        "seats": 196,
+        "sold": 2,
         "reserved": 0,
-        "available": 98,
+        "available": 194,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -435,11 +635,11 @@
       },
       {
         "venue": "qfx-chhaya",
-        "total_shows": 1,
-        "seats": 150,
-        "sold": 7,
+        "total_shows": 2,
+        "seats": 300,
+        "sold": 47,
         "reserved": 0,
-        "available": 143,
+        "available": 253,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -450,6 +650,16 @@
         "sold": 46,
         "reserved": 1,
         "available": 212,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 0,
+        "reserved": 0,
+        "available": 53,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -498,21 +708,51 @@
   {
     "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
     "movie_name": "Pati Patni Aur Woh Do",
-    "total_shows": 20,
-    "seats": 4089,
-    "sold": 149,
-    "reserved": 74,
-    "available": 3866,
+    "total_shows": 39,
+    "seats": 7355,
+    "sold": 454,
+    "reserved": 165,
+    "available": 6736,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "big-movies",
+        "venue": "bamel-cinemas",
         "total_shows": 1,
-        "seats": 270,
-        "sold": 21,
-        "reserved": 25,
-        "available": 224,
+        "seats": 137,
+        "sold": 0,
+        "reserved": 0,
+        "available": 137,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "big-movies",
+        "total_shows": 2,
+        "seats": 540,
+        "sold": 61,
+        "reserved": 44,
+        "available": 435,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 122,
+        "sold": 0,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bishwojyoti-cineplex",
+        "total_shows": 1,
+        "seats": 89,
+        "sold": 0,
+        "reserved": 0,
+        "available": 89,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -528,31 +768,41 @@
       },
       {
         "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 229,
+        "sold": 3,
+        "reserved": 18,
+        "available": 208,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "central-multiplex",
         "total_shows": 1,
-        "seats": 60,
-        "sold": 1,
-        "reserved": 8,
-        "available": 51,
+        "seats": 230,
+        "sold": 5,
+        "reserved": 11,
+        "available": 214,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cineroyale",
-        "total_shows": 1,
-        "seats": 217,
-        "sold": 11,
-        "reserved": 0,
-        "available": 206,
+        "total_shows": 2,
+        "seats": 434,
+        "sold": 25,
+        "reserved": 2,
+        "available": 407,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "fcube",
-        "total_shows": 1,
-        "seats": 212,
-        "sold": 0,
-        "reserved": 17,
-        "available": 195,
+        "total_shows": 2,
+        "seats": 410,
+        "sold": 3,
+        "reserved": 44,
+        "available": 363,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -587,6 +837,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 18,
+        "reserved": 3,
+        "available": 175,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "kirtipur-cineplex",
         "total_shows": 1,
         "seats": 101,
@@ -597,32 +857,42 @@
         "fastfilling": 0
       },
       {
-        "venue": "one-cinemas-new-baneshwor",
+        "venue": "one-cinemas-kalimati",
         "total_shows": 1,
-        "seats": 203,
-        "sold": 13,
+        "seats": 151,
+        "sold": 24,
         "reserved": 0,
-        "available": 190,
+        "available": 127,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 406,
+        "sold": 29,
+        "reserved": 0,
+        "available": 377,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "pokhara-cineplex",
-        "total_shows": 1,
-        "seats": 342,
-        "sold": 3,
+        "total_shows": 2,
+        "seats": 573,
+        "sold": 4,
         "reserved": 0,
-        "available": 339,
+        "available": 569,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-bhaktapur",
-        "total_shows": 1,
-        "seats": 247,
-        "sold": 22,
-        "reserved": 2,
-        "available": 223,
+        "total_shows": 2,
+        "seats": 454,
+        "sold": 57,
+        "reserved": 17,
+        "available": 380,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -657,12 +927,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-labim",
+        "venue": "qfx-durbar",
         "total_shows": 1,
-        "seats": 180,
-        "sold": 38,
+        "seats": 51,
+        "sold": 4,
+        "reserved": 0,
+        "available": 47,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 362,
+        "sold": 87,
         "reserved": 2,
-        "available": 140,
+        "available": 273,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -677,22 +957,32 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-skyline",
+        "total_shows": 2,
+        "seats": 266,
+        "sold": 68,
+        "reserved": 4,
+        "available": 194,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "qfx-square-mall",
-        "total_shows": 1,
-        "seats": 165,
-        "sold": 6,
+        "total_shows": 2,
+        "seats": 330,
+        "sold": 13,
         "reserved": 0,
-        "available": 159,
+        "available": 317,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 1,
-        "seats": 182,
-        "sold": 0,
+        "total_shows": 2,
+        "seats": 364,
+        "sold": 19,
         "reserved": 0,
-        "available": 182,
+        "available": 345,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -711,11 +1001,11 @@
   {
     "movie_id": "U4zoKohWHiitMu75sAxbFF",
     "movie_name": "Malati Mangale",
-    "total_shows": 8,
-    "seats": 1521,
-    "sold": 155,
-    "reserved": 46,
-    "available": 1320,
+    "total_shows": 12,
+    "seats": 2392,
+    "sold": 287,
+    "reserved": 47,
+    "available": 2058,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -736,6 +1026,16 @@
         "sold": 13,
         "reserved": 0,
         "available": 76,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 65,
+        "reserved": 0,
+        "available": 145,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -766,6 +1066,36 @@
         "sold": 18,
         "reserved": 0,
         "available": 178,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-simara",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 15,
+        "reserved": 0,
+        "available": 103,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 1,
+        "seats": 258,
+        "sold": 21,
+        "reserved": 0,
+        "available": 237,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 285,
+        "sold": 31,
+        "reserved": 1,
+        "available": 253,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -804,14 +1134,24 @@
   {
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
-    "total_shows": 2,
-    "seats": 279,
-    "sold": 63,
-    "reserved": 0,
-    "available": 216,
+    "total_shows": 4,
+    "seats": 746,
+    "sold": 105,
+    "reserved": 8,
+    "available": 633,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 36,
+        "reserved": 0,
+        "available": 313,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-chhaya",
         "total_shows": 1,
@@ -831,17 +1171,27 @@
         "available": 92,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 6,
+        "reserved": 8,
+        "available": 104,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "trUCKctzSGWZY9iLmEX5SY",
     "movie_name": "Life Dyamage",
-    "total_shows": 22,
-    "seats": 3948,
-    "sold": 470,
-    "reserved": 43,
-    "available": 3435,
+    "total_shows": 31,
+    "seats": 5385,
+    "sold": 582,
+    "reserved": 54,
+    "available": 4749,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -862,6 +1212,16 @@
         "sold": 2,
         "reserved": 2,
         "available": 85,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 5,
+        "reserved": 0,
+        "available": 175,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -902,6 +1262,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 98,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "dmax-cinemas",
+        "total_shows": 1,
+        "seats": 130,
+        "sold": 58,
+        "reserved": 0,
+        "available": 72,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 2,
+        "reserved": 2,
+        "available": 150,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -956,6 +1336,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 3,
+        "reserved": 8,
+        "available": 161,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "oasis-cinema",
         "total_shows": 1,
         "seats": 133,
@@ -977,11 +1367,21 @@
       },
       {
         "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 275,
+        "sold": 37,
+        "reserved": 1,
+        "available": 237,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
         "total_shows": 1,
-        "seats": 208,
-        "sold": 20,
+        "seats": 190,
+        "sold": 0,
         "reserved": 0,
-        "available": 188,
+        "available": 190,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -992,6 +1392,26 @@
         "sold": 4,
         "reserved": 0,
         "available": 227,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-apex-mall",
+        "total_shows": 1,
+        "seats": 120,
+        "sold": 2,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 11,
+        "reserved": 0,
+        "available": 279,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1007,11 +1427,11 @@
       },
       {
         "venue": "qfx-cineflix-itahari",
-        "total_shows": 1,
-        "seats": 134,
-        "sold": 4,
+        "total_shows": 2,
+        "seats": 268,
+        "sold": 18,
         "reserved": 0,
-        "available": 130,
+        "available": 250,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1070,14 +1490,24 @@
   {
     "movie_id": "YPr9ZF5iG3RGL3AE5VjTfi",
     "movie_name": "Ek Mutthi Badal",
-    "total_shows": 18,
-    "seats": 3560,
-    "sold": 105,
-    "reserved": 17,
-    "available": 3438,
+    "total_shows": 25,
+    "seats": 4333,
+    "sold": 162,
+    "reserved": 26,
+    "available": 4145,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "bishwojyoti-cineplex",
         "total_shows": 1,
@@ -1085,6 +1515,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 201,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 2,
+        "reserved": 8,
+        "available": 50,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1115,6 +1555,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 189,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 3,
+        "reserved": 0,
+        "available": 140,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1189,6 +1639,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 136,
+        "sold": 2,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 1,
         "seats": 67,
@@ -1215,6 +1675,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 176,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 110,
+        "sold": 32,
+        "reserved": 1,
+        "available": 77,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 14,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1257,20 +1737,60 @@
         "available": 118,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 4,
+        "reserved": 0,
+        "available": 186,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "EV4uzZ3KYu6GMDAVK3uycY",
     "movie_name": "Paralko Aago",
-    "total_shows": 3,
-    "seats": 606,
-    "sold": 25,
-    "reserved": 1,
-    "available": 580,
+    "total_shows": 11,
+    "seats": 1973,
+    "sold": 163,
+    "reserved": 4,
+    "available": 1806,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 4,
+        "reserved": 0,
+        "available": 176,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "chitwan-cineplex",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 6,
+        "reserved": 0,
+        "available": 137,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-lotse-ktm",
+        "total_shows": 1,
+        "seats": 240,
+        "sold": 13,
+        "reserved": 0,
+        "available": 227,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "kirtipur-cineplex",
         "total_shows": 1,
@@ -1278,6 +1798,16 @@
         "sold": 10,
         "reserved": 0,
         "available": 91,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 171,
+        "sold": 25,
+        "reserved": 1,
+        "available": 145,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1292,12 +1822,42 @@
         "fastfilling": 0
       },
       {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 26,
+        "reserved": 0,
+        "available": 113,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 164,
+        "sold": 4,
+        "reserved": 0,
+        "available": 160,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "sk-cinemas",
         "total_shows": 1,
         "seats": 258,
         "sold": 0,
         "reserved": 1,
         "available": 257,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "vfx-cinemas",
+        "total_shows": 2,
+        "seats": 330,
+        "sold": 60,
+        "reserved": 2,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1339,11 +1899,11 @@
   {
     "movie_id": "sXcRvU5SWKdVk9e9ZZJTCC",
     "movie_name": "Krishnavataram",
-    "total_shows": 1,
-    "seats": 112,
-    "sold": 81,
-    "reserved": 0,
-    "available": 31,
+    "total_shows": 2,
+    "seats": 229,
+    "sold": 119,
+    "reserved": 5,
+    "available": 105,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -1356,20 +1916,50 @@
         "available": 31,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-skyline",
+        "total_shows": 1,
+        "seats": 117,
+        "sold": 38,
+        "reserved": 5,
+        "available": 74,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "xToQFjHfKS5uyo4F9uJmoL",
     "movie_name": "The Devil Wears Prada 2",
-    "total_shows": 1,
-    "seats": 129,
-    "sold": 15,
+    "total_shows": 3,
+    "seats": 362,
+    "sold": 88,
     "reserved": 4,
-    "available": 110,
+    "available": 270,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 7,
+        "reserved": 0,
+        "available": 46,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 66,
+        "reserved": 0,
+        "available": 114,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qs-cinemas",
         "total_shows": 1,
@@ -1377,6 +1967,52 @@
         "sold": 15,
         "reserved": 4,
         "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "UiB82iFPd63iHcjiGjhcXg",
+    "movie_name": "Bhooth Bangla",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 49,
+    "reserved": 17,
+    "available": 213,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 49,
+        "reserved": 17,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "aQWrEZXzxfbRCKcQhTNidH",
+    "movie_name": "Project Hail Mary",
+    "total_shows": 1,
+    "seats": 129,
+    "sold": 56,
+    "reserved": 3,
+    "available": 70,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 56,
+        "reserved": 3,
+        "available": 70,
         "housefull": 0,
         "fastfilling": 0
       }
