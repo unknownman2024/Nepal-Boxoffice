@@ -3,10 +3,10 @@
     "movie_id": "trUCKctzSGWZY9iLmEX5SY",
     "movie_name": "Life Dyamage",
     "total_shows": 22,
-    "seats": 4087,
-    "sold": 25,
+    "seats": 3828,
+    "sold": 21,
     "reserved": 33,
-    "available": 4029,
+    "available": 3774,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -101,12 +101,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-civil",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 259,
-        "sold": 4,
+        "seats": 0,
+        "sold": 0,
         "reserved": 0,
-        "available": 255,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -206,10 +206,10 @@
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
     "total_shows": 114,
-    "seats": 24673,
+    "seats": 24802,
     "sold": 137,
     "reserved": 201,
-    "available": 24335,
+    "available": 24464,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -315,11 +315,11 @@
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 1,
-        "seats": 182,
+        "total_shows": 2,
+        "seats": 311,
         "sold": 3,
         "reserved": 0,
-        "available": 179,
+        "available": 308,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -350,16 +350,6 @@
         "sold": 8,
         "reserved": 0,
         "available": 1591,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
