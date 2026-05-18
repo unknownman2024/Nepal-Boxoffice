@@ -1,7 +1,19 @@
 {
   "date": "20260519",
-  "lastUpdated": "09:34 PM, 18 May 2026",
+  "lastUpdated": "11:57 PM, 18 May 2026",
   "movies": {
+    "Top Gun: Maverick": {
+      "formats": {
+        "ET00000972": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 16800.0,
+          "sold": 14,
+          "totalSeats": 243
+        }
+      }
+    },
     "The Wife": {
       "formats": {
         "ET00005992": {
@@ -11,6 +23,18 @@
           "gross": 3750.0,
           "sold": 7,
           "totalSeats": 349
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 29,
+          "gross": 10450.0,
+          "sold": 19,
+          "totalSeats": 4740
         }
       }
     },
@@ -26,51 +50,15 @@
         }
       }
     },
-    "Top Gun: Maverick": {
-      "formats": {
-        "ET00000972": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 14400.0,
-          "sold": 12,
-          "totalSeats": 243
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 41,
-          "gross": 89600.0,
-          "sold": 112,
-          "totalSeats": 7899
-        }
-      }
-    },
     "Chandarege Wife": {
       "formats": {
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 52,
-          "gross": 38900.0,
-          "sold": 48,
+          "gross": 47200.0,
+          "sold": 62,
           "totalSeats": 10374
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 29,
-          "gross": 8650.0,
-          "sold": 15,
-          "totalSeats": 4740
         }
       }
     },
@@ -80,21 +68,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 91,
-          "gross": 386500.0,
-          "sold": 386,
+          "gross": 489450.0,
+          "sold": 502,
           "totalSeats": 16837
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 24700.0,
-          "sold": 33,
-          "totalSeats": 8914
         }
       }
     },
@@ -107,6 +83,54 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 1474
+        }
+      }
+    },
+    "Top Gun": {
+      "formats": {
+        "ET00006086": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 35800.0,
+          "sold": 24,
+          "totalSeats": 290
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 31200.0,
+          "sold": 39,
+          "totalSeats": 8914
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 255
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 50,
+          "gross": 833000.0,
+          "sold": 455,
+          "totalSeats": 8012
         }
       }
     },
@@ -128,33 +152,9 @@
           "format": "2D",
           "language": "English",
           "shows": 19,
-          "gross": 77800.0,
-          "sold": 39,
+          "gross": 82000.0,
+          "sold": 42,
           "totalSeats": 2503
-        }
-      }
-    },
-    "Top Gun": {
-      "formats": {
-        "ET00006086": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 35800.0,
-          "sold": 24,
-          "totalSeats": 290
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 255
         }
       }
     },
@@ -164,17 +164,41 @@
           "format": "3D",
           "language": "English",
           "shows": 1,
-          "gross": 1500.0,
-          "sold": 2,
+          "gross": 3750.0,
+          "sold": 5,
           "totalSeats": 92
         },
         "ET00006005": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 2200.0,
+          "sold": 2,
           "totalSeats": 99
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 41,
+          "gross": 94100.0,
+          "sold": 122,
+          "totalSeats": 7899
+        }
+      }
+    },
+    "Mortal Kombat II": {
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 17,
+          "gross": 32700.0,
+          "sold": 25,
+          "totalSeats": 2165
         }
       }
     },
@@ -190,27 +214,15 @@
         }
       }
     },
-    "Mortal Kombat II": {
+    "Lee Cronins The Mummy": {
       "formats": {
-        "ET00006056": {
+        "ET00006039": {
           "format": "2D",
           "language": "English",
-          "shows": 17,
+          "shows": 4,
           "gross": 30300.0,
-          "sold": 23,
-          "totalSeats": 2165
-        }
-      }
-    },
-    "Bhooth Bangla": {
-      "formats": {
-        "ET00006020": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 1300.0,
-          "sold": 2,
-          "totalSeats": 105
+          "sold": 15,
+          "totalSeats": 403
         }
       }
     },
@@ -222,6 +234,30 @@
           "shows": 1,
           "gross": 0.0,
           "sold": 0,
+          "totalSeats": 105
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 5100.0,
+          "sold": 5,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Bhooth Bangla": {
+      "formats": {
+        "ET00006020": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 1300.0,
+          "sold": 2,
           "totalSeats": 105
         }
       }
@@ -238,18 +274,6 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5100.0,
-          "sold": 5,
-          "totalSeats": 232
-        }
-      }
-    },
     "Sergeant Punchisoma": {
       "formats": {
         "ET00006047": {
@@ -259,30 +283,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 120
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 50,
-          "gross": 753850.0,
-          "sold": 400,
-          "totalSeats": 8012
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 30300.0,
-          "sold": 15,
-          "totalSeats": 403
         }
       }
     }
