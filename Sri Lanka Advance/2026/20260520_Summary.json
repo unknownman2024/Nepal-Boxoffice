@@ -1,16 +1,28 @@
 {
   "date": "20260520",
-  "lastUpdated": "04:06 PM, 19 May 2026",
+  "lastUpdated": "09:28 PM, 19 May 2026",
   "movies": {
-    "Sura Detuwo": {
+    "OIC Gadafi": {
       "formats": {
-        "ET00006009": {
+        "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 7,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 416
+          "shows": 55,
+          "gross": 26650.0,
+          "sold": 36,
+          "totalSeats": 9361
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 10600.0,
+          "sold": 12,
+          "totalSeats": 449
         }
       }
     },
@@ -26,27 +38,15 @@
         }
       }
     },
-    "OIC Gadafi": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00006051": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 55,
-          "gross": 15850.0,
-          "sold": 18,
-          "totalSeats": 9361
-        }
-      }
-    },
-    "Dharmayuddhaya 2": {
-      "formats": {
-        "ET00005975": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 2600.0,
-          "sold": 6,
-          "totalSeats": 4568
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 416
         }
       }
     },
@@ -56,8 +56,8 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 40,
-          "gross": 20800.0,
-          "sold": 25,
+          "gross": 29200.0,
+          "sold": 39,
           "totalSeats": 7814
         }
       }
@@ -68,9 +68,57 @@
           "format": "2D",
           "language": "English",
           "shows": 50,
-          "gross": 602400.0,
-          "sold": 293,
+          "gross": 726800.0,
+          "sold": 375,
           "totalSeats": 8079
+        }
+      }
+    },
+    "Chandarege Wife": {
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 52,
+          "gross": 48750.0,
+          "sold": 68,
+          "totalSeats": 10351
+        }
+      }
+    },
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 96,
+          "gross": 395900.0,
+          "sold": 374,
+          "totalSeats": 17588
+        }
+      }
+    },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 22600.0,
+          "sold": 19,
+          "totalSeats": 824
+        }
+      }
+    },
+    "Dharmayuddhaya 2": {
+      "formats": {
+        "ET00005975": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 5600.0,
+          "sold": 14,
+          "totalSeats": 4568
         }
       }
     },
@@ -86,75 +134,15 @@
         }
       }
     },
-    "Top Gun": {
-      "formats": {
-        "ET00006086": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 150
-        }
-      }
-    },
-    "Karuppu": {
-      "formats": {
-        "ET00006082": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 93,
-          "gross": 241050.0,
-          "sold": 179,
-          "totalSeats": 17075
-        }
-      }
-    },
-    "Chandarege Wife": {
-      "formats": {
-        "ET00006094": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 52,
-          "gross": 18250.0,
-          "sold": 26,
-          "totalSeats": 10351
-        }
-      }
-    },
     "The Devil Wears Prada 2": {
       "formats": {
         "ET00006057": {
           "format": "2D",
           "language": "English",
           "shows": 19,
-          "gross": 108400.0,
-          "sold": 61,
+          "gross": 139100.0,
+          "sold": 77,
           "totalSeats": 2376
-        }
-      }
-    },
-    "Mortal Kombat II": {
-      "formats": {
-        "ET00006056": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 32600.0,
-          "sold": 24,
-          "totalSeats": 2003
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 3,
-          "gross": 5000.0,
-          "sold": 5,
-          "totalSeats": 449
         }
       }
     },
@@ -178,30 +166,6 @@
         }
       }
     },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 20200.0,
-          "sold": 17,
-          "totalSeats": 824
-        }
-      }
-    },
-    "Kara": {
-      "formats": {
-        "ET00006042": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 1700.0,
-          "sold": 2,
-          "totalSeats": 1303
-        }
-      }
-    },
     "Project Hail Mary": {
       "formats": {
         "ET00006026": {
@@ -211,6 +175,42 @@
           "gross": 4750.0,
           "sold": 5,
           "totalSeats": 255
+        }
+      }
+    },
+    "Mortal Kombat II": {
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 16,
+          "gross": 36200.0,
+          "sold": 27,
+          "totalSeats": 2003
+        }
+      }
+    },
+    "Top Gun": {
+      "formats": {
+        "ET00006086": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 150
+        }
+      }
+    },
+    "Kara": {
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 8,
+          "gross": 1700.0,
+          "sold": 2,
+          "totalSeats": 1206
         }
       }
     },
@@ -226,18 +226,6 @@
         }
       }
     },
-    "Bhooth Bangla": {
-      "formats": {
-        "ET00006020": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 105
-        }
-      }
-    },
     "Ek Din": {
       "formats": {
         "ET00006076": {
@@ -250,27 +238,27 @@
         }
       }
     },
-    "The Super Mario Galaxy Movie": {
+    "Bhooth Bangla": {
       "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 1500.0,
-          "sold": 2,
-          "totalSeats": 232
+        "ET00006020": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105
         }
       }
     },
-    "Sergeant Punchisoma": {
+    "Lee Cronins The Mummy": {
       "formats": {
-        "ET00006047": {
+        "ET00006039": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 220
+          "language": "English",
+          "shows": 3,
+          "gross": 5200.0,
+          "sold": 4,
+          "totalSeats": 362
         }
       }
     },
@@ -286,15 +274,27 @@
         }
       }
     },
-    "Lee Cronins The Mummy": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006039": {
-          "format": "2D",
+        "ET00006030": {
+          "format": "3D",
           "language": "English",
-          "shows": 3,
-          "gross": 5200.0,
-          "sold": 4,
-          "totalSeats": 362
+          "shows": 2,
+          "gross": 5100.0,
+          "sold": 5,
+          "totalSeats": 232
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 220
         }
       }
     }
