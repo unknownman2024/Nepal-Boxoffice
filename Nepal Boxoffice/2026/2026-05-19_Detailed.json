@@ -1,5 +1,51 @@
 {
   "date": "2026-05-19",
-  "lastUpdated": "04:28 AM, 19 May 2026",
-  "shows": []
+  "lastUpdated": "05:43 AM, 19 May 2026",
+  "shows": [
+    {
+      "movie_id": "trUCKctzSGWZY9iLmEX5SY",
+      "movie_name": "Life Dyamage",
+      "show_id": "62734:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-05-19T08:30:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 9,
+      "reserved": 0,
+      "available": 270,
+      "gross": 1800,
+      "occupancy_percent": 3.23
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "62744:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-05-19T09:00:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 4,
+      "reserved": 0,
+      "available": 345,
+      "gross": 800,
+      "occupancy_percent": 1.15
+    },
+    {
+      "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
+      "movie_name": "Pati Patni Aur Woh Do",
+      "show_id": "62739:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-05-19T08:45:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 4,
+      "reserved": 0,
+      "available": 266,
+      "gross": 800,
+      "occupancy_percent": 1.48
+    }
+  ]
 }
