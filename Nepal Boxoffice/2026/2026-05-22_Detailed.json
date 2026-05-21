@@ -1,5 +1,51 @@
 {
   "date": "2026-05-22",
-  "lastUpdated": "02:55 AM, 22 May 2026",
-  "shows": []
+  "lastUpdated": "04:31 AM, 22 May 2026",
+  "shows": [
+    {
+      "movie_id": "YWLFS6YetivU9b5wvrbxs6",
+      "movie_name": "Kaji",
+      "show_id": "169336:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-05-22T07:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 99,
+      "reserved": 0,
+      "available": 40,
+      "gross": 20295,
+      "occupancy_percent": 71.22
+    },
+    {
+      "movie_id": "YWLFS6YetivU9b5wvrbxs6",
+      "movie_name": "Kaji",
+      "show_id": "65661:ini-qbox-butwal",
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-05-22T07:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 0,
+      "reserved": 0,
+      "available": 196,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "qBPPMjaSpccSUpSa6kEL2j",
+      "movie_name": "Star Wars: The Mandalorian and Grogu",
+      "show_id": "75269:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL B",
+      "date": "2026-05-22T07:45:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 0,
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
