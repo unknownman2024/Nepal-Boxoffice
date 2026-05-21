@@ -2,11 +2,11 @@
   {
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
-    "total_shows": 66,
-    "seats": 12658,
+    "total_shows": 69,
+    "seats": 13101,
     "sold": 151,
     "reserved": 112,
-    "available": 12395,
+    "available": 12838,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -309,17 +309,27 @@
         "available": 564,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 3,
+        "seats": 443,
+        "sold": 0,
+        "reserved": 0,
+        "available": 443,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "trUCKctzSGWZY9iLmEX5SY",
     "movie_name": "Life Dyamage",
-    "total_shows": 7,
-    "seats": 974,
+    "total_shows": 8,
+    "seats": 1113,
     "sold": 40,
     "reserved": 0,
-    "available": 934,
+    "available": 1073,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -380,6 +390,16 @@
         "sold": 4,
         "reserved": 0,
         "available": 255,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 0,
+        "reserved": 0,
+        "available": 139,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -682,10 +702,10 @@
     "movie_id": "KAiCisCSky5xvKVfJZRqbP",
     "movie_name": "Chand Mera Dil",
     "total_shows": 51,
-    "seats": 8564,
-    "sold": 45,
+    "seats": 8698,
+    "sold": 47,
     "reserved": 28,
-    "available": 8491,
+    "available": 8623,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -713,9 +733,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 2,
         "seats": 224,
-        "sold": 2,
+        "sold": 4,
         "reserved": 0,
-        "available": 222,
+        "available": 220,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -981,11 +1001,11 @@
       },
       {
         "venue": "qfx-cineflix-itahari",
-        "total_shows": 1,
-        "seats": 134,
+        "total_shows": 2,
+        "seats": 268,
         "sold": 0,
         "reserved": 0,
-        "available": 134,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -996,16 +1016,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 190,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1281,10 +1291,10 @@
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
     "total_shows": 96,
-    "seats": 20099,
+    "seats": 20219,
     "sold": 315,
     "reserved": 212,
-    "available": 19572,
+    "available": 19692,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1490,11 +1500,11 @@
       },
       {
         "venue": "ini-simara",
-        "total_shows": 2,
-        "seats": 317,
+        "total_shows": 3,
+        "seats": 435,
         "sold": 0,
         "reserved": 0,
-        "available": 317,
+        "available": 435,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1529,12 +1539,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-bageshwori",
-        "total_shows": 3,
-        "seats": 866,
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 866,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1545,6 +1555,16 @@
         "sold": 20,
         "reserved": 0,
         "available": 372,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 2,
+        "seats": 576,
+        "sold": 0,
+        "reserved": 0,
+        "available": 576,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1589,12 +1609,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
+        "venue": "ini-cinemas-devchuli",
+        "total_shows": 1,
+        "seats": 292,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 292,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1689,11 +1709,11 @@
   {
     "movie_id": "FmEC2Rk4gFM6wiGaWgXUpm",
     "movie_name": "Michael",
-    "total_shows": 5,
-    "seats": 643,
+    "total_shows": 6,
+    "seats": 782,
     "sold": 16,
     "reserved": 1,
-    "available": 626,
+    "available": 765,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1744,6 +1764,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 0,
+        "reserved": 0,
+        "available": 139,
         "housefull": 0,
         "fastfilling": 0
       }
