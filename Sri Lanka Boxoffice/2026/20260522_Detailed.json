@@ -1,6 +1,6 @@
 {
   "date": "20260522",
-  "lastUpdated": "08:01 PM, 22 May 2026",
+  "lastUpdated": "10:36 PM, 22 May 2026",
   "shows": [
     {
       "movie": "Michael",
@@ -3445,13 +3445,13 @@
       "sessionId": "2045",
       "time": "11:00 PM",
       "totalSeats": 319,
-      "available": 306,
-      "sold": 13,
-      "gross": 21450.0,
-      "occupancy": 4.08,
+      "available": 262,
+      "sold": 57,
+      "gross": 94050.0,
+      "occupancy": 17.87,
       "date": "20260522",
       "badData": false,
-      "minsLeft": 178
+      "minsLeft": 23
     },
     {
       "movie": "Karuppu",
@@ -3979,6 +3979,23 @@
       "date": "20260522",
       "badData": false,
       "minsLeft": 73
+    },
+    {
+      "movie": "Karuppu",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006082",
+      "venue": "Ram Cinemas: Wattala",
+      "sessionId": "9906",
+      "time": "11:30 PM",
+      "totalSeats": 152,
+      "available": 105,
+      "sold": 47,
+      "gross": 61100.0,
+      "occupancy": 30.92,
+      "date": "20260522",
+      "badData": false,
+      "minsLeft": 53
     }
   ],
   "autoCorrected": 23
