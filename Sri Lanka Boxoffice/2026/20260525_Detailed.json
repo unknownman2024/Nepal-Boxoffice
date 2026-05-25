@@ -1,6 +1,6 @@
 {
   "date": "20260525",
-  "lastUpdated": "09:17 PM, 25 May 2026",
+  "lastUpdated": "11:10 PM, 25 May 2026",
   "shows": [
     {
       "movie": "Sura Detuwo",
@@ -1633,6 +1633,23 @@
       "date": "20260525",
       "badData": false,
       "minsLeft": 34
+    },
+    {
+      "movie": "Karuppu",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006082",
+      "venue": "Ram Cinemas: Wattala",
+      "sessionId": "9959",
+      "time": "11:30 PM",
+      "totalSeats": 152,
+      "available": 148,
+      "sold": 4,
+      "gross": 4400.0,
+      "occupancy": 2.63,
+      "date": "20260525",
+      "badData": false,
+      "minsLeft": 19
     }
   ],
   "autoCorrected": 10
