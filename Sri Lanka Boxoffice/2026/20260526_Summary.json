@@ -1,25 +1,25 @@
 {
   "date": "20260526",
-  "lastUpdated": "02:08 PM, 26 May 2026",
+  "lastUpdated": "10:09 PM, 26 May 2026",
   "movies": {
     "Michael": {
-      "totalShows": 15,
-      "totalGross": 100300.0,
-      "totalSold": 70,
-      "totalSeats": 2330,
+      "totalShows": 17,
+      "totalGross": 156200.0,
+      "totalSold": 98,
+      "totalSeats": 2515,
       "formats": {
         "ET00006006": {
           "format": "2D",
           "language": "English",
-          "shows": 15,
-          "gross": 100300.0,
-          "sold": 70,
-          "totalSeats": 2330,
-          "fastfilling": 0,
+          "shows": 17,
+          "gross": 156200.0,
+          "sold": 98,
+          "totalSeats": 2515,
+          "fastfilling": 1,
           "housefull": 0
         }
       },
-      "globalOccupancy": 3.0
+      "globalOccupancy": 3.9
     },
     "The Wife": {
       "totalShows": 1,
@@ -191,6 +191,44 @@
         }
       },
       "globalOccupancy": 1.69
+    },
+    "Karuppu": {
+      "totalShows": 3,
+      "totalGross": 62100.0,
+      "totalSold": 54,
+      "totalSeats": 823,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 62100.0,
+          "sold": 54,
+          "totalSeats": 823,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.56
+    },
+    "Kara": {
+      "totalShows": 1,
+      "totalGross": 4550.0,
+      "totalSold": 7,
+      "totalSeats": 105,
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 4550.0,
+          "sold": 7,
+          "totalSeats": 105,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.67
     }
   }
 }
