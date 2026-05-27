@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+    "movie_name": "Lalibazar",
+    "total_shows": 1,
+    "seats": 177,
+    "sold": 30,
+    "reserved": 0,
+    "available": 147,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 30,
+        "reserved": 0,
+        "available": 147,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
