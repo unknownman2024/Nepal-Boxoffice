@@ -1,6 +1,6 @@
 {
   "date": "20260528",
-  "lastUpdated": "05:53 PM, 28 May 2026",
+  "lastUpdated": "10:22 PM, 28 May 2026",
   "shows": [
     {
       "movie": "OIC Gadafi",
@@ -4897,6 +4897,74 @@
       "date": "20260528",
       "badData": false,
       "minsLeft": 36
+    },
+    {
+      "movie": "Karuppu",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006082",
+      "venue": "PVR Cinema: One Galle Face Mall",
+      "sessionId": "2345",
+      "time": "10:45 PM",
+      "totalSeats": 319,
+      "available": 222,
+      "sold": 97,
+      "gross": 121250.0,
+      "occupancy": 30.41,
+      "date": "20260528",
+      "badData": false,
+      "minsLeft": 22
+    },
+    {
+      "movie": "Karuppu",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006082",
+      "venue": "Ram Cinemas: Wattala",
+      "sessionId": "10007",
+      "time": "11:30 PM",
+      "totalSeats": 152,
+      "available": 123,
+      "sold": 29,
+      "gross": 31900.0,
+      "occupancy": 19.08,
+      "date": "20260528",
+      "badData": false,
+      "minsLeft": 67
+    },
+    {
+      "movie": "Blast",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006098",
+      "venue": "PVR Cinema: One Galle Face Mall",
+      "sessionId": "2377",
+      "time": "10:35 PM",
+      "totalSeats": 143,
+      "available": 97,
+      "sold": 46,
+      "gross": 71300.0,
+      "occupancy": 32.17,
+      "date": "20260528",
+      "badData": false,
+      "minsLeft": 12
+    },
+    {
+      "movie": "Michael",
+      "format": "2D",
+      "language": "English",
+      "eventCode": "ET00006006",
+      "venue": "PVR Cinema: One Galle Face Mall",
+      "sessionId": "2246",
+      "time": "10:30 PM",
+      "totalSeats": 41,
+      "available": 27,
+      "sold": 14,
+      "gross": 30800.0,
+      "occupancy": 34.15,
+      "date": "20260528",
+      "badData": false,
+      "minsLeft": 7
     }
   ],
   "autoCorrected": 20
