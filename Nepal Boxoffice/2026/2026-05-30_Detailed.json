@@ -1,5 +1,51 @@
 {
   "date": "2026-05-30",
-  "lastUpdated": "01:50 AM, 30 May 2026",
-  "shows": []
+  "lastUpdated": "03:58 AM, 30 May 2026",
+  "shows": [
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "170436:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-05-30T07:15:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 21,
+      "reserved": 0,
+      "available": 118,
+      "gross": 4305,
+      "occupancy_percent": 15.11
+    },
+    {
+      "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
+      "movie_name": "Passenger",
+      "show_id": "170408:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-05-30T07:15:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 11,
+      "reserved": 0,
+      "available": 118,
+      "gross": 2805,
+      "occupancy_percent": 8.53
+    },
+    {
+      "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
+      "movie_name": "Passenger",
+      "show_id": "170420:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-05-30T07:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 2,
+      "reserved": 0,
+      "available": 163,
+      "gross": 410,
+      "occupancy_percent": 1.21
+    }
+  ]
 }
