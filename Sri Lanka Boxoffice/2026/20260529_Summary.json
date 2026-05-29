@@ -1,5 +1,158 @@
 {
   "date": "20260529",
-  "lastUpdated": "04:42 AM, 29 May 2026",
-  "movies": {}
+  "lastUpdated": "08:21 AM, 29 May 2026",
+  "movies": {
+    "Sura Detuwo": {
+      "totalShows": 2,
+      "totalGross": 0,
+      "totalSold": 0,
+      "totalSeats": 0,
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0,
+          "sold": 0,
+          "totalSeats": 0,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0
+    },
+    "Karuppu": {
+      "totalShows": 12,
+      "totalGross": 97550.0,
+      "totalSold": 80,
+      "totalSeats": 2492,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 12,
+          "gross": 97550.0,
+          "sold": 80,
+          "totalSeats": 2492,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.21
+    },
+    "Blast": {
+      "totalShows": 7,
+      "totalGross": 2100.0,
+      "totalSold": 2,
+      "totalSeats": 883,
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 7,
+          "gross": 2100.0,
+          "sold": 2,
+          "totalSeats": 883,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.23
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "totalShows": 3,
+      "totalGross": 19050.0,
+      "totalSold": 8,
+      "totalSeats": 574,
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 3,
+          "gross": 19050.0,
+          "sold": 8,
+          "totalSeats": 574,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.39
+    },
+    "Riverstone": {
+      "totalShows": 10,
+      "totalGross": 20200.0,
+      "totalSold": 27,
+      "totalSeats": 1448,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 20200.0,
+          "sold": 27,
+          "totalSeats": 1448,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.86
+    },
+    "Michael": {
+      "totalShows": 8,
+      "totalGross": 151800.0,
+      "totalSold": 84,
+      "totalSeats": 1116,
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 8,
+          "gross": 151800.0,
+          "sold": 84,
+          "totalSeats": 1116,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 7.53
+    },
+    "The Devil Wears Prada 2": {
+      "totalShows": 2,
+      "totalGross": 15400.0,
+      "totalSold": 11,
+      "totalSeats": 220,
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 15400.0,
+          "sold": 11,
+          "totalSeats": 220,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 5.0
+    },
+    "Passenger": {
+      "totalShows": 2,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 243,
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 243,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    }
+  }
 }
