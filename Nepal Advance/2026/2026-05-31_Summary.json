@@ -2,11 +2,11 @@
   {
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
-    "total_shows": 8,
-    "seats": 1478,
-    "sold": 0,
+    "total_shows": 9,
+    "seats": 1686,
+    "sold": 17,
     "reserved": 10,
-    "available": 1468,
+    "available": 1659,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -89,17 +89,27 @@
         "available": 248,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 17,
+        "reserved": 0,
+        "available": 191,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 75,
-    "seats": 16638,
-    "sold": 25,
+    "total_shows": 79,
+    "seats": 17450,
+    "sold": 103,
     "reserved": 46,
-    "available": 16567,
+    "available": 17301,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -107,9 +117,9 @@
         "venue": "ini-lotse-ktm",
         "total_shows": 4,
         "seats": 960,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 960,
+        "available": 956,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -187,9 +197,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 6,
         "seats": 1402,
-        "sold": 5,
+        "sold": 9,
         "reserved": 0,
-        "available": 1397,
+        "available": 1393,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -297,9 +307,9 @@
         "venue": "qfx-bageshwori",
         "total_shows": 2,
         "seats": 580,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 580,
+        "available": 578,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -352,17 +362,27 @@
         "available": 244,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 812,
+        "sold": 68,
+        "reserved": 0,
+        "available": 744,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
     "movie_name": "Passenger",
-    "total_shows": 22,
-    "seats": 3880,
-    "sold": 6,
+    "total_shows": 23,
+    "seats": 3707,
+    "sold": 12,
     "reserved": 10,
-    "available": 3864,
+    "available": 3685,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -437,12 +457,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 240,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -545,17 +565,27 @@
         "available": 138,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 61,
-    "seats": 11686,
-    "sold": 19,
-    "reserved": 20,
-    "available": 11647,
+    "total_shows": 65,
+    "seats": 12518,
+    "sold": 88,
+    "reserved": 27,
+    "available": 12403,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -594,8 +624,8 @@
         "total_shows": 3,
         "seats": 720,
         "sold": 0,
-        "reserved": 0,
-        "available": 720,
+        "reserved": 1,
+        "available": 719,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -663,9 +693,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 4,
         "seats": 869,
-        "sold": 2,
-        "reserved": 0,
-        "available": 867,
+        "sold": 3,
+        "reserved": 6,
+        "available": 860,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -828,17 +858,27 @@
         "available": 244,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 832,
+        "sold": 68,
+        "reserved": 0,
+        "available": 764,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "CHVosr9qWALLCSPt2Boq9T",
     "movie_name": "Shape of Momo",
-    "total_shows": 6,
-    "seats": 991,
-    "sold": 0,
+    "total_shows": 7,
+    "seats": 1058,
+    "sold": 8,
     "reserved": 0,
-    "available": 991,
+    "available": 1050,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -876,9 +916,9 @@
         "venue": "qs-cinemas",
         "total_shows": 1,
         "seats": 129,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 129,
+        "available": 127,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -901,17 +941,27 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 26,
-    "seats": 5281,
-    "sold": 0,
+    "total_shows": 27,
+    "seats": 5484,
+    "sold": 17,
     "reserved": 10,
-    "available": 5271,
+    "available": 5457,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1094,17 +1144,27 @@
         "available": 292,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 17,
+        "reserved": 0,
+        "available": 186,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "3sLzjWvFEpbTyJ8oP67Yvm",
     "movie_name": "Kumbh",
-    "total_shows": 2,
-    "seats": 207,
-    "sold": 0,
+    "total_shows": 3,
+    "seats": 274,
+    "sold": 6,
     "reserved": 0,
-    "available": 207,
+    "available": 268,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1127,17 +1187,27 @@
         "available": 118,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "trUCKctzSGWZY9iLmEX5SY",
     "movie_name": "Life Dyamage",
-    "total_shows": 1,
-    "seats": 129,
-    "sold": 0,
-    "reserved": 0,
-    "available": 129,
+    "total_shows": 2,
+    "seats": 196,
+    "sold": 6,
+    "reserved": 2,
+    "available": 188,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1146,8 +1216,18 @@
         "total_shows": 1,
         "seats": 129,
         "sold": 0,
+        "reserved": 2,
+        "available": 127,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
         "reserved": 0,
-        "available": 129,
+        "available": 61,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1268,11 +1348,11 @@
   {
     "movie_id": "KAiCisCSky5xvKVfJZRqbP",
     "movie_name": "Chand Mera Dil",
-    "total_shows": 10,
-    "seats": 1625,
-    "sold": 9,
+    "total_shows": 11,
+    "seats": 1692,
+    "sold": 16,
     "reserved": 10,
-    "available": 1606,
+    "available": 1666,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1300,9 +1380,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 180,
-        "sold": 2,
+        "sold": 3,
         "reserved": 0,
-        "available": 178,
+        "available": 177,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1365,17 +1445,27 @@
         "available": 246,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "p6ERyMjcHrydTy2n2XN5CM",
     "movie_name": "Pati Patni Aur Woh Do",
-    "total_shows": 7,
-    "seats": 953,
-    "sold": 0,
+    "total_shows": 8,
+    "seats": 1020,
+    "sold": 6,
     "reserved": 0,
-    "available": 953,
+    "available": 1014,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1426,6 +1516,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 288,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
         "housefull": 0,
         "fastfilling": 0
       }
