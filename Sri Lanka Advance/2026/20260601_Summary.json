@@ -1,16 +1,40 @@
 {
   "date": "20260601",
-  "lastUpdated": "07:49 PM, 31 May 2026",
+  "lastUpdated": "11:26 PM, 31 May 2026",
   "movies": {
-    "OIC Gadafi": {
+    "Sura Detuwo": {
       "formats": {
-        "ET00006051": {
+        "ET00006009": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 47,
-          "gross": 26700.0,
-          "sold": 32,
-          "totalSeats": 10196
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 416
+        }
+      }
+    },
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 57,
+          "gross": 180600.0,
+          "sold": 148,
+          "totalSeats": 11114
+        }
+      }
+    },
+    "Chandarege Wife": {
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 50,
+          "gross": 33100.0,
+          "sold": 51,
+          "totalSeats": 9394
         }
       }
     },
@@ -26,15 +50,39 @@
         }
       }
     },
-    "Karuppu": {
+    "Michael": {
       "formats": {
-        "ET00006082": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 44,
+          "gross": 441650.0,
+          "sold": 275,
+          "totalSeats": 6060
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 56,
+          "gross": 36400.0,
+          "sold": 45,
+          "totalSeats": 10196
+        }
+      }
+    },
+    "Blast": {
+      "formats": {
+        "ET00006098": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 56,
-          "gross": 148850.0,
-          "sold": 116,
-          "totalSeats": 11114
+          "shows": 35,
+          "gross": 62000.0,
+          "sold": 54,
+          "totalSeats": 5696
         }
       }
     },
@@ -43,46 +91,10 @@
         "ET00006048": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 42,
-          "gross": 19900.0,
-          "sold": 35,
+          "shows": 47,
+          "gross": 21900.0,
+          "sold": 38,
           "totalSeats": 8756
-        }
-      }
-    },
-    "Chandarege Wife": {
-      "formats": {
-        "ET00006094": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 22700.0,
-          "sold": 36,
-          "totalSeats": 9253
-        }
-      }
-    },
-    "Sura Detuwo": {
-      "formats": {
-        "ET00006009": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 416
-        }
-      }
-    },
-    "Giniyam Yamaya": {
-      "formats": {
-        "ET00006096": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 217
         }
       }
     },
@@ -98,51 +110,15 @@
         }
       }
     },
-    "Michael": {
+    "Giniyam Yamaya": {
       "formats": {
-        "ET00006006": {
+        "ET00006096": {
           "format": "2D",
-          "language": "English",
-          "shows": 42,
-          "gross": 385650.0,
-          "sold": 237,
-          "totalSeats": 6060
-        }
-      }
-    },
-    "Blast": {
-      "formats": {
-        "ET00006098": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 35,
-          "gross": 47600.0,
-          "sold": 41,
-          "totalSeats": 5696
-        }
-      }
-    },
-    "Mortal Kombat II": {
-      "formats": {
-        "ET00006056": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 2200.0,
-          "sold": 2,
-          "totalSeats": 613
-        }
-      }
-    },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 7,
-          "gross": 33700.0,
-          "sold": 30,
-          "totalSeats": 766
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 217
         }
       }
     },
@@ -152,8 +128,8 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 16350.0,
-          "sold": 15,
+          "gross": 18550.0,
+          "sold": 17,
           "totalSeats": 255
         }
       }
@@ -164,9 +140,21 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 62000.0,
-          "sold": 37,
+          "gross": 75700.0,
+          "sold": 46,
           "totalSeats": 1432
+        }
+      }
+    },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 45500.0,
+          "sold": 40,
+          "totalSeats": 766
         }
       }
     },
@@ -175,22 +163,10 @@
         "ET00006093": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 5,
+          "shows": 4,
           "gross": 3900.0,
           "sold": 6,
-          "totalSeats": 730
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 9000.0,
-          "sold": 12,
-          "totalSeats": 92
+          "totalSeats": 589
         }
       }
     },
@@ -206,15 +182,27 @@
         }
       }
     },
-    "Star Wars: The Mandalorian and Grogu": {
+    "Hoppers": {
       "formats": {
-        "ET00006097": {
+        "ET00006008": {
           "format": "3D",
           "language": "English",
-          "shows": 21,
-          "gross": 17250.0,
-          "sold": 23,
-          "totalSeats": 3698
+          "shows": 1,
+          "gross": 12000.0,
+          "sold": 16,
+          "totalSeats": 92
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 12500.0,
+          "sold": 12,
+          "totalSeats": 232
         }
       }
     },
@@ -230,27 +218,15 @@
         }
       }
     },
-    "Sergeant Punchisoma": {
+    "Mortal Kombat II": {
       "formats": {
-        "ET00006047": {
+        "ET00006056": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 254
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 7000.0,
-          "sold": 7,
-          "totalSeats": 232
+          "shows": 5,
+          "gross": 4400.0,
+          "sold": 4,
+          "totalSeats": 613
         }
       }
     },
@@ -263,6 +239,30 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 130
+        }
+      }
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 21,
+          "gross": 24650.0,
+          "sold": 27,
+          "totalSeats": 3698
+        }
+      }
+    },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 254
         }
       }
     }
