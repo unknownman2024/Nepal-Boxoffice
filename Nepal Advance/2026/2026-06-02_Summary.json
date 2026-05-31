@@ -339,10 +339,10 @@
     "movie_id": "bTtVY5HH2MGxfTuqshRt4G",
     "movie_name": "Passenger",
     "total_shows": 20,
-    "seats": 3339,
-    "sold": 24,
+    "seats": 2922,
+    "sold": 22,
     "reserved": 35,
-    "available": 3280,
+    "available": 2865,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -367,12 +367,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 1,
-        "seats": 240,
+        "venue": "Unknown",
+        "total_shows": 2,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 240,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -393,16 +393,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 180,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 1,
-        "seats": 177,
-        "sold": 2,
-        "reserved": 0,
-        "available": 175,
         "housefull": 0,
         "fastfilling": 0
       },
