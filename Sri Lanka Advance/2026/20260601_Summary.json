@@ -1,6 +1,6 @@
 {
   "date": "20260601",
-  "lastUpdated": "11:19 AM, 31 May 2026",
+  "lastUpdated": "03:16 PM, 31 May 2026",
   "movies": {
     "The Wife": {
       "formats": {
@@ -11,18 +11,6 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 372
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 41,
-          "gross": 209350.0,
-          "sold": 121,
-          "totalSeats": 5908
         }
       }
     },
@@ -38,15 +26,15 @@
         }
       }
     },
-    "OIC Gadafi": {
+    "Karuppu": {
       "formats": {
-        "ET00006051": {
+        "ET00006082": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 48,
-          "gross": 8800.0,
-          "sold": 14,
-          "totalSeats": 10350
+          "language": "Tamil",
+          "shows": 56,
+          "gross": 115700.0,
+          "sold": 83,
+          "totalSeats": 11114
         }
       }
     },
@@ -56,21 +44,33 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 34,
-          "gross": 26400.0,
-          "sold": 17,
+          "gross": 30750.0,
+          "sold": 21,
           "totalSeats": 5542
         }
       }
     },
-    "Karuppu": {
+    "Chandarege Wife": {
       "formats": {
-        "ET00006082": {
+        "ET00006094": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 56,
-          "gross": 84500.0,
-          "sold": 60,
-          "totalSeats": 11114
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 21700.0,
+          "sold": 34,
+          "totalSeats": 9253
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 42,
+          "gross": 13700.0,
+          "sold": 23,
+          "totalSeats": 8756
         }
       }
     },
@@ -80,9 +80,21 @@
           "format": "2D",
           "language": "English",
           "shows": 12,
-          "gross": 25750.0,
-          "sold": 16,
+          "gross": 42350.0,
+          "sold": 27,
           "totalSeats": 1432
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 48,
+          "gross": 19700.0,
+          "sold": 24,
+          "totalSeats": 10350
         }
       }
     },
@@ -103,22 +115,10 @@
         "ET00006099": {
           "format": "2D",
           "language": "English",
-          "shows": 14,
-          "gross": 19850.0,
-          "sold": 12,
-          "totalSeats": 1800
-        }
-      }
-    },
-    "Lee Cronins The Mummy": {
-      "formats": {
-        "ET00006039": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 264
+          "shows": 15,
+          "gross": 27550.0,
+          "sold": 19,
+          "totalSeats": 1954
         }
       }
     },
@@ -127,46 +127,10 @@
         "ET00006097": {
           "format": "3D",
           "language": "English",
-          "shows": 22,
-          "gross": 14250.0,
-          "sold": 17,
-          "totalSeats": 3850
-        }
-      }
-    },
-    " Father": {
-      "formats": {
-        "ET00005963": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 130
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 42,
-          "gross": 5400.0,
-          "sold": 12,
-          "totalSeats": 8756
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 9000.0,
-          "sold": 12,
-          "totalSeats": 92
+          "shows": 21,
+          "gross": 15250.0,
+          "sold": 19,
+          "totalSeats": 3698
         }
       }
     },
@@ -176,21 +140,21 @@
           "format": "2D",
           "language": "English",
           "shows": 2,
-          "gross": 9750.0,
-          "sold": 9,
+          "gross": 16350.0,
+          "sold": 15,
           "totalSeats": 255
         }
       }
     },
-    "The Sheep Detectives": {
+    "Michael": {
       "formats": {
-        "ET00006062": {
+        "ET00006006": {
           "format": "2D",
           "language": "English",
-          "shows": 7,
-          "gross": 16100.0,
-          "sold": 14,
-          "totalSeats": 766
+          "shows": 42,
+          "gross": 282450.0,
+          "sold": 172,
+          "totalSeats": 6060
         }
       }
     },
@@ -206,15 +170,51 @@
         }
       }
     },
-    "Sergeant Punchisoma": {
+    "Chand Mera Dil": {
       "formats": {
-        "ET00006047": {
+        "ET00006093": {
           "format": "2D",
-          "language": "Sinhala",
+          "language": "Hindi",
+          "shows": 5,
+          "gross": 3900.0,
+          "sold": 6,
+          "totalSeats": 730
+        }
+      }
+    },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 7,
+          "gross": 23800.0,
+          "sold": 21,
+          "totalSeats": 766
+        }
+      }
+    },
+    "Kara": {
+      "formats": {
+        "ET00006042": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105
+        }
+      }
+    },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
           "shows": 2,
           "gross": 0.0,
           "sold": 0,
-          "totalSeats": 254
+          "totalSeats": 264
         }
       }
     },
@@ -230,15 +230,39 @@
         }
       }
     },
-    "Chand Mera Dil": {
+    "Sergeant Punchisoma": {
       "formats": {
-        "ET00006093": {
+        "ET00006047": {
           "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
-          "gross": 3900.0,
-          "sold": 6,
-          "totalSeats": 730
+          "language": "Sinhala",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 254
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 9000.0,
+          "sold": 12,
+          "totalSeats": 92
+        }
+      }
+    },
+    " Father": {
+      "formats": {
+        "ET00005963": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 130
         }
       }
     }
