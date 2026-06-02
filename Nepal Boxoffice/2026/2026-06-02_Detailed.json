@@ -1,5 +1,36 @@
 {
   "date": "2026-06-02",
-  "lastUpdated": "04:30 AM, 02 June 2026",
-  "shows": []
+  "lastUpdated": "05:51 AM, 02 June 2026",
+  "shows": [
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "143461:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-06-02T09:00:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 6,
+      "available": 54,
+      "gross": 2400,
+      "occupancy_percent": 10.0
+    },
+    {
+      "movie_id": "YWLFS6YetivU9b5wvrbxs6",
+      "movie_name": "Kaji",
+      "show_id": "5095:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-06-02T08:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
