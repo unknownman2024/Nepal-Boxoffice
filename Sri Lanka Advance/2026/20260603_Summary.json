@@ -1,6 +1,6 @@
 {
   "date": "20260603",
-  "lastUpdated": "04:45 PM, 02 June 2026",
+  "lastUpdated": "10:34 PM, 02 June 2026",
   "movies": {
     "Sura Detuwo": {
       "formats": {
@@ -11,6 +11,18 @@
           "gross": 0.0,
           "sold": 0,
           "totalSeats": 416
+        }
+      }
+    },
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 60,
+          "gross": 123950.0,
+          "sold": 104,
+          "totalSeats": 11371
         }
       }
     },
@@ -26,27 +38,15 @@
         }
       }
     },
-    "Karuppu": {
-      "formats": {
-        "ET00006082": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 61,
-          "gross": 94700.0,
-          "sold": 71,
-          "totalSeats": 11470
-        }
-      }
-    },
     "OIC Gadafi": {
       "formats": {
         "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 58,
-          "gross": 8800.0,
-          "sold": 14,
-          "totalSeats": 10327
+          "gross": 19700.0,
+          "sold": 26,
+          "totalSeats": 10466
         }
       }
     },
@@ -56,9 +56,45 @@
           "format": "2D",
           "language": "English",
           "shows": 43,
-          "gross": 287700.0,
-          "sold": 151,
+          "gross": 340850.0,
+          "sold": 194,
           "totalSeats": 5997
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 44,
+          "gross": 15050.0,
+          "sold": 27,
+          "totalSeats": 8156
+        }
+      }
+    },
+    "Chandarege Wife": {
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 53,
+          "gross": 21700.0,
+          "sold": 41,
+          "totalSeats": 9535
+        }
+      }
+    },
+    "Passenger": {
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 15,
+          "gross": 24250.0,
+          "sold": 15,
+          "totalSeats": 1919
         }
       }
     },
@@ -68,21 +104,33 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 37,
-          "gross": 26000.0,
-          "sold": 19,
+          "gross": 42150.0,
+          "sold": 36,
           "totalSeats": 6014
         }
       }
     },
-    "Chandarege Wife": {
+    "The Devil Wears Prada 2": {
       "formats": {
-        "ET00006094": {
+        "ET00006057": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 54,
-          "gross": 17800.0,
-          "sold": 28,
-          "totalSeats": 9634
+          "language": "English",
+          "shows": 10,
+          "gross": 24650.0,
+          "sold": 15,
+          "totalSeats": 1155
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 7550.0,
+          "sold": 7,
+          "totalSeats": 255
         }
       }
     },
@@ -98,63 +146,15 @@
         }
       }
     },
-    "Mortal Kombat II": {
+    "The Sheep Detectives": {
       "formats": {
-        "ET00006056": {
+        "ET00006062": {
           "format": "2D",
           "language": "English",
-          "shows": 5,
-          "gross": 1200.0,
-          "sold": 1,
-          "totalSeats": 613
-        }
-      }
-    },
-    "Passenger": {
-      "formats": {
-        "ET00006099": {
-          "format": "2D",
-          "language": "English",
-          "shows": 16,
-          "gross": 22050.0,
-          "sold": 13,
-          "totalSeats": 2018
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 46,
-          "gross": 12350.0,
-          "sold": 18,
-          "totalSeats": 8493
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 2,
-          "gross": 5350.0,
-          "sold": 5,
-          "totalSeats": 255
-        }
-      }
-    },
-    "The Devil Wears Prada 2": {
-      "formats": {
-        "ET00006057": {
-          "format": "2D",
-          "language": "English",
-          "shows": 11,
-          "gross": 21650.0,
-          "sold": 13,
-          "totalSeats": 1254
+          "shows": 6,
+          "gross": 11200.0,
+          "sold": 10,
+          "totalSeats": 645
         }
       }
     },
@@ -164,57 +164,41 @@
           "format": "3D",
           "language": "English",
           "shows": 19,
-          "gross": 6650.0,
-          "sold": 7,
+          "gross": 10850.0,
+          "sold": 13,
           "totalSeats": 3272
         }
       }
     },
-    "The Sheep Detectives": {
+    "He - Man and The Masters of the Universe": {
       "formats": {
-        "ET00006062": {
+        "ET00006071": {
           "format": "2D",
           "language": "English",
-          "shows": 6,
-          "gross": 6600.0,
-          "sold": 6,
-          "totalSeats": 645
+          "shows": 1,
+          "gross": 70200.0,
+          "sold": 39,
+          "totalSeats": 200
+        },
+        "ET00006100": {
+          "format": "IMAX 2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 201400.0,
+          "sold": 53,
+          "totalSeats": 305
         }
       }
     },
-    "Kara": {
+    "Mortal Kombat II": {
       "formats": {
-        "ET00006042": {
+        "ET00006056": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 105
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 1500.0,
-          "sold": 2,
-          "totalSeats": 232
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 3000.0,
-          "sold": 4,
-          "totalSeats": 92
+          "shows": 5,
+          "gross": 1200.0,
+          "sold": 1,
+          "totalSeats": 613
         }
       }
     },
@@ -230,15 +214,15 @@
         }
       }
     },
-    "Lee Cronins The Mummy": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006039": {
-          "format": "2D",
+        "ET00006030": {
+          "format": "3D",
           "language": "English",
           "shows": 2,
-          "gross": 6000.0,
-          "sold": 5,
-          "totalSeats": 264
+          "gross": 1500.0,
+          "sold": 2,
+          "totalSeats": 232
         }
       }
     },
@@ -266,6 +250,30 @@
         }
       }
     },
+    "Lee Cronins The Mummy": {
+      "formats": {
+        "ET00006039": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6000.0,
+          "sold": 5,
+          "totalSeats": 264
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4500.0,
+          "sold": 6,
+          "totalSeats": 92
+        }
+      }
+    },
     "Sergeant Punchisoma": {
       "formats": {
         "ET00006047": {
@@ -278,23 +286,15 @@
         }
       }
     },
-    "He - Man and The Masters of the Universe": {
+    "Kara": {
       "formats": {
-        "ET00006071": {
+        "ET00006042": {
           "format": "2D",
-          "language": "English",
+          "language": "Tamil",
           "shows": 1,
-          "gross": 64800.0,
-          "sold": 36,
-          "totalSeats": 200
-        },
-        "ET00006100": {
-          "format": "IMAX 2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 190000.0,
-          "sold": 50,
-          "totalSeats": 305
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105
         }
       }
     }
