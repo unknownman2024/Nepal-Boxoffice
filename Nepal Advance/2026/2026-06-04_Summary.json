@@ -2,11 +2,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 16,
-    "seats": 2938,
-    "sold": 237,
-    "reserved": 11,
-    "available": 2690,
+    "total_shows": 17,
+    "seats": 3056,
+    "sold": 271,
+    "reserved": 16,
+    "available": 2769,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -44,9 +44,9 @@
         "venue": "cdc-cinemas",
         "total_shows": 2,
         "seats": 229,
-        "sold": 0,
+        "sold": 7,
         "reserved": 0,
-        "available": 229,
+        "available": 222,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -84,9 +84,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 3,
         "seats": 662,
-        "sold": 72,
-        "reserved": 0,
-        "available": 590,
+        "sold": 79,
+        "reserved": 4,
+        "available": 579,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -119,17 +119,27 @@
         "available": 0,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 20,
+        "reserved": 1,
+        "available": 97,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi (PG)",
-    "total_shows": 4,
-    "seats": 834,
-    "sold": 7,
-    "reserved": 72,
-    "available": 755,
+    "total_shows": 7,
+    "seats": 1410,
+    "sold": 11,
+    "reserved": 78,
+    "available": 1321,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -137,9 +147,19 @@
         "venue": "fcube",
         "total_shows": 4,
         "seats": 834,
-        "sold": 7,
-        "reserved": 72,
-        "available": 755,
+        "sold": 11,
+        "reserved": 78,
+        "available": 745,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 3,
+        "seats": 576,
+        "sold": 0,
+        "reserved": 0,
+        "available": 576,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -148,11 +168,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 23,
-    "seats": 4500,
-    "sold": 112,
+    "total_shows": 26,
+    "seats": 5253,
+    "sold": 115,
     "reserved": 21,
-    "available": 4367,
+    "available": 5117,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -170,9 +190,9 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 17,
+        "sold": 20,
         "reserved": 21,
-        "available": 160,
+        "available": 157,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -285,6 +305,16 @@
         "available": 0,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 3,
+        "seats": 753,
+        "sold": 0,
+        "reserved": 0,
+        "available": 753,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -384,11 +414,11 @@
   {
     "movie_id": "YWLFS6YetivU9b5wvrbxs6",
     "movie_name": "Kaji",
-    "total_shows": 1,
-    "seats": 259,
+    "total_shows": 2,
+    "seats": 423,
     "sold": 2,
     "reserved": 0,
-    "available": 257,
+    "available": 421,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -401,17 +431,27 @@
         "available": 257,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 164,
+        "sold": 0,
+        "reserved": 0,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "CHVosr9qWALLCSPt2Boq9T",
     "movie_name": "Shape of Momo",
-    "total_shows": 3,
-    "seats": 501,
+    "total_shows": 4,
+    "seats": 619,
     "sold": 0,
     "reserved": 0,
-    "available": 501,
+    "available": 619,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -444,6 +484,16 @@
         "available": 259,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -453,8 +503,8 @@
     "total_shows": 4,
     "seats": 950,
     "sold": 19,
-    "reserved": 10,
-    "available": 921,
+    "reserved": 11,
+    "available": 920,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -463,8 +513,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 10,
-        "available": 188,
+        "reserved": 11,
+        "available": 187,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -644,6 +694,52 @@
         "sold": 0,
         "reserved": 0,
         "available": 110,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "trUCKctzSGWZY9iLmEX5SY",
+    "movie_name": "Life Dyamage",
+    "total_shows": 1,
+    "seats": 164,
+    "sold": 0,
+    "reserved": 0,
+    "available": 164,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 164,
+        "sold": 0,
+        "reserved": 0,
+        "available": 164,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "3sLzjWvFEpbTyJ8oP67Yvm",
+    "movie_name": "Kumbh",
+    "total_shows": 1,
+    "seats": 118,
+    "sold": 0,
+    "reserved": 0,
+    "available": 118,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
         "housefull": 0,
         "fastfilling": 0
       }
