@@ -2,11 +2,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 15,
-    "seats": 2695,
+    "total_shows": 16,
+    "seats": 2817,
     "sold": 140,
     "reserved": 29,
-    "available": 2526,
+    "available": 2648,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -139,17 +139,27 @@
         "available": 240,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 122,
+        "sold": 0,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 102,
-    "seats": 20593,
+    "total_shows": 104,
+    "seats": 20931,
     "sold": 499,
     "reserved": 309,
-    "available": 19785,
+    "available": 20123,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -432,6 +442,16 @@
         "available": 358,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 2,
+        "seats": 338,
+        "sold": 0,
+        "reserved": 0,
+        "available": 338,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -671,11 +691,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 39,
-    "seats": 7738,
+    "total_shows": 42,
+    "seats": 8104,
     "sold": 64,
     "reserved": 97,
-    "available": 7577,
+    "available": 7943,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -918,17 +938,27 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 3,
+        "seats": 366,
+        "sold": 0,
+        "reserved": 0,
+        "available": 366,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
     "movie_name": "Hai Jawani Toh Ishq Hona Hai",
-    "total_shows": 70,
-    "seats": 13172,
+    "total_shows": 72,
+    "seats": 13510,
     "sold": 146,
     "reserved": 157,
-    "available": 12869,
+    "available": 13207,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1201,6 +1231,16 @@
         "available": 364,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 2,
+        "seats": 338,
+        "sold": 0,
+        "reserved": 0,
+        "available": 338,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1285,9 +1325,9 @@
     "movie_name": "Life Dyamage",
     "total_shows": 1,
     "seats": 164,
-    "sold": 5,
+    "sold": 7,
     "reserved": 4,
-    "available": 155,
+    "available": 153,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1295,9 +1335,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 1,
         "seats": 164,
-        "sold": 5,
+        "sold": 7,
         "reserved": 4,
-        "available": 155,
+        "available": 153,
         "housefull": 0,
         "fastfilling": 0
       }
