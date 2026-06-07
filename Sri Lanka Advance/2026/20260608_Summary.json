@@ -1,6 +1,6 @@
 {
   "date": "20260608",
-  "lastUpdated": "03:28 PM, 07 June 2026",
+  "lastUpdated": "07:59 PM, 07 June 2026",
   "movies": {
     "Karuppu": {
       "formats": {
@@ -8,33 +8,9 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 29,
-          "gross": 21800.0,
-          "sold": 13,
+          "gross": 34950.0,
+          "sold": 27,
           "totalSeats": 5992
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 35,
-          "gross": 148600.0,
-          "sold": 78,
-          "totalSeats": 5384
-        }
-      }
-    },
-    "Sooriya Sulanga": {
-      "formats": {
-        "ET00006102": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 58,
-          "gross": 14900.0,
-          "sold": 34,
-          "totalSeats": 11448
         }
       }
     },
@@ -50,14 +26,38 @@
         }
       }
     },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 58,
+          "gross": 15100.0,
+          "sold": 36,
+          "totalSeats": 11448
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 26,
+          "gross": 7100.0,
+          "sold": 10,
+          "totalSeats": 5454
+        }
+      }
+    },
     "Chandarege Wife": {
       "formats": {
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 28,
-          "gross": 9800.0,
-          "sold": 19,
+          "gross": 8500.0,
+          "sold": 16,
           "totalSeats": 5587
         }
       }
@@ -74,27 +74,39 @@
         }
       }
     },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 28,
-          "gross": 11700.0,
-          "sold": 19,
-          "totalSeats": 5682
-        }
-      }
-    },
     "Blast": {
       "formats": {
         "ET00006098": {
           "format": "2D",
           "language": "Tamil",
           "shows": 23,
-          "gross": 18400.0,
-          "sold": 9,
+          "gross": 17600.0,
+          "sold": 8,
           "totalSeats": 4054
+        }
+      }
+    },
+    "Passenger": {
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 26600.0,
+          "sold": 13,
+          "totalSeats": 547
+        }
+      }
+    },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 18600.0,
+          "sold": 16,
+          "totalSeats": 359
         }
       }
     },
@@ -116,57 +128,9 @@
           "format": "2D",
           "language": "Hindi",
           "shows": 6,
-          "gross": 25350.0,
-          "sold": 13,
+          "gross": 29750.0,
+          "sold": 15,
           "totalSeats": 637
-        }
-      }
-    },
-    "Parimala and Co": {
-      "formats": {
-        "ET00006104": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 19650.0,
-          "sold": 19,
-          "totalSeats": 4460
-        }
-      }
-    },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 18600.0,
-          "sold": 16,
-          "totalSeats": 359
-        }
-      }
-    },
-    "Passenger": {
-      "formats": {
-        "ET00006099": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 22200.0,
-          "sold": 11,
-          "totalSeats": 547
-        }
-      }
-    },
-    "Star Wars: The Mandalorian and Grogu": {
-      "formats": {
-        "ET00006097": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 6800.0,
-          "sold": 6,
-          "totalSeats": 611
         }
       }
     },
@@ -176,8 +140,8 @@
           "format": "2D",
           "language": "English",
           "shows": 27,
-          "gross": 26450.0,
-          "sold": 18,
+          "gross": 39650.0,
+          "sold": 28,
           "totalSeats": 5026
         }
       }
@@ -194,62 +158,14 @@
         }
       }
     },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1500.0,
-          "sold": 2,
-          "totalSeats": 92
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 26,
-          "gross": 5700.0,
-          "sold": 9,
-          "totalSeats": 5454
-        }
-      }
-    },
-    "Project Hail Mary": {
-      "formats": {
-        "ET00006026": {
-          "format": "2D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1300.0,
-          "sold": 2,
-          "totalSeats": 92
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
-        }
-      }
-    },
     "Mortal Kombat II": {
       "formats": {
         "ET00006056": {
           "format": "2D",
           "language": "English",
           "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
+          "gross": 1100.0,
+          "sold": 1,
           "totalSeats": 121
         }
       }
@@ -266,6 +182,78 @@
         }
       }
     },
+    "Sergeant Punchisoma": {
+      "formats": {
+        "ET00006047": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
+        }
+      }
+    },
+    "Project Hail Mary": {
+      "formats": {
+        "ET00006026": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1300.0,
+          "sold": 2,
+          "totalSeats": 92
+        }
+      }
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 6800.0,
+          "sold": 6,
+          "totalSeats": 611
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 35,
+          "gross": 162100.0,
+          "sold": 87,
+          "totalSeats": 5384
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 11650.0,
+          "sold": 18,
+          "totalSeats": 5682
+        }
+      }
+    },
+    "Parimala and Co": {
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 25,
+          "gross": 21950.0,
+          "sold": 21,
+          "totalSeats": 4460
+        }
+      }
+    },
     "Lee Cronins The Mummy": {
       "formats": {
         "ET00006039": {
@@ -275,6 +263,18 @@
           "gross": 2400.0,
           "sold": 2,
           "totalSeats": 121
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1500.0,
+          "sold": 2,
+          "totalSeats": 92
         }
       }
     }
