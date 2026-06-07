@@ -1,6 +1,6 @@
 {
   "date": "20260608",
-  "lastUpdated": "07:59 PM, 07 June 2026",
+  "lastUpdated": "11:30 PM, 07 June 2026",
   "movies": {
     "Karuppu": {
       "formats": {
@@ -8,33 +8,21 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 29,
-          "gross": 34950.0,
-          "sold": 27,
+          "gross": 36950.0,
+          "sold": 31,
           "totalSeats": 5992
         }
       }
     },
-    "Sura Detuwo": {
+    "Michael": {
       "formats": {
-        "ET00006009": {
+        "ET00006006": {
           "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 120
-        }
-      }
-    },
-    "Sooriya Sulanga": {
-      "formats": {
-        "ET00006102": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 58,
-          "gross": 15100.0,
-          "sold": 36,
-          "totalSeats": 11448
+          "language": "English",
+          "shows": 35,
+          "gross": 208700.0,
+          "sold": 111,
+          "totalSeats": 5384
         }
       }
     },
@@ -43,10 +31,22 @@
         "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 26,
-          "gross": 7100.0,
-          "sold": 10,
-          "totalSeats": 5454
+          "shows": 28,
+          "gross": 16000.0,
+          "sold": 19,
+          "totalSeats": 5694
+        }
+      }
+    },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 61,
+          "gross": 23550.0,
+          "sold": 54,
+          "totalSeats": 11970
         }
       }
     },
@@ -55,46 +55,34 @@
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
+          "shows": 29,
+          "gross": 10000.0,
+          "sold": 20,
+          "totalSeats": 5877
+        }
+      }
+    },
+    "Parimala and Co": {
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 26,
+          "gross": 22550.0,
+          "sold": 23,
+          "totalSeats": 4638
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
           "shows": 28,
-          "gross": 8500.0,
-          "sold": 16,
-          "totalSeats": 5587
-        }
-      }
-    },
-    "Peddi": {
-      "formats": {
-        "ET00005959": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 20,
-          "gross": 2100.0,
-          "sold": 2,
-          "totalSeats": 3954
-        }
-      }
-    },
-    "Blast": {
-      "formats": {
-        "ET00006098": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 23,
-          "gross": 17600.0,
-          "sold": 8,
-          "totalSeats": 4054
-        }
-      }
-    },
-    "Passenger": {
-      "formats": {
-        "ET00006099": {
-          "format": "2D",
-          "language": "English",
-          "shows": 6,
-          "gross": 26600.0,
-          "sold": 13,
-          "totalSeats": 547
+          "gross": 15350.0,
+          "sold": 23,
+          "totalSeats": 5682
         }
       }
     },
@@ -110,6 +98,54 @@
         }
       }
     },
+    "Sura Detuwo": {
+      "formats": {
+        "ET00006009": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 120
+        }
+      }
+    },
+    "Peddi": {
+      "formats": {
+        "ET00005959": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 21,
+          "gross": 3300.0,
+          "sold": 6,
+          "totalSeats": 4132
+        }
+      }
+    },
+    "Blast": {
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 24,
+          "gross": 22800.0,
+          "sold": 12,
+          "totalSeats": 4232
+        }
+      }
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 6800.0,
+          "sold": 6,
+          "totalSeats": 611
+        }
+      }
+    },
     "The Devil Wears Prada 2": {
       "formats": {
         "ET00006057": {
@@ -122,15 +158,15 @@
         }
       }
     },
-    "Hai Jawani Toh Ishq Hona Hai": {
+    "Passenger": {
       "formats": {
-        "ET00006078": {
+        "ET00006099": {
           "format": "2D",
-          "language": "Hindi",
+          "language": "English",
           "shows": 6,
-          "gross": 29750.0,
-          "sold": 15,
-          "totalSeats": 637
+          "gross": 35800.0,
+          "sold": 17,
+          "totalSeats": 547
         }
       }
     },
@@ -140,8 +176,8 @@
           "format": "2D",
           "language": "English",
           "shows": 27,
-          "gross": 39650.0,
-          "sold": 28,
+          "gross": 44750.0,
+          "sold": 37,
           "totalSeats": 5026
         }
       }
@@ -158,39 +194,15 @@
         }
       }
     },
-    "Mortal Kombat II": {
+    "Hoppers": {
       "formats": {
-        "ET00006056": {
-          "format": "2D",
+        "ET00006008": {
+          "format": "3D",
           "language": "English",
           "shows": 1,
-          "gross": 1100.0,
-          "sold": 1,
-          "totalSeats": 121
-        }
-      }
-    },
-    "Chand Mera Dil": {
-      "formats": {
-        "ET00006093": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 151
-        }
-      }
-    },
-    "Sergeant Punchisoma": {
-      "formats": {
-        "ET00006047": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 100
+          "gross": 1500.0,
+          "sold": 2,
+          "totalSeats": 92
         }
       }
     },
@@ -206,51 +218,51 @@
         }
       }
     },
-    "Star Wars: The Mandalorian and Grogu": {
+    "Sergeant Punchisoma": {
       "formats": {
-        "ET00006097": {
-          "format": "3D",
-          "language": "English",
-          "shows": 6,
-          "gross": 6800.0,
-          "sold": 6,
-          "totalSeats": 611
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 35,
-          "gross": 162100.0,
-          "sold": 87,
-          "totalSeats": 5384
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
+        "ET00006047": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 28,
-          "gross": 11650.0,
-          "sold": 18,
-          "totalSeats": 5682
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
         }
       }
     },
-    "Parimala and Co": {
+    "Hai Jawani Toh Ishq Hona Hai": {
       "formats": {
-        "ET00006104": {
+        "ET00006078": {
           "format": "2D",
-          "language": "Tamil",
-          "shows": 25,
-          "gross": 21950.0,
-          "sold": 21,
-          "totalSeats": 4460
+          "language": "Hindi",
+          "shows": 6,
+          "gross": 29750.0,
+          "sold": 15,
+          "totalSeats": 637
+        }
+      }
+    },
+    "Mortal Kombat II": {
+      "formats": {
+        "ET00006056": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 121
+        }
+      }
+    },
+    "Chand Mera Dil": {
+      "formats": {
+        "ET00006093": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 1100.0,
+          "sold": 1,
+          "totalSeats": 151
         }
       }
     },
@@ -263,18 +275,6 @@
           "gross": 2400.0,
           "sold": 2,
           "totalSeats": 121
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 1500.0,
-          "sold": 2,
-          "totalSeats": 92
         }
       }
     }
