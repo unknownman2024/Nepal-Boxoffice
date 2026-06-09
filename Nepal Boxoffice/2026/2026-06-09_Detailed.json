@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "lastUpdated": "06:05 PM, 09 June 2026",
+  "lastUpdated": "09:22 PM, 09 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3946,6 +3946,36 @@
       "available": 94,
       "gross": 6240,
       "occupancy_percent": 14.55
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "145535:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-06-09T21:45:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 38,
+      "reserved": 24,
+      "available": 107,
+      "gross": 12575,
+      "occupancy_percent": 36.69
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "171750:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-06-09T21:45:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 32,
+      "reserved": 1,
+      "available": 257,
+      "gross": 4950,
+      "occupancy_percent": 11.38
     }
   ]
 }

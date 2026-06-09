@@ -2,11 +2,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 104,
-    "seats": 21403,
-    "sold": 1740,
-    "reserved": 489,
-    "available": 19174,
+    "total_shows": 105,
+    "seats": 21572,
+    "sold": 1778,
+    "reserved": 513,
+    "available": 19281,
     "housefull": 0,
     "fastfilling": 2,
     "venues": [
@@ -62,11 +62,11 @@
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 3,
-        "seats": 289,
-        "sold": 7,
-        "reserved": 42,
-        "available": 240,
+        "total_shows": 4,
+        "seats": 458,
+        "sold": 45,
+        "reserved": 66,
+        "available": 347,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -515,11 +515,11 @@
   {
     "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
     "movie_name": "Hai Jawani Toh Ishq Hona Hai",
-    "total_shows": 51,
-    "seats": 8534,
-    "sold": 554,
-    "reserved": 285,
-    "available": 7695,
+    "total_shows": 52,
+    "seats": 8824,
+    "sold": 586,
+    "reserved": 286,
+    "available": 7952,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
@@ -750,6 +750,16 @@
         "sold": 33,
         "reserved": 0,
         "available": 198,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 32,
+        "reserved": 1,
+        "available": 257,
         "housefull": 0,
         "fastfilling": 0
       },
