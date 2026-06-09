@@ -2,11 +2,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 23,
-    "seats": 4248,
-    "sold": 233,
+    "total_shows": 25,
+    "seats": 4138,
+    "sold": 259,
     "reserved": 64,
-    "available": 3951,
+    "available": 3815,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -134,9 +134,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 2,
         "seats": 455,
-        "sold": 12,
+        "sold": 15,
         "reserved": 0,
-        "available": 443,
+        "available": 440,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -171,12 +171,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 380,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 380,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 270,
+        "sold": 23,
+        "reserved": 0,
+        "available": 247,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -185,11 +195,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 60,
-    "seats": 12668,
-    "sold": 101,
-    "reserved": 173,
-    "available": 12394,
+    "total_shows": 65,
+    "seats": 13031,
+    "sold": 179,
+    "reserved": 174,
+    "available": 12678,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -198,8 +208,8 @@
         "total_shows": 4,
         "seats": 960,
         "sold": 0,
-        "reserved": 0,
-        "available": 960,
+        "reserved": 1,
+        "available": 959,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -247,9 +257,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 4,
         "seats": 830,
-        "sold": 5,
+        "sold": 7,
         "reserved": 0,
-        "available": 825,
+        "available": 823,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -317,9 +327,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 5,
         "seats": 1196,
-        "sold": 12,
+        "sold": 14,
         "reserved": 87,
-        "available": 1097,
+        "available": 1095,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -414,12 +424,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
+        "venue": "Unknown",
         "total_shows": 2,
-        "seats": 536,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 536,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 5,
+        "seats": 899,
+        "sold": 74,
+        "reserved": 0,
+        "available": 825,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -428,11 +448,11 @@
   {
     "movie_id": "cwNQGULj5g3xx9R3AvfbrX",
     "movie_name": "Masters of the Universe",
-    "total_shows": 5,
-    "seats": 817,
-    "sold": 2,
-    "reserved": 14,
-    "available": 801,
+    "total_shows": 6,
+    "seats": 884,
+    "sold": 8,
+    "reserved": 15,
+    "available": 861,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -441,8 +461,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 2,
-        "reserved": 14,
-        "available": 182,
+        "reserved": 15,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -475,17 +495,27 @@
         "available": 180,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 30,
-    "seats": 5548,
-    "sold": 45,
-    "reserved": 74,
-    "available": 5429,
+    "total_shows": 32,
+    "seats": 5764,
+    "sold": 84,
+    "reserved": 81,
+    "available": 5599,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -494,8 +524,8 @@
         "total_shows": 3,
         "seats": 618,
         "sold": 22,
-        "reserved": 38,
-        "available": 558,
+        "reserved": 44,
+        "available": 552,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -563,9 +593,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 183,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 183,
+        "available": 178,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -584,8 +614,8 @@
         "total_shows": 1,
         "seats": 89,
         "sold": 0,
-        "reserved": 0,
-        "available": 89,
+        "reserved": 1,
+        "available": 88,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -680,12 +710,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 190,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 190,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 406,
+        "sold": 34,
+        "reserved": 0,
+        "available": 372,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -694,11 +734,11 @@
   {
     "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
     "movie_name": "Hai Jawani Toh Ishq Hona Hai",
-    "total_shows": 30,
-    "seats": 5716,
-    "sold": 44,
+    "total_shows": 34,
+    "seats": 5988,
+    "sold": 92,
     "reserved": 39,
-    "available": 5633,
+    "available": 5857,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -756,9 +796,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 182,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 182,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -903,12 +943,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 268,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 268,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 540,
+        "sold": 46,
+        "reserved": 0,
+        "available": 494,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1041,9 +1091,9 @@
     "movie_name": "Shape of Momo",
     "total_shows": 3,
     "seats": 512,
-    "sold": 0,
+    "sold": 2,
     "reserved": 0,
-    "available": 512,
+    "available": 510,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1061,9 +1111,9 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 362,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 362,
+        "available": 360,
         "housefull": 0,
         "fastfilling": 0
       }
