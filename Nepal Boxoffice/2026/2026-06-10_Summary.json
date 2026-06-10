@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+    "movie_name": "Peddi",
+    "total_shows": 3,
+    "seats": 658,
+    "sold": 11,
+    "reserved": 54,
+    "available": 593,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 5,
+        "reserved": 52,
+        "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 4,
+        "reserved": 2,
+        "available": 95,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 2,
+        "reserved": 0,
+        "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "cwNQGULj5g3xx9R3AvfbrX",
+    "movie_name": "Masters of the Universe",
+    "total_shows": 1,
+    "seats": 279,
+    "sold": 5,
+    "reserved": 44,
+    "available": 230,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 5,
+        "reserved": 44,
+        "available": 230,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+    "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+    "total_shows": 2,
+    "seats": 439,
+    "sold": 4,
+    "reserved": 62,
+    "available": 373,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 4,
+        "reserved": 50,
+        "available": 216,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 12,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
