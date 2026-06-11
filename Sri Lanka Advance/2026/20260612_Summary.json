@@ -1,43 +1,7 @@
 {
   "date": "20260612",
-  "lastUpdated": "01:00 AM, 11 June 2026",
+  "lastUpdated": "11:40 AM, 11 June 2026",
   "movies": {
-    "Sooriya Sulanga": {
-      "formats": {
-        "ET00006102": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 16,
-          "gross": 2400.0,
-          "sold": 2,
-          "totalSeats": 3129
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 23,
-          "gross": 95900.0,
-          "sold": 46,
-          "totalSeats": 3329
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 918
-        }
-      }
-    },
     "Karuppu": {
       "formats": {
         "ET00006082": {
@@ -50,15 +14,75 @@
         }
       }
     },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 1200.0,
+          "sold": 4,
+          "totalSeats": 918
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 23,
+          "gross": 114900.0,
+          "sold": 55,
+          "totalSeats": 3331
+        }
+      }
+    },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 16,
+          "gross": 5400.0,
+          "sold": 6,
+          "totalSeats": 3131
+        }
+      }
+    },
     "Chandarege Wife": {
       "formats": {
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
           "shows": 9,
-          "gross": 1900.0,
-          "sold": 2,
+          "gross": 3300.0,
+          "sold": 3,
           "totalSeats": 2476
+        }
+      }
+    },
+    "Parimala and Co": {
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 10,
+          "gross": 10150.0,
+          "sold": 7,
+          "totalSeats": 2070
+        }
+      }
+    },
+    "Blast": {
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 13,
+          "gross": 33000.0,
+          "sold": 12,
+          "totalSeats": 2375
         }
       }
     },
@@ -70,79 +94,7 @@
           "shows": 11,
           "gross": 5200.0,
           "sold": 6,
-          "totalSeats": 2842
-        }
-      }
-    },
-    "Parimala and Co": {
-      "formats": {
-        "ET00006104": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 10150.0,
-          "sold": 7,
-          "totalSeats": 1435
-        }
-      }
-    },
-    "Peddi": {
-      "formats": {
-        "ET00005959": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 1,
-          "gross": 3750.0,
-          "sold": 3,
-          "totalSeats": 111
-        }
-      }
-    },
-    "The Sheep Detectives": {
-      "formats": {
-        "ET00006062": {
-          "format": "2D",
-          "language": "English",
-          "shows": 4,
-          "gross": 8400.0,
-          "sold": 6,
-          "totalSeats": 499
-        }
-      }
-    },
-    "Star Wars: The Mandalorian and Grogu": {
-      "formats": {
-        "ET00006097": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 2700.0,
-          "sold": 2,
-          "totalSeats": 213
-        }
-      }
-    },
-    "Blast": {
-      "formats": {
-        "ET00006098": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 11,
-          "gross": 33000.0,
-          "sold": 12,
-          "totalSeats": 1918
-        }
-      }
-    },
-    "Hai Jawani Toh Ishq Hona Hai": {
-      "formats": {
-        "ET00006078": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 595
+          "totalSeats": 2846
         }
       }
     },
@@ -158,6 +110,54 @@
         }
       }
     },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 6300.0,
+          "sold": 5,
+          "totalSeats": 213
+        }
+      }
+    },
+    "Hai Jawani Toh Ishq Hona Hai": {
+      "formats": {
+        "ET00006078": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 5,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 595
+        }
+      }
+    },
+    "Passenger": {
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 32500.0,
+          "sold": 16,
+          "totalSeats": 683
+        }
+      }
+    },
+    "Peddi": {
+      "formats": {
+        "ET00005959": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 3750.0,
+          "sold": 3,
+          "totalSeats": 390
+        }
+      }
+    },
     "He - Man and The Masters of the Universe": {
       "formats": {
         "ET00006071": {
@@ -170,14 +170,38 @@
         }
       }
     },
+    "The Sheep Detectives": {
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 8400.0,
+          "sold": 6,
+          "totalSeats": 499
+        }
+      }
+    },
+    "The Furious": {
+      "formats": {
+        "ET00006108": {
+          "format": "2D",
+          "language": "English",
+          "shows": 9,
+          "gross": 56650.0,
+          "sold": 17,
+          "totalSeats": 1171
+        }
+      }
+    },
     "Scary Movie": {
       "formats": {
         "ET00006089": {
           "format": "2D",
           "language": "English",
           "shows": 9,
-          "gross": 98750.0,
-          "sold": 37,
+          "gross": 110750.0,
+          "sold": 45,
           "totalSeats": 897
         }
       }
@@ -194,27 +218,15 @@
         }
       }
     },
-    "Passenger": {
+    "The Super Mario Galaxy Movie": {
       "formats": {
-        "ET00006099": {
-          "format": "2D",
+        "ET00006030": {
+          "format": "3D",
           "language": "English",
-          "shows": 6,
-          "gross": 27500.0,
-          "sold": 12,
-          "totalSeats": 683
-        }
-      }
-    },
-    "Disclosure Day": {
-      "formats": {
-        "ET00006090": {
-          "format": "2D",
-          "language": "English",
-          "shows": 21,
-          "gross": 335000.0,
-          "sold": 113,
-          "totalSeats": 4264
+          "shows": 1,
+          "gross": 2700.0,
+          "sold": 2,
+          "totalSeats": 92
         }
       }
     },
@@ -230,15 +242,15 @@
         }
       }
     },
-    "The Furious": {
+    "Disclosure Day": {
       "formats": {
-        "ET00006108": {
+        "ET00006090": {
           "format": "2D",
           "language": "English",
-          "shows": 9,
-          "gross": 56650.0,
-          "sold": 17,
-          "totalSeats": 1171
+          "shows": 21,
+          "gross": 372900.0,
+          "sold": 131,
+          "totalSeats": 4266
         }
       }
     },
@@ -249,18 +261,6 @@
           "language": "English",
           "shows": 1,
           "gross": 2500.0,
-          "sold": 2,
-          "totalSeats": 92
-        }
-      }
-    },
-    "The Super Mario Galaxy Movie": {
-      "formats": {
-        "ET00006030": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 2700.0,
           "sold": 2,
           "totalSeats": 92
         }
