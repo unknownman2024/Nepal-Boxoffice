@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "lastUpdated": "05:54 PM, 13 June 2026",
+  "lastUpdated": "08:29 PM, 13 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -5192,11 +5192,11 @@
       "date": "2026-06-13T20:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 3,
-      "reserved": 8,
-      "available": 203,
-      "gross": 3850,
-      "occupancy_percent": 5.14
+      "sold": 19,
+      "reserved": 4,
+      "available": 191,
+      "gross": 8050,
+      "occupancy_percent": 10.75
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -5222,11 +5222,11 @@
       "date": "2026-06-13T21:10:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 243,
+      "gross": 1400,
+      "occupancy_percent": 1.62
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -5462,11 +5462,11 @@
       "date": "2026-06-13T20:45:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 6,
+      "sold": 13,
       "reserved": 0,
-      "available": 123,
-      "gross": 2970,
-      "occupancy_percent": 4.65
+      "available": 116,
+      "gross": 6490,
+      "occupancy_percent": 10.08
     },
     {
       "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
@@ -5492,11 +5492,11 @@
       "date": "2026-06-13T21:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 2,
+      "sold": 9,
       "reserved": 0,
-      "available": 131,
-      "gross": 560,
-      "occupancy_percent": 1.5
+      "available": 124,
+      "gross": 2520,
+      "occupancy_percent": 6.77
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -5747,11 +5747,11 @@
       "date": "2026-06-13T21:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 3,
-      "reserved": 0,
-      "available": 214,
-      "gross": 1200,
-      "occupancy_percent": 1.38
+      "sold": 17,
+      "reserved": 4,
+      "available": 196,
+      "gross": 9200,
+      "occupancy_percent": 9.68
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -5902,6 +5902,51 @@
       "available": 279,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "172216:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - AUDI 01",
+      "date": "2026-06-13T21:15:00+05:45",
+      "time": "",
+      "seats": 288,
+      "sold": 5,
+      "reserved": 0,
+      "available": 283,
+      "gross": 1500,
+      "occupancy_percent": 1.74
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "15924:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-06-13T21:15:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 34,
+      "reserved": 3,
+      "available": 180,
+      "gross": 14800,
+      "occupancy_percent": 17.05
+    },
+    {
+      "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+      "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+      "show_id": "172217:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-06-13T21:30:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 2,
+      "reserved": 0,
+      "available": 288,
+      "gross": 600,
+      "occupancy_percent": 0.69
     }
   ]
 }
