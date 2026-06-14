@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "lastUpdated": "02:56 PM, 14 June 2026",
+  "lastUpdated": "07:22 PM, 14 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -266,11 +266,11 @@
       "date": "2026-06-15T11:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 17,
+      "sold": 0,
       "reserved": 0,
-      "available": 191,
-      "gross": 5950,
-      "occupancy_percent": 8.17
+      "available": 208,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -641,11 +641,11 @@
       "date": "2026-06-15T15:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 196,
+      "gross": 660,
+      "occupancy_percent": 1.01
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -671,11 +671,11 @@
       "date": "2026-06-15T11:45:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 196,
+      "gross": 660,
+      "occupancy_percent": 1.01
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -716,11 +716,11 @@
       "date": "2026-06-15T12:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 215,
+      "gross": 600,
+      "occupancy_percent": 0.92
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -761,11 +761,11 @@
       "date": "2026-06-15T15:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 215,
+      "gross": 600,
+      "occupancy_percent": 0.92
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -946,7 +946,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -993,7 +993,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1112,11 +1112,11 @@
       "date": "2026-06-15T11:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 245,
+      "gross": 1050,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1139,16 +1139,18 @@
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
       "movie_name": "Backrooms",
       "show_id": "172707:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 2",
-      "date": "2026-06-15T17:30:00+05:45",
-      "time": "",
-      "seats": 133,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 133,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1505,10 +1507,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 176,
+      "gross": 350,
+      "occupancy_percent": 0.56
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1564,11 +1566,11 @@
       "date": "2026-06-15T17:15:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 5,
+      "sold": 9,
       "reserved": 1,
-      "available": 45,
-      "gross": 7200,
-      "occupancy_percent": 11.76
+      "available": 41,
+      "gross": 12000,
+      "occupancy_percent": 19.61
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1694,16 +1696,18 @@
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
       "movie_name": "Disclosure Day",
       "show_id": "172703:qfx-one-stop-mall",
-      "venue": "qfx-one-stop-mall",
-      "theatre": "QFX One Stop, Birtamod - AUDI 1",
-      "date": "2026-06-15T14:00:00+05:45",
-      "time": "",
-      "seats": 138,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 138,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -1744,11 +1748,11 @@
       "date": "2026-06-15T14:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 129,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 127,
+      "gross": 700,
+      "occupancy_percent": 1.55
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -1834,11 +1838,11 @@
       "date": "2026-06-15T11:00:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 6,
+      "sold": 2,
       "reserved": 0,
-      "available": 61,
-      "gross": 4200,
-      "occupancy_percent": 8.96
+      "available": 65,
+      "gross": 1000,
+      "occupancy_percent": 2.99
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2194,11 +2198,11 @@
       "date": "2026-06-15T15:15:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 0,
+      "sold": 2,
       "reserved": 10,
-      "available": 202,
-      "gross": 4800,
-      "occupancy_percent": 4.72
+      "available": 200,
+      "gross": 5760,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2330,10 +2334,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 197,
+      "gross": 330,
+      "occupancy_percent": 0.51
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2389,11 +2393,11 @@
       "date": "2026-06-15T11:30:00+05:45",
       "time": "",
       "seats": 112,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 112,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 110,
+      "gross": 780,
+      "occupancy_percent": 1.79
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2405,10 +2409,10 @@
       "time": "",
       "seats": 251,
       "sold": 0,
-      "reserved": 0,
-      "available": 251,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 7,
+      "available": 244,
+      "gross": 2100,
+      "occupancy_percent": 2.79
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2479,11 +2483,11 @@
       "date": "2026-06-15T11:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 173,
+      "gross": 1400,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2541,11 +2545,11 @@
       "date": "2026-06-15T13:00:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 517,
-      "gross": 700,
-      "occupancy_percent": 0.39
+      "available": 515,
+      "gross": 1600,
+      "occupancy_percent": 0.77
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2556,11 +2560,11 @@
       "date": "2026-06-15T14:00:00+05:45",
       "time": "",
       "seats": 89,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 89,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 86,
+      "gross": 900,
+      "occupancy_percent": 3.37
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2931,11 +2935,11 @@
       "date": "2026-06-15T17:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 129,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 127,
+      "gross": 700,
+      "occupancy_percent": 1.55
     },
     {
       "movie_id": "3sLzjWvFEpbTyJ8oP67Yvm",
@@ -2976,11 +2980,11 @@
       "date": "2026-06-15T13:45:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 700,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3016,16 +3020,18 @@
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
       "movie_name": "Roll No 1",
       "show_id": "4379:kirtipur-cineplex",
-      "venue": "kirtipur-cineplex",
-      "theatre": "Kirtipur Cineplex - Audi-2",
-      "date": "2026-06-15T14:00:00+05:45",
-      "time": "",
-      "seats": 101,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-15",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 101,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -3037,10 +3043,10 @@
       "time": "",
       "seats": 285,
       "sold": 0,
-      "reserved": 1,
-      "available": 284,
-      "gross": 200,
-      "occupancy_percent": 0.35
+      "reserved": 0,
+      "available": 285,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -3096,11 +3102,11 @@
       "date": "2026-06-15T18:00:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 15,
+      "sold": 17,
       "reserved": 0,
-      "available": 121,
-      "gross": 3000,
-      "occupancy_percent": 11.03
+      "available": 119,
+      "gross": 3500,
+      "occupancy_percent": 12.5
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3141,11 +3147,11 @@
       "date": "2026-06-15T14:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
+      "sold": 16,
       "reserved": 0,
-      "available": 137,
-      "gross": 2800,
-      "occupancy_percent": 9.27
+      "available": 135,
+      "gross": 3300,
+      "occupancy_percent": 10.6
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -3217,10 +3223,10 @@
       "time": "",
       "seats": 51,
       "sold": 0,
-      "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 50,
+      "gross": 800,
+      "occupancy_percent": 1.96
     },
     {
       "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
@@ -3336,11 +3342,11 @@
       "date": "2026-06-15T17:30:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
+      "sold": 22,
       "reserved": 0,
-      "available": 137,
-      "gross": 2800,
-      "occupancy_percent": 9.27
+      "available": 129,
+      "gross": 4800,
+      "occupancy_percent": 14.57
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -3351,11 +3357,11 @@
       "date": "2026-06-15T11:00:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 14,
-      "reserved": 2,
-      "available": 135,
-      "gross": 3200,
-      "occupancy_percent": 10.6
+      "sold": 18,
+      "reserved": 0,
+      "available": 133,
+      "gross": 3600,
+      "occupancy_percent": 11.92
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
