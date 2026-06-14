@@ -2,11 +2,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 47,
-    "seats": 8989,
+    "total_shows": 48,
+    "seats": 9171,
     "sold": 60,
     "reserved": 52,
-    "available": 8877,
+    "available": 9059,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -219,17 +219,27 @@
         "available": 398,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "zxdpxapwUUfnFuatekzuXU",
     "movie_name": "Backrooms",
-    "total_shows": 13,
-    "seats": 2418,
-    "sold": 11,
+    "total_shows": 16,
+    "seats": 2961,
+    "sold": 13,
     "reserved": 0,
-    "available": 2407,
+    "available": 2948,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -302,17 +312,27 @@
         "available": 455,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 3,
+        "seats": 543,
+        "sold": 2,
+        "reserved": 0,
+        "available": 541,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
     "movie_name": "Scary Movie",
-    "total_shows": 8,
-    "seats": 1048,
+    "total_shows": 9,
+    "seats": 1231,
     "sold": 0,
     "reserved": 16,
-    "available": 1032,
+    "available": 1215,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -395,17 +415,27 @@
         "available": 112,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 0,
+        "reserved": 0,
+        "available": 183,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
     "movie_name": "Disclosure Day",
-    "total_shows": 17,
-    "seats": 2566,
+    "total_shows": 19,
+    "seats": 2928,
     "sold": 5,
     "reserved": 1,
-    "available": 2560,
+    "available": 2922,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -558,17 +588,27 @@
         "available": 207,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 362,
+        "sold": 0,
+        "reserved": 0,
+        "available": 362,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 18,
-    "seats": 2883,
+    "total_shows": 20,
+    "seats": 3249,
     "sold": 30,
     "reserved": 16,
-    "available": 2837,
+    "available": 3203,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -689,6 +729,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 366,
+        "sold": 0,
+        "reserved": 0,
+        "available": 366,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -840,11 +890,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 31,
-    "seats": 5329,
+    "total_shows": 32,
+    "seats": 5511,
     "sold": 14,
     "reserved": 31,
-    "available": 5284,
+    "available": 5466,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1037,6 +1087,16 @@
         "available": 292,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 0,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1183,6 +1243,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "CHVosr9qWALLCSPt2Boq9T",
+    "movie_name": "Shape of Momo",
+    "total_shows": 1,
+    "seats": 180,
+    "sold": 0,
+    "reserved": 0,
+    "available": 180,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       }
