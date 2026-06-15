@@ -1,5 +1,196 @@
 {
   "date": "20260615",
-  "lastUpdated": "04:35 AM, 15 June 2026",
-  "movies": {}
+  "lastUpdated": "09:23 AM, 15 June 2026",
+  "movies": {
+    "OIC Gadafi": {
+      "totalShows": 7,
+      "totalGross": 1600.0,
+      "totalSold": 2,
+      "totalSeats": 1488,
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 7,
+          "gross": 1600.0,
+          "sold": 2,
+          "totalSeats": 1488,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.13
+    },
+    "The Devil Wears Prada 2": {
+      "totalShows": 1,
+      "totalGross": 2200.0,
+      "totalSold": 2,
+      "totalSeats": 152,
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 152,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.32
+    },
+    "Chandarege Wife": {
+      "totalShows": 5,
+      "totalGross": 600.0,
+      "totalSold": 2,
+      "totalSeats": 1123,
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 600.0,
+          "sold": 2,
+          "totalSeats": 1123,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.18
+    },
+    "The Sheep Detectives": {
+      "totalShows": 1,
+      "totalGross": 2200.0,
+      "totalSold": 2,
+      "totalSeats": 96,
+      "formats": {
+        "ET00006062": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 2200.0,
+          "sold": 2,
+          "totalSeats": 96,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.08
+    },
+    "Riverstone": {
+      "totalShows": 11,
+      "totalGross": 8100.0,
+      "totalSold": 15,
+      "totalSeats": 2368,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 8100.0,
+          "sold": 15,
+          "totalSeats": 2368,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.63
+    },
+    "Sooriya Sulanga": {
+      "totalShows": 28,
+      "totalGross": 43900.0,
+      "totalSold": 101,
+      "totalSeats": 4641,
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 28,
+          "gross": 43900.0,
+          "sold": 101,
+          "totalSeats": 4641,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.18
+    },
+    "Blast": {
+      "totalShows": 3,
+      "totalGross": 1050.0,
+      "totalSold": 1,
+      "totalSeats": 480,
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 1050.0,
+          "sold": 1,
+          "totalSeats": 480,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.21
+    },
+    "Parimala and Co": {
+      "totalShows": 4,
+      "totalGross": 600.0,
+      "totalSold": 2,
+      "totalSeats": 459,
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 600.0,
+          "sold": 2,
+          "totalSeats": 459,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.44
+    },
+    "Karuppu": {
+      "totalShows": 4,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 1027,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1027,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Hoppers": {
+      "totalShows": 1,
+      "totalGross": 4500.0,
+      "totalSold": 6,
+      "totalSeats": 92,
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 4500.0,
+          "sold": 6,
+          "totalSeats": 92,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.52
+    }
+  }
 }
