@@ -1,0 +1,78 @@
+{
+  "date": "20260616",
+  "lastUpdated": "12:10 PM, 15 June 2026",
+  "movies": {
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100
+        }
+      }
+    },
+    "Disclosure Day": {
+      "formats": {
+        "ET00006090": {
+          "format": "2D",
+          "language": "English",
+          "shows": 37,
+          "gross": 53600.0,
+          "sold": 31,
+          "totalSeats": 7200
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 25,
+          "gross": 2400.0,
+          "sold": 4,
+          "totalSeats": 4962
+        }
+      }
+    },
+    "Passenger": {
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 6,
+          "gross": 16350.0,
+          "sold": 8,
+          "totalSeats": 683
+        }
+      }
+    },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 89,
+          "gross": 12800.0,
+          "sold": 24,
+          "totalSeats": 12879
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "formats": {
+        "ET00006030": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 1500.0,
+          "sold": 2,
+          "totalSeats": 92
+        }
+      }
+    }
+  }
+}
