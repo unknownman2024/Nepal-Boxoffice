@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "lastUpdated": "03:37 AM, 15 June 2026",
+  "lastUpdated": "09:06 AM, 15 June 2026",
   "shows": [
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -57,10 +57,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 238,
+      "gross": 400,
+      "occupancy_percent": 0.83
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -520,12 +520,12 @@
       "theatre": "QFX Cinemas Trade Mall - AUDI 1",
       "date": "2026-06-16T19:00:00+05:45",
       "time": "",
-      "seats": 0,
+      "seats": 359,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 359,
       "gross": 0,
-      "occupancy_percent": 0
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -535,12 +535,12 @@
       "theatre": "QFX Cinemas Trade Mall - AUDI 1",
       "date": "2026-06-16T12:30:00+05:45",
       "time": "",
-      "seats": 0,
+      "seats": 359,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 359,
       "gross": 0,
-      "occupancy_percent": 0
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "5UVEbmut9MMEGVFj3krnS7",
@@ -791,11 +791,11 @@
       "date": "2026-06-16T14:30:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 257,
-      "gross": 500,
-      "occupancy_percent": 0.77
+      "available": 255,
+      "gross": 1000,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -866,11 +866,11 @@
       "date": "2026-06-16T12:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 259,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 258,
+      "gross": 250,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "zxdpxapwUUfnFuatekzuXU",
@@ -1782,10 +1782,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 0,
-      "available": 60,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 58,
+      "gross": 1000,
+      "occupancy_percent": 3.33
     },
     {
       "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
@@ -2141,11 +2141,11 @@
       "date": "2026-06-16T13:00:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 514,
+      "gross": 1250,
+      "occupancy_percent": 0.96
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2275,12 +2275,12 @@
       "theatre": "QFX Cinemas Trade Mall - AUDI 1",
       "date": "2026-06-16T16:00:00+05:45",
       "time": "",
-      "seats": 0,
+      "seats": 359,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 359,
       "gross": 0,
-      "occupancy_percent": 0
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2561,11 +2561,11 @@
       "date": "2026-06-16T16:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 1170,
+      "occupancy_percent": 1.64
     },
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -2576,11 +2576,11 @@
       "date": "2026-06-16T13:30:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 1170,
+      "occupancy_percent": 1.64
     },
     {
       "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
@@ -2609,6 +2609,126 @@
       "sold": 0,
       "reserved": 0,
       "available": 180,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "13610:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-06-16T13:00:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "13608:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-06-16T19:15:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
+      "movie_name": "Scary Movie",
+      "show_id": "13609:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-06-16T11:00:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "13611:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-06-16T16:45:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "13605:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-06-16T11:30:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "13606:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-06-16T14:15:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "13612:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-06-16T19:30:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 0,
+      "reserved": 0,
+      "available": 154,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "JiKNN5HP6MNhM83DH8fNef",
+      "movie_name": "Mitajyu",
+      "show_id": "13607:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 1",
+      "date": "2026-06-16T17:00:00+05:45",
+      "time": "",
+      "seats": 181,
+      "sold": 0,
+      "reserved": 0,
+      "available": 181,
       "gross": 0,
       "occupancy_percent": 0.0
     }

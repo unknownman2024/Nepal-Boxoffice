@@ -2,11 +2,11 @@
   {
     "movie_id": "5UVEbmut9MMEGVFj3krnS7",
     "movie_name": "Peddi",
-    "total_shows": 48,
-    "seats": 9171,
+    "total_shows": 50,
+    "seats": 10224,
     "sold": 60,
-    "reserved": 52,
-    "available": 9059,
+    "reserved": 54,
+    "available": 10110,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -35,8 +35,8 @@
         "total_shows": 3,
         "seats": 720,
         "sold": 0,
-        "reserved": 0,
-        "available": 720,
+        "reserved": 2,
+        "available": 718,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -183,10 +183,10 @@
       {
         "venue": "pokhara-cineplex",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 718,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 718,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -229,6 +229,16 @@
         "available": 182,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 335,
+        "sold": 0,
+        "reserved": 0,
+        "available": 335,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -237,9 +247,9 @@
     "movie_name": "Backrooms",
     "total_shows": 16,
     "seats": 2961,
-    "sold": 13,
+    "sold": 16,
     "reserved": 0,
-    "available": 2948,
+    "available": 2945,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -277,9 +287,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 777,
-        "sold": 2,
+        "sold": 5,
         "reserved": 0,
-        "available": 775,
+        "available": 772,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -328,11 +338,11 @@
   {
     "movie_id": "cejw8NwCyZ2TQ6UDNjS9CP",
     "movie_name": "Scary Movie",
-    "total_shows": 9,
-    "seats": 1231,
+    "total_shows": 10,
+    "seats": 1385,
     "sold": 0,
     "reserved": 16,
-    "available": 1215,
+    "available": 1369,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -423,6 +433,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 183,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 0,
+        "reserved": 0,
+        "available": 154,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -604,11 +624,11 @@
   {
     "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
     "movie_name": "Roll No 1",
-    "total_shows": 20,
-    "seats": 3249,
-    "sold": 30,
+    "total_shows": 22,
+    "seats": 3584,
+    "sold": 36,
     "reserved": 16,
-    "available": 3203,
+    "available": 3532,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -736,9 +756,19 @@
         "venue": "qfx-labim",
         "total_shows": 2,
         "seats": 366,
+        "sold": 6,
+        "reserved": 0,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 335,
         "sold": 0,
         "reserved": 0,
-        "available": 366,
+        "available": 335,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -750,8 +780,8 @@
     "total_shows": 22,
     "seats": 3493,
     "sold": 37,
-    "reserved": 1,
-    "available": 3455,
+    "reserved": 3,
+    "available": 3453,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -870,8 +900,8 @@
         "total_shows": 3,
         "seats": 398,
         "sold": 0,
-        "reserved": 0,
-        "available": 398,
+        "reserved": 2,
+        "available": 396,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -890,11 +920,11 @@
   {
     "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
     "movie_name": "Lalibazar",
-    "total_shows": 32,
-    "seats": 5511,
-    "sold": 14,
+    "total_shows": 34,
+    "seats": 6205,
+    "sold": 19,
     "reserved": 31,
-    "available": 5466,
+    "available": 6155,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1012,9 +1042,9 @@
         "venue": "qfx-civil",
         "total_shows": 1,
         "seats": 519,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 519,
+        "available": 514,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1031,10 +1061,10 @@
       {
         "venue": "pokhara-cineplex",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 359,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 359,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1097,6 +1127,16 @@
         "available": 182,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 335,
+        "sold": 0,
+        "reserved": 0,
+        "available": 335,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1149,11 +1189,11 @@
   {
     "movie_id": "JiKNN5HP6MNhM83DH8fNef",
     "movie_name": "Mitajyu",
-    "total_shows": 1,
-    "seats": 180,
+    "total_shows": 2,
+    "seats": 361,
     "sold": 0,
     "reserved": 15,
-    "available": 165,
+    "available": 346,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1164,6 +1204,16 @@
         "sold": 0,
         "reserved": 15,
         "available": 165,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 181,
+        "sold": 0,
+        "reserved": 0,
+        "available": 181,
         "housefull": 0,
         "fastfilling": 0
       }
