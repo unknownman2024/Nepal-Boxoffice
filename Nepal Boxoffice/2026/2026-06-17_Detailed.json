@@ -1,5 +1,51 @@
 {
   "date": "2026-06-17",
-  "lastUpdated": "03:11 AM, 17 June 2026",
-  "shows": []
+  "lastUpdated": "04:52 AM, 17 June 2026",
+  "shows": [
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "172880:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-06-17T08:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 119,
+      "reserved": 0,
+      "available": 61,
+      "gross": 28560,
+      "occupancy_percent": 66.11
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "66764:ini-cinemas-nb-center",
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
+      "date": "2026-06-17T08:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 31,
+      "reserved": 0,
+      "available": 146,
+      "gross": 6975,
+      "occupancy_percent": 17.51
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "66767:ini-qbox-butwal",
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 1",
+      "date": "2026-06-17T08:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 41,
+      "reserved": 2,
+      "available": 153,
+      "gross": 7095,
+      "occupancy_percent": 21.94
+    }
+  ]
 }
