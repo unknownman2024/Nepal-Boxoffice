@@ -1,6 +1,6 @@
 {
   "date": "20260618",
-  "lastUpdated": "05:51 PM, 18 June 2026",
+  "lastUpdated": "09:56 PM, 18 June 2026",
   "shows": [
     {
       "movie": "The Wife",
@@ -2245,6 +2245,40 @@
       "date": "20260618",
       "badData": false,
       "minsLeft": 177
+    },
+    {
+      "movie": "Karuppu",
+      "format": "2D",
+      "language": "Tamil",
+      "eventCode": "ET00006082",
+      "venue": "PVR Cinema: One Galle Face Mall",
+      "sessionId": "3294",
+      "time": "10:30 PM",
+      "totalSeats": 111,
+      "available": 108,
+      "sold": 3,
+      "gross": 3150.0,
+      "occupancy": 2.7,
+      "date": "20260618",
+      "badData": false,
+      "minsLeft": 33
+    },
+    {
+      "movie": "Michael",
+      "format": "2D",
+      "language": "English",
+      "eventCode": "ET00006006",
+      "venue": "PVR Cinema: One Galle Face Mall",
+      "sessionId": "3210",
+      "time": "10:00 PM",
+      "totalSeats": 41,
+      "available": 26,
+      "sold": 15,
+      "gross": 33000.0,
+      "occupancy": 36.59,
+      "date": "20260618",
+      "badData": false,
+      "minsLeft": 3
     }
   ],
   "autoCorrected": 15
