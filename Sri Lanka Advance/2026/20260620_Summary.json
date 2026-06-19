@@ -1,55 +1,7 @@
 {
   "date": "20260620",
-  "lastUpdated": "09:19 PM, 19 June 2026",
+  "lastUpdated": "11:58 PM, 19 June 2026",
   "movies": {
-    "Eka Thamai Meka": {
-      "formats": {
-        "ET00006109": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 61,
-          "gross": 134450.0,
-          "sold": 170,
-          "totalSeats": 11181
-        }
-      }
-    },
-    "OIC Gadafi": {
-      "formats": {
-        "ET00006051": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 16,
-          "gross": 11900.0,
-          "sold": 20,
-          "totalSeats": 4209
-        }
-      }
-    },
-    "Karuppu": {
-      "formats": {
-        "ET00006082": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 9,
-          "gross": 8950.0,
-          "sold": 9,
-          "totalSeats": 1456
-        }
-      }
-    },
-    "Riverstone": {
-      "formats": {
-        "ET00006048": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 19,
-          "gross": 49650.0,
-          "sold": 49,
-          "totalSeats": 3996
-        }
-      }
-    },
     "Toy Story 5": {
       "formats": {
         "ET00006072": {
@@ -64,9 +16,21 @@
           "format": "3D",
           "language": "English",
           "shows": 41,
-          "gross": 409000.0,
-          "sold": 263,
+          "gross": 508450.0,
+          "sold": 340,
           "totalSeats": 7777
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 19,
+          "gross": 52800.0,
+          "sold": 59,
+          "totalSeats": 3996
         }
       }
     },
@@ -76,129 +40,9 @@
           "format": "2D",
           "language": "Sinhala",
           "shows": 22,
-          "gross": 58250.0,
-          "sold": 91,
+          "gross": 75400.0,
+          "sold": 108,
           "totalSeats": 4847
-        }
-      }
-    },
-    "Nooru Saami": {
-      "formats": {
-        "ET00006116": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 27,
-          "gross": 5800.0,
-          "sold": 12,
-          "totalSeats": 5205
-        }
-      }
-    },
-    "Rajadahana": {
-      "formats": {
-        "ET00006123": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 9,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1253
-        }
-      }
-    },
-    "Michael": {
-      "formats": {
-        "ET00006006": {
-          "format": "2D",
-          "language": "English",
-          "shows": 18,
-          "gross": 476350.0,
-          "sold": 242,
-          "totalSeats": 2621
-        }
-      }
-    },
-    "Cocktail 2": {
-      "formats": {
-        "ET00006079": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 15,
-          "gross": 195100.0,
-          "sold": 78,
-          "totalSeats": 1321
-        }
-      }
-    },
-    "The Furious": {
-      "formats": {
-        "ET00006108": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 31050.0,
-          "sold": 13,
-          "totalSeats": 595
-        }
-      }
-    },
-    "He - Man and The Masters of the Universe": {
-      "formats": {
-        "ET00006071": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 60600.0,
-          "sold": 46,
-          "totalSeats": 344
-        }
-      }
-    },
-    "Parimala and Co": {
-      "formats": {
-        "ET00006104": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 714
-        }
-      }
-    },
-    "Hoppers": {
-      "formats": {
-        "ET00006008": {
-          "format": "3D",
-          "language": "English",
-          "shows": 1,
-          "gross": 18900.0,
-          "sold": 14,
-          "totalSeats": 92
-        }
-      }
-    },
-    "Sooriya Sulanga": {
-      "formats": {
-        "ET00006102": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 69,
-          "gross": 122300.0,
-          "sold": 210,
-          "totalSeats": 10064
-        }
-      }
-    },
-    "The Wife": {
-      "formats": {
-        "ET00005992": {
-          "format": "2D",
-          "language": "Sinhala",
-          "shows": 1,
-          "gross": 4000.0,
-          "sold": 5,
-          "totalSeats": 100
         }
       }
     },
@@ -208,8 +52,8 @@
           "format": "2D",
           "language": "Tamil",
           "shows": 20,
-          "gross": 18300.0,
-          "sold": 23,
+          "gross": 21000.0,
+          "sold": 27,
           "totalSeats": 3849
         }
       }
@@ -226,63 +70,15 @@
         }
       }
     },
-    "The Devil Wears Prada 2": {
+    "OIC Gadafi": {
       "formats": {
-        "ET00006057": {
+        "ET00006051": {
           "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 85400.0,
-          "sold": 42,
-          "totalSeats": 215
-        }
-      }
-    },
-    "Scary Movie": {
-      "formats": {
-        "ET00006089": {
-          "format": "2D",
-          "language": "English",
-          "shows": 5,
-          "gross": 24200.0,
-          "sold": 15,
-          "totalSeats": 465
-        }
-      }
-    },
-    "Hai Jawani Toh Ishq Hona Hai": {
-      "formats": {
-        "ET00006078": {
-          "format": "2D",
-          "language": "Hindi",
-          "shows": 2,
-          "gross": 10800.0,
-          "sold": 8,
-          "totalSeats": 210
-        }
-      }
-    },
-    "Passenger": {
-      "formats": {
-        "ET00006099": {
-          "format": "2D",
-          "language": "English",
-          "shows": 3,
-          "gross": 56100.0,
-          "sold": 33,
-          "totalSeats": 289
-        }
-      }
-    },
-    "Star Wars: The Mandalorian and Grogu": {
-      "formats": {
-        "ET00006097": {
-          "format": "3D",
-          "language": "English",
-          "shows": 2,
-          "gross": 15700.0,
-          "sold": 12,
-          "totalSeats": 213
+          "language": "Sinhala",
+          "shows": 16,
+          "gross": 16250.0,
+          "sold": 25,
+          "totalSeats": 4209
         }
       }
     },
@@ -292,8 +88,8 @@
           "format": "2D",
           "language": "English",
           "shows": 14,
-          "gross": 264650.0,
-          "sold": 135,
+          "gross": 281950.0,
+          "sold": 146,
           "totalSeats": 1691
         }
       }
@@ -304,9 +100,81 @@
           "format": "2D",
           "language": "Arabic",
           "shows": 5,
-          "gross": 29000.0,
-          "sold": 28,
+          "gross": 40000.0,
+          "sold": 40,
           "totalSeats": 570
+        }
+      }
+    },
+    "The Wife": {
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 8800.0,
+          "sold": 11,
+          "totalSeats": 100
+        }
+      }
+    },
+    "Hoppers": {
+      "formats": {
+        "ET00006008": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 18900.0,
+          "sold": 14,
+          "totalSeats": 92
+        }
+      }
+    },
+    "Michael": {
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 18,
+          "gross": 527150.0,
+          "sold": 277,
+          "totalSeats": 2621
+        }
+      }
+    },
+    "Eka Thamai Meka": {
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 61,
+          "gross": 180950.0,
+          "sold": 214,
+          "totalSeats": 11181
+        }
+      }
+    },
+    "Cocktail 2": {
+      "formats": {
+        "ET00006079": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 15,
+          "gross": 229200.0,
+          "sold": 96,
+          "totalSeats": 1321
+        }
+      }
+    },
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 16050.0,
+          "sold": 11,
+          "totalSeats": 1456
         }
       }
     },
@@ -322,6 +190,90 @@
         }
       }
     },
+    "The Devil Wears Prada 2": {
+      "formats": {
+        "ET00006057": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 95800.0,
+          "sold": 47,
+          "totalSeats": 215
+        }
+      }
+    },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 69,
+          "gross": 152550.0,
+          "sold": 257,
+          "totalSeats": 10064
+        }
+      }
+    },
+    "Rajadahana": {
+      "formats": {
+        "ET00006123": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 9,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 1253
+        }
+      }
+    },
+    "Nooru Saami": {
+      "formats": {
+        "ET00006116": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 27,
+          "gross": 7500.0,
+          "sold": 14,
+          "totalSeats": 5205
+        }
+      }
+    },
+    "He - Man and The Masters of the Universe": {
+      "formats": {
+        "ET00006071": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 60600.0,
+          "sold": 46,
+          "totalSeats": 344
+        }
+      }
+    },
+    "Passenger": {
+      "formats": {
+        "ET00006099": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 71100.0,
+          "sold": 42,
+          "totalSeats": 289
+        }
+      }
+    },
+    "Scary Movie": {
+      "formats": {
+        "ET00006089": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 27200.0,
+          "sold": 17,
+          "totalSeats": 465
+        }
+      }
+    },
     "Blast": {
       "formats": {
         "ET00006098": {
@@ -331,6 +283,54 @@
           "gross": 33950.0,
           "sold": 16,
           "totalSeats": 2969
+        }
+      }
+    },
+    "The Furious": {
+      "formats": {
+        "ET00006108": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 33750.0,
+          "sold": 15,
+          "totalSeats": 595
+        }
+      }
+    },
+    "Hai Jawani Toh Ishq Hona Hai": {
+      "formats": {
+        "ET00006078": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 16200.0,
+          "sold": 12,
+          "totalSeats": 210
+        }
+      }
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 15700.0,
+          "sold": 12,
+          "totalSeats": 213
+        }
+      }
+    },
+    "Parimala and Co": {
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 11250.0,
+          "sold": 9,
+          "totalSeats": 714
         }
       }
     }
