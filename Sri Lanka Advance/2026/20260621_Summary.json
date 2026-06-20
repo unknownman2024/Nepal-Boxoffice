@@ -1,5 +1,102 @@
 {
   "date": "20260621",
-  "lastUpdated": "11:17 AM, 20 June 2026",
-  "movies": {}
+  "lastUpdated": "03:37 PM, 20 June 2026",
+  "movies": {
+    "Karuppu": {
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 9,
+          "gross": 9750.0,
+          "sold": 10,
+          "totalSeats": 1349
+        }
+      }
+    },
+    "Scary Movie": {
+      "formats": {
+        "ET00006089": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 74950.0,
+          "sold": 45,
+          "totalSeats": 484
+        }
+      }
+    },
+    "Toy Story 5": {
+      "formats": {
+        "ET00006121": {
+          "format": "3D",
+          "language": "English",
+          "shows": 41,
+          "gross": 217950.0,
+          "sold": 119,
+          "totalSeats": 7694
+        }
+      }
+    },
+    "Hai Jawani Toh Ishq Hona Hai": {
+      "formats": {
+        "ET00006078": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 210
+        }
+      }
+    },
+    "OIC Gadafi": {
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 16,
+          "gross": 2400.0,
+          "sold": 6,
+          "totalSeats": 4113
+        }
+      }
+    },
+    "Riverstone": {
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 19,
+          "gross": 43500.0,
+          "sold": 50,
+          "totalSeats": 4022
+        }
+      }
+    },
+    "Eka Thamai Meka": {
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 60,
+          "gross": 77150.0,
+          "sold": 117,
+          "totalSeats": 11320
+        }
+      }
+    },
+    "Sooriya Sulanga": {
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 68,
+          "gross": 89650.0,
+          "sold": 160,
+          "totalSeats": 9721
+        }
+      }
+    }
+  }
 }
