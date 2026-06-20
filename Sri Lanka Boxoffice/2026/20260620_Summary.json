@@ -1,5 +1,158 @@
 {
   "date": "20260620",
-  "lastUpdated": "05:35 AM, 20 June 2026",
-  "movies": {}
+  "lastUpdated": "10:39 AM, 20 June 2026",
+  "movies": {
+    "Eka Thamai Meka": {
+      "totalShows": 11,
+      "totalGross": 57800.0,
+      "totalSold": 82,
+      "totalSeats": 2475,
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 57800.0,
+          "sold": 82,
+          "totalSeats": 2475,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.31
+    },
+    "Karuppu": {
+      "totalShows": 2,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 348,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 348,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Blast": {
+      "totalShows": 5,
+      "totalGross": 4050.0,
+      "totalSold": 6,
+      "totalSeats": 851,
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 5,
+          "gross": 4050.0,
+          "sold": 6,
+          "totalSeats": 851,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.71
+    },
+    "Toy Story 5": {
+      "totalShows": 6,
+      "totalGross": 115400.0,
+      "totalSold": 84,
+      "totalSeats": 1303,
+      "formats": {
+        "ET00006121": {
+          "format": "3D",
+          "language": "English",
+          "shows": 6,
+          "gross": 115400.0,
+          "sold": 84,
+          "totalSeats": 1303,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 6.45
+    },
+    "Cocktail 2": {
+      "totalShows": 2,
+      "totalGross": 46400.0,
+      "totalSold": 32,
+      "totalSeats": 143,
+      "formats": {
+        "ET00006079": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 2,
+          "gross": 46400.0,
+          "sold": 32,
+          "totalSeats": 143,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 22.38
+    },
+    "Sooriya Sulanga": {
+      "totalShows": 12,
+      "totalGross": 59750.0,
+      "totalSold": 73,
+      "totalSeats": 1019,
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 12,
+          "gross": 59750.0,
+          "sold": 73,
+          "totalSeats": 1019,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 7.16
+    },
+    "Riverstone": {
+      "totalShows": 5,
+      "totalGross": 5500.0,
+      "totalSold": 12,
+      "totalSeats": 982,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 5500.0,
+          "sold": 12,
+          "totalSeats": 982,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.22
+    },
+    "Michael": {
+      "totalShows": 5,
+      "totalGross": 164400.0,
+      "totalSold": 115,
+      "totalSeats": 865,
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 5,
+          "gross": 164400.0,
+          "sold": 115,
+          "totalSeats": 865,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 13.29
+    }
+  }
 }
