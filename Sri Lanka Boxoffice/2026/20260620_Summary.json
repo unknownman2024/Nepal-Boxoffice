@@ -1,120 +1,120 @@
 {
   "date": "20260620",
-  "lastUpdated": "04:43 PM, 20 June 2026",
+  "lastUpdated": "07:24 PM, 20 June 2026",
   "movies": {
     "Eka Thamai Meka": {
-      "totalShows": 37,
-      "totalGross": 429800.0,
-      "totalSold": 440,
-      "totalSeats": 6950,
+      "totalShows": 44,
+      "totalGross": 641400.0,
+      "totalSold": 630,
+      "totalSeats": 8291,
       "formats": {
         "ET00006109": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 37,
-          "gross": 429800.0,
-          "sold": 440,
-          "totalSeats": 6950,
-          "fastfilling": 1,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 6.33
-    },
-    "Karuppu": {
-      "totalShows": 2,
-      "totalGross": 0.0,
-      "totalSold": 0,
-      "totalSeats": 348,
-      "formats": {
-        "ET00006082": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 348,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 0.0
-    },
-    "Blast": {
-      "totalShows": 7,
-      "totalGross": 27550.0,
-      "totalSold": 26,
-      "totalSeats": 1471,
-      "formats": {
-        "ET00006098": {
-          "format": "2D",
-          "language": "Tamil",
-          "shows": 7,
-          "gross": 27550.0,
-          "sold": 26,
-          "totalSeats": 1471,
-          "fastfilling": 0,
-          "housefull": 0
-        }
-      },
-      "globalOccupancy": 1.77
-    },
-    "Toy Story 5": {
-      "totalShows": 34,
-      "totalGross": 1013850.0,
-      "totalSold": 709,
-      "totalSeats": 6417,
-      "formats": {
-        "ET00006121": {
-          "format": "3D",
-          "language": "English",
-          "shows": 34,
-          "gross": 1013850.0,
-          "sold": 709,
-          "totalSeats": 6417,
+          "shows": 44,
+          "gross": 641400.0,
+          "sold": 630,
+          "totalSeats": 8291,
           "fastfilling": 2,
           "housefull": 0
         }
       },
-      "globalOccupancy": 11.05
+      "globalOccupancy": 7.6
+    },
+    "Karuppu": {
+      "totalShows": 4,
+      "totalGross": 40900.0,
+      "totalSold": 34,
+      "totalSeats": 597,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 40900.0,
+          "sold": 34,
+          "totalSeats": 597,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 5.7
+    },
+    "Blast": {
+      "totalShows": 11,
+      "totalGross": 80050.0,
+      "totalSold": 54,
+      "totalSeats": 2268,
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 11,
+          "gross": 80050.0,
+          "sold": 54,
+          "totalSeats": 2268,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.38
+    },
+    "Toy Story 5": {
+      "totalShows": 35,
+      "totalGross": 1091750.0,
+      "totalSold": 754,
+      "totalSeats": 6722,
+      "formats": {
+        "ET00006121": {
+          "format": "3D",
+          "language": "English",
+          "shows": 35,
+          "gross": 1091750.0,
+          "sold": 754,
+          "totalSeats": 6722,
+          "fastfilling": 3,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 11.22
     },
     "Cocktail 2": {
-      "totalShows": 7,
-      "totalGross": 117100.0,
-      "totalSold": 82,
-      "totalSeats": 592,
+      "totalShows": 10,
+      "totalGross": 384450.0,
+      "totalSold": 225,
+      "totalSeats": 920,
       "formats": {
         "ET00006079": {
           "format": "2D",
           "language": "Hindi",
-          "shows": 7,
-          "gross": 117100.0,
-          "sold": 82,
-          "totalSeats": 592,
-          "fastfilling": 0,
+          "shows": 10,
+          "gross": 384450.0,
+          "sold": 225,
+          "totalSeats": 920,
+          "fastfilling": 1,
           "housefull": 0
         }
       },
-      "globalOccupancy": 13.85
+      "globalOccupancy": 24.46
     },
     "Sooriya Sulanga": {
-      "totalShows": 46,
-      "totalGross": 191300.0,
-      "totalSold": 311,
-      "totalSeats": 6350,
+      "totalShows": 48,
+      "totalGross": 237100.0,
+      "totalSold": 376,
+      "totalSeats": 6683,
       "formats": {
         "ET00006102": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 46,
-          "gross": 191300.0,
-          "sold": 311,
-          "totalSeats": 6350,
-          "fastfilling": 0,
+          "shows": 48,
+          "gross": 237100.0,
+          "sold": 376,
+          "totalSeats": 6683,
+          "fastfilling": 1,
           "housefull": 0
         }
       },
-      "globalOccupancy": 4.9
+      "globalOccupancy": 5.63
     },
     "Riverstone": {
       "totalShows": 14,
@@ -136,42 +136,42 @@
       "globalOccupancy": 6.18
     },
     "Michael": {
-      "totalShows": 13,
-      "totalGross": 999850.0,
-      "totalSold": 543,
-      "totalSeats": 1744,
+      "totalShows": 16,
+      "totalGross": 1156450.0,
+      "totalSold": 654,
+      "totalSeats": 2296,
       "formats": {
         "ET00006006": {
           "format": "2D",
           "language": "English",
-          "shows": 13,
-          "gross": 999850.0,
-          "sold": 543,
-          "totalSeats": 1744,
+          "shows": 16,
+          "gross": 1156450.0,
+          "sold": 654,
+          "totalSeats": 2296,
           "fastfilling": 5,
           "housefull": 0
         }
       },
-      "globalOccupancy": 31.14
+      "globalOccupancy": 28.48
     },
     "Chandarege Wife": {
-      "totalShows": 11,
-      "totalGross": 96650.0,
-      "totalSold": 170,
-      "totalSeats": 2606,
+      "totalShows": 13,
+      "totalGross": 232650.0,
+      "totalSold": 285,
+      "totalSeats": 2943,
       "formats": {
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
-          "gross": 96650.0,
-          "sold": 170,
-          "totalSeats": 2606,
-          "fastfilling": 0,
+          "shows": 13,
+          "gross": 232650.0,
+          "sold": 285,
+          "totalSeats": 2943,
+          "fastfilling": 1,
           "housefull": 0
         }
       },
-      "globalOccupancy": 6.52
+      "globalOccupancy": 9.68
     },
     "He - Man and The Masters of the Universe": {
       "totalShows": 3,
@@ -212,23 +212,23 @@
       "globalOccupancy": 1.8
     },
     "OIC Gadafi": {
-      "totalShows": 5,
-      "totalGross": 0.0,
-      "totalSold": 0,
-      "totalSeats": 1192,
+      "totalShows": 8,
+      "totalGross": 13750.0,
+      "totalSold": 25,
+      "totalSeats": 1973,
       "formats": {
         "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 5,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 1192,
+          "shows": 8,
+          "gross": 13750.0,
+          "sold": 25,
+          "totalSeats": 1973,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 0.0
+      "globalOccupancy": 1.27
     },
     "The Voice of Hind Rajab": {
       "totalShows": 5,
@@ -250,61 +250,61 @@
       "globalOccupancy": 11.4
     },
     "Nooru Saami": {
-      "totalShows": 9,
-      "totalGross": 45150.0,
-      "totalSold": 39,
-      "totalSeats": 1917,
+      "totalShows": 18,
+      "totalGross": 83650.0,
+      "totalSold": 72,
+      "totalSeats": 3662,
       "formats": {
         "ET00006116": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 9,
-          "gross": 45150.0,
-          "sold": 39,
-          "totalSeats": 1917,
+          "shows": 18,
+          "gross": 83650.0,
+          "sold": 72,
+          "totalSeats": 3662,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 2.03
+      "globalOccupancy": 1.97
     },
     "Engal Thangam": {
-      "totalShows": 7,
-      "totalGross": 16100.0,
-      "totalSold": 26,
-      "totalSeats": 1375,
+      "totalShows": 15,
+      "totalGross": 123850.0,
+      "totalSold": 100,
+      "totalSeats": 2712,
       "formats": {
         "ET00006117": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 7,
-          "gross": 16100.0,
-          "sold": 26,
-          "totalSeats": 1375,
+          "shows": 15,
+          "gross": 123850.0,
+          "sold": 100,
+          "totalSeats": 2712,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 1.89
+      "globalOccupancy": 3.69
     },
     "Scary Movie": {
-      "totalShows": 2,
-      "totalGross": 65800.0,
-      "totalSold": 46,
-      "totalSeats": 251,
+      "totalShows": 4,
+      "totalGross": 151800.0,
+      "totalSold": 94,
+      "totalSeats": 369,
       "formats": {
         "ET00006089": {
           "format": "2D",
           "language": "English",
-          "shows": 2,
-          "gross": 65800.0,
-          "sold": 46,
-          "totalSeats": 251,
+          "shows": 4,
+          "gross": 151800.0,
+          "sold": 94,
+          "totalSeats": 369,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 18.33
+      "globalOccupancy": 25.47
     },
     "The Sheep Detectives": {
       "totalShows": 1,
@@ -326,23 +326,23 @@
       "globalOccupancy": 42.86
     },
     "Disclosure Day": {
-      "totalShows": 3,
-      "totalGross": 134850.0,
-      "totalSold": 90,
-      "totalSeats": 356,
+      "totalShows": 6,
+      "totalGross": 291200.0,
+      "totalSold": 196,
+      "totalSeats": 652,
       "formats": {
         "ET00006090": {
           "format": "2D",
           "language": "English",
-          "shows": 3,
-          "gross": 134850.0,
-          "sold": 90,
-          "totalSeats": 356,
+          "shows": 6,
+          "gross": 291200.0,
+          "sold": 196,
+          "totalSeats": 652,
           "fastfilling": 1,
           "housefull": 0
         }
       },
-      "globalOccupancy": 25.28
+      "globalOccupancy": 30.06
     },
     "Hai Jawani Toh Ishq Hona Hai": {
       "totalShows": 1,
@@ -362,6 +362,63 @@
         }
       },
       "globalOccupancy": 0.0
+    },
+    "The Furious": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 226,
+      "formats": {
+        "ET00006108": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 226,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Star Wars: The Mandalorian and Grogu": {
+      "totalShows": 1,
+      "totalGross": 14850.0,
+      "totalSold": 11,
+      "totalSeats": 92,
+      "formats": {
+        "ET00006097": {
+          "format": "3D",
+          "language": "English",
+          "shows": 1,
+          "gross": 14850.0,
+          "sold": 11,
+          "totalSeats": 92,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 11.96
+    },
+    "Parimala and Co": {
+      "totalShows": 4,
+      "totalGross": 70700.0,
+      "totalSold": 56,
+      "totalSeats": 530,
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 70700.0,
+          "sold": 56,
+          "totalSeats": 530,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 10.57
     }
   }
 }
