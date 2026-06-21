@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "lastUpdated": "05:15 PM, 21 June 2026",
+  "lastUpdated": "07:34 PM, 21 June 2026",
   "shows": [
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3270,11 +3270,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 0,
+      "sold": 6,
       "reserved": 0,
-      "available": 67,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 61,
+      "gross": 3300,
+      "occupancy_percent": 8.96
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3285,11 +3285,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 136,
-      "sold": 14,
+      "sold": 4,
       "reserved": 0,
-      "available": 122,
-      "gross": 6160,
-      "occupancy_percent": 10.29
+      "available": 132,
+      "gross": 1760,
+      "occupancy_percent": 2.94
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3375,11 +3375,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 4,
+      "sold": 13,
       "reserved": 0,
-      "available": 255,
-      "gross": 1760,
-      "occupancy_percent": 1.54
+      "available": 246,
+      "gross": 5720,
+      "occupancy_percent": 5.02
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3445,18 +3445,16 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "173596:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-06-21T20:00:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 193,
+      "gross": 7280,
+      "occupancy_percent": 6.76
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3497,11 +3495,11 @@
       "date": "2026-06-21T20:30:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 6,
-      "reserved": 2,
-      "available": 169,
-      "gross": 3600,
-      "occupancy_percent": 4.52
+      "sold": 8,
+      "reserved": 5,
+      "available": 164,
+      "gross": 5850,
+      "occupancy_percent": 7.34
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3512,11 +3510,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 10,
+      "sold": 44,
       "reserved": 0,
-      "available": 339,
-      "gross": 4500,
-      "occupancy_percent": 2.87
+      "available": 305,
+      "gross": 19800,
+      "occupancy_percent": 12.61
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3527,11 +3525,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 20,
-      "reserved": 4,
-      "available": 29,
-      "gross": 33600,
-      "occupancy_percent": 45.28
+      "sold": 41,
+      "reserved": 0,
+      "available": 12,
+      "gross": 57400,
+      "occupancy_percent": 77.36
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3542,11 +3540,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 8,
+      "sold": 34,
       "reserved": 2,
-      "available": 140,
-      "gross": 5600,
-      "occupancy_percent": 6.67
+      "available": 114,
+      "gross": 20160,
+      "occupancy_percent": 24.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3587,11 +3585,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 15,
+      "sold": 46,
       "reserved": 0,
-      "available": 193,
-      "gross": 6750,
-      "occupancy_percent": 7.21
+      "available": 162,
+      "gross": 20700,
+      "occupancy_percent": 22.12
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3678,10 +3676,10 @@
       "time": "",
       "seats": 181,
       "sold": 0,
-      "reserved": 3,
-      "available": 178,
-      "gross": 900,
-      "occupancy_percent": 1.66
+      "reserved": 0,
+      "available": 181,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3717,16 +3715,18 @@
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
       "movie_name": "Cocktail 2",
       "show_id": "27752:one-cinemas-kalimati",
-      "venue": "one-cinemas-kalimati",
-      "theatre": "One Cinemas Kalimati - Audi 1",
-      "date": "2026-06-21T20:15:00+05:45",
-      "time": "",
-      "seats": 151,
-      "sold": 17,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-21",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 134,
-      "gross": 7660,
-      "occupancy_percent": 11.26
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3812,11 +3812,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 258,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 258,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 253,
+      "gross": 1250,
+      "occupancy_percent": 1.94
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3842,11 +3842,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 11,
+      "sold": 54,
       "reserved": 0,
-      "available": 185,
-      "gross": 2970,
-      "occupancy_percent": 5.61
+      "available": 142,
+      "gross": 14580,
+      "occupancy_percent": 27.55
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3902,11 +3902,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 189,
-      "sold": 8,
+      "sold": 15,
       "reserved": 7,
-      "available": 174,
-      "gross": 9230,
-      "occupancy_percent": 7.94
+      "available": 167,
+      "gross": 11680,
+      "occupancy_percent": 11.64
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3947,11 +3947,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 230,
-      "sold": 7,
-      "reserved": 6,
-      "available": 217,
-      "gross": 5900,
-      "occupancy_percent": 5.65
+      "sold": 22,
+      "reserved": 10,
+      "available": 198,
+      "gross": 12550,
+      "occupancy_percent": 13.91
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3977,11 +3977,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 188,
-      "gross": 500,
-      "occupancy_percent": 1.05
+      "available": 184,
+      "gross": 1500,
+      "occupancy_percent": 3.16
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -4154,18 +4154,16 @@
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
       "movie_name": "Cocktail 2",
       "show_id": "173572:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-06-21T20:15:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 26,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 103,
+      "gross": 13200,
+      "occupancy_percent": 20.16
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -4296,11 +4294,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 6,
+      "sold": 10,
       "reserved": 0,
-      "available": 174,
-      "gross": 2880,
-      "occupancy_percent": 3.33
+      "available": 170,
+      "gross": 4800,
+      "occupancy_percent": 5.56
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -4311,11 +4309,11 @@
       "date": "2026-06-21T20:15:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 51,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 46,
+      "gross": 7000,
+      "occupancy_percent": 9.8
     },
     {
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
@@ -4413,18 +4411,16 @@
       "movie_id": "2xzU5oXd3N5urfFfabDAKo",
       "movie_name": "Colony",
       "show_id": "173590:qfx-bhaktapur",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-06-21",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-06-21T20:15:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 8,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 239,
+      "gross": 3520,
+      "occupancy_percent": 3.24
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -4540,11 +4536,11 @@
       "date": "2026-06-21T20:00:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 139,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 134,
+      "gross": 2050,
+      "occupancy_percent": 3.6
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -4586,10 +4582,10 @@
       "time": "",
       "seats": 143,
       "sold": 0,
-      "reserved": 2,
-      "available": 141,
-      "gross": 600,
-      "occupancy_percent": 1.4
+      "reserved": 143,
+      "available": 0,
+      "gross": 43100,
+      "occupancy_percent": 100.0
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -4601,10 +4597,10 @@
       "time": "",
       "seats": 230,
       "sold": 5,
-      "reserved": 6,
-      "available": 219,
-      "gross": 5200,
-      "occupancy_percent": 4.78
+      "reserved": 11,
+      "available": 214,
+      "gross": 6950,
+      "occupancy_percent": 6.96
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -4705,11 +4701,11 @@
       "date": "2026-06-21T20:30:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 0,
-      "reserved": 13,
-      "available": 156,
-      "gross": 6550,
-      "occupancy_percent": 7.69
+      "sold": 2,
+      "reserved": 25,
+      "available": 142,
+      "gross": 12150,
+      "occupancy_percent": 15.98
     },
     {
       "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
@@ -4862,6 +4858,111 @@
       "available": 106,
       "gross": 4800,
       "occupancy_percent": 10.17
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "40626:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 3",
+      "date": "2026-06-21T20:45:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 0,
+      "reserved": 0,
+      "available": 164,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "173573:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-06-21T20:45:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 2,
+      "reserved": 0,
+      "available": 180,
+      "gross": 880,
+      "occupancy_percent": 1.1
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "2384:friends-cinemas-illam",
+      "venue": "friends-cinemas-illam",
+      "theatre": "Friends Cinemas - Illam - Audi 1",
+      "date": "2026-06-21T20:00:00+05:45",
+      "time": "",
+      "seats": 188,
+      "sold": 3,
+      "reserved": 0,
+      "available": 185,
+      "gross": 1050,
+      "occupancy_percent": 1.6
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "173585:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-06-21T20:30:00+05:45",
+      "time": "",
+      "seats": 248,
+      "sold": 15,
+      "reserved": 0,
+      "available": 233,
+      "gross": 6600,
+      "occupancy_percent": 6.05
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "78760:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI -1",
+      "date": "2026-06-21T20:45:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 4,
+      "available": 243,
+      "gross": 1400,
+      "occupancy_percent": 1.62
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "16028:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-06-21T21:00:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 19,
+      "reserved": 0,
+      "available": 198,
+      "gross": 8400,
+      "occupancy_percent": 8.76
+    },
+    {
+      "movie_id": "5UVEbmut9MMEGVFj3krnS7",
+      "movie_name": "Peddi",
+      "show_id": "16033:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-06-21T20:45:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 8,
+      "reserved": 0,
+      "available": 209,
+      "gross": 3200,
+      "occupancy_percent": 3.69
     }
   ]
 }
