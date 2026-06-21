@@ -216,10 +216,10 @@
     "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
     "movie_name": "Cocktail 2",
     "total_shows": 78,
-    "seats": 15672,
-    "sold": 160,
-    "reserved": 114,
-    "available": 15398,
+    "seats": 14676,
+    "sold": 156,
+    "reserved": 128,
+    "available": 14392,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -237,9 +237,9 @@
         "venue": "qfx-labim",
         "total_shows": 3,
         "seats": 546,
-        "sold": 5,
+        "sold": 7,
         "reserved": 0,
-        "available": 541,
+        "available": 539,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -394,22 +394,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 1,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "bishwojyoti-cineplex",
-        "total_shows": 2,
-        "seats": 402,
+        "total_shows": 3,
+        "seats": 491,
         "sold": 0,
         "reserved": 0,
-        "available": 402,
+        "available": 491,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -458,8 +448,8 @@
         "total_shows": 4,
         "seats": 792,
         "sold": 4,
-        "reserved": 0,
-        "available": 788,
+        "reserved": 14,
+        "available": 774,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -474,12 +464,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "cineroyale",
-        "total_shows": 6,
-        "seats": 1302,
-        "sold": 6,
+        "venue": "Unknown",
+        "total_shows": 5,
+        "seats": 0,
+        "sold": 0,
         "reserved": 0,
-        "available": 1296,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cineroyale",
+        "total_shows": 1,
+        "seats": 217,
+        "sold": 0,
+        "reserved": 0,
+        "available": 217,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -815,20 +815,20 @@
     "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
     "movie_name": "I am Jit Bahadur",
     "total_shows": 30,
-    "seats": 5729,
+    "seats": 4119,
     "sold": 35,
     "reserved": 161,
-    "available": 5533,
+    "available": 3923,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "ini-cinemas-nb-center",
-        "total_shows": 2,
-        "seats": 354,
+        "venue": "Unknown",
+        "total_shows": 8,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 354,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -839,16 +839,6 @@
         "sold": 0,
         "reserved": 12,
         "available": 186,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-lotse-ktm",
-        "total_shows": 2,
-        "seats": 480,
-        "sold": 0,
-        "reserved": 0,
-        "available": 480,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -893,16 +883,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "bishwojyoti-cineplex",
-        "total_shows": 1,
-        "seats": 89,
-        "sold": 0,
-        "reserved": 0,
-        "available": 89,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-square-mall",
         "total_shows": 2,
         "seats": 278,
@@ -923,16 +903,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-simara",
-        "total_shows": 1,
-        "seats": 199,
-        "sold": 0,
-        "reserved": 0,
-        "available": 199,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qs-cinemas",
         "total_shows": 1,
         "seats": 129,
@@ -940,16 +910,6 @@
         "reserved": 129,
         "available": 0,
         "housefull": 1,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-qbox-butwal",
-        "total_shows": 1,
-        "seats": 196,
-        "sold": 0,
-        "reserved": 0,
-        "available": 196,
-        "housefull": 0,
         "fastfilling": 0
       },
       {
@@ -989,16 +949,6 @@
         "sold": 0,
         "reserved": 0,
         "available": 359,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "ini-cinemas-devchuli",
-        "total_shows": 1,
-        "seats": 292,
-        "sold": 0,
-        "reserved": 0,
-        "available": 292,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1125,8 +1075,8 @@
     "movie_name": "Roll No 1",
     "total_shows": 7,
     "seats": 1439,
-    "sold": 21,
-    "reserved": 410,
+    "sold": 23,
+    "reserved": 408,
     "available": 1008,
     "housefull": 2,
     "fastfilling": 0,
@@ -1185,8 +1135,8 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 1,
         "seats": 207,
-        "sold": 0,
-        "reserved": 2,
+        "sold": 2,
+        "reserved": 0,
         "available": 205,
         "housefull": 0,
         "fastfilling": 0
@@ -1197,20 +1147,20 @@
     "movie_id": "ZxgHybCrnGr5JsKTY66TRV",
     "movie_name": "Disclosure Day",
     "total_shows": 1,
-    "seats": 110,
-    "sold": 5,
+    "seats": 0,
+    "sold": 0,
     "reserved": 0,
-    "available": 105,
+    "available": 0,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
-        "venue": "qfx-chhaya",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 110,
-        "sold": 5,
+        "seats": 0,
+        "sold": 0,
         "reserved": 0,
-        "available": 105,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
