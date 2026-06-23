@@ -2,11 +2,11 @@
   {
     "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
     "movie_name": "Cocktail 2",
-    "total_shows": 97,
-    "seats": 20961,
-    "sold": 133,
-    "reserved": 434,
-    "available": 20394,
+    "total_shows": 101,
+    "seats": 21434,
+    "sold": 227,
+    "reserved": 435,
+    "available": 20772,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "big-movies",
         "total_shows": 6,
         "seats": 2015,
-        "sold": 52,
+        "sold": 73,
         "reserved": 302,
-        "available": 1661,
+        "available": 1640,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -154,19 +154,19 @@
         "venue": "infinity-movies",
         "total_shows": 3,
         "seats": 516,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 516,
+        "available": 513,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "pokhara-cineplex",
-        "total_shows": 4,
-        "seats": 1180,
+        "total_shows": 3,
+        "seats": 821,
         "sold": 0,
         "reserved": 0,
-        "available": 1180,
+        "available": 821,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -187,6 +187,16 @@
         "sold": 2,
         "reserved": 0,
         "available": 655,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -299,17 +309,27 @@
         "available": 536,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 832,
+        "sold": 70,
+        "reserved": 1,
+        "available": 761,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
     "movie_name": "OBSESSION",
-    "total_shows": 40,
-    "seats": 7351,
-    "sold": 77,
-    "reserved": 195,
-    "available": 7079,
+    "total_shows": 44,
+    "seats": 7760,
+    "sold": 118,
+    "reserved": 202,
+    "available": 7440,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -317,9 +337,9 @@
         "venue": "big-movies",
         "total_shows": 3,
         "seats": 837,
-        "sold": 33,
-        "reserved": 126,
-        "available": 678,
+        "sold": 39,
+        "reserved": 131,
+        "available": 667,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -338,8 +358,8 @@
         "total_shows": 4,
         "seats": 208,
         "sold": 6,
-        "reserved": 0,
-        "available": 202,
+        "reserved": 2,
+        "available": 200,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -552,17 +572,27 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 409,
+        "sold": 35,
+        "reserved": 0,
+        "available": 374,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "2xzU5oXd3N5urfFfabDAKo",
     "movie_name": "Colony",
-    "total_shows": 27,
-    "seats": 5026,
-    "sold": 23,
+    "total_shows": 28,
+    "seats": 5093,
+    "sold": 29,
     "reserved": 153,
-    "available": 4850,
+    "available": 4911,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -775,17 +805,27 @@
         "available": 196,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "yVYQ9fa86RFE8N77HgqtD4",
     "movie_name": "I am Jit Bahadur",
-    "total_shows": 35,
-    "seats": 7078,
-    "sold": 0,
+    "total_shows": 37,
+    "seats": 7348,
+    "sold": 23,
     "reserved": 149,
-    "available": 6929,
+    "available": 7176,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1028,6 +1068,16 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 2,
+        "seats": 270,
+        "sold": 23,
+        "reserved": 0,
+        "available": 247,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1157,11 +1207,11 @@
   {
     "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
     "movie_name": "Toy Story 5",
-    "total_shows": 7,
-    "seats": 1298,
-    "sold": 2,
+    "total_shows": 8,
+    "seats": 1365,
+    "sold": 8,
     "reserved": 61,
-    "available": 1235,
+    "available": 1296,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1232,6 +1282,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1454,6 +1514,29 @@
         "sold": 0,
         "reserved": 0,
         "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "9FbFMenjmgLfveQL9Xv2DJ",
+    "movie_name": "Hai Jawani Toh Ishq Hona Hai",
+    "total_shows": 1,
+    "seats": 203,
+    "sold": 17,
+    "reserved": 0,
+    "available": 186,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 17,
+        "reserved": 0,
+        "available": 186,
         "housefull": 0,
         "fastfilling": 0
       }
