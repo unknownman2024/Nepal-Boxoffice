@@ -1,25 +1,25 @@
 {
   "date": "20260623",
-  "lastUpdated": "05:27 PM, 23 June 2026",
+  "lastUpdated": "08:21 PM, 23 June 2026",
   "movies": {
     "Eka Thamai Meka": {
-      "totalShows": 38,
-      "totalGross": 51850.0,
-      "totalSold": 82,
-      "totalSeats": 7125,
+      "totalShows": 45,
+      "totalGross": 113250.0,
+      "totalSold": 149,
+      "totalSeats": 8466,
       "formats": {
         "ET00006109": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 38,
-          "gross": 51850.0,
-          "sold": 82,
-          "totalSeats": 7125,
+          "shows": 45,
+          "gross": 113250.0,
+          "sold": 149,
+          "totalSeats": 8466,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 1.15
+      "globalOccupancy": 1.76
     },
     "Karuppu": {
       "totalShows": 8,
@@ -41,23 +41,23 @@
       "globalOccupancy": 0.26
     },
     "OIC Gadafi": {
-      "totalShows": 9,
-      "totalGross": 1200.0,
-      "totalSold": 2,
-      "totalSeats": 2323,
+      "totalShows": 11,
+      "totalGross": 5050.0,
+      "totalSold": 9,
+      "totalSeats": 2857,
       "formats": {
         "ET00006051": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 9,
-          "gross": 1200.0,
-          "sold": 2,
-          "totalSeats": 2323,
+          "shows": 11,
+          "gross": 5050.0,
+          "sold": 9,
+          "totalSeats": 2857,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 0.09
+      "globalOccupancy": 0.32
     },
     "Chandarege Wife": {
       "totalShows": 21,
@@ -117,23 +117,23 @@
       "globalOccupancy": 1.23
     },
     "Michael": {
-      "totalShows": 14,
-      "totalGross": 135750.0,
-      "totalSold": 80,
-      "totalSeats": 1980,
+      "totalShows": 17,
+      "totalGross": 159550.0,
+      "totalSold": 96,
+      "totalSeats": 2532,
       "formats": {
         "ET00006006": {
           "format": "2D",
           "language": "English",
-          "shows": 14,
-          "gross": 135750.0,
-          "sold": 80,
-          "totalSeats": 1980,
+          "shows": 17,
+          "gross": 159550.0,
+          "sold": 96,
+          "totalSeats": 2532,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 4.04
+      "globalOccupancy": 3.79
     },
     "Engal Thangam": {
       "totalShows": 9,
@@ -307,23 +307,23 @@
       "globalOccupancy": 9.88
     },
     "Disclosure Day": {
-      "totalShows": 8,
+      "totalShows": 11,
       "totalGross": 28800.0,
       "totalSold": 22,
-      "totalSeats": 1054,
+      "totalSeats": 1344,
       "formats": {
         "ET00006090": {
           "format": "2D",
           "language": "English",
-          "shows": 8,
+          "shows": 11,
           "gross": 28800.0,
           "sold": 22,
-          "totalSeats": 1054,
+          "totalSeats": 1344,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 2.09
+      "globalOccupancy": 1.64
     },
     "Blast": {
       "totalShows": 8,
@@ -421,23 +421,23 @@
       "globalOccupancy": 90.91
     },
     "Star Wars: The Mandalorian and Grogu": {
-      "totalShows": 1,
-      "totalGross": 3300.0,
-      "totalSold": 3,
-      "totalSeats": 121,
+      "totalShows": 2,
+      "totalGross": 4800.0,
+      "totalSold": 5,
+      "totalSeats": 213,
       "formats": {
         "ET00006097": {
           "format": "3D",
           "language": "English",
-          "shows": 1,
-          "gross": 3300.0,
-          "sold": 3,
-          "totalSeats": 121,
+          "shows": 2,
+          "gross": 4800.0,
+          "sold": 5,
+          "totalSeats": 213,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 2.48
+      "globalOccupancy": 2.35
     },
     "Parimala and Co": {
       "totalShows": 2,
@@ -457,6 +457,25 @@
         }
       },
       "globalOccupancy": 1.92
+    },
+    "The Furious": {
+      "totalShows": 1,
+      "totalGross": 15400.0,
+      "totalSold": 7,
+      "totalSeats": 41,
+      "formats": {
+        "ET00006108": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 15400.0,
+          "sold": 7,
+          "totalSeats": 41,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 17.07
     }
   }
 }
