@@ -2,11 +2,11 @@
   {
     "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
     "movie_name": "Cocktail 2",
-    "total_shows": 128,
-    "seats": 26603,
-    "sold": 2919,
+    "total_shows": 130,
+    "seats": 27108,
+    "sold": 3011,
     "reserved": 364,
-    "available": 23320,
+    "available": 23733,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -102,11 +102,11 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 5,
-        "seats": 1085,
-        "sold": 287,
+        "total_shows": 6,
+        "seats": 1302,
+        "sold": 375,
         "reserved": 12,
-        "available": 786,
+        "available": 915,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -342,11 +342,11 @@
       },
       {
         "venue": "qfx-bageshwori",
-        "total_shows": 3,
-        "seats": 866,
-        "sold": 20,
+        "total_shows": 4,
+        "seats": 1154,
+        "sold": 24,
         "reserved": 3,
-        "available": 843,
+        "available": 1127,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -505,11 +505,11 @@
   {
     "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
     "movie_name": "OBSESSION",
-    "total_shows": 44,
-    "seats": 7250,
-    "sold": 791,
-    "reserved": 130,
-    "available": 6329,
+    "total_shows": 45,
+    "seats": 7432,
+    "sold": 821,
+    "reserved": 132,
+    "available": 6479,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -785,11 +785,11 @@
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 2,
-        "seats": 311,
-        "sold": 81,
-        "reserved": 17,
-        "available": 213,
+        "total_shows": 3,
+        "seats": 493,
+        "sold": 111,
+        "reserved": 19,
+        "available": 363,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -941,11 +941,11 @@
   {
     "movie_id": "2xzU5oXd3N5urfFfabDAKo",
     "movie_name": "Colony",
-    "total_shows": 30,
-    "seats": 5169,
-    "sold": 364,
+    "total_shows": 31,
+    "seats": 5459,
+    "sold": 371,
     "reserved": 63,
-    "available": 4742,
+    "available": 5025,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1126,6 +1126,16 @@
         "sold": 20,
         "reserved": 5,
         "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 7,
+        "reserved": 0,
+        "available": 283,
         "housefull": 0,
         "fastfilling": 0
       },
