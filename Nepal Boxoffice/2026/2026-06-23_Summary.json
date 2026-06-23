@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+    "movie_name": "Cocktail 2",
+    "total_shows": 3,
+    "seats": 737,
+    "sold": 73,
+    "reserved": 7,
+    "available": 657,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 44,
+        "reserved": 0,
+        "available": 305,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 5,
+        "reserved": 3,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 24,
+        "reserved": 4,
+        "available": 152,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+    "movie_name": "OBSESSION",
+    "total_shows": 1,
+    "seats": 67,
+    "sold": 6,
+    "reserved": 0,
+    "available": 61,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+    "movie_name": "Lalibazar",
+    "total_shows": 1,
+    "seats": 190,
+    "sold": 0,
+    "reserved": 0,
+    "available": 190,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]

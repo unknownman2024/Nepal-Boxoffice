@@ -1,5 +1,81 @@
 {
   "date": "2026-06-23",
-  "lastUpdated": "04:15 AM, 23 June 2026",
-  "shows": []
+  "lastUpdated": "05:33 AM, 23 June 2026",
+  "shows": [
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "174083:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-06-23T08:15:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 24,
+      "reserved": 4,
+      "available": 152,
+      "gross": 6580,
+      "occupancy_percent": 15.56
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "27807:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-06-23T08:30:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 5,
+      "reserved": 3,
+      "available": 200,
+      "gross": 2000,
+      "occupancy_percent": 3.85
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "63262:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-06-23T08:30:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 44,
+      "reserved": 0,
+      "available": 305,
+      "gross": 8800,
+      "occupancy_percent": 12.61
+    },
+    {
+      "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
+      "movie_name": "OBSESSION",
+      "show_id": "27812:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-06-23T08:45:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 6,
+      "reserved": 0,
+      "available": 61,
+      "gross": 2400,
+      "occupancy_percent": 8.96
+    },
+    {
+      "movie_id": "r38CGCEZJgCW4CaDSnxH9A",
+      "movie_name": "Lalibazar",
+      "show_id": "8150:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-06-23T08:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
