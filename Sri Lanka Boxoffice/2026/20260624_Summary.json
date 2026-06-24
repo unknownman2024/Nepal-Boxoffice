@@ -1,5 +1,215 @@
 {
   "date": "20260624",
-  "lastUpdated": "04:36 AM, 24 June 2026",
-  "movies": {}
+  "lastUpdated": "08:22 AM, 24 June 2026",
+  "movies": {
+    "Toy Story 5": {
+      "totalShows": 4,
+      "totalGross": 5900.0,
+      "totalSold": 3,
+      "totalSeats": 699,
+      "formats": {
+        "ET00006121": {
+          "format": "3D",
+          "language": "English",
+          "shows": 4,
+          "gross": 5900.0,
+          "sold": 3,
+          "totalSeats": 699,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.43
+    },
+    "Eka Thamai Meka": {
+      "totalShows": 15,
+      "totalGross": 14400.0,
+      "totalSold": 36,
+      "totalSeats": 2683,
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 15,
+          "gross": 14400.0,
+          "sold": 36,
+          "totalSeats": 2683,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.34
+    },
+    "Nooru Saami": {
+      "totalShows": 4,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 719,
+      "formats": {
+        "ET00006116": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 4,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 719,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Scary Movie": {
+      "totalShows": 2,
+      "totalGross": 28800.0,
+      "totalSold": 14,
+      "totalSeats": 137,
+      "formats": {
+        "ET00006089": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 28800.0,
+          "sold": 14,
+          "totalSeats": 137,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 10.22
+    },
+    "Parimala and Co": {
+      "totalShows": 2,
+      "totalGross": 2550.0,
+      "totalSold": 3,
+      "totalSeats": 184,
+      "formats": {
+        "ET00006104": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 2550.0,
+          "sold": 3,
+          "totalSeats": 184,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.63
+    },
+    "OIC Gadafi": {
+      "totalShows": 3,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 899,
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 899,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Karuppu": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 190,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 190,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Sooriya Sulanga": {
+      "totalShows": 21,
+      "totalGross": 18300.0,
+      "totalSold": 44,
+      "totalSeats": 3354,
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 21,
+          "gross": 18300.0,
+          "sold": 44,
+          "totalSeats": 3354,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.31
+    },
+    "Blast": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 107,
+      "formats": {
+        "ET00006098": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 107,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "The Wife": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 100,
+      "formats": {
+        "ET00005992": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 100,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Riverstone": {
+      "totalShows": 5,
+      "totalGross": 3700.0,
+      "totalSold": 8,
+      "totalSeats": 904,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 3700.0,
+          "sold": 8,
+          "totalSeats": 904,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.88
+    }
+  }
 }
