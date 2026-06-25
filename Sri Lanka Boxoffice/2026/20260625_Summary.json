@@ -1,5 +1,158 @@
 {
   "date": "20260625",
-  "lastUpdated": "05:36 AM, 25 June 2026",
-  "movies": {}
+  "lastUpdated": "10:31 AM, 25 June 2026",
+  "movies": {
+    "Karuppu": {
+      "totalShows": 3,
+      "totalGross": 3400.0,
+      "totalSold": 4,
+      "totalSeats": 245,
+      "formats": {
+        "ET00006082": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 3400.0,
+          "sold": 4,
+          "totalSeats": 245,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.63
+    },
+    "Nooru Saami": {
+      "totalShows": 3,
+      "totalGross": 3150.0,
+      "totalSold": 3,
+      "totalSeats": 430,
+      "formats": {
+        "ET00006116": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 3,
+          "gross": 3150.0,
+          "sold": 3,
+          "totalSeats": 430,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.7
+    },
+    "Hai Jawani Toh Ishq Hona Hai": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 105,
+      "formats": {
+        "ET00006078": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "OIC Gadafi": {
+      "totalShows": 6,
+      "totalGross": 1400.0,
+      "totalSold": 4,
+      "totalSeats": 1377,
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 6,
+          "gross": 1400.0,
+          "sold": 4,
+          "totalSeats": 1377,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.29
+    },
+    "Disclosure Day": {
+      "totalShows": 2,
+      "totalGross": 2600.0,
+      "totalSold": 2,
+      "totalSeats": 351,
+      "formats": {
+        "ET00006090": {
+          "format": "2D",
+          "language": "English",
+          "shows": 2,
+          "gross": 2600.0,
+          "sold": 2,
+          "totalSeats": 351,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.57
+    },
+    "Riverstone": {
+      "totalShows": 5,
+      "totalGross": 1500.0,
+      "totalSold": 4,
+      "totalSeats": 982,
+      "formats": {
+        "ET00006048": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 1500.0,
+          "sold": 4,
+          "totalSeats": 982,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.41
+    },
+    "Eka Thamai Meka": {
+      "totalShows": 10,
+      "totalGross": 7800.0,
+      "totalSold": 13,
+      "totalSeats": 2156,
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 10,
+          "gross": 7800.0,
+          "sold": 13,
+          "totalSeats": 2156,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.6
+    },
+    "Chandarege Wife": {
+      "totalShows": 5,
+      "totalGross": 2900.0,
+      "totalSold": 4,
+      "totalSeats": 718,
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 5,
+          "gross": 2900.0,
+          "sold": 4,
+          "totalSeats": 718,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.56
+    }
+  }
 }
