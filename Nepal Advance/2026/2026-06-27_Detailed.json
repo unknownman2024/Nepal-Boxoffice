@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "lastUpdated": "01:23 AM, 26 June 2026",
+  "lastUpdated": "03:51 AM, 26 June 2026",
   "shows": [
     {
       "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
@@ -1271,11 +1271,11 @@
       "date": "2026-06-27T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 14,
+      "sold": 17,
       "reserved": 0,
-      "available": 233,
-      "gross": 3080,
-      "occupancy_percent": 5.67
+      "available": 230,
+      "gross": 3740,
+      "occupancy_percent": 6.88
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -3516,16 +3516,18 @@
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
       "movie_name": "Welcome to the Jungle",
       "show_id": "148672:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-06-27T12:45:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -3701,11 +3703,11 @@
       "date": "2026-06-27T09:00:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 13,
+      "sold": 16,
       "reserved": 0,
-      "available": 97,
-      "gross": 3120,
-      "occupancy_percent": 11.82
+      "available": 94,
+      "gross": 3840,
+      "occupancy_percent": 14.55
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
@@ -3876,16 +3878,18 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "148673:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-06-27T15:30:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-06-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 60,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
