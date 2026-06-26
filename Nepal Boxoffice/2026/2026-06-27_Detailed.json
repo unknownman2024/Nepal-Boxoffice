@@ -1,5 +1,81 @@
 {
   "date": "2026-06-27",
-  "lastUpdated": "02:15 AM, 27 June 2026",
-  "shows": []
+  "lastUpdated": "03:40 AM, 27 June 2026",
+  "shows": [
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "67426:ini-cinemas-nb-center",
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi -1 (DTS: X)",
+      "date": "2026-06-27T07:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 6,
+      "reserved": 0,
+      "available": 171,
+      "gross": 1350,
+      "occupancy_percent": 3.39
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "67442:ini-qbox-butwal",
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-06-27T07:00:00+05:45",
+      "time": "",
+      "seats": 196,
+      "sold": 12,
+      "reserved": 0,
+      "available": 184,
+      "gross": 1980,
+      "occupancy_percent": 6.12
+    },
+    {
+      "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
+      "movie_name": "Supergirl",
+      "show_id": "174332:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-06-27T07:00:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 15,
+      "reserved": 0,
+      "available": 114,
+      "gross": 3630,
+      "occupancy_percent": 11.63
+    },
+    {
+      "movie_id": "4pwUdEXKwQx4Uc5JMWsBAe",
+      "movie_name": "Supergirl",
+      "show_id": "174329:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-06-27T07:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 13,
+      "reserved": 0,
+      "available": 152,
+      "gross": 3185,
+      "occupancy_percent": 7.88
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "92927:mangyo-jana-jyoti-cinemas",
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-06-27T06:30:00+05:45",
+      "time": "",
+      "seats": 309,
+      "sold": 0,
+      "reserved": 196,
+      "available": 113,
+      "gross": 39200,
+      "occupancy_percent": 63.43
+    }
+  ]
 }
