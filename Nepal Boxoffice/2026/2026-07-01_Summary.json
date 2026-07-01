@@ -2,13 +2,13 @@
   {
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
-    "total_shows": 131,
-    "seats": 27818,
-    "sold": 3750,
-    "reserved": 416,
-    "available": 23652,
+    "total_shows": 134,
+    "seats": 28522,
+    "sold": 3949,
+    "reserved": 423,
+    "available": 24150,
     "housefull": 1,
-    "fastfilling": 7,
+    "fastfilling": 8,
     "venues": [
       {
         "venue": "bamel-cinemas",
@@ -52,11 +52,11 @@
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 3,
-        "seats": 507,
+        "total_shows": 4,
+        "seats": 676,
         "sold": 4,
-        "reserved": 33,
-        "available": 470,
+        "reserved": 49,
+        "available": 623,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -84,11 +84,11 @@
         "venue": "city-cinema",
         "total_shows": 5,
         "seats": 854,
-        "sold": 248,
-        "reserved": 17,
-        "available": 589,
+        "sold": 314,
+        "reserved": 22,
+        "available": 518,
         "housefull": 0,
-        "fastfilling": 2
+        "fastfilling": 3
       },
       {
         "venue": "dmax-cinemas",
@@ -322,11 +322,11 @@
       },
       {
         "venue": "qfx-bageshwori",
-        "total_shows": 4,
-        "seats": 1156,
-        "sold": 100,
-        "reserved": 1,
-        "available": 1055,
+        "total_shows": 5,
+        "seats": 1444,
+        "sold": 170,
+        "reserved": 2,
+        "available": 1272,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -454,9 +454,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 3,
         "seats": 620,
-        "sold": 120,
-        "reserved": 22,
-        "available": 478,
+        "sold": 183,
+        "reserved": 7,
+        "available": 430,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -482,11 +482,11 @@
       },
       {
         "venue": "vfx-cinemas",
-        "total_shows": 3,
-        "seats": 741,
+        "total_shows": 4,
+        "seats": 988,
         "sold": 0,
         "reserved": 4,
-        "available": 737,
+        "available": 984,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1166,9 +1166,9 @@
     "movie_name": "Supergirl",
     "total_shows": 21,
     "seats": 3451,
-    "sold": 67,
-    "reserved": 47,
-    "available": 3337,
+    "sold": 71,
+    "reserved": 50,
+    "available": 3330,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1316,9 +1316,9 @@
         "venue": "qfx-durbar",
         "total_shows": 1,
         "seats": 51,
-        "sold": 0,
-        "reserved": 0,
-        "available": 51,
+        "sold": 4,
+        "reserved": 3,
+        "available": 44,
         "housefull": 0,
         "fastfilling": 0
       },
