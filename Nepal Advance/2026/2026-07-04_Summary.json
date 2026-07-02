@@ -5,8 +5,8 @@
     "total_shows": 65,
     "seats": 12218,
     "sold": 221,
-    "reserved": 75,
-    "available": 11922,
+    "reserved": 76,
+    "available": 11921,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -85,8 +85,8 @@
         "total_shows": 3,
         "seats": 620,
         "sold": 2,
-        "reserved": 37,
-        "available": 581,
+        "reserved": 38,
+        "available": 580,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -298,8 +298,8 @@
     "total_shows": 48,
     "seats": 8713,
     "sold": 66,
-    "reserved": 41,
-    "available": 8606,
+    "reserved": 38,
+    "available": 8609,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -478,8 +478,8 @@
         "total_shows": 2,
         "seats": 234,
         "sold": 0,
-        "reserved": 3,
-        "available": 231,
+        "reserved": 0,
+        "available": 234,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -599,10 +599,10 @@
     "movie_id": "yakpqPfo6j8XEooh9ndzy8",
     "movie_name": "Alpha",
     "total_shows": 115,
-    "seats": 23201,
-    "sold": 437,
-    "reserved": 154,
-    "available": 22610,
+    "seats": 22732,
+    "sold": 446,
+    "reserved": 152,
+    "available": 22134,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -610,9 +610,9 @@
         "venue": "qfx-labim",
         "total_shows": 4,
         "seats": 724,
-        "sold": 45,
-        "reserved": 2,
-        "available": 677,
+        "sold": 53,
+        "reserved": 0,
+        "available": 671,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -728,11 +728,11 @@
       },
       {
         "venue": "bishwojyoti-cineplex",
-        "total_shows": 1,
-        "seats": 201,
+        "total_shows": 4,
+        "seats": 804,
         "sold": 0,
         "reserved": 0,
-        "available": 201,
+        "available": 804,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -787,22 +787,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 3,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "qfx-skyline",
         "total_shows": 6,
         "seats": 781,
-        "sold": 75,
+        "sold": 76,
         "reserved": 0,
-        "available": 706,
+        "available": 705,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -907,12 +897,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "pathivara-cine-plaza",
+        "venue": "Unknown",
         "total_shows": 4,
-        "seats": 1072,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 1072,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
