@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "lastUpdated": "02:32 AM, 03 July 2026",
+  "lastUpdated": "04:32 AM, 03 July 2026",
   "shows": [
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -16,6 +16,96 @@
       "available": 309,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
+      "movie_name": "Baby Do Die Do",
+      "show_id": "175607:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 03",
+      "date": "2026-07-03T07:45:00+05:45",
+      "time": "",
+      "seats": 110,
+      "sold": 0,
+      "reserved": 0,
+      "available": 110,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
+      "movie_name": "Baby Do Die Do",
+      "show_id": "175421:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-07-03T07:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 0,
+      "reserved": 0,
+      "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "148769:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-07-03T07:00:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 2,
+      "reserved": 19,
+      "available": 148,
+      "gross": 4800,
+      "occupancy_percent": 12.43
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "175439:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-07-03T07:45:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 30,
+      "reserved": 0,
+      "available": 150,
+      "gross": 8400,
+      "occupancy_percent": 16.67
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "175412:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-07-03T07:00:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 10,
+      "reserved": 0,
+      "available": 119,
+      "gross": 2310,
+      "occupancy_percent": 7.75
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "175548:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-07-03T07:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 10,
+      "reserved": 0,
+      "available": 155,
+      "gross": 2050,
+      "occupancy_percent": 6.06
     }
   ]
 }
