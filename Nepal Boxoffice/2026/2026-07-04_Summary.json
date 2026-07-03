@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+    "movie_name": "Alpha",
+    "total_shows": 3,
+    "seats": 474,
+    "sold": 115,
+    "reserved": 2,
+    "available": 357,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 72,
+        "reserved": 2,
+        "available": 106,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 31,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 12,
+        "reserved": 0,
+        "available": 117,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
+    "movie_name": "Baby Do Die Do",
+    "total_shows": 2,
+    "seats": 292,
+    "sold": 4,
+    "reserved": 0,
+    "available": 288,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 1,
+        "seats": 110,
+        "sold": 2,
+        "reserved": 0,
+        "available": 108,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 2,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+    "movie_name": "Welcome to the Jungle",
+    "total_shows": 1,
+    "seats": 259,
+    "sold": 57,
+    "reserved": 0,
+    "available": 202,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 57,
+        "reserved": 0,
+        "available": 202,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+    "movie_name": "Roll No 1",
+    "total_shows": 1,
+    "seats": 309,
+    "sold": 0,
+    "reserved": 0,
+    "available": 309,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 0,
+        "available": 309,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
