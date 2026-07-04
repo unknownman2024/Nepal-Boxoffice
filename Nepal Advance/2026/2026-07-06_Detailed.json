@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "lastUpdated": "12:34 AM, 05 July 2026",
+  "lastUpdated": "03:25 AM, 05 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -1356,16 +1356,18 @@
       "movie_id": "UmvcdW6TPxabGYNL2jgMye",
       "movie_name": "Nagabandham - The Secret Treasure",
       "show_id": "67924:ini-qbox-butwal",
-      "venue": "ini-qbox-butwal",
-      "theatre": "iNi Butwal - Audi 2",
-      "date": "2026-07-06T19:15:00+05:45",
-      "time": "",
-      "seats": 196,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-06",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 196,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UmvcdW6TPxabGYNL2jgMye",
@@ -2526,16 +2528,18 @@
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
       "movie_name": "Minions & Monsters",
       "show_id": "67898:ini-simara",
-      "venue": "ini-simara",
-      "theatre": "iNi Simara - Audi 2",
-      "date": "2026-07-06T14:30:00+05:45",
-      "time": "",
-      "seats": 199,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-06",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 199,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
