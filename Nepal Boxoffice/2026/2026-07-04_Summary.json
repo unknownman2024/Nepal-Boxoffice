@@ -1574,11 +1574,11 @@
   {
     "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
     "movie_name": "Cocktail 2",
-    "total_shows": 34,
-    "seats": 6605,
+    "total_shows": 35,
+    "seats": 6795,
     "sold": 674,
     "reserved": 181,
-    "available": 5750,
+    "available": 5940,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1739,6 +1739,16 @@
         "sold": 12,
         "reserved": 1,
         "available": 54,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
         "housefull": 0,
         "fastfilling": 0
       },
