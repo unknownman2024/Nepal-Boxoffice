@@ -5,8 +5,8 @@
     "total_shows": 77,
     "seats": 16714,
     "sold": 38,
-    "reserved": 0,
-    "available": 16676,
+    "reserved": 1,
+    "available": 16675,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -245,8 +245,8 @@
         "total_shows": 5,
         "seats": 990,
         "sold": 0,
-        "reserved": 0,
-        "available": 990,
+        "reserved": 1,
+        "available": 989,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -256,10 +256,10 @@
     "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
     "movie_name": "Baby Do Die Do",
     "total_shows": 23,
-    "seats": 4337,
+    "seats": 4340,
     "sold": 16,
     "reserved": 5,
-    "available": 4316,
+    "available": 4319,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -386,10 +386,10 @@
       {
         "venue": "qfx-jalma",
         "total_shows": 1,
-        "seats": 265,
+        "seats": 268,
         "sold": 0,
         "reserved": 0,
-        "available": 265,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -876,9 +876,9 @@
     "movie_name": "Minions & Monsters",
     "total_shows": 27,
     "seats": 4908,
-    "sold": 114,
+    "sold": 119,
     "reserved": 5,
-    "available": 4789,
+    "available": 4784,
     "housefull": 1,
     "fastfilling": 0,
     "venues": [
@@ -966,9 +966,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 2,
         "seats": 316,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 316,
+        "available": 311,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1099,9 +1099,9 @@
     "movie_name": "OBSESSION",
     "total_shows": 7,
     "seats": 1163,
-    "sold": 17,
+    "sold": 18,
     "reserved": 0,
-    "available": 1146,
+    "available": 1145,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1169,9 +1169,9 @@
         "venue": "ini-cinemas-nb-center",
         "total_shows": 1,
         "seats": 177,
-        "sold": 5,
+        "sold": 6,
         "reserved": 0,
-        "available": 172,
+        "available": 171,
         "housefull": 0,
         "fastfilling": 0
       }
