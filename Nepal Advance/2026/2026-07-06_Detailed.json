@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "lastUpdated": "03:25 AM, 05 July 2026",
+  "lastUpdated": "08:03 AM, 05 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -477,10 +477,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 5250,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -492,10 +492,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 5250,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -507,10 +507,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 5250,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -1047,10 +1047,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 5250,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
@@ -1197,10 +1197,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 198,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 197,
+      "gross": 330,
+      "occupancy_percent": 0.51
     },
     {
       "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
@@ -1272,10 +1272,10 @@
       "time": "",
       "seats": 177,
       "sold": 0,
-      "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 176,
+      "gross": 450,
+      "occupancy_percent": 0.56
     },
     {
       "movie_id": "UmvcdW6TPxabGYNL2jgMye",
@@ -1356,18 +1356,16 @@
       "movie_id": "UmvcdW6TPxabGYNL2jgMye",
       "movie_name": "Nagabandham - The Secret Treasure",
       "show_id": "67924:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-06",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 2",
+      "date": "2026-07-06T19:15:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "UmvcdW6TPxabGYNL2jgMye",
@@ -1694,10 +1692,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 5600,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1709,10 +1707,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 5600,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -2174,10 +2172,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 5600,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
@@ -2504,10 +2502,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 5600,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2528,18 +2526,16 @@
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
       "movie_name": "Minions & Monsters",
       "show_id": "67898:ini-simara",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-06",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-simara",
+      "theatre": "iNi Simara - Audi 2",
+      "date": "2026-07-06T14:30:00+05:45",
+      "time": "",
+      "seats": 199,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 199,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
@@ -2851,10 +2847,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 13,
-      "available": 185,
-      "gross": 4940,
-      "occupancy_percent": 6.57
+      "reserved": 12,
+      "available": 186,
+      "gross": 4560,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "jnNDFUXs4UZv2W2oF2CWVj",
@@ -2883,6 +2879,126 @@
       "sold": 0,
       "reserved": 0,
       "available": 182,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "176050:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-07-06T11:30:00+05:45",
+      "time": "",
+      "seats": 248,
+      "sold": 0,
+      "reserved": 0,
+      "available": 248,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "176052:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-07-06T19:15:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "176051:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-07-06T14:30:00+05:45",
+      "time": "",
+      "seats": 248,
+      "sold": 0,
+      "reserved": 0,
+      "available": 248,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5dQ3HuQDoeHtCbLKrNVxZ9",
+      "movie_name": "Baby Do Die Do",
+      "show_id": "176065:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-07-06T17:30:00+05:45",
+      "time": "",
+      "seats": 248,
+      "sold": 0,
+      "reserved": 0,
+      "available": 248,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "176054:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-07-06T18:00:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 0,
+      "reserved": 0,
+      "available": 207,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "176053:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 3",
+      "date": "2026-07-06T12:00:00+05:45",
+      "time": "",
+      "seats": 247,
+      "sold": 0,
+      "reserved": 0,
+      "available": 247,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "176062:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-07-06T12:15:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 0,
+      "reserved": 0,
+      "available": 207,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "RaQGMX24uSiXsJSVgBYrqK",
+      "movie_name": "Minions & Monsters",
+      "show_id": "176063:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 1",
+      "date": "2026-07-06T15:30:00+05:45",
+      "time": "",
+      "seats": 207,
+      "sold": 0,
+      "reserved": 0,
+      "available": 207,
       "gross": 0,
       "occupancy_percent": 0.0
     }
