@@ -1,5 +1,96 @@
 {
   "date": "2026-07-08",
-  "lastUpdated": "04:28 AM, 08 July 2026",
-  "shows": []
+  "lastUpdated": "05:31 AM, 08 July 2026",
+  "shows": [
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "63487:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-07-08T08:45:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 7,
+      "reserved": 50,
+      "available": 292,
+      "gross": 11400,
+      "occupancy_percent": 16.33
+    },
+    {
+      "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
+      "movie_name": "Welcome to the Jungle",
+      "show_id": "28173:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-07-08T08:00:00+05:45",
+      "time": "",
+      "seats": 203,
+      "sold": 6,
+      "reserved": 0,
+      "available": 197,
+      "gross": 1500,
+      "occupancy_percent": 2.96
+    },
+    {
+      "movie_id": "UmvcdW6TPxabGYNL2jgMye",
+      "movie_name": "Nagabandham - The Secret Treasure",
+      "show_id": "28178:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-07-08T08:45:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 2,
+      "reserved": 0,
+      "available": 65,
+      "gross": 800,
+      "occupancy_percent": 2.99
+    },
+    {
+      "movie_id": "UmvcdW6TPxabGYNL2jgMye",
+      "movie_name": "Nagabandham - The Secret Treasure",
+      "show_id": "63497:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-07-08T08:15:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 1,
+      "reserved": 42,
+      "available": 236,
+      "gross": 8600,
+      "occupancy_percent": 15.41
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "63492:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-07-08T08:00:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 14,
+      "reserved": 50,
+      "available": 206,
+      "gross": 12800,
+      "occupancy_percent": 23.7
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "8220:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-07-08T08:30:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
