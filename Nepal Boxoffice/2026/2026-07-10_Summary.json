@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
+    "movie_name": "Evil Dead Burn",
+    "total_shows": 1,
+    "seats": 165,
+    "sold": 8,
+    "reserved": 0,
+    "available": 157,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 8,
+        "reserved": 0,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
+    "movie_name": "Moana",
+    "total_shows": 1,
+    "seats": 129,
+    "sold": 6,
+    "reserved": 0,
+    "available": 123,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 6,
+        "reserved": 0,
+        "available": 123,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
