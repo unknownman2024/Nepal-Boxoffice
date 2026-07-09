@@ -1,5 +1,253 @@
 {
   "date": "20260709",
-  "lastUpdated": "05:05 PM, 09 July 2026",
-  "movies": {}
+  "lastUpdated": "05:51 PM, 09 July 2026",
+  "movies": {
+    "Chandarege Wife": {
+      "totalShows": 3,
+      "totalGross": 3200.0,
+      "totalSold": 8,
+      "totalSeats": 330,
+      "formats": {
+        "ET00006094": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 3,
+          "gross": 3200.0,
+          "sold": 8,
+          "totalSeats": 330,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 2.42
+    },
+    "Sooriya Sulanga": {
+      "totalShows": 11,
+      "totalGross": 13700.0,
+      "totalSold": 21,
+      "totalSeats": 1342,
+      "formats": {
+        "ET00006102": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 11,
+          "gross": 13700.0,
+          "sold": 21,
+          "totalSeats": 1342,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.56
+    },
+    "Michael": {
+      "totalShows": 4,
+      "totalGross": 40100.0,
+      "totalSold": 24,
+      "totalSeats": 481,
+      "formats": {
+        "ET00006006": {
+          "format": "2D",
+          "language": "English",
+          "shows": 4,
+          "gross": 40100.0,
+          "sold": 24,
+          "totalSeats": 481,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.99
+    },
+    "Supergirl": {
+      "totalShows": 2,
+      "totalGross": 71700.0,
+      "totalSold": 59,
+      "totalSeats": 303,
+      "formats": {
+        "ET00006125": {
+          "format": "3D",
+          "language": "English",
+          "shows": 2,
+          "gross": 71700.0,
+          "sold": 59,
+          "totalSeats": 303,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 19.47
+    },
+    "Minions & Monsters": {
+      "totalShows": 5,
+      "totalGross": 62550.0,
+      "totalSold": 36,
+      "totalSeats": 845,
+      "formats": {
+        "ET00006126": {
+          "format": "3D",
+          "language": "English",
+          "shows": 5,
+          "gross": 62550.0,
+          "sold": 36,
+          "totalSeats": 845,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.26
+    },
+    "Alpha": {
+      "totalShows": 4,
+      "totalGross": 33050.0,
+      "totalSold": 30,
+      "totalSeats": 745,
+      "formats": {
+        "ET00006114": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 4,
+          "gross": 33050.0,
+          "sold": 30,
+          "totalSeats": 745,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.03
+    },
+    "The Voice of Hind Rajab": {
+      "totalShows": 7,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 873,
+      "formats": {
+        "ET00006105": {
+          "format": "2D",
+          "language": "Arabic",
+          "shows": 7,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 873,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Dark": {
+      "totalShows": 2,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 281,
+      "formats": {
+        "ET00006132": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 2,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 281,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "OIC Gadafi": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 563,
+      "formats": {
+        "ET00006051": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 563,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Engal Thangam": {
+      "totalShows": 1,
+      "totalGross": 5100.0,
+      "totalSold": 6,
+      "totalSeats": 138,
+      "formats": {
+        "ET00006117": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 5100.0,
+          "sold": 6,
+          "totalSeats": 138,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.35
+    },
+    "Scary Movie": {
+      "totalShows": 1,
+      "totalGross": 7800.0,
+      "totalSold": 6,
+      "totalSeats": 140,
+      "formats": {
+        "ET00006089": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 7800.0,
+          "sold": 6,
+          "totalSeats": 140,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 4.29
+    },
+    "Gatta Kusthi 2": {
+      "totalShows": 14,
+      "totalGross": 40400.0,
+      "totalSold": 42,
+      "totalSeats": 2296,
+      "formats": {
+        "ET00006130": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 14,
+          "gross": 40400.0,
+          "sold": 42,
+          "totalSeats": 2296,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 1.83
+    },
+    "Welcome To The Jungle": {
+      "totalShows": 1,
+      "totalGross": 32400.0,
+      "totalSold": 12,
+      "totalSeats": 41,
+      "formats": {
+        "ET00006080": {
+          "format": "2D",
+          "language": "Hindi",
+          "shows": 1,
+          "gross": 32400.0,
+          "sold": 12,
+          "totalSeats": 41,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 29.27
+    }
+  }
 }
