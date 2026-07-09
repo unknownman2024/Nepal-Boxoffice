@@ -27,6 +27,7 @@ jobs:
     - name: Run Scraper
       env:
         CF_CLEARANCE: ${{ secrets.CF_CLEARANCE }}
+        CF_BM: ${{ secrets.CF_BM }}
       run: |
         echo "🚀 Running Sri Lanka Boxoffice Script..."
         python "srilankadailybo.py"
