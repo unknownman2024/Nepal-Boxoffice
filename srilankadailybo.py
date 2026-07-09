@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from queue import Queue
 
-# Strategy imports
+# Only use curl_cffi and cloudscraper as fallback
 try:
     from curl_cffi import requests as curl_req
     HAS_CURL = True
@@ -20,8 +20,6 @@ try:
     HAS_CLOUDSCRAPER = True
 except ImportError:
     HAS_CLOUDSCRAPER = False
-
-import requests
 
 #########################################
 # CONFIG
@@ -51,7 +49,7 @@ def atomic_dump(path, data):
     os.replace(tmp, path)
 
 #########################################
-# RANDOM HEADERS
+# RANDOM HEADERS (includes cookies)
 #########################################
 def random_user_agent():
     ios = f"Mozilla/5.0 (iPhone; CPU iPhone OS {random.randint(15,18)}_{random.randint(0,7)} like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{random.randint(16,18)}.0 Mobile/15E148 Safari/604.1"
@@ -88,6 +86,7 @@ def build_headers(extra=None, use_mobile=False):
         "Priority": "u=1, i",
         "Connection": "keep-alive",
     }
+    # Add both cookies if present
     cookie_parts = []
     if CF_CLEARANCE:
         cookie_parts.append(f"cf_clearance={CF_CLEARANCE}")
@@ -95,138 +94,79 @@ def build_headers(extra=None, use_mobile=False):
         cookie_parts.append(f"__cf_bm={CF_BM}")
     if cookie_parts:
         headers["Cookie"] = "; ".join(cookie_parts)
+
     if extra:
         headers.update(extra)
     return {k: v for k, v in headers.items() if v is not None}
 
 #########################################
-# SESSION STRATEGIES
+# SESSION CREATION – Directly test API
 #########################################
-def get_session_curl(impersonate="chrome124"):
-    if not HAS_CURL:
-        return None
-    try:
-        session = curl_req.Session(impersonate=impersonate, timeout=TIMEOUT_SEC)
-        home_url = "https://lk.bookmyshow.com/"
-        headers_home = {
-            "User-Agent": random_user_agent(),
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-            "Accept-Language": "en-GB,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-        }
-        resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
-        if resp.status_code == 200:
-            print(f"✅ curl_cffi ({impersonate}) – homepage 200")
-            return session
-        else:
-            print(f"❌ curl_cffi ({impersonate}) – homepage {resp.status_code}")
-            return None
-    except Exception as e:
-        print(f"❌ curl_cffi ({impersonate}) error: {e}")
-        return None
+def create_session():
+    """Try different libraries/impersonations, test by calling movie API."""
+    # List of (name, session_creator)
+    candidates = []
 
-def get_session_cloudscraper():
-    if not HAS_CLOUDSCRAPER:
-        return None
-    try:
-        session = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows", "mobile": False},
-            solver={"type": "challenge"}
-        )
-        home_url = "https://lk.bookmyshow.com/"
-        headers_home = {
-            "User-Agent": random_user_agent(),
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-            "Accept-Language": "en-GB,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-        }
-        resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
-        if resp.status_code == 200:
-            print("✅ cloudscraper – homepage 200")
-            return session
-        else:
-            print(f"❌ cloudscraper – homepage {resp.status_code}")
-            return None
-    except Exception as e:
-        print(f"❌ cloudscraper error: {e}")
-        return None
-
-def get_session_requests():
-    if not CF_CLEARANCE:
-        print("⚠️ No CF_CLEARANCE env var, skipping requests strategy")
-        return None
-    session = requests.Session()
-    session.cookies.set("cf_clearance", CF_CLEARANCE, domain=".bookmyshow.com")
-    if CF_BM:
-        session.cookies.set("__cf_bm", CF_BM, domain=".bookmyshow.com")
-    home_url = "https://lk.bookmyshow.com/"
-    headers_home = {
-        "User-Agent": random_user_agent(),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-GB,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive",
-    }
-    try:
-        resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
-        if resp.status_code == 200:
-            print("✅ requests with cf_clearance – homepage 200")
-            return session
-        else:
-            print(f"❌ requests – homepage {resp.status_code}")
-            return None
-    except Exception as e:
-        print(f"❌ requests error: {e}")
-        return None
-
-def get_session_mobile():
     if HAS_CURL:
+        candidates.append(("curl_safari", lambda: curl_req.Session(impersonate="safari17_0", timeout=TIMEOUT_SEC)))
+        candidates.append(("curl_chrome", lambda: curl_req.Session(impersonate="chrome124", timeout=TIMEOUT_SEC)))
+        candidates.append(("curl_edge", lambda: curl_req.Session(impersonate="edge124", timeout=TIMEOUT_SEC)))
+
+    if HAS_CLOUDSCRAPER:
+        candidates.append(("cloudscraper", lambda: cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows"})))
+
+    # Also plain requests (with cookies) – but we already have cookies, so it might work
+    try:
+        import requests
+        candidates.append(("requests", lambda: requests.Session()))
+    except:
+        pass
+
+    for name, creator in candidates:
+        print(f"🧪 Trying {name}...")
         try:
-            session = curl_req.Session(impersonate="chrome124", timeout=TIMEOUT_SEC)
-            home_url = "https://m.bookmyshow.com/"
-            headers_home = {
-                "User-Agent": random_user_agent(),
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                "Accept-Language": "en-GB,en;q=0.9",
-                "Accept-Encoding": "gzip, deflate, br",
-                "Connection": "keep-alive",
-                "Sec-Fetch-Dest": "document",
-                "Sec-Fetch-Mode": "navigate",
-            }
-            resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
+            session = creator()
+            # Test it by calling the movie API
+            test_url = "https://lk.bookmyshow.com/pwa/api/uapi/movies/"
+            test_payload = {"regionCode": REGION_CODE, "page": 1, "limit": 1}
+            headers = build_headers()
+            resp = session.post(test_url, json=test_payload, headers=headers, timeout=TIMEOUT_SEC)
             if resp.status_code == 200:
-                print("✅ Mobile subdomain – homepage 200")
-                return session
+                # Check if it's JSON
+                try:
+                    data = resp.json()
+                    print(f"✅ {name} works! (status 200, got JSON)")
+                    return session, False  # session, use_mobile=False
+                except:
+                    print(f"❌ {name} returned 200 but not JSON – likely challenge page")
             else:
-                print(f"❌ Mobile subdomain – homepage {resp.status_code}")
-                return None
+                print(f"❌ {name} – API status {resp.status_code}")
+        except Exception as e:
+            print(f"❌ {name} error: {e}")
+
+    # If everything fails, try mobile subdomain with curl
+    if HAS_CURL:
+        print("🧪 Trying mobile subdomain...")
+        try:
+            session = curl_req.Session(impersonate="safari17_0", timeout=TIMEOUT_SEC)
+            test_url = "https://m.bookmyshow.com/pwa/api/uapi/movies/"
+            test_payload = {"regionCode": REGION_CODE, "page": 1, "limit": 1}
+            headers = build_headers(use_mobile=True)
+            resp = session.post(test_url, json=test_payload, headers=headers, timeout=TIMEOUT_SEC)
+            if resp.status_code == 200:
+                try:
+                    data = resp.json()
+                    print("✅ Mobile subdomain works!")
+                    return session, True
+                except:
+                    pass
         except Exception as e:
             print(f"❌ Mobile subdomain error: {e}")
-            return None
-    return None
 
-def create_session():
-    strategies = [
-        ("curl_chrome", lambda: get_session_curl("chrome124")),
-        ("curl_safari", lambda: get_session_curl("safari17_0")),
-        ("curl_edge", lambda: get_session_curl("edge124")),
-        ("cloudscraper", get_session_cloudscraper),
-        ("requests_cookie", get_session_requests),
-        ("mobile_subdomain", get_session_mobile),
-    ]
-    for name, func in strategies:
-        print(f"🧪 Trying strategy: {name}...")
-        session = func()
-        if session is not None:
-            print(f"✅ Success with strategy: {name}")
-            return session
-        print(f"❌ Strategy {name} failed")
-    return None
+    return None, False
 
 #########################################
-# SAFE REQUEST
+# SAFE REQUEST (with retry)
 #########################################
 def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PER_REQUEST, use_mobile=False):
     if session is None:
@@ -291,7 +231,7 @@ def get_showtimes(event_code, date, session=None, use_mobile=False):
     return safe_request(url, "GET", session=session, use_mobile=use_mobile)
 
 #########################################
-# PARSERS
+# PARSERS (unchanged)
 #########################################
 def extract_movies(raw):
     if not isinstance(raw, dict):
@@ -375,22 +315,24 @@ if os.path.exists(detail_file):
     except:
         print("⚠️ Old DB corrupted, starting fresh...")
 
-session = create_session()
+# Create session by directly testing API
+session, use_mobile = create_session()
 if session is None:
     print("❌ All session creation strategies failed. Exiting.")
     sys.exit(1)
 
-use_mobile = False
-movies_raw, err = get_movies(session=session, use_mobile=True)
-if not movies_raw:
-    print("🔄 Mobile API failed, trying desktop...")
-    movies_raw, err = get_movies(session=session, use_mobile=False)
-    if movies_raw:
-        use_mobile = False
-
+# Now fetch all movies
+movies_raw, err = get_movies(session=session, use_mobile=use_mobile)
 if not movies_raw:
     print(f"❌ Failed to fetch movies. Error: {err}")
-    sys.exit(1)
+    # If mobile failed, try desktop
+    if use_mobile:
+        print("🔄 Retrying with desktop...")
+        movies_raw, err = get_movies(session=session, use_mobile=False)
+        if movies_raw:
+            use_mobile = False
+    if not movies_raw:
+        sys.exit(1)
 
 parent_movies = extract_movies(movies_raw)
 print(f"📽️ Found {len(parent_movies)} parent movies")
@@ -411,6 +353,7 @@ if not expanded_movies:
     print("⚠️ No event variants found – check API response")
     sys.exit(0)
 
+# Create a session pool (share the session)
 session_pool = Queue()
 for _ in range(MAX_THREADS + 2):
     session_pool.put(session)
