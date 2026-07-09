@@ -1,88 +1,98 @@
 {
   "date": "20260709",
-  "lastUpdated": "05:51 PM, 09 July 2026",
+  "lastUpdated": "07:44 PM, 09 July 2026",
   "movies": {
     "Chandarege Wife": {
-      "totalShows": 3,
-      "totalGross": 3200.0,
-      "totalSold": 8,
-      "totalSeats": 330,
+      "totalShows": 4,
+      "totalGross": 6600.0,
+      "totalSold": 12,
+      "totalSeats": 463,
       "formats": {
         "ET00006094": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 3,
-          "gross": 3200.0,
-          "sold": 8,
-          "totalSeats": 330,
+          "shows": 4,
+          "gross": 6600.0,
+          "sold": 12,
+          "totalSeats": 463,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 2.42
+      "globalOccupancy": 2.59
     },
     "Sooriya Sulanga": {
-      "totalShows": 11,
+      "totalShows": 12,
       "totalGross": 13700.0,
       "totalSold": 21,
-      "totalSeats": 1342,
+      "totalSeats": 1516,
       "formats": {
         "ET00006102": {
           "format": "2D",
           "language": "Sinhala",
-          "shows": 11,
+          "shows": 12,
           "gross": 13700.0,
           "sold": 21,
-          "totalSeats": 1342,
+          "totalSeats": 1516,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 1.56
+      "globalOccupancy": 1.39
     },
     "Michael": {
       "totalShows": 4,
-      "totalGross": 40100.0,
-      "totalSold": 24,
+      "totalGross": 47600.0,
+      "totalSold": 30,
       "totalSeats": 481,
       "formats": {
         "ET00006006": {
           "format": "2D",
           "language": "English",
           "shows": 4,
-          "gross": 40100.0,
-          "sold": 24,
+          "gross": 47600.0,
+          "sold": 30,
           "totalSeats": 481,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 4.99
+      "globalOccupancy": 6.24
     },
     "Supergirl": {
-      "totalShows": 2,
-      "totalGross": 71700.0,
-      "totalSold": 59,
-      "totalSeats": 303,
+      "totalShows": 4,
+      "totalGross": 110600.0,
+      "totalSold": 76,
+      "totalSeats": 700,
       "formats": {
         "ET00006125": {
           "format": "3D",
           "language": "English",
-          "shows": 2,
-          "gross": 71700.0,
-          "sold": 59,
-          "totalSeats": 303,
+          "shows": 3,
+          "gross": 81800.0,
+          "sold": 67,
+          "totalSeats": 395,
+          "fastfilling": 0,
+          "housefull": 0
+        },
+        "ET00006070": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 28800.0,
+          "sold": 9,
+          "totalSeats": 305,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 19.47
+      "globalOccupancy": 10.86
     },
     "Minions & Monsters": {
-      "totalShows": 5,
-      "totalGross": 62550.0,
-      "totalSold": 36,
-      "totalSeats": 845,
+      "totalShows": 6,
+      "totalGross": 82950.0,
+      "totalSold": 53,
+      "totalSeats": 956,
       "formats": {
         "ET00006126": {
           "format": "3D",
@@ -93,9 +103,19 @@
           "totalSeats": 845,
           "fastfilling": 0,
           "housefull": 0
+        },
+        "ET00006112": {
+          "format": "2D",
+          "language": "English",
+          "shows": 1,
+          "gross": 20400.0,
+          "sold": 17,
+          "totalSeats": 111,
+          "fastfilling": 0,
+          "housefull": 0
         }
       },
-      "globalOccupancy": 4.26
+      "globalOccupancy": 5.54
     },
     "Alpha": {
       "totalShows": 4,
@@ -136,23 +156,23 @@
       "globalOccupancy": 0.0
     },
     "Dark": {
-      "totalShows": 2,
-      "totalGross": 0.0,
-      "totalSold": 0,
-      "totalSeats": 281,
+      "totalShows": 3,
+      "totalGross": 7350.0,
+      "totalSold": 7,
+      "totalSeats": 425,
       "formats": {
         "ET00006132": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 2,
-          "gross": 0.0,
-          "sold": 0,
-          "totalSeats": 281,
+          "shows": 3,
+          "gross": 7350.0,
+          "sold": 7,
+          "totalSeats": 425,
           "fastfilling": 0,
           "housefull": 0
         }
       },
-      "globalOccupancy": 0.0
+      "globalOccupancy": 1.65
     },
     "OIC Gadafi": {
       "totalShows": 1,
@@ -212,18 +232,18 @@
       "globalOccupancy": 4.29
     },
     "Gatta Kusthi 2": {
-      "totalShows": 14,
-      "totalGross": 40400.0,
-      "totalSold": 42,
-      "totalSeats": 2296,
+      "totalShows": 21,
+      "totalGross": 60400.0,
+      "totalSold": 60,
+      "totalSeats": 3278,
       "formats": {
         "ET00006130": {
           "format": "2D",
           "language": "Tamil",
-          "shows": 14,
-          "gross": 40400.0,
-          "sold": 42,
-          "totalSeats": 2296,
+          "shows": 21,
+          "gross": 60400.0,
+          "sold": 60,
+          "totalSeats": 3278,
           "fastfilling": 0,
           "housefull": 0
         }
@@ -248,6 +268,101 @@
         }
       },
       "globalOccupancy": 29.27
+    },
+    "Eka Thamai Meka": {
+      "totalShows": 1,
+      "totalGross": 22800.0,
+      "totalSold": 19,
+      "totalSeats": 99,
+      "formats": {
+        "ET00006109": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 1,
+          "gross": 22800.0,
+          "sold": 19,
+          "totalSeats": 99,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 19.19
+    },
+    "Nagabandham - The Secret Treasure": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 105,
+      "formats": {
+        "ET00006131": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 105,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
+    },
+    "Room No.106": {
+      "totalShows": 8,
+      "totalGross": 33200.0,
+      "totalSold": 49,
+      "totalSeats": 1438,
+      "formats": {
+        "ET00006127": {
+          "format": "2D",
+          "language": "Sinhala",
+          "shows": 8,
+          "gross": 33200.0,
+          "sold": 49,
+          "totalSeats": 1438,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 3.41
+    },
+    "Backrooms": {
+      "totalShows": 3,
+      "totalGross": 29600.0,
+      "totalSold": 14,
+      "totalSeats": 184,
+      "formats": {
+        "ET00006124": {
+          "format": "2D",
+          "language": "English",
+          "shows": 3,
+          "gross": 29600.0,
+          "sold": 14,
+          "totalSeats": 184,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 7.61
+    },
+    "Con City": {
+      "totalShows": 1,
+      "totalGross": 0.0,
+      "totalSold": 0,
+      "totalSeats": 143,
+      "formats": {
+        "ET00006119": {
+          "format": "2D",
+          "language": "Tamil",
+          "shows": 1,
+          "gross": 0.0,
+          "sold": 0,
+          "totalSeats": 143,
+          "fastfilling": 0,
+          "housefull": 0
+        }
+      },
+      "globalOccupancy": 0.0
     }
   }
 }
