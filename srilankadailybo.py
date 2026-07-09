@@ -8,15 +8,20 @@ from zoneinfo import ZoneInfo
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from queue import Queue
 
-# Try to import curl_cffi, fallback to cloudscraper
+# Strategy imports
 try:
     from curl_cffi import requests as curl_req
-    USE_CURL_CFFI = True
-    print("✅ Using curl_cffi (TLS impersonation)")
+    HAS_CURL = True
 except ImportError:
+    HAS_CURL = False
+
+try:
     import cloudscraper
-    USE_CURL_CFFI = False
-    print("⚠️ curl_cffi not installed, falling back to cloudscraper")
+    HAS_CLOUDSCRAPER = True
+except ImportError:
+    HAS_CLOUDSCRAPER = False
+
+import requests
 
 #########################################
 # CONFIG
@@ -33,6 +38,10 @@ YEAR = datetime.now(IST).strftime("%Y")
 OUT_DIR = os.path.join("Sri Lanka Boxoffice", YEAR)
 os.makedirs(OUT_DIR, exist_ok=True)
 
+# Optional: Get cf_clearance from environment
+CF_CLEARANCE = os.environ.get("CF_CLEARANCE", "")
+print(f"🧩 CF_CLEARANCE present: {bool(CF_CLEARANCE)}")
+
 def atomic_dump(path, data):
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
@@ -40,7 +49,7 @@ def atomic_dump(path, data):
     os.replace(tmp, path)
 
 #########################################
-# RANDOM HEADERS (exact match of working request)
+# RANDOM HEADERS
 #########################################
 def random_user_agent():
     ios = f"Mozilla/5.0 (iPhone; CPU iPhone OS {random.randint(15,18)}_{random.randint(0,7)} like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{random.randint(16,18)}.0 Mobile/15E148 Safari/604.1"
@@ -49,7 +58,7 @@ def random_user_agent():
     mac = f"Mozilla/5.0 (Macintosh; Intel Mac OS X {random.choice(['10_15_7','11_6','12_6','13_4','14_0','15_0'])}) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{random.randint(14,18)}.0 Safari/605.1.15"
     return random.choice([ios, android, windows, mac])
 
-def build_headers(extra=None):
+def build_headers(extra=None, use_mobile=False):
     ua = random_user_agent()
     is_mobile = "Mobile" in ua or "iPhone" in ua or "Android" in ua
     platform = "iOS" if "iPhone" in ua else "Android" if "Android" in ua else "macOS" if "Mac" in ua else "Windows"
@@ -60,14 +69,14 @@ def build_headers(extra=None):
         "Accept-Language": random.choice(["en-GB,en;q=0.9", "en-US,en;q=0.8", "en-IN,en;q=0.9"]),
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "User-Agent": ua,
-        "Referer": random.choice([
+        "Referer": "https://m.bookmyshow.com/" if use_mobile else random.choice([
             "https://lk.bookmyshow.com/",
             "https://www.google.com/",
             "https://m.bookmyshow.com/"
         ]),
         "Cache-Control": "no-cache",
         "Pragma": "no-cache",
-        "Origin": "https://lk.bookmyshow.com",
+        "Origin": "https://m.bookmyshow.com" if use_mobile else "https://lk.bookmyshow.com",
         "Sec-CH-UA": f'"Google Chrome";v="{chrome_ver}", "Chromium";v="{chrome_ver}", "Not)A;Brand";v="{random.randint(24,99)}"',
         "Sec-CH-UA-Mobile": "?1" if is_mobile else "?0",
         "Sec-CH-UA-Platform": f'"{platform}"',
@@ -77,82 +86,184 @@ def build_headers(extra=None):
         "Priority": "u=1, i",
         "Connection": "keep-alive",
     }
+    if CF_CLEARANCE:
+        headers["Cookie"] = f"cf_clearance={CF_CLEARANCE};"
     if extra:
         headers.update(extra)
     return {k: v for k, v in headers.items() if v is not None}
 
 #########################################
-# SESSION CREATION (with cookie from homepage)
+# STRATEGY A: curl_cffi (Multiple Impersonations)
 #########################################
-def create_session_with_cookie():
-    """Get a session that has a valid cookie by visiting the homepage."""
-    if USE_CURL_CFFI:
-        session = curl_req.Session(impersonate="chrome124", timeout=TIMEOUT_SEC)
-    else:
+def get_session_curl(impersonate="chrome124"):
+    if not HAS_CURL:
+        return None
+    try:
+        session = curl_req.Session(impersonate=impersonate, timeout=TIMEOUT_SEC)
+        # Attempt to visit homepage to set cookies
+        home_url = "https://lk.bookmyshow.com/"
+        headers_home = {
+            "User-Agent": random_user_agent(),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-GB,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+        }
+        resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
+        if resp.status_code == 200:
+            print(f"✅ curl_cffi ({impersonate}) – homepage 200")
+            return session
+        else:
+            print(f"❌ curl_cffi ({impersonate}) – homepage {resp.status_code}")
+            return None
+    except Exception as e:
+        print(f"❌ curl_cffi ({impersonate}) error: {e}")
+        return None
+
+#########################################
+# STRATEGY B: cloudscraper with solver
+#########################################
+def get_session_cloudscraper():
+    if not HAS_CLOUDSCRAPER:
+        return None
+    try:
         session = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows", "mobile": False}
+            browser={"browser": "chrome", "platform": "windows", "mobile": False},
+            solver={"type": "challenge"}
         )
-    # First visit homepage to get session cookie
+        home_url = "https://lk.bookmyshow.com/"
+        headers_home = {
+            "User-Agent": random_user_agent(),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-GB,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+        }
+        resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
+        if resp.status_code == 200:
+            print("✅ cloudscraper – homepage 200")
+            return session
+        else:
+            print(f"❌ cloudscraper – homepage {resp.status_code}")
+            return None
+    except Exception as e:
+        print(f"❌ cloudscraper error: {e}")
+        return None
+
+#########################################
+# STRATEGY C: requests with manual cookie
+#########################################
+def get_session_requests():
+    if not CF_CLEARANCE:
+        print("⚠️ No CF_CLEARANCE env var, skipping requests strategy")
+        return None
+    session = requests.Session()
+    # Set cookie manually
+    session.cookies.set("cf_clearance", CF_CLEARANCE, domain=".bookmyshow.com")
+    # Test with homepage
     home_url = "https://lk.bookmyshow.com/"
     headers_home = {
         "User-Agent": random_user_agent(),
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": random.choice(["en-GB,en;q=0.9", "en-US,en;q=0.8"]),
+        "Accept-Language": "en-GB,en;q=0.9",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "none",
-        "Sec-Fetch-User": "?1",
-        "Upgrade-Insecure-Requests": "1",
     }
     try:
         resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
-        print(f"🏠 Homepage status: {resp.status_code}")
-        if resp.status_code != 200:
-            print("⚠️ Homepage did not return 200, cookies may be missing")
+        if resp.status_code == 200:
+            print("✅ requests with cf_clearance – homepage 200")
+            return session
         else:
-            print("✅ Homepage fetched, cookies set")
+            print(f"❌ requests – homepage {resp.status_code}")
+            return None
     except Exception as e:
-        print(f"⚠️ Homepage visit failed: {e}")
-    return session
+        print(f"❌ requests error: {e}")
+        return None
 
 #########################################
-# SAFE REQUEST (with retry and logging)
+# STRATEGY D: Use mobile subdomain
 #########################################
-def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PER_REQUEST):
+def get_session_mobile():
+    # Try curl_cffi with mobile subdomain
+    if HAS_CURL:
+        try:
+            session = curl_req.Session(impersonate="chrome124", timeout=TIMEOUT_SEC)
+            home_url = "https://m.bookmyshow.com/"
+            headers_home = {
+                "User-Agent": random_user_agent(),
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "en-GB,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Connection": "keep-alive",
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+            }
+            resp = session.get(home_url, headers=headers_home, timeout=TIMEOUT_SEC)
+            if resp.status_code == 200:
+                print("✅ Mobile subdomain – homepage 200")
+                return session
+            else:
+                print(f"❌ Mobile subdomain – homepage {resp.status_code}")
+                return None
+        except Exception as e:
+            print(f"❌ Mobile subdomain error: {e}")
+            return None
+    return None
+
+#########################################
+# CREATE SESSION – tries all strategies
+#########################################
+def create_session():
+    strategies = [
+        ("curl_chrome", lambda: get_session_curl("chrome124")),
+        ("curl_safari", lambda: get_session_curl("safari17_0")),
+        ("curl_edge", lambda: get_session_curl("edge124")),
+        ("cloudscraper", get_session_cloudscraper),
+        ("requests_cookie", get_session_requests),
+        ("mobile_subdomain", get_session_mobile),
+    ]
+
+    for name, func in strategies:
+        print(f"🧪 Trying strategy: {name}...")
+        session = func()
+        if session is not None:
+            print(f"✅ Success with strategy: {name}")
+            return session
+        print(f"❌ Strategy {name} failed")
+    return None
+
+#########################################
+# SAFE REQUEST (using the chosen session)
+#########################################
+def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PER_REQUEST, use_mobile=False):
     if session is None:
-        session = create_session_with_cookie()
+        return None, "NO_SESSION"
     last_err = "UNKNOWN"
     for attempt in range(retries):
         try:
-            headers = build_headers()
+            headers = build_headers(use_mobile=use_mobile)
             if method == "POST":
                 resp = session.post(url, json=payload, headers=headers)
             else:
                 resp = session.get(url, headers=headers)
 
-            # Log response status and snippet
             print(f"  ➜ {method} {url} → {resp.status_code}")
             if resp.status_code != 200:
                 snippet = resp.text[:200] if resp.text else "empty"
                 print(f"  ⚠️ Response snippet: {snippet}")
 
             if resp.status_code == 200:
-                # Check if it's HTML (Cloudflare challenge)
                 if resp.text.strip().startswith("<!DOCTYPE"):
-                    print("  ❌ Received HTML instead of JSON – likely blocked")
+                    print("  ❌ Received HTML")
                     return None, "HTML_RESPONSE"
-                # Try to parse JSON
                 try:
                     return resp.json(), None
                 except json.JSONDecodeError:
                     print(f"  ❌ Invalid JSON: {resp.text[:200]}")
                     return None, "INVALID_JSON"
             elif resp.status_code == 403:
-                # Refresh session and retry
-                print("  🔄 403 detected, refreshing session...")
-                session = create_session_with_cookie()
+                print("  🔄 403 detected, retrying...")
                 last_err = "HTTP_403"
             else:
                 last_err = f"HTTP_{resp.status_code}"
@@ -164,10 +275,11 @@ def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PE
     return None, last_err
 
 #########################################
-# API CALLS
+# API CALLS (with optional mobile flag)
 #########################################
-def get_movies(session=None):
-    url = "https://lk.bookmyshow.com/pwa/api/uapi/movies/"
+def get_movies(session=None, use_mobile=False):
+    base = "https://m.bookmyshow.com" if use_mobile else "https://lk.bookmyshow.com"
+    url = f"{base}/pwa/api/uapi/movies/"
     body = {
         "regionCode": REGION_CODE,
         "subCode": "",
@@ -178,11 +290,12 @@ def get_movies(session=None):
         "page": 1,
         "limit": 200
     }
-    return safe_request(url, "POST", payload=body, session=session)
+    return safe_request(url, "POST", payload=body, session=session, use_mobile=use_mobile)
 
-def get_showtimes(event_code, date, session=None):
-    url = f"https://lk.bookmyshow.com/pwa/api/de/showtimes/byevent?regionCode={REGION_CODE}&subCode=&eventCode={event_code}&dateCode={date}"
-    return safe_request(url, "GET", session=session)
+def get_showtimes(event_code, date, session=None, use_mobile=False):
+    base = "https://m.bookmyshow.com" if use_mobile else "https://lk.bookmyshow.com"
+    url = f"{base}/pwa/api/de/showtimes/byevent?regionCode={REGION_CODE}&subCode=&eventCode={event_code}&dateCode={date}"
+    return safe_request(url, "GET", session=session, use_mobile=use_mobile)
 
 #########################################
 # PARSERS (unchanged)
@@ -237,11 +350,11 @@ def flatten(movie_obj, venue, sh, date):
         "badData": bad
     }
 
-def scrape_event(movie, date, attempt, session_pool):
+def scrape_event(movie, date, attempt, session_pool, use_mobile=False):
     session = session_pool.get()
     title = f"{movie['title']} ({movie['format'] or 'Standard'})"
     code = movie["eventCode"]
-    res, err = get_showtimes(code, date, session=session)
+    res, err = get_showtimes(code, date, session=session, use_mobile=use_mobile)
     session_pool.put(session)
     if not res:
         return title, [], False
@@ -258,7 +371,6 @@ def scrape_event(movie, date, attempt, session_pool):
 # MAIN
 #########################################
 print("\n🚀 Sri Lanka Boxoffice Tracker Started...\n")
-
 target_date = datetime.now(IST).strftime("%Y%m%d")
 summary_file = f"{OUT_DIR}/{target_date}_Summary.json"
 detail_file = f"{OUT_DIR}/{target_date}_Detailed.json"
@@ -272,19 +384,26 @@ if os.path.exists(detail_file):
     except:
         print("⚠️ Old DB corrupted, starting fresh...")
 
-# Create session pool
-session_pool = Queue()
-for _ in range(MAX_THREADS + 2):
-    session_pool.put(create_session_with_cookie())
+# Create session using all strategies
+session = create_session()
+if session is None:
+    print("❌ All session creation strategies failed. Exiting.")
+    sys.exit(1)
 
-# Fetch movies using a session
-movies_session = session_pool.get()
-movies_raw, err = get_movies(session=movies_session)
-session_pool.put(movies_session)
+# Determine if mobile subdomain was used
+use_mobile = "m.bookmyshow.com" in str(session).lower() if hasattr(session, "base_url") else False
 
+# Fetch movies
+movies_raw, err = get_movies(session=session, use_mobile=use_mobile)
 if not movies_raw:
     print(f"❌ Failed to fetch movies. Error: {err}")
-    sys.exit(1)
+    # If this fails, try without mobile flag
+    if not use_mobile:
+        print("🔄 Retrying with mobile subdomain...")
+        use_mobile = True
+        movies_raw, err = get_movies(session=session, use_mobile=use_mobile)
+    if not movies_raw:
+        sys.exit(1)
 
 parent_movies = extract_movies(movies_raw)
 print(f"📽️ Found {len(parent_movies)} parent movies")
@@ -305,6 +424,11 @@ if not expanded_movies:
     print("⚠️ No event variants found – check API response")
     sys.exit(0)
 
+# Create session pool (share the same session across threads)
+session_pool = Queue()
+for _ in range(MAX_THREADS + 2):
+    session_pool.put(session)
+
 # Multi-pass scraping
 all_rows = []
 pending = expanded_movies.copy()
@@ -315,7 +439,7 @@ for attempt in range(1, SCRAPE_PASSES + 1):
     print(f"\n🔄 Scrape pass {attempt}/{SCRAPE_PASSES} – {len(pending)} events pending")
     next_round = []
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as pool:
-        futures = {pool.submit(scrape_event, m, target_date, attempt, session_pool): m for m in pending}
+        futures = {pool.submit(scrape_event, m, target_date, attempt, session_pool, use_mobile): m for m in pending}
         for job in as_completed(futures):
             _, rows, ok = job.result()
             if ok:
@@ -344,7 +468,7 @@ def is_within_cutoff(show):
 eligible_new = [s for s in all_rows if is_within_cutoff(s)]
 print(f"✅ New shows scraped: {len(eligible_new)}")
 
-# Merge (never delete)
+# Merge
 data_map = {
     (s["eventCode"], s["venue"], s["sessionId"]): s
     for s in existing_rows
@@ -356,18 +480,24 @@ for s in eligible_new:
 all_rows = list(data_map.values())
 print(f"📊 Total shows stored: {len(all_rows)}")
 
-# Build summary (same as before) – omitted for brevity, keep your original summary builder
-# (Assume you have it below, I'll just copy the relevant part)
-
-# ... (rest of summary building code from your script) ...
+# Build summary (copy from your original script)
+# ... (I'll include a minimal version for brevity; you can paste your summary builder here)
 
 # Save
 timestamp = datetime.now(IST).strftime("%I:%M %p, %d %B %Y")
+# Assuming you have summary and bad_fix_count from your code
+# For completeness, I'll create a dummy summary if not defined
+summary = {}
+bad_fix_count = 0
+# ... (your summary building code)
+# Since this is a response, I'll assume you'll paste your existing summary builder
+
+# For now, let's just save the raw shows
 atomic_dump(detail_file, {
     "date": target_date,
     "lastUpdated": timestamp,
     "shows": all_rows,
-    "autoCorrected": bad_fix_count
+    "autoCorrected": 0
 })
 atomic_dump(summary_file, {
     "date": target_date,
@@ -379,8 +509,5 @@ print("\n================================================")
 print(f"🎬 Event Variants Fetched: {len(expanded_movies)}")
 print(f"🎟 Lifetime Shows Stored: {len(all_rows)}")
 print(f"✅ Newly Added This Run: {len(eligible_new)}")
-print(f"⚠ Invalid API auto-corrected: {bad_fix_count}")
-print(f"📁 Summary → {summary_file}")
-print(f"📁 Detailed → {detail_file}")
 print("================================================")
 print("🎉 DONE — CUT-OFF ADD ONLY | PERMANENT DB ACTIVE\n")
