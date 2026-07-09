@@ -23,6 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install cloudscraper
+        pip install curl_cffi
 
     - name: Run Scraper
       run: |
