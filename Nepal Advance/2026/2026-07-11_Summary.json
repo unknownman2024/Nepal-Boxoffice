@@ -3,10 +3,10 @@
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
     "total_shows": 150,
-    "seats": 31099,
-    "sold": 1127,
-    "reserved": 360,
-    "available": 29612,
+    "seats": 31764,
+    "sold": 1140,
+    "reserved": 374,
+    "available": 30250,
     "housefull": 0,
     "fastfilling": 3,
     "venues": [
@@ -24,9 +24,9 @@
         "venue": "qfx-labim",
         "total_shows": 4,
         "seats": 722,
-        "sold": 174,
+        "sold": 177,
         "reserved": 0,
-        "available": 548,
+        "available": 545,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -102,11 +102,21 @@
       },
       {
         "venue": "ranjana-cineplex",
-        "total_shows": 3,
-        "seats": 620,
-        "sold": 5,
+        "total_shows": 2,
+        "seats": 369,
+        "sold": 2,
         "reserved": 2,
-        "available": 613,
+        "available": 365,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -224,9 +234,9 @@
         "venue": "qfx-skyline",
         "total_shows": 7,
         "seats": 913,
-        "sold": 229,
-        "reserved": 5,
-        "available": 679,
+        "sold": 232,
+        "reserved": 3,
+        "available": 678,
         "housefull": 0,
         "fastfilling": 2
       },
@@ -341,12 +351,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "pathivara-cine-plaza",
         "total_shows": 4,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "seats": 916,
+        "sold": 10,
+        "reserved": 16,
+        "available": 890,
         "housefull": 0,
         "fastfilling": 0
       }
