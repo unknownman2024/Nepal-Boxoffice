@@ -100,7 +100,6 @@ def get_session_curl(impersonate="chrome124"):
         return None
     try:
         session = curl_req.Session(impersonate=impersonate, timeout=TIMEOUT_SEC)
-        # Attempt to visit homepage to set cookies
         home_url = "https://lk.bookmyshow.com/"
         headers_home = {
             "User-Agent": random_user_agent(),
@@ -158,9 +157,7 @@ def get_session_requests():
         print("⚠️ No CF_CLEARANCE env var, skipping requests strategy")
         return None
     session = requests.Session()
-    # Set cookie manually
     session.cookies.set("cf_clearance", CF_CLEARANCE, domain=".bookmyshow.com")
-    # Test with homepage
     home_url = "https://lk.bookmyshow.com/"
     headers_home = {
         "User-Agent": random_user_agent(),
@@ -182,10 +179,9 @@ def get_session_requests():
         return None
 
 #########################################
-# STRATEGY D: Use mobile subdomain
+# STRATEGY D: Mobile subdomain
 #########################################
 def get_session_mobile():
-    # Try curl_cffi with mobile subdomain
     if HAS_CURL:
         try:
             session = curl_req.Session(impersonate="chrome124", timeout=TIMEOUT_SEC)
@@ -223,7 +219,6 @@ def create_session():
         ("requests_cookie", get_session_requests),
         ("mobile_subdomain", get_session_mobile),
     ]
-
     for name, func in strategies:
         print(f"🧪 Trying strategy: {name}...")
         session = func()
@@ -234,7 +229,7 @@ def create_session():
     return None
 
 #########################################
-# SAFE REQUEST (using the chosen session)
+# SAFE REQUEST
 #########################################
 def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PER_REQUEST, use_mobile=False):
     if session is None:
@@ -275,7 +270,7 @@ def safe_request(url, method="GET", payload=None, session=None, retries=RETRY_PE
     return None, last_err
 
 #########################################
-# API CALLS (with optional mobile flag)
+# API CALLS
 #########################################
 def get_movies(session=None, use_mobile=False):
     base = "https://m.bookmyshow.com" if use_mobile else "https://lk.bookmyshow.com"
@@ -390,20 +385,21 @@ if session is None:
     print("❌ All session creation strategies failed. Exiting.")
     sys.exit(1)
 
-# Determine if mobile subdomain was used
-use_mobile = "m.bookmyshow.com" in str(session).lower() if hasattr(session, "base_url") else False
+# Determine if mobile subdomain was used (heuristic)
+use_mobile = False
+try:
+    # Try with mobile API first if available
+    movies_raw, err = get_movies(session=session, use_mobile=True)
+    if not movies_raw:
+        use_mobile = False
+        movies_raw, err = get_movies(session=session, use_mobile=False)
+except:
+    use_mobile = False
+    movies_raw, err = get_movies(session=session, use_mobile=False)
 
-# Fetch movies
-movies_raw, err = get_movies(session=session, use_mobile=use_mobile)
 if not movies_raw:
     print(f"❌ Failed to fetch movies. Error: {err}")
-    # If this fails, try without mobile flag
-    if not use_mobile:
-        print("🔄 Retrying with mobile subdomain...")
-        use_mobile = True
-        movies_raw, err = get_movies(session=session, use_mobile=use_mobile)
-    if not movies_raw:
-        sys.exit(1)
+    sys.exit(1)
 
 parent_movies = extract_movies(movies_raw)
 print(f"📽️ Found {len(parent_movies)} parent movies")
@@ -424,7 +420,7 @@ if not expanded_movies:
     print("⚠️ No event variants found – check API response")
     sys.exit(0)
 
-# Create session pool (share the same session across threads)
+# Create session pool
 session_pool = Queue()
 for _ in range(MAX_THREADS + 2):
     session_pool.put(session)
@@ -480,24 +476,62 @@ for s in eligible_new:
 all_rows = list(data_map.values())
 print(f"📊 Total shows stored: {len(all_rows)}")
 
-# Build summary (copy from your original script)
-# ... (I'll include a minimal version for brevity; you can paste your summary builder here)
+# Build summary
+summary = {}
+bad_fix_count = sum(1 for s in all_rows if s["badData"])
+
+for s in all_rows:
+    title = s["movie"]
+    event = s["eventCode"]
+
+    if title not in summary:
+        summary[title] = {
+            "totalShows": 0,
+            "totalGross": 0,
+            "totalSold": 0,
+            "totalSeats": 0,
+            "formats": {}
+        }
+
+    block = summary[title]
+    if event not in block["formats"]:
+        block["formats"][event] = {
+            "format": s["format"],
+            "language": s["language"],
+            "shows": 0,
+            "gross": 0,
+            "sold": 0,
+            "totalSeats": 0,
+            "fastfilling": 0,
+            "housefull": 0
+        }
+
+    f = block["formats"][event]
+    f["shows"] += 1
+    f["gross"] += s["gross"]
+    f["sold"] += s["sold"]
+    f["totalSeats"] += s["totalSeats"]
+
+    if 50 <= s["occupancy"] < 98:
+        f["fastfilling"] += 1
+    if s["occupancy"] >= 98:
+        f["housefull"] += 1
+
+    block["totalShows"] += 1
+    block["totalGross"] += s["gross"]
+    block["totalSold"] += s["sold"]
+    block["totalSeats"] += s["totalSeats"]
+
+for k, v in summary.items():
+    v["globalOccupancy"] = round(v["totalSold"] / v["totalSeats"] * 100, 2) if v["totalSeats"] else 0
 
 # Save
 timestamp = datetime.now(IST).strftime("%I:%M %p, %d %B %Y")
-# Assuming you have summary and bad_fix_count from your code
-# For completeness, I'll create a dummy summary if not defined
-summary = {}
-bad_fix_count = 0
-# ... (your summary building code)
-# Since this is a response, I'll assume you'll paste your existing summary builder
-
-# For now, let's just save the raw shows
 atomic_dump(detail_file, {
     "date": target_date,
     "lastUpdated": timestamp,
     "shows": all_rows,
-    "autoCorrected": 0
+    "autoCorrected": bad_fix_count
 })
 atomic_dump(summary_file, {
     "date": target_date,
@@ -509,5 +543,8 @@ print("\n================================================")
 print(f"🎬 Event Variants Fetched: {len(expanded_movies)}")
 print(f"🎟 Lifetime Shows Stored: {len(all_rows)}")
 print(f"✅ Newly Added This Run: {len(eligible_new)}")
+print(f"⚠ Invalid API auto-corrected: {bad_fix_count}")
+print(f"📁 Summary → {summary_file}")
+print(f"📁 Detailed → {detail_file}")
 print("================================================")
 print("🎉 DONE — CUT-OFF ADD ONLY | PERMANENT DB ACTIVE\n")
