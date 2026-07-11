@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "lastUpdated": "12:24 AM, 12 July 2026",
+  "lastUpdated": "03:15 AM, 12 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -1941,16 +1941,18 @@
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
       "movie_name": "Welcome to the Jungle",
       "show_id": "40844:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi - 1",
-      "date": "2026-07-13T20:30:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
