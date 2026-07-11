@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "lastUpdated": "03:30 AM, 11 July 2026",
+  "lastUpdated": "07:37 AM, 11 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -131,11 +131,11 @@
       "date": "2026-07-12T08:30:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 9,
+      "sold": 13,
       "reserved": 42,
-      "available": 228,
-      "gross": 10200,
-      "occupancy_percent": 18.28
+      "available": 224,
+      "gross": 11000,
+      "occupancy_percent": 19.71
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -441,35 +441,31 @@
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
       "movie_name": "Alpha",
       "show_id": "148876:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-12",
-      "time": null,
-      "seats": 0,
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-07-12T13:45:00+05:45",
+      "time": "",
+      "seats": 169,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 169,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
       "movie_name": "Alpha",
       "show_id": "148867:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-12",
-      "time": null,
-      "seats": 0,
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-07-12T08:00:00+05:45",
+      "time": "",
+      "seats": 60,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 60,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -490,18 +486,16 @@
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
       "movie_name": "Alpha",
       "show_id": "16300:cineroyale",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-12",
-      "time": null,
-      "seats": 0,
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-07-12T12:15:00+05:45",
+      "time": "",
+      "seats": 217,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 217,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -2327,11 +2321,11 @@
       "date": "2026-07-12T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 7,
+      "sold": 12,
       "reserved": 0,
-      "available": 240,
-      "gross": 1540,
-      "occupancy_percent": 2.83
+      "available": 235,
+      "gross": 2640,
+      "occupancy_percent": 4.86
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3377,11 +3371,11 @@
       "date": "2026-07-12T12:45:00+05:45",
       "time": "",
       "seats": 132,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 132,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 129,
+      "gross": 900,
+      "occupancy_percent": 2.27
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -3567,18 +3561,16 @@
       "movie_id": "fWv8Bfws6tPzPFLFgTK2yW",
       "movie_name": "Baghdaudh",
       "show_id": "148868:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-12",
-      "time": null,
-      "seats": 0,
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-07-12T10:45:00+05:45",
+      "time": "",
+      "seats": 60,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 60,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "fWv8Bfws6tPzPFLFgTK2yW",
@@ -4234,11 +4226,11 @@
       "date": "2026-07-12T14:15:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 1,
+      "sold": 6,
       "reserved": 0,
-      "available": 182,
-      "gross": 480,
-      "occupancy_percent": 0.55
+      "available": 177,
+      "gross": 2880,
+      "occupancy_percent": 3.28
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
