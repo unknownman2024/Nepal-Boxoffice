@@ -3,10 +3,10 @@
     "movie_id": "yakpqPfo6j8XEooh9ndzy8",
     "movie_name": "Alpha",
     "total_shows": 22,
-    "seats": 3002,
+    "seats": 3194,
     "sold": 43,
     "reserved": 28,
-    "available": 2931,
+    "available": 3123,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -191,12 +191,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "bsr-movies",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 192,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -205,11 +205,11 @@
   {
     "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
     "movie_name": "Evil Dead Burn",
-    "total_shows": 42,
-    "seats": 6500,
-    "sold": 54,
-    "reserved": 86,
-    "available": 6360,
+    "total_shows": 44,
+    "seats": 6884,
+    "sold": 55,
+    "reserved": 87,
+    "available": 6742,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -247,9 +247,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 777,
-        "sold": 0,
-        "reserved": 0,
-        "available": 777,
+        "sold": 1,
+        "reserved": 1,
+        "available": 775,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -422,17 +422,27 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 2,
+        "seats": 384,
+        "sold": 0,
+        "reserved": 0,
+        "available": 384,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
     "movie_name": "Moana",
-    "total_shows": 20,
-    "seats": 3241,
+    "total_shows": 21,
+    "seats": 3421,
     "sold": 38,
     "reserved": 22,
-    "available": 3181,
+    "available": 3361,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -603,6 +613,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -950,11 +970,11 @@
   {
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
-    "total_shows": 15,
-    "seats": 2516,
-    "sold": 33,
-    "reserved": 26,
-    "available": 2457,
+    "total_shows": 16,
+    "seats": 2708,
+    "sold": 35,
+    "reserved": 25,
+    "available": 2648,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -973,8 +993,8 @@
         "total_shows": 1,
         "seats": 177,
         "sold": 0,
-        "reserved": 1,
-        "available": 176,
+        "reserved": 0,
+        "available": 177,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1102,9 +1122,19 @@
         "venue": "cineroyale",
         "total_shows": 1,
         "seats": 126,
+        "sold": 2,
+        "reserved": 0,
+        "available": 124,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
         "sold": 0,
         "reserved": 0,
-        "available": 126,
+        "available": 192,
         "housefull": 0,
         "fastfilling": 0
       }
