@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "lastUpdated": "03:15 AM, 12 July 2026",
+  "lastUpdated": "07:40 AM, 12 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -162,10 +162,10 @@
       "time": "",
       "seats": 217,
       "sold": 0,
-      "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 216,
+      "gross": 500,
+      "occupancy_percent": 0.46
     },
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -447,10 +447,10 @@
       "time": "",
       "seats": 101,
       "sold": 0,
-      "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 100,
+      "gross": 225,
+      "occupancy_percent": 0.99
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -492,10 +492,10 @@
       "time": "",
       "seats": 101,
       "sold": 0,
-      "reserved": 0,
-      "available": 101,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 100,
+      "gross": 225,
+      "occupancy_percent": 0.99
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -552,10 +552,10 @@
       "time": "",
       "seats": 136,
       "sold": 14,
-      "reserved": 0,
-      "available": 122,
-      "gross": 2800,
-      "occupancy_percent": 10.29
+      "reserved": 1,
+      "available": 121,
+      "gross": 3000,
+      "occupancy_percent": 11.03
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -891,16 +891,18 @@
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
       "movie_name": "Moana",
       "show_id": "4639:kirtipur-cineplex",
-      "venue": "kirtipur-cineplex",
-      "theatre": "Kirtipur Cineplex - Audi-1",
-      "date": "2026-07-13T11:30:00+05:45",
-      "time": "",
-      "seats": 285,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 16,
-      "available": 269,
-      "gross": 4000,
-      "occupancy_percent": 5.61
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
@@ -1916,11 +1918,11 @@
       "date": "2026-07-13T18:30:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 110,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 106,
+      "gross": 1560,
+      "occupancy_percent": 3.64
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
@@ -1941,18 +1943,16 @@
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
       "movie_name": "Welcome to the Jungle",
       "show_id": "40844:ranjana-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-13",
-      "time": null,
-      "seats": 0,
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 1",
+      "date": "2026-07-13T20:30:00+05:45",
+      "time": "",
+      "seats": 251,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 251,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",

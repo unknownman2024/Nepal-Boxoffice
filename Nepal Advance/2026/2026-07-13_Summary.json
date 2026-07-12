@@ -5,8 +5,8 @@
     "total_shows": 14,
     "seats": 2242,
     "sold": 45,
-    "reserved": 10,
-    "available": 2187,
+    "reserved": 11,
+    "available": 2186,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -105,8 +105,8 @@
         "total_shows": 1,
         "seats": 217,
         "sold": 0,
-        "reserved": 0,
-        "available": 217,
+        "reserved": 1,
+        "available": 216,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -148,8 +148,8 @@
     "total_shows": 35,
     "seats": 5444,
     "sold": 50,
-    "reserved": 35,
-    "available": 5359,
+    "reserved": 38,
+    "available": 5356,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -218,8 +218,8 @@
         "total_shows": 2,
         "seats": 202,
         "sold": 0,
-        "reserved": 0,
-        "available": 202,
+        "reserved": 2,
+        "available": 200,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -238,8 +238,8 @@
         "total_shows": 2,
         "seats": 272,
         "sold": 28,
-        "reserved": 0,
-        "available": 244,
+        "reserved": 1,
+        "available": 243,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -329,10 +329,10 @@
     "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
     "movie_name": "Moana",
     "total_shows": 16,
-    "seats": 2810,
+    "seats": 2525,
     "sold": 37,
-    "reserved": 28,
-    "available": 2745,
+    "reserved": 12,
+    "available": 2476,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -407,12 +407,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "kirtipur-cineplex",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 285,
+        "seats": 0,
         "sold": 0,
-        "reserved": 16,
-        "available": 269,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -732,9 +732,9 @@
     "movie_name": "Baby Do Die Do",
     "total_shows": 1,
     "seats": 110,
-    "sold": 0,
+    "sold": 4,
     "reserved": 0,
-    "available": 110,
+    "available": 106,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -742,9 +742,9 @@
         "venue": "qfx-chhaya",
         "total_shows": 1,
         "seats": 110,
-        "sold": 0,
+        "sold": 4,
         "reserved": 0,
-        "available": 110,
+        "available": 106,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -754,10 +754,10 @@
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
     "total_shows": 11,
-    "seats": 1881,
+    "seats": 2132,
     "sold": 31,
     "reserved": 10,
-    "available": 1840,
+    "available": 2091,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -772,12 +772,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "ranjana-cineplex",
         "total_shows": 1,
-        "seats": 0,
+        "seats": 251,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 251,
         "housefull": 0,
         "fastfilling": 0
       },
