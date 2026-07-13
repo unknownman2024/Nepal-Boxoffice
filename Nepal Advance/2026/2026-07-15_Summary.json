@@ -2,11 +2,11 @@
   {
     "movie_id": "yakpqPfo6j8XEooh9ndzy8",
     "movie_name": "Alpha",
-    "total_shows": 21,
-    "seats": 3619,
-    "sold": 51,
+    "total_shows": 22,
+    "seats": 3878,
+    "sold": 53,
     "reserved": 52,
-    "available": 3516,
+    "available": 3773,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -209,6 +209,16 @@
         "available": 134,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 2,
+        "reserved": 0,
+        "available": 257,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -217,9 +227,9 @@
     "movie_name": "Evil Dead Burn",
     "total_shows": 48,
     "seats": 8287,
-    "sold": 94,
+    "sold": 96,
     "reserved": 234,
-    "available": 7959,
+    "available": 7957,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -287,9 +297,9 @@
         "venue": "qfx-civil",
         "total_shows": 3,
         "seats": 777,
-        "sold": 6,
+        "sold": 8,
         "reserved": 0,
-        "available": 771,
+        "available": 769,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -498,11 +508,11 @@
   {
     "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
     "movie_name": "Moana",
-    "total_shows": 21,
-    "seats": 3432,
+    "total_shows": 23,
+    "seats": 3887,
     "sold": 26,
     "reserved": 57,
-    "available": 3349,
+    "available": 3804,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -685,17 +695,37 @@
         "available": 288,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 0,
+        "reserved": 0,
+        "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
-    "total_shows": 119,
-    "seats": 23324,
-    "sold": 270,
-    "reserved": 580,
-    "available": 22474,
+    "total_shows": 125,
+    "seats": 25213,
+    "sold": 286,
+    "reserved": 578,
+    "available": 24349,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -754,8 +784,8 @@
         "total_shows": 4,
         "seats": 960,
         "sold": 0,
-        "reserved": 2,
-        "available": 958,
+        "reserved": 0,
+        "available": 960,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -900,12 +930,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "ini-qbox-butwal",
-        "total_shows": 4,
-        "seats": 784,
+        "venue": "Unknown",
+        "total_shows": 5,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 784,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ini-qbox-butwal",
+        "total_shows": 3,
+        "seats": 588,
+        "sold": 0,
+        "reserved": 0,
+        "available": 588,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -960,16 +1000,6 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
-        "total_shows": 4,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
         "venue": "bamel-cinemas",
         "total_shows": 3,
         "seats": 411,
@@ -1016,6 +1046,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 792,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 3,
+        "seats": 1557,
+        "sold": 2,
+        "reserved": 0,
+        "available": 1555,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 3,
+        "seats": 528,
+        "sold": 14,
+        "reserved": 0,
+        "available": 514,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1133,11 +1183,11 @@
   {
     "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
     "movie_name": "Welcome to the Jungle",
-    "total_shows": 16,
-    "seats": 3084,
+    "total_shows": 18,
+    "seats": 3539,
     "sold": 31,
     "reserved": 78,
-    "available": 2975,
+    "available": 3430,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1298,6 +1348,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 198,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 0,
+        "reserved": 0,
+        "available": 259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 0,
+        "reserved": 0,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       }
