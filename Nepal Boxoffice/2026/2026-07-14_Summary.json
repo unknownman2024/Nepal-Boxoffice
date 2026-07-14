@@ -4,9 +4,9 @@
     "movie_name": "Evil Dead Burn",
     "total_shows": 3,
     "seats": 535,
-    "sold": 15,
+    "sold": 22,
     "reserved": 0,
-    "available": 520,
+    "available": 513,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -14,9 +14,9 @@
         "venue": "big-movies",
         "total_shows": 1,
         "seats": 270,
-        "sold": 9,
+        "sold": 16,
         "reserved": 0,
-        "available": 261,
+        "available": 254,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -47,9 +47,9 @@
     "movie_name": "Alpha",
     "total_shows": 1,
     "seats": 279,
-    "sold": 2,
+    "sold": 8,
     "reserved": 0,
-    "available": 277,
+    "available": 271,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -57,9 +57,9 @@
         "venue": "big-movies",
         "total_shows": 1,
         "seats": 279,
-        "sold": 2,
+        "sold": 8,
         "reserved": 0,
-        "available": 277,
+        "available": 271,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -68,21 +68,41 @@
   {
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
-    "total_shows": 1,
-    "seats": 349,
-    "sold": 12,
-    "reserved": 0,
-    "available": 337,
+    "total_shows": 4,
+    "seats": 1120,
+    "sold": 33,
+    "reserved": 3,
+    "available": 1084,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
       {
         "venue": "big-movies",
-        "total_shows": 1,
-        "seats": 349,
-        "sold": 12,
+        "total_shows": 2,
+        "seats": 698,
+        "sold": 26,
         "reserved": 0,
-        "available": 337,
+        "available": 672,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 3,
+        "available": 211,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 7,
+        "reserved": 0,
+        "available": 201,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -106,6 +126,75 @@
         "sold": 0,
         "reserved": 0,
         "available": 75,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
+    "movie_name": "Moana",
+    "total_shows": 1,
+    "seats": 136,
+    "sold": 14,
+    "reserved": 0,
+    "available": 122,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 136,
+        "sold": 14,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+    "movie_name": "Cocktail 2",
+    "total_shows": 1,
+    "seats": 270,
+    "sold": 2,
+    "reserved": 0,
+    "available": 268,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 2,
+        "reserved": 0,
+        "available": 268,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+    "movie_name": "Roll No 1",
+    "total_shows": 1,
+    "seats": 190,
+    "sold": 0,
+    "reserved": 0,
+    "available": 190,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
         "housefull": 0,
         "fastfilling": 0
       }

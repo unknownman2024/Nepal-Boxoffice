@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "lastUpdated": "05:22 AM, 14 July 2026",
+  "lastUpdated": "07:39 AM, 14 July 2026",
   "shows": [
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -26,11 +26,11 @@
       "date": "2026-07-14T08:30:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 2,
+      "sold": 8,
       "reserved": 0,
-      "available": 277,
-      "gross": 400,
-      "occupancy_percent": 0.72
+      "available": 271,
+      "gross": 1600,
+      "occupancy_percent": 2.87
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -56,11 +56,11 @@
       "date": "2026-07-14T08:15:00+05:45",
       "time": "",
       "seats": 270,
-      "sold": 9,
+      "sold": 16,
       "reserved": 0,
-      "available": 261,
-      "gross": 1800,
-      "occupancy_percent": 3.33
+      "available": 254,
+      "gross": 3200,
+      "occupancy_percent": 5.93
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -71,11 +71,11 @@
       "date": "2026-07-14T08:00:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 12,
+      "sold": 16,
       "reserved": 0,
-      "available": 337,
-      "gross": 2400,
-      "occupancy_percent": 3.44
+      "available": 333,
+      "gross": 3200,
+      "occupancy_percent": 4.58
     },
     {
       "movie_id": "fWv8Bfws6tPzPFLFgTK2yW",
@@ -89,6 +89,96 @@
       "sold": 0,
       "reserved": 0,
       "available": 75,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
+      "movie_name": "Moana",
+      "show_id": "28350:one-cinemas-kalimati",
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 2",
+      "date": "2026-07-14T10:00:00+05:45",
+      "time": "",
+      "seats": 136,
+      "sold": 14,
+      "reserved": 0,
+      "available": 122,
+      "gross": 4200,
+      "occupancy_percent": 10.29
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "2735:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-07-14T10:45:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 3,
+      "available": 211,
+      "gross": 570,
+      "occupancy_percent": 1.4
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "63598:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-07-14T10:45:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 10,
+      "reserved": 0,
+      "available": 339,
+      "gross": 2000,
+      "occupancy_percent": 2.87
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "28327:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-07-14T09:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 7,
+      "reserved": 0,
+      "available": 201,
+      "gross": 1750,
+      "occupancy_percent": 3.37
+    },
+    {
+      "movie_id": "cXn62XZEXWjBVxPTeAt62Z",
+      "movie_name": "Cocktail 2",
+      "show_id": "63592:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-07-14T10:30:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 2,
+      "reserved": 0,
+      "available": 268,
+      "gross": 400,
+      "occupancy_percent": 0.74
+    },
+    {
+      "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
+      "movie_name": "Roll No 1",
+      "show_id": "8252:suvakamna-cinemas",
+      "venue": "suvakamna-cinemas",
+      "theatre": "Shuvakamana Cinema - Hall-A",
+      "date": "2026-07-14T09:00:00+05:45",
+      "time": "",
+      "seats": 190,
+      "sold": 0,
+      "reserved": 0,
+      "available": 190,
       "gross": 0,
       "occupancy_percent": 0.0
     }
