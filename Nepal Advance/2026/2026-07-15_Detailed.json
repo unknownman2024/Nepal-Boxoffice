@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "lastUpdated": "03:23 AM, 14 July 2026",
+  "lastUpdated": "07:27 AM, 14 July 2026",
   "shows": [
     {
       "movie_id": "yakpqPfo6j8XEooh9ndzy8",
@@ -597,10 +597,10 @@
       "time": "",
       "seats": 164,
       "sold": 4,
-      "reserved": 6,
-      "available": 154,
-      "gross": 1750,
-      "occupancy_percent": 6.1
+      "reserved": 9,
+      "available": 151,
+      "gross": 2275,
+      "occupancy_percent": 7.93
     },
     {
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
@@ -1377,10 +1377,10 @@
       "time": "",
       "seats": 349,
       "sold": 0,
-      "reserved": 50,
-      "available": 299,
-      "gross": 10000,
-      "occupancy_percent": 14.33
+      "reserved": 52,
+      "available": 297,
+      "gross": 10400,
+      "occupancy_percent": 14.9
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1451,11 +1451,11 @@
       "date": "2026-07-15T13:00:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 4,
+      "sold": 5,
       "reserved": 42,
-      "available": 233,
-      "gross": 9200,
-      "occupancy_percent": 16.49
+      "available": 232,
+      "gross": 9400,
+      "occupancy_percent": 16.85
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1707,10 +1707,10 @@
       "time": "",
       "seats": 212,
       "sold": 0,
-      "reserved": 10,
-      "available": 202,
-      "gross": 3400,
-      "occupancy_percent": 4.72
+      "reserved": 12,
+      "available": 200,
+      "gross": 4080,
+      "occupancy_percent": 5.66
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -2466,18 +2466,16 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "68385:ini-qbox-butwal",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-15",
-      "time": null,
-      "seats": 0,
+      "venue": "ini-qbox-butwal",
+      "theatre": "iNi Butwal - Audi 1",
+      "date": "2026-07-15T14:00:00+05:45",
+      "time": "",
+      "seats": 196,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 196,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -3426,11 +3424,11 @@
       "date": "2026-07-15T12:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 126,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 125,
+      "gross": 200,
+      "occupancy_percent": 0.79
     },
     {
       "movie_id": "7XxkGNYKcCbMMjHQsDeJ3M",
