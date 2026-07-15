@@ -1,5 +1,36 @@
 {
   "date": "2026-07-16",
-  "lastUpdated": "03:31 AM, 16 July 2026",
-  "shows": []
+  "lastUpdated": "05:26 AM, 16 July 2026",
+  "shows": [
+    {
+      "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
+      "movie_name": "Evil Dead Burn",
+      "show_id": "63627:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 2",
+      "date": "2026-07-16T08:45:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 6,
+      "reserved": 0,
+      "available": 264,
+      "gross": 1200,
+      "occupancy_percent": 2.22
+    },
+    {
+      "movie_id": "yakpqPfo6j8XEooh9ndzy8",
+      "movie_name": "Alpha",
+      "show_id": "63622:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 1",
+      "date": "2026-07-16T08:00:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 2,
+      "reserved": 0,
+      "available": 277,
+      "gross": 400,
+      "occupancy_percent": 0.72
+    }
+  ]
 }
