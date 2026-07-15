@@ -5,8 +5,8 @@
     "total_shows": 97,
     "seats": 22206,
     "sold": 113,
-    "reserved": 350,
-    "available": 21743,
+    "reserved": 351,
+    "available": 21742,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -205,8 +205,8 @@
         "total_shows": 3,
         "seats": 354,
         "sold": 0,
-        "reserved": 0,
-        "available": 354,
+        "reserved": 1,
+        "available": 353,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -316,10 +316,10 @@
     "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
     "movie_name": "Evil Dead Burn",
     "total_shows": 41,
-    "seats": 7184,
+    "seats": 7095,
     "sold": 43,
     "reserved": 107,
-    "available": 7034,
+    "available": 6945,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -444,12 +444,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "bishwojyoti-cineplex",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 89,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 89,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1206,8 +1206,8 @@
     "total_shows": 2,
     "seats": 529,
     "sold": 0,
-    "reserved": 0,
-    "available": 529,
+    "reserved": 1,
+    "available": 528,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1226,8 +1226,8 @@
         "total_shows": 1,
         "seats": 259,
         "sold": 0,
-        "reserved": 0,
-        "available": 259,
+        "reserved": 1,
+        "available": 258,
         "housefull": 0,
         "fastfilling": 0
       }
