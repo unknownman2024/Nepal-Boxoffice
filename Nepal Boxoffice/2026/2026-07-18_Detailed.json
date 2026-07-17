@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "lastUpdated": "03:20 AM, 18 July 2026",
+  "lastUpdated": "04:15 AM, 18 July 2026",
   "shows": [
     {
       "movie_id": "8bv3vRwJnKfwzCQmRYiGxh",
@@ -16,6 +16,96 @@
       "available": 309,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "177768:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-07-18T07:15:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 109,
+      "reserved": 0,
+      "available": 71,
+      "gross": 26160,
+      "occupancy_percent": 60.56
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "63651:big-movies",
+      "venue": "big-movies",
+      "theatre": "Big Movies - Audi 3",
+      "date": "2026-07-18T07:30:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 152,
+      "reserved": 13,
+      "available": 184,
+      "gross": 33000,
+      "occupancy_percent": 47.28
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "176606:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-07-18T07:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 160,
+      "reserved": 0,
+      "available": 22,
+      "gross": 38400,
+      "occupancy_percent": 87.91
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "177974:qfx-durbar",
+      "venue": "qfx-durbar",
+      "theatre": "QFX Durbar - AUDI 02",
+      "date": "2026-07-18T07:30:00+05:45",
+      "time": "",
+      "seats": 51,
+      "sold": 32,
+      "reserved": 2,
+      "available": 17,
+      "gross": 23800,
+      "occupancy_percent": 66.67
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "177859:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-07-18T07:15:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 105,
+      "reserved": 0,
+      "available": 60,
+      "gross": 21525,
+      "occupancy_percent": 63.64
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "176594:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-07-18T07:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 127,
+      "reserved": 0,
+      "available": 55,
+      "gross": 31020,
+      "occupancy_percent": 69.78
     }
   ]
 }
