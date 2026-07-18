@@ -1,5 +1,53 @@
 {
   "date": "2026-07-19",
-  "lastUpdated": "03:17 AM, 19 July 2026",
-  "shows": []
+  "lastUpdated": "04:15 AM, 19 July 2026",
+  "shows": [
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "178166:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-07-19T07:30:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 140,
+      "reserved": 0,
+      "available": 42,
+      "gross": 33600,
+      "occupancy_percent": 76.92
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "178187:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-07-19T07:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 151,
+      "reserved": 0,
+      "available": 29,
+      "gross": 36240,
+      "occupancy_percent": 83.89
+    },
+    {
+      "movie_id": "nubmWD9vtMpmWAVA9riZF8",
+      "movie_name": "The Odyssey - Hindi",
+      "show_id": "178288:qs-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-19",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
+    }
+  ]
 }
