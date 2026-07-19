@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "lastUpdated": "03:16 AM, 19 July 2026",
+  "lastUpdated": "07:38 AM, 19 July 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -36,6 +36,21 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "28461:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 2",
+      "date": "2026-07-20T17:15:00+05:45",
+      "time": "",
+      "seats": 17,
+      "sold": 0,
+      "reserved": 0,
+      "available": 17,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "178227:qfx-durbar",
       "venue": null,
       "theatre": null,
       "date": "2026-07-20",
@@ -48,21 +63,6 @@
       "occupancy_percent": 0,
       "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
-    },
-    {
-      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
-      "movie_name": "Gauthali",
-      "show_id": "178227:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-07-20T17:00:00+05:45",
-      "time": "",
-      "seats": 53,
-      "sold": 0,
-      "reserved": 0,
-      "available": 53,
-      "gross": 0,
-      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -102,10 +102,10 @@
       "theatre": "QFX Civil - AUDI 02",
       "date": "2026-07-20T18:30:00+05:45",
       "time": "",
-      "seats": 259,
+      "seats": 12,
       "sold": 0,
       "reserved": 0,
-      "available": 259,
+      "available": 12,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -158,18 +158,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "75432:fcube",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-20",
-      "time": null,
-      "seats": 0,
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-07-20T16:30:00+05:45",
+      "time": "",
+      "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 10,
+      "available": 188,
+      "gross": 3800,
+      "occupancy_percent": 5.05
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -190,16 +188,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "4701:kirtipur-cineplex",
-      "venue": "kirtipur-cineplex",
-      "theatre": "Kirtipur Cineplex - Audi-1",
-      "date": "2026-07-20T16:45:00+05:45",
-      "time": "",
-      "seats": 285,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 285,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -400,18 +400,16 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "28469:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-20",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-07-20T11:15:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 137,
+      "gross": 2800,
+      "occupancy_percent": 9.27
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -882,18 +880,16 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "75435:fcube",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-20",
-      "time": null,
-      "seats": 0,
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-07-20T19:15:00+05:45",
+      "time": "",
+      "seats": 198,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "reserved": 10,
+      "available": 188,
+      "gross": 3800,
+      "occupancy_percent": 5.05
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1019,21 +1015,6 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "178366:qfx-bhaktapur",
-      "venue": "qfx-bhaktapur",
-      "theatre": "QFX Bhaktapur - AUDI 1",
-      "date": "2026-07-20T20:30:00+05:45",
-      "time": "",
-      "seats": 207,
-      "sold": 0,
-      "reserved": 0,
-      "available": 207,
-      "gross": 0,
-      "occupancy_percent": 0.0
-    },
-    {
-      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
-      "movie_name": "Dhamaal 4",
-      "show_id": "178469:chitwan-cineplex",
       "venue": null,
       "theatre": null,
       "date": "2026-07-20",
@@ -1046,6 +1027,21 @@
       "occupancy_percent": 0,
       "error": "HTTP 429",
       "skipped": true
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "178469:chitwan-cineplex",
+      "venue": "chitwan-cineplex",
+      "theatre": "QFX Cinemas CG Mall - SCREEN 2",
+      "date": "2026-07-20T15:30:00+05:45",
+      "time": "",
+      "seats": 143,
+      "sold": 0,
+      "reserved": 0,
+      "available": 143,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -1355,10 +1351,10 @@
       "theatre": "QFX Rising Mall - Audi 2",
       "date": "2026-07-20T20:00:00+05:45",
       "time": "",
-      "seats": 129,
+      "seats": 39,
       "sold": 0,
       "reserved": 0,
-      "available": 129,
+      "available": 39,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -1386,11 +1382,11 @@
       "date": "2026-07-20T07:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 21,
+      "sold": 22,
       "reserved": 0,
-      "available": 161,
-      "gross": 4095,
-      "occupancy_percent": 11.54
+      "available": 160,
+      "gross": 4290,
+      "occupancy_percent": 12.09
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1446,11 +1442,11 @@
       "date": "2026-07-20T18:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 174,
-      "gross": 2340,
-      "occupancy_percent": 3.33
+      "available": 172,
+      "gross": 3120,
+      "occupancy_percent": 4.44
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1536,11 +1532,11 @@
       "date": "2026-07-20T10:30:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 5,
+      "sold": 6,
       "reserved": 0,
-      "available": 46,
-      "gross": 4000,
-      "occupancy_percent": 9.8
+      "available": 45,
+      "gross": 4800,
+      "occupancy_percent": 11.76
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1565,12 +1561,12 @@
       "theatre": "One Cinemas New Baneshwor - Audi 1",
       "date": "2026-07-20T19:00:00+05:45",
       "time": "",
-      "seats": 15,
-      "sold": 0,
+      "seats": 208,
+      "sold": 19,
       "reserved": 0,
-      "available": 15,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 189,
+      "gross": 6650,
+      "occupancy_percent": 9.13
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1610,12 +1606,12 @@
       "theatre": "One Cinemas New Baneshwor - Audi 1",
       "date": "2026-07-20T11:00:00+05:45",
       "time": "",
-      "seats": 208,
-      "sold": 17,
+      "seats": 15,
+      "sold": 0,
       "reserved": 0,
-      "available": 191,
-      "gross": 5950,
-      "occupancy_percent": 8.17
+      "available": 15,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1627,10 +1623,10 @@
       "time": "",
       "seats": 519,
       "sold": 6,
-      "reserved": 0,
-      "available": 513,
-      "gross": 2500,
-      "occupancy_percent": 1.16
+      "reserved": 2,
+      "available": 511,
+      "gross": 3200,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1656,11 +1652,11 @@
       "date": "2026-07-20T08:00:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 37,
+      "sold": 38,
       "reserved": 0,
-      "available": 482,
-      "gross": 7375,
-      "occupancy_percent": 7.13
+      "available": 481,
+      "gross": 7550,
+      "occupancy_percent": 7.32
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1731,11 +1727,11 @@
       "date": "2026-07-20T14:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 11,
+      "sold": 13,
       "reserved": 0,
-      "available": 169,
-      "gross": 4290,
-      "occupancy_percent": 6.11
+      "available": 167,
+      "gross": 5070,
+      "occupancy_percent": 7.22
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1837,10 +1833,10 @@
       "time": "",
       "seats": 250,
       "sold": 0,
-      "reserved": 0,
-      "available": 250,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 249,
+      "gross": 400,
+      "occupancy_percent": 0.4
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -1850,12 +1846,12 @@
       "theatre": "QFX City Square Mall - Audi 1",
       "date": "2026-07-20T16:30:00+05:45",
       "time": "",
-      "seats": 41,
+      "seats": 177,
       "sold": 4,
       "reserved": 0,
-      "available": 37,
+      "available": 173,
       "gross": 1840,
-      "occupancy_percent": 9.76
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2001,11 +1997,11 @@
       "date": "2026-07-20T15:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 350,
+      "occupancy_percent": 0.55
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2031,11 +2027,11 @@
       "date": "2026-07-20T17:15:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 16,
-      "reserved": 0,
-      "available": 135,
-      "gross": 3200,
-      "occupancy_percent": 10.6
+      "sold": 17,
+      "reserved": 1,
+      "available": 133,
+      "gross": 3650,
+      "occupancy_percent": 11.92
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2146,16 +2142,18 @@
       "movie_id": "DybU857d77sjBuHiWzheJm",
       "movie_name": "The Odyssey",
       "show_id": "178126:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-07-20T19:00:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-20",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2300,10 +2298,10 @@
       "theatre": "QFX Cineflix, Itahari - Audi 1",
       "date": "2026-07-20T08:30:00+05:45",
       "time": "",
-      "seats": 134,
+      "seats": 8,
       "sold": 0,
       "reserved": 0,
-      "available": 134,
+      "available": 8,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -2465,10 +2463,10 @@
       "theatre": "QFX Civil - AUDI 03",
       "date": "2026-07-20T18:15:00+05:45",
       "time": "",
-      "seats": 12,
+      "seats": 259,
       "sold": 0,
       "reserved": 0,
-      "available": 12,
+      "available": 259,
       "gross": 0,
       "occupancy_percent": 0.0
     },
@@ -2556,11 +2554,11 @@
       "date": "2026-07-20T11:15:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 179,
+      "gross": 1880,
+      "occupancy_percent": 2.19
     },
     {
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
