@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "lastUpdated": "05:47 PM, 20 July 2026",
+  "lastUpdated": "08:39 PM, 20 July 2026",
   "shows": [
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3902,11 +3902,11 @@
       "date": "2026-07-20T21:00:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 118,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 113,
+      "gross": 1500,
+      "occupancy_percent": 4.24
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -4097,11 +4097,11 @@
       "date": "2026-07-20T21:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 8,
-      "reserved": 2,
-      "available": 41,
-      "gross": 12000,
-      "occupancy_percent": 19.61
+      "sold": 14,
+      "reserved": 4,
+      "available": 33,
+      "gross": 21600,
+      "occupancy_percent": 35.29
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4337,11 +4337,11 @@
       "date": "2026-07-20T21:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 15,
-      "reserved": 0,
-      "available": 123,
-      "gross": 4200,
-      "occupancy_percent": 10.87
+      "sold": 28,
+      "reserved": 8,
+      "available": 102,
+      "gross": 10320,
+      "occupancy_percent": 26.09
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4447,6 +4447,21 @@
       "available": 288,
       "gross": 500,
       "occupancy_percent": 0.69
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "178478:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-07-20T21:40:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 12,
+      "reserved": 0,
+      "available": 122,
+      "gross": 3000,
+      "occupancy_percent": 8.96
     }
   ]
 }
