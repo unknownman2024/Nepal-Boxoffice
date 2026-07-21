@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "movie_id": "DybU857d77sjBuHiWzheJm",
+    "movie_name": "The Odyssey",
+    "total_shows": 1,
+    "seats": 182,
+    "sold": 135,
+    "reserved": 0,
+    "available": 47,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 135,
+        "reserved": 0,
+        "available": 47,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  }
+]
