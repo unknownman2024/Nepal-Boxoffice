@@ -4,9 +4,9 @@
     "movie_name": "The Odyssey",
     "total_shows": 91,
     "seats": 13975,
-    "sold": 3350,
-    "reserved": 211,
-    "available": 10414,
+    "sold": 3383,
+    "reserved": 195,
+    "available": 10397,
     "housefull": 0,
     "fastfilling": 13,
     "venues": [
@@ -114,9 +114,9 @@
         "venue": "friends-cinemas",
         "total_shows": 2,
         "seats": 428,
-        "sold": 144,
-        "reserved": 23,
-        "available": 261,
+        "sold": 177,
+        "reserved": 7,
+        "available": 244,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -337,11 +337,11 @@
     "movie_name": "Gauthali",
     "total_shows": 161,
     "seats": 29494,
-    "sold": 12346,
-    "reserved": 1522,
-    "available": 15626,
+    "sold": 12561,
+    "reserved": 1431,
+    "available": 15502,
     "housefull": 17,
-    "fastfilling": 42,
+    "fastfilling": 43,
     "venues": [
       {
         "venue": "Unknown",
@@ -637,11 +637,11 @@
         "venue": "qfx-bageshwori",
         "total_shows": 6,
         "seats": 1734,
-        "sold": 1460,
-        "reserved": 19,
-        "available": 255,
+        "sold": 1597,
+        "reserved": 6,
+        "available": 131,
         "housefull": 2,
-        "fastfilling": 3
+        "fastfilling": 4
       },
       {
         "venue": "qfx-bhaktapur",
@@ -807,8 +807,8 @@
         "venue": "vfx-cinemas",
         "total_shows": 4,
         "seats": 988,
-        "sold": 551,
-        "reserved": 427,
+        "sold": 629,
+        "reserved": 349,
         "available": 10,
         "housefull": 3,
         "fastfilling": 1
