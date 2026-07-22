@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "lastUpdated": "12:36 AM, 23 July 2026",
+  "lastUpdated": "03:33 AM, 23 July 2026",
   "shows": [
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -41,11 +41,11 @@
       "date": "2026-07-24T14:15:00+05:45",
       "time": "",
       "seats": 67,
-      "sold": 6,
+      "sold": 7,
       "reserved": 0,
-      "available": 61,
-      "gross": 4500,
-      "occupancy_percent": 8.96
+      "available": 60,
+      "gross": 5050,
+      "occupancy_percent": 10.45
     },
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -161,11 +161,11 @@
       "date": "2026-07-24T17:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 8,
+      "sold": 10,
       "reserved": 19,
-      "available": 232,
-      "gross": 11880,
-      "occupancy_percent": 10.42
+      "available": 230,
+      "gross": 12760,
+      "occupancy_percent": 11.2
     },
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -447,10 +447,10 @@
       "time": "",
       "seats": 138,
       "sold": 2,
-      "reserved": 1,
-      "available": 135,
-      "gross": 480,
-      "occupancy_percent": 2.17
+      "reserved": 0,
+      "available": 136,
+      "gross": 340,
+      "occupancy_percent": 1.45
     },
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -1413,7 +1413,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -2897,11 +2897,11 @@
       "date": "2026-07-24T17:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 2,
+      "sold": 4,
       "reserved": 2,
-      "available": 47,
-      "gross": 5600,
-      "occupancy_percent": 7.84
+      "available": 45,
+      "gross": 8400,
+      "occupancy_percent": 11.76
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3258,10 +3258,10 @@
       "time": "",
       "seats": 177,
       "sold": 4,
-      "reserved": 1,
-      "available": 172,
-      "gross": 1080,
-      "occupancy_percent": 2.82
+      "reserved": 0,
+      "available": 173,
+      "gross": 820,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
