@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "lastUpdated": "05:53 PM, 23 July 2026",
+  "lastUpdated": "08:36 PM, 23 July 2026",
   "shows": [
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4654,11 +4654,11 @@
       "date": "2026-07-23T21:00:00+05:45",
       "time": "",
       "seats": 51,
-      "sold": 6,
-      "reserved": 2,
-      "available": 43,
-      "gross": 9600,
-      "occupancy_percent": 15.69
+      "sold": 32,
+      "reserved": 8,
+      "available": 11,
+      "gross": 48000,
+      "occupancy_percent": 78.43
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -4969,11 +4969,11 @@
       "date": "2026-07-23T21:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 15,
-      "reserved": 18,
-      "available": 218,
-      "gross": 5775,
-      "occupancy_percent": 13.15
+      "sold": 53,
+      "reserved": 2,
+      "available": 196,
+      "gross": 9625,
+      "occupancy_percent": 21.91
     },
     {
       "movie_id": "nubmWD9vtMpmWAVA9riZF8",
@@ -4989,6 +4989,51 @@
       "available": 29,
       "gross": 22800,
       "occupancy_percent": 79.72
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_93nr5aIQFnVvY8MaxwRb8T:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-07-23T21:15:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 45,
+      "reserved": 2,
+      "available": 170,
+      "gross": 14500,
+      "occupancy_percent": 21.66
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "179157:qfx-bageshwori",
+      "venue": "qfx-bageshwori",
+      "theatre": "QFX Bageshwori, Nepalgunj - Audi 2",
+      "date": "2026-07-23T21:30:00+05:45",
+      "time": "",
+      "seats": 290,
+      "sold": 107,
+      "reserved": 0,
+      "available": 183,
+      "gross": 16050,
+      "occupancy_percent": 36.9
+    },
+    {
+      "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+      "movie_name": "Dhamaal 4",
+      "show_id": "shw_mTkBkH1ZdKymOKtrmKxvfs:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-07-23T21:30:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 26,
+      "reserved": 2,
+      "available": 98,
+      "gross": 9600,
+      "occupancy_percent": 22.22
     }
   ]
 }
