@@ -1,5 +1,51 @@
 {
   "date": "2026-07-24",
-  "lastUpdated": "02:29 AM, 24 July 2026",
-  "shows": []
+  "lastUpdated": "03:40 AM, 24 July 2026",
+  "shows": [
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "179003:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-07-24T07:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 49,
+      "reserved": 0,
+      "available": 133,
+      "gross": 11760,
+      "occupancy_percent": 26.92
+    },
+    {
+      "movie_id": "egGndXLFqaWE4mRLDdCyoi",
+      "movie_name": "Attack on Titan: The Last Attack",
+      "show_id": "179165:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-07-24T07:00:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 8,
+      "reserved": 0,
+      "available": 121,
+      "gross": 2090,
+      "occupancy_percent": 6.2
+    },
+    {
+      "movie_id": "egGndXLFqaWE4mRLDdCyoi",
+      "movie_name": "Attack on Titan: The Last Attack",
+      "show_id": "179160:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-07-24T07:00:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 30,
+      "reserved": 0,
+      "available": 109,
+      "gross": 6150,
+      "occupancy_percent": 21.58
+    }
+  ]
 }
