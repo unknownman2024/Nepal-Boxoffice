@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "lastUpdated": "07:07 PM, 24 July 2026",
+  "lastUpdated": "08:58 PM, 24 July 2026",
   "shows": [
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -5260,16 +5260,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "179279:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 2",
-      "date": "2026-07-24T21:30:00+05:45",
-      "time": "",
-      "seats": 129,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-24",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 123,
-      "gross": 2640,
-      "occupancy_percent": 4.65
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5650,16 +5652,18 @@
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
       "movie_name": "Dhamaal 4",
       "show_id": "179219:qfx-cineflix-itahari",
-      "venue": "qfx-cineflix-itahari",
-      "theatre": "QFX Cineflix, Itahari - Audi 2",
-      "date": "2026-07-24T21:30:00+05:45",
-      "time": "",
-      "seats": 134,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 134,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -5805,11 +5809,11 @@
       "date": "2026-07-24T21:15:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 1,
-      "reserved": 5,
-      "available": 208,
-      "gross": 2100,
-      "occupancy_percent": 2.8
+      "sold": 17,
+      "reserved": 0,
+      "available": 197,
+      "gross": 5950,
+      "occupancy_percent": 7.94
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -5965,16 +5969,18 @@
       "movie_id": "tMrVmuJXzakB8CCZmRNJBG",
       "movie_name": "OBSESSION",
       "show_id": "179411:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 03",
-      "date": "2026-07-24T21:30:00+05:45",
-      "time": "",
-      "seats": 139,
-      "sold": 2,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-24",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 137,
-      "gross": 820,
-      "occupancy_percent": 1.44
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     }
   ]
 }
