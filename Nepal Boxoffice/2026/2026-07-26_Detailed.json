@@ -1,5 +1,36 @@
 {
   "date": "2026-07-26",
-  "lastUpdated": "03:22 AM, 26 July 2026",
-  "shows": []
+  "lastUpdated": "04:22 AM, 26 July 2026",
+  "shows": [
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "179343:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-07-26T07:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 111,
+      "reserved": 0,
+      "available": 71,
+      "gross": 26640,
+      "occupancy_percent": 60.99
+    },
+    {
+      "movie_id": "egGndXLFqaWE4mRLDdCyoi",
+      "movie_name": "Attack on Titan: The Last Attack",
+      "show_id": "179352:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 3",
+      "date": "2026-07-26T07:30:00+05:45",
+      "time": "",
+      "seats": 183,
+      "sold": 39,
+      "reserved": 0,
+      "available": 144,
+      "gross": 9360,
+      "occupancy_percent": 21.31
+    }
+  ]
 }
