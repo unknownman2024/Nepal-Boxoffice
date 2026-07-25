@@ -2,11 +2,11 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 118,
-    "seats": 26291,
-    "sold": 195,
-    "reserved": 139,
-    "available": 25957,
+    "total_shows": 124,
+    "seats": 26798,
+    "sold": 197,
+    "reserved": 169,
+    "available": 26432,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -254,9 +254,9 @@
         "venue": "pathivara-cine-plaza",
         "total_shows": 6,
         "seats": 1374,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 1374,
+        "available": 1372,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,6 +287,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 995,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 3,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 3,
+        "seats": 507,
+        "sold": 0,
+        "reserved": 30,
+        "available": 477,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -440,9 +460,9 @@
     "movie_name": "The Odyssey",
     "total_shows": 50,
     "seats": 8989,
-    "sold": 136,
+    "sold": 137,
     "reserved": 64,
-    "available": 8789,
+    "available": 8788,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -490,9 +510,9 @@
         "venue": "qfx-civil",
         "total_shows": 4,
         "seats": 1036,
-        "sold": 6,
+        "sold": 7,
         "reserved": 0,
-        "available": 1030,
+        "available": 1029,
         "housefull": 0,
         "fastfilling": 0
       },
