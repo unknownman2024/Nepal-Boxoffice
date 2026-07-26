@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "lastUpdated": "03:20 AM, 26 July 2026",
+  "lastUpdated": "07:43 AM, 26 July 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -101,11 +101,11 @@
       "date": "2026-07-27T14:45:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 7,
-      "reserved": 0,
-      "available": 176,
-      "gross": 2730,
-      "occupancy_percent": 3.83
+      "sold": 9,
+      "reserved": 3,
+      "available": 171,
+      "gross": 4680,
+      "occupancy_percent": 6.56
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -132,10 +132,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 12,
-      "available": 198,
-      "gross": 4560,
-      "occupancy_percent": 5.71
+      "reserved": 15,
+      "available": 195,
+      "gross": 5700,
+      "occupancy_percent": 7.14
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -956,11 +956,11 @@
       "date": "2026-07-27T11:30:00+05:45",
       "time": "",
       "seats": 258,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 258,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 255,
+      "gross": 750,
+      "occupancy_percent": 1.16
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1211,11 +1211,11 @@
       "date": "2026-07-27T11:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 10,
+      "sold": 15,
       "reserved": 0,
-      "available": 186,
-      "gross": 2800,
-      "occupancy_percent": 5.1
+      "available": 181,
+      "gross": 4200,
+      "occupancy_percent": 7.65
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1346,11 +1346,11 @@
       "date": "2026-07-27T12:00:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 286,
+      "gross": 300,
+      "occupancy_percent": 0.69
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1436,11 +1436,11 @@
       "date": "2026-07-27T14:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 133,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 130,
+      "gross": 840,
+      "occupancy_percent": 2.26
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1646,11 +1646,11 @@
       "date": "2026-07-27T13:00:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 188,
-      "gross": 560,
-      "occupancy_percent": 1.05
+      "available": 186,
+      "gross": 1120,
+      "occupancy_percent": 2.11
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2366,11 +2366,11 @@
       "date": "2026-07-27T08:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 3,
+      "sold": 7,
       "reserved": 0,
-      "available": 256,
-      "gross": 525,
-      "occupancy_percent": 1.16
+      "available": 252,
+      "gross": 1325,
+      "occupancy_percent": 2.7
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2427,10 +2427,10 @@
       "time": "",
       "seats": 210,
       "sold": 0,
-      "reserved": 16,
-      "available": 194,
-      "gross": 6080,
-      "occupancy_percent": 7.62
+      "reserved": 18,
+      "available": 192,
+      "gross": 6840,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2721,31 +2721,35 @@
       "movie_id": "DybU857d77sjBuHiWzheJm",
       "movie_name": "The Odyssey",
       "show_id": "149039:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-07-27T17:00:00+05:45",
-      "time": "",
-      "seats": 60,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 9,
-      "available": 51,
-      "gross": 4500,
-      "occupancy_percent": 15.0
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
       "movie_name": "The Odyssey",
       "show_id": "149037:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Dine",
-      "date": "2026-07-27T11:30:00+05:45",
-      "time": "",
-      "seats": 60,
-      "sold": 1,
-      "reserved": 6,
-      "available": 53,
-      "gross": 3500,
-      "occupancy_percent": 11.67
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3057,10 +3061,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 10,
-      "available": 188,
-      "gross": 3800,
-      "occupancy_percent": 5.05
+      "reserved": 12,
+      "available": 186,
+      "gross": 4560,
+      "occupancy_percent": 6.06
     },
     {
       "movie_id": "egGndXLFqaWE4mRLDdCyoi",
@@ -3149,7 +3153,7 @@
       "sold": 0,
       "reserved": 15,
       "available": 165,
-      "gross": 5250,
+      "gross": 0,
       "occupancy_percent": 8.33
     },
     {
@@ -3310,16 +3314,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "149046:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-07-27T20:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 11,
-      "available": 158,
-      "gross": 2450,
-      "occupancy_percent": 6.51
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3342,31 +3348,35 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "149044:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-07-27T15:30:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 9,
-      "available": 160,
-      "gross": 1950,
-      "occupancy_percent": 5.33
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "149043:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-07-27T13:00:00+05:45",
-      "time": "",
-      "seats": 169,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
-      "reserved": 10,
-      "available": 159,
-      "gross": 2200,
-      "occupancy_percent": 5.92
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
