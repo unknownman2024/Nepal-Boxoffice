@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "lastUpdated": "12:51 AM, 28 July 2026",
+  "lastUpdated": "03:34 AM, 28 July 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1001,11 +1001,11 @@
       "date": "2026-07-29T20:15:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 0,
+      "sold": 2,
       "reserved": 8,
-      "available": 164,
-      "gross": 1600,
-      "occupancy_percent": 4.65
+      "available": 162,
+      "gross": 2000,
+      "occupancy_percent": 5.81
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1316,11 +1316,11 @@
       "date": "2026-07-29T11:45:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 150,
+      "sold": 152,
       "reserved": 5,
-      "available": 64,
-      "gross": 31000,
-      "occupancy_percent": 70.78
+      "available": 62,
+      "gross": 31400,
+      "occupancy_percent": 71.69
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1381,7 +1381,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -1398,7 +1398,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -2505,11 +2505,11 @@
       "date": "2026-07-29T15:45:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 176,
-      "gross": 2340,
-      "occupancy_percent": 3.3
+      "available": 174,
+      "gross": 3120,
+      "occupancy_percent": 4.4
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -2595,11 +2595,11 @@
       "date": "2026-07-29T19:30:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 182,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 180,
+      "gross": 780,
+      "occupancy_percent": 1.1
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3958,6 +3958,91 @@
       "available": 124,
       "gross": 1450,
       "occupancy_percent": 3.88
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149065:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149066:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149062:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149063:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "149064:cdc-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-29",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
