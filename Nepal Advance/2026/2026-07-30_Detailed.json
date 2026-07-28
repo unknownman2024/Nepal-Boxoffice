@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "lastUpdated": "12:53 AM, 29 July 2026",
+  "lastUpdated": "03:29 AM, 29 July 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -301,11 +301,11 @@
       "date": "2026-07-30T18:30:00+05:45",
       "time": "",
       "seats": 349,
-      "sold": 158,
+      "sold": 162,
       "reserved": 65,
-      "available": 126,
-      "gross": 111500,
-      "occupancy_percent": 63.9
+      "available": 122,
+      "gross": 113500,
+      "occupancy_percent": 65.04
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -930,11 +930,11 @@
       "date": "2026-07-30T15:00:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 147,
+      "sold": 150,
       "reserved": 0,
-      "available": 61,
-      "gross": 73500,
-      "occupancy_percent": 70.67
+      "available": 58,
+      "gross": 75000,
+      "occupancy_percent": 72.12
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1287,18 +1287,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "40968:ranjana-cineplex",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-30",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 1",
+      "date": "2026-07-30T12:00:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 55,
+      "reserved": 43,
+      "available": 153,
+      "gross": 44100,
+      "occupancy_percent": 39.04
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1324,11 +1322,11 @@
       "date": "2026-07-30T07:30:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 159,
+      "sold": 160,
       "reserved": 5,
-      "available": 121,
-      "gross": 37150,
-      "occupancy_percent": 57.54
+      "available": 120,
+      "gross": 37375,
+      "occupancy_percent": 57.89
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1952,10 +1950,10 @@
       "time": "",
       "seats": 192,
       "sold": 10,
-      "reserved": 18,
-      "available": 164,
-      "gross": 11200,
-      "occupancy_percent": 14.58
+      "reserved": 21,
+      "available": 161,
+      "gross": 12400,
+      "occupancy_percent": 16.15
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2042,10 +2040,10 @@
       "time": "",
       "seats": 192,
       "sold": 10,
-      "reserved": 41,
-      "available": 141,
-      "gross": 20400,
-      "occupancy_percent": 26.56
+      "reserved": 43,
+      "available": 139,
+      "gross": 21200,
+      "occupancy_percent": 27.6
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2150,11 +2148,11 @@
       "date": "2026-07-30T06:45:00+05:45",
       "time": "",
       "seats": 151,
-      "sold": 109,
+      "sold": 110,
       "reserved": 0,
-      "available": 42,
-      "gross": 33350,
-      "occupancy_percent": 72.19
+      "available": 41,
+      "gross": 33650,
+      "occupancy_percent": 72.85
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2390,10 +2388,10 @@
       "time": "",
       "seats": 154,
       "sold": 76,
-      "reserved": 1,
-      "available": 77,
-      "gross": 15400,
-      "occupancy_percent": 50.0
+      "reserved": 0,
+      "available": 78,
+      "gross": 15200,
+      "occupancy_percent": 49.35
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -3276,10 +3274,10 @@
       "time": "",
       "seats": 217,
       "sold": 17,
-      "reserved": 1,
-      "available": 199,
-      "gross": 10500,
-      "occupancy_percent": 8.29
+      "reserved": 0,
+      "available": 200,
+      "gross": 10000,
+      "occupancy_percent": 7.83
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -3980,11 +3978,11 @@
       "date": "2026-07-30T08:30:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 51,
+      "sold": 53,
       "reserved": 13,
-      "available": 150,
-      "gross": 12800,
-      "occupancy_percent": 29.91
+      "available": 148,
+      "gross": 13200,
+      "occupancy_percent": 30.84
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -4005,16 +4003,18 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "149074:cdc-cinemas",
-      "venue": "cdc-cinemas",
-      "theatre": "CDC Cinemas - Cine Theatre",
-      "date": "2026-07-30T10:15:00+05:45",
-      "time": "",
-      "seats": 169,
-      "sold": 27,
-      "reserved": 27,
-      "available": 115,
-      "gross": 14400,
-      "occupancy_percent": 31.95
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-30",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -4056,10 +4056,10 @@
       "time": "",
       "seats": 169,
       "sold": 10,
-      "reserved": 15,
-      "available": 144,
-      "gross": 11650,
-      "occupancy_percent": 14.79
+      "reserved": 16,
+      "available": 143,
+      "gross": 12050,
+      "occupancy_percent": 15.38
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -4243,11 +4243,11 @@
       "date": "2026-07-30T21:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 30,
+      "sold": 33,
       "reserved": 28,
-      "available": 140,
-      "gross": 10150,
-      "occupancy_percent": 29.29
+      "available": 137,
+      "gross": 10675,
+      "occupancy_percent": 30.81
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4319,10 +4319,10 @@
       "time": "",
       "seats": 118,
       "sold": 0,
-      "reserved": 7,
-      "available": 111,
-      "gross": 1225,
-      "occupancy_percent": 5.93
+      "reserved": 3,
+      "available": 115,
+      "gross": 525,
+      "occupancy_percent": 2.54
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4349,10 +4349,10 @@
       "time": "",
       "seats": 270,
       "sold": 24,
-      "reserved": 0,
-      "available": 246,
-      "gross": 4800,
-      "occupancy_percent": 8.89
+      "reserved": 1,
+      "available": 245,
+      "gross": 5000,
+      "occupancy_percent": 9.26
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4364,10 +4364,10 @@
       "time": "",
       "seats": 210,
       "sold": 125,
-      "reserved": 30,
-      "available": 55,
-      "gross": 27125,
-      "occupancy_percent": 73.81
+      "reserved": 29,
+      "available": 56,
+      "gross": 26950,
+      "occupancy_percent": 73.33
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5108,16 +5108,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "shw_yAnjSdQkP6SzLp6Uw11UFr:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-07-30T11:30:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-07-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5864,10 +5866,10 @@
       "time": "",
       "seats": 60,
       "sold": 0,
-      "reserved": 11,
-      "available": 49,
-      "gross": 4400,
-      "occupancy_percent": 18.33
+      "reserved": 10,
+      "available": 50,
+      "gross": 4000,
+      "occupancy_percent": 16.67
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -5879,10 +5881,10 @@
       "time": "",
       "seats": 279,
       "sold": 0,
-      "reserved": 4,
-      "available": 275,
-      "gross": 800,
-      "occupancy_percent": 1.43
+      "reserved": 0,
+      "available": 279,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -5984,18 +5986,16 @@
       "movie_id": "fgAUXhai9zkmmn6vZk2Xti",
       "movie_name": "Evil Dead Burn",
       "show_id": "149072:cdc-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-30",
-      "time": null,
-      "seats": 0,
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-07-30T21:00:00+05:45",
+      "time": "",
+      "seats": 60,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 9,
+      "available": 51,
+      "gross": 5850,
+      "occupancy_percent": 15.0
     },
     {
       "movie_id": "UKpnCEVKaasMdBgqsxmvF6",
