@@ -2,17 +2,17 @@
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 266,
-    "seats": 49996,
-    "sold": 32540,
-    "reserved": 1936,
-    "available": 15520,
-    "housefull": 27,
-    "fastfilling": 166,
+    "total_shows": 269,
+    "seats": 51447,
+    "sold": 33626,
+    "reserved": 1933,
+    "available": 15888,
+    "housefull": 28,
+    "fastfilling": 171,
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 21,
+        "total_shows": 18,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -24,11 +24,11 @@
         "venue": "big-movies-updated",
         "total_shows": 9,
         "seats": 2791,
-        "sold": 1728,
-        "reserved": 162,
-        "available": 901,
+        "sold": 1769,
+        "reserved": 165,
+        "available": 857,
         "housefull": 0,
-        "fastfilling": 8
+        "fastfilling": 9
       },
       {
         "venue": "birat-cine",
@@ -144,11 +144,11 @@
         "venue": "friends-cinemas",
         "total_shows": 4,
         "seats": 856,
-        "sold": 729,
-        "reserved": 80,
-        "available": 47,
-        "housefull": 1,
-        "fastfilling": 3
+        "sold": 761,
+        "reserved": 60,
+        "available": 35,
+        "housefull": 2,
+        "fastfilling": 2
       },
       {
         "venue": "infinity-movies",
@@ -292,23 +292,23 @@
       },
       {
         "venue": "qfx-cineflix-itahari",
-        "total_shows": 5,
-        "seats": 670,
-        "sold": 549,
-        "reserved": 8,
-        "available": 113,
+        "total_shows": 6,
+        "seats": 804,
+        "sold": 605,
+        "reserved": 11,
+        "available": 188,
         "housefull": 0,
         "fastfilling": 5
       },
       {
         "venue": "qfx-civil",
-        "total_shows": 9,
-        "seats": 3371,
-        "sold": 2842,
-        "reserved": 83,
-        "available": 446,
+        "total_shows": 11,
+        "seats": 4149,
+        "sold": 3387,
+        "reserved": 87,
+        "available": 675,
         "housefull": 3,
-        "fastfilling": 6
+        "fastfilling": 8
       },
       {
         "venue": "qfx-durbar",
@@ -342,13 +342,13 @@
       },
       {
         "venue": "qfx-labim",
-        "total_shows": 11,
-        "seats": 1993,
-        "sold": 1686,
-        "reserved": 47,
-        "available": 260,
+        "total_shows": 12,
+        "seats": 2173,
+        "sold": 1824,
+        "reserved": 53,
+        "available": 296,
         "housefull": 2,
-        "fastfilling": 9
+        "fastfilling": 10
       },
       {
         "venue": "qfx-one-stop-mall",
@@ -372,23 +372,23 @@
       },
       {
         "venue": "qfx-square-mall",
-        "total_shows": 10,
-        "seats": 1684,
-        "sold": 1392,
+        "total_shows": 11,
+        "seats": 1861,
+        "sold": 1535,
         "reserved": 22,
-        "available": 270,
+        "available": 304,
         "housefull": 2,
-        "fastfilling": 7
+        "fastfilling": 8
       },
       {
         "venue": "qs-cinemas",
-        "total_shows": 9,
-        "seats": 1426,
-        "sold": 1081,
-        "reserved": 34,
-        "available": 311,
+        "total_shows": 10,
+        "seats": 1608,
+        "sold": 1212,
+        "reserved": 35,
+        "available": 361,
         "housefull": 0,
-        "fastfilling": 8
+        "fastfilling": 9
       },
       {
         "venue": "ranjana-cineplex",
@@ -407,9 +407,9 @@
     "movie_name": "Gauthali",
     "total_shows": 136,
     "seats": 24490,
-    "sold": 11520,
-    "reserved": 1342,
-    "available": 11628,
+    "sold": 11528,
+    "reserved": 1326,
+    "available": 11636,
     "housefull": 22,
     "fastfilling": 42,
     "venues": [
@@ -787,9 +787,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 4,
         "seats": 556,
-        "sold": 266,
-        "reserved": 23,
-        "available": 267,
+        "sold": 274,
+        "reserved": 7,
+        "available": 275,
         "housefull": 0,
         "fastfilling": 2
       },

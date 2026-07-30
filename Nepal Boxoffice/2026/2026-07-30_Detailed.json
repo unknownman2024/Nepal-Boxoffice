@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "lastUpdated": "07:26 PM, 30 July 2026",
+  "lastUpdated": "09:20 PM, 30 July 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5953,11 +5953,11 @@
       "date": "2026-07-30T22:15:00+05:45",
       "time": "",
       "seats": 279,
-      "sold": 98,
-      "reserved": 11,
-      "available": 170,
-      "gross": 54500,
-      "occupancy_percent": 39.07
+      "sold": 139,
+      "reserved": 14,
+      "available": 126,
+      "gross": 76500,
+      "occupancy_percent": 54.84
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6098,18 +6098,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "179488:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-30",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 01",
+      "date": "2026-07-30T21:45:00+05:45",
+      "time": "",
+      "seats": 519,
+      "sold": 398,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 121,
+      "gross": 245400,
+      "occupancy_percent": 76.69
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6149,35 +6147,31 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "179730:qfx-square-mall",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-30",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-07-30T22:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 143,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "available": 34,
+      "gross": 81620,
+      "occupancy_percent": 80.79
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "179570:qs-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-07-30",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
-      "skipped": true
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-07-30T22:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 131,
+      "reserved": 1,
+      "available": 50,
+      "gross": 83080,
+      "occupancy_percent": 72.53
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6188,11 +6182,11 @@
       "date": "2026-07-30T21:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 177,
-      "reserved": 21,
-      "available": 16,
-      "gross": 79200,
-      "occupancy_percent": 92.52
+      "sold": 209,
+      "reserved": 1,
+      "available": 4,
+      "gross": 84000,
+      "occupancy_percent": 98.13
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6393,11 +6387,11 @@
       "date": "2026-07-30T22:15:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 12,
-      "reserved": 16,
-      "available": 111,
-      "gross": 9800,
-      "occupancy_percent": 20.14
+      "sold": 20,
+      "reserved": 0,
+      "available": 119,
+      "gross": 7000,
+      "occupancy_percent": 14.39
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6473,6 +6467,51 @@
       "available": 136,
       "gross": 19250,
       "occupancy_percent": 34.3
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "180604:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-07-30T23:15:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 138,
+      "reserved": 6,
+      "available": 36,
+      "gross": 92160,
+      "occupancy_percent": 80.0
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "180876:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-07-30T23:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 56,
+      "reserved": 3,
+      "available": 75,
+      "gross": 23220,
+      "occupancy_percent": 44.03
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "179529:qfx-civil",
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 02",
+      "date": "2026-07-30T23:00:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 147,
+      "reserved": 4,
+      "available": 108,
+      "gross": 87280,
+      "occupancy_percent": 58.3
     }
   ]
 }
