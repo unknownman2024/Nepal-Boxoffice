@@ -1,1 +1,251 @@
-[]
+[
+  {
+    "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+    "movie_name": "Spider-Man: Brand New Day",
+    "total_shows": 30,
+    "seats": 6534,
+    "sold": 4601,
+    "reserved": 124,
+    "available": 1809,
+    "housefull": 0,
+    "fastfilling": 25,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 3,
+        "seats": 898,
+        "sold": 613,
+        "reserved": 24,
+        "available": 261,
+        "housefull": 0,
+        "fastfilling": 3
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 35,
+        "reserved": 46,
+        "available": 88,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 2,
+        "seats": 410,
+        "sold": 256,
+        "reserved": 20,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "jai-nepal-cinema",
+        "total_shows": 1,
+        "seats": 306,
+        "sold": 59,
+        "reserved": 0,
+        "available": 247,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 285,
+        "sold": 122,
+        "reserved": 9,
+        "available": 154,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 151,
+        "sold": 65,
+        "reserved": 0,
+        "available": 86,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 181,
+        "reserved": 0,
+        "available": 27,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 248,
+        "sold": 216,
+        "reserved": 0,
+        "available": 32,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 160,
+        "reserved": 0,
+        "available": 36,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-chhaya",
+        "total_shows": 2,
+        "seats": 262,
+        "sold": 199,
+        "reserved": 0,
+        "available": 63,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 43,
+        "reserved": 0,
+        "available": 91,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 2,
+        "seats": 778,
+        "sold": 662,
+        "reserved": 0,
+        "available": 116,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 44,
+        "reserved": 0,
+        "available": 9,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 3,
+        "seats": 762,
+        "sold": 645,
+        "reserved": 0,
+        "available": 117,
+        "housefull": 0,
+        "fastfilling": 3
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 268,
+        "sold": 240,
+        "reserved": 0,
+        "available": 28,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 363,
+        "sold": 336,
+        "reserved": 0,
+        "available": 27,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 3,
+        "seats": 481,
+        "sold": 368,
+        "reserved": 0,
+        "available": 113,
+        "housefull": 0,
+        "fastfilling": 3
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 2,
+        "seats": 311,
+        "sold": 246,
+        "reserved": 0,
+        "available": 65,
+        "housefull": 0,
+        "fastfilling": 2
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 251,
+        "sold": 111,
+        "reserved": 25,
+        "available": 115,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 1,
+    "seats": 178,
+    "sold": 50,
+    "reserved": 8,
+    "available": 120,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 50,
+        "reserved": 8,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
+    "movie_name": "Spider-Man: Brand New Day - Hindi",
+    "total_shows": 1,
+    "seats": 118,
+    "sold": 108,
+    "reserved": 10,
+    "available": 0,
+    "housefull": 1,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 108,
+        "reserved": 10,
+        "available": 0,
+        "housefull": 1,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
