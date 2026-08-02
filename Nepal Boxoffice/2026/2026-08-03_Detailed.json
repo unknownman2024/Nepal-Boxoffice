@@ -1,5 +1,23 @@
 {
   "date": "2026-08-03",
-  "lastUpdated": "02:21 AM, 03 August 2026",
-  "shows": []
+  "lastUpdated": "03:23 AM, 03 August 2026",
+  "shows": [
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "28784:one-cinemas-new-baneshwor",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-03",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    }
+  ]
 }
