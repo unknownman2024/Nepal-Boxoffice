@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "lastUpdated": "03:38 AM, 04 August 2026",
+  "lastUpdated": "07:37 AM, 04 August 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -16,7 +16,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -33,7 +33,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -50,7 +50,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -67,7 +67,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -84,7 +84,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -101,7 +101,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -118,7 +118,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -135,7 +135,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -152,7 +152,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -169,7 +169,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -291,7 +291,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -308,7 +308,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -325,7 +325,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -342,7 +342,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -359,7 +359,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -376,7 +376,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -393,7 +393,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -410,7 +410,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -427,7 +427,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -444,7 +444,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -461,7 +461,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -478,7 +478,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -495,7 +495,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -512,23 +512,25 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180990:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-08-05T08:15:00+05:45",
-      "time": "",
-      "seats": 51,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 51,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -544,7 +546,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
@@ -561,68 +563,76 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180992:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-08-05T11:30:00+05:45",
-      "time": "",
-      "seats": 51,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 51,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180989:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-08-05T14:30:00+05:45",
-      "time": "",
-      "seats": 51,
-      "sold": 7,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 44,
-      "gross": 9800,
-      "occupancy_percent": 13.73
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180993:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-08-05T20:00:00+05:45",
-      "time": "",
-      "seats": 53,
-      "sold": 7,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 46,
-      "gross": 9800,
-      "occupancy_percent": 13.21
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180988:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-08-05T17:45:00+05:45",
-      "time": "",
-      "seats": 51,
-      "sold": 27,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 24,
-      "gross": 37800,
-      "occupancy_percent": 52.94
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -673,31 +683,35 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180985:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-08-05T10:30:00+05:45",
-      "time": "",
-      "seats": 53,
-      "sold": 1,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 52,
-      "gross": 1000,
-      "occupancy_percent": 1.89
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180991:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 02",
-      "date": "2026-08-05T21:00:00+05:45",
-      "time": "",
-      "seats": 51,
-      "sold": 4,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 47,
-      "gross": 5600,
-      "occupancy_percent": 7.84
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -733,16 +747,18 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "180983:qfx-durbar",
-      "venue": "qfx-durbar",
-      "theatre": "QFX Durbar - AUDI 1",
-      "date": "2026-08-05T13:30:00+05:45",
-      "time": "",
-      "seats": 53,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 47,
-      "gross": 8400,
-      "occupancy_percent": 11.32
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -768,11 +784,11 @@
       "date": "2026-08-05T18:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 85,
+      "sold": 90,
       "reserved": 0,
-      "available": 123,
-      "gross": 25500,
-      "occupancy_percent": 40.87
+      "available": 118,
+      "gross": 27000,
+      "occupancy_percent": 43.27
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -784,10 +800,10 @@
       "time": "",
       "seats": 208,
       "sold": 42,
-      "reserved": 0,
-      "available": 166,
-      "gross": 12600,
-      "occupancy_percent": 20.19
+      "reserved": 1,
+      "available": 165,
+      "gross": 12900,
+      "occupancy_percent": 20.67
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -798,11 +814,11 @@
       "date": "2026-08-05T15:15:00+05:45",
       "time": "",
       "seats": 208,
-      "sold": 50,
+      "sold": 52,
       "reserved": 0,
-      "available": 158,
-      "gross": 15000,
-      "occupancy_percent": 24.04
+      "available": 156,
+      "gross": 15600,
+      "occupancy_percent": 25.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -844,10 +860,10 @@
       "time": "",
       "seats": 212,
       "sold": 37,
-      "reserved": 27,
-      "available": 148,
-      "gross": 25275,
-      "occupancy_percent": 30.19
+      "reserved": 25,
+      "available": 150,
+      "gross": 24425,
+      "occupancy_percent": 29.25
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -918,11 +934,11 @@
       "date": "2026-08-05T14:00:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 9,
+      "sold": 17,
       "reserved": 32,
-      "available": 171,
-      "gross": 16235,
-      "occupancy_percent": 19.34
+      "available": 163,
+      "gross": 19495,
+      "occupancy_percent": 23.11
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -948,11 +964,11 @@
       "date": "2026-08-05T15:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 6,
+      "sold": 10,
       "reserved": 26,
-      "available": 166,
-      "gross": 9280,
-      "occupancy_percent": 16.16
+      "available": 162,
+      "gross": 10440,
+      "occupancy_percent": 18.18
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -963,11 +979,11 @@
       "date": "2026-08-05T18:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 91,
+      "sold": 93,
       "reserved": 12,
-      "available": 148,
-      "gross": 23175,
-      "occupancy_percent": 41.04
+      "available": 146,
+      "gross": 23625,
+      "occupancy_percent": 41.83
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -978,11 +994,11 @@
       "date": "2026-08-05T14:00:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 65,
-      "reserved": 0,
-      "available": 99,
-      "gross": 14625,
-      "occupancy_percent": 39.63
+      "sold": 67,
+      "reserved": 1,
+      "available": 96,
+      "gross": 15300,
+      "occupancy_percent": 41.46
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1078,31 +1094,35 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181222:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-08-05T16:45:00+05:45",
-      "time": "",
-      "seats": 177,
-      "sold": 16,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 161,
-      "gross": 6580,
-      "occupancy_percent": 9.04
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181219:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-08-05T13:30:00+05:45",
-      "time": "",
-      "seats": 177,
-      "sold": 18,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 159,
-      "gross": 6840,
-      "occupancy_percent": 10.17
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1123,18 +1143,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181547:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 5",
+      "date": "2026-08-05T16:45:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 20,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 236,
+      "gross": 7600,
+      "occupancy_percent": 7.81
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1155,51 +1173,6 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181236:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 2",
-      "date": "2026-08-05T17:45:00+05:45",
-      "time": "",
-      "seats": 165,
-      "sold": 32,
-      "reserved": 0,
-      "available": 133,
-      "gross": 12160,
-      "occupancy_percent": 19.39
-    },
-    {
-      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
-      "movie_name": "Spider-Man: Brand New Day",
-      "show_id": "181238:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 2",
-      "date": "2026-08-05T08:00:00+05:45",
-      "time": "",
-      "seats": 165,
-      "sold": 2,
-      "reserved": 0,
-      "available": 163,
-      "gross": 760,
-      "occupancy_percent": 1.21
-    },
-    {
-      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
-      "movie_name": "Spider-Man: Brand New Day",
-      "show_id": "181220:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-08-05T07:00:00+05:45",
-      "time": "",
-      "seats": 177,
-      "sold": 7,
-      "reserved": 0,
-      "available": 170,
-      "gross": 2660,
-      "occupancy_percent": 3.95
-    },
-    {
-      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
-      "movie_name": "Spider-Man: Brand New Day",
-      "show_id": "181551:qfx-guna-cinema",
       "venue": null,
       "theatre": null,
       "date": "2026-08-05",
@@ -1210,23 +1183,74 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
       "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
-      "show_id": "181221:qfx-square-mall",
-      "venue": "qfx-square-mall",
-      "theatre": "QFX City Square Mall - Audi 1",
-      "date": "2026-08-05T20:00:00+05:45",
-      "time": "",
-      "seats": 177,
-      "sold": 6,
+      "show_id": "181238:qfx-square-mall",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 171,
-      "gross": 2280,
-      "occupancy_percent": 3.39
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181220:qfx-square-mall",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181551:qfx-guna-cinema",
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 6",
+      "date": "2026-08-05T18:00:00+05:45",
+      "time": "",
+      "seats": 250,
+      "sold": 24,
+      "reserved": 0,
+      "available": 226,
+      "gross": 9120,
+      "occupancy_percent": 9.6
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181221:qfx-square-mall",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTPSConnectionPool(host='khalti.com', port=443): Read timed out. (read timeout=15)",
+      "skipped": true
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1247,171 +1271,151 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181544:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 5",
+      "date": "2026-08-05T07:00:00+05:45",
+      "time": "",
+      "seats": 256,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 256,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181550:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 6",
+      "date": "2026-08-05T11:30:00+05:45",
+      "time": "",
+      "seats": 250,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 250,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181543:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-05T17:30:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 34,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 222,
+      "gross": 12920,
+      "occupancy_percent": 13.28
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181545:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 5",
+      "date": "2026-08-05T13:30:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 242,
+      "gross": 5320,
+      "occupancy_percent": 5.47
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181539:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-05T11:00:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 7,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 249,
+      "gross": 2660,
+      "occupancy_percent": 2.73
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181541:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-05T07:45:00+05:45",
+      "time": "",
+      "seats": 256,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 256,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181552:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 6",
+      "date": "2026-08-05T21:15:00+05:45",
+      "time": "",
+      "seats": 250,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 250,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181542:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-05T14:15:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 10,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 246,
+      "gross": 3800,
+      "occupancy_percent": 3.91
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181540:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-05T20:45:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 5,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 251,
+      "gross": 1900,
+      "occupancy_percent": 1.95
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181553:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 6",
+      "date": "2026-08-05T08:15:00+05:45",
+      "time": "",
+      "seats": 250,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 250,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1422,11 +1426,11 @@
       "date": "2026-08-05T20:00:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 37,
+      "sold": 40,
       "reserved": 0,
-      "available": 219,
-      "gross": 14060,
-      "occupancy_percent": 14.45
+      "available": 216,
+      "gross": 15200,
+      "occupancy_percent": 15.62
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1865,11 +1869,11 @@
       "date": "2026-08-05T11:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 38,
+      "sold": 40,
       "reserved": 18,
-      "available": 191,
-      "gross": 24500,
-      "occupancy_percent": 22.67
+      "available": 189,
+      "gross": 25760,
+      "occupancy_percent": 23.48
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1895,11 +1899,11 @@
       "date": "2026-08-05T11:15:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 29,
+      "sold": 31,
       "reserved": 8,
-      "available": 141,
-      "gross": 10360,
-      "occupancy_percent": 20.79
+      "available": 139,
+      "gross": 10920,
+      "occupancy_percent": 21.91
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1910,11 +1914,11 @@
       "date": "2026-08-05T17:45:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 94,
+      "sold": 104,
       "reserved": 18,
-      "available": 135,
-      "gross": 49520,
-      "occupancy_percent": 45.34
+      "available": 125,
+      "gross": 53620,
+      "occupancy_percent": 49.39
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -1955,11 +1959,11 @@
       "date": "2026-08-05T17:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 87,
+      "sold": 91,
       "reserved": 18,
-      "available": 143,
-      "gross": 45450,
-      "occupancy_percent": 42.34
+      "available": 139,
+      "gross": 47690,
+      "occupancy_percent": 43.95
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2000,11 +2004,11 @@
       "date": "2026-08-05T17:15:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 48,
+      "sold": 52,
       "reserved": 8,
-      "available": 122,
-      "gross": 15680,
-      "occupancy_percent": 31.46
+      "available": 118,
+      "gross": 16800,
+      "occupancy_percent": 33.71
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2015,11 +2019,11 @@
       "date": "2026-08-05T14:15:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 39,
+      "sold": 41,
       "reserved": 8,
-      "available": 131,
-      "gross": 13160,
-      "occupancy_percent": 26.4
+      "available": 129,
+      "gross": 13720,
+      "occupancy_percent": 27.53
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2030,11 +2034,11 @@
       "date": "2026-08-05T20:15:00+05:45",
       "time": "",
       "seats": 178,
-      "sold": 64,
+      "sold": 68,
       "reserved": 8,
-      "available": 106,
-      "gross": 20160,
-      "occupancy_percent": 40.45
+      "available": 102,
+      "gross": 21280,
+      "occupancy_percent": 42.7
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2060,11 +2064,11 @@
       "date": "2026-08-05T20:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 64,
+      "sold": 70,
       "reserved": 22,
-      "available": 179,
-      "gross": 19780,
-      "occupancy_percent": 32.45
+      "available": 173,
+      "gross": 21160,
+      "occupancy_percent": 34.72
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2075,11 +2079,11 @@
       "date": "2026-08-05T17:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 42,
+      "sold": 47,
       "reserved": 23,
-      "available": 200,
-      "gross": 14950,
-      "occupancy_percent": 24.53
+      "available": 195,
+      "gross": 16100,
+      "occupancy_percent": 26.42
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2090,11 +2094,11 @@
       "date": "2026-08-05T10:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 14,
+      "sold": 16,
       "reserved": 20,
-      "available": 185,
-      "gross": 9520,
-      "occupancy_percent": 15.53
+      "available": 183,
+      "gross": 10080,
+      "occupancy_percent": 16.44
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2121,10 +2125,10 @@
       "time": "",
       "seats": 359,
       "sold": 2,
-      "reserved": 0,
-      "available": 357,
-      "gross": 560,
-      "occupancy_percent": 0.56
+      "reserved": 4,
+      "available": 353,
+      "gross": 1680,
+      "occupancy_percent": 1.67
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2181,10 +2185,10 @@
       "time": "",
       "seats": 214,
       "sold": 69,
-      "reserved": 6,
-      "available": 139,
-      "gross": 18000,
-      "occupancy_percent": 35.05
+      "reserved": 8,
+      "available": 137,
+      "gross": 18480,
+      "occupancy_percent": 35.98
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2205,18 +2209,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181532:qfx-skyline",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-08-05T18:30:00+05:45",
+      "time": "",
+      "seats": 132,
+      "sold": 5,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 127,
+      "gross": 900,
+      "occupancy_percent": 3.79
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2227,11 +2229,11 @@
       "date": "2026-08-05T16:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 17,
+      "sold": 23,
       "reserved": 10,
-      "available": 192,
-      "gross": 7560,
-      "occupancy_percent": 12.33
+      "available": 186,
+      "gross": 9240,
+      "occupancy_percent": 15.07
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2471,11 +2473,11 @@
       "date": "2026-08-05T07:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 42,
+      "sold": 49,
       "reserved": 0,
-      "available": 91,
-      "gross": 8040,
-      "occupancy_percent": 31.58
+      "available": 84,
+      "gross": 9300,
+      "occupancy_percent": 36.84
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2503,11 +2505,11 @@
       "date": "2026-08-05T13:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 46,
+      "sold": 53,
       "reserved": 0,
-      "available": 87,
-      "gross": 13360,
-      "occupancy_percent": 34.59
+      "available": 80,
+      "gross": 15320,
+      "occupancy_percent": 39.85
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2714,10 +2716,10 @@
       "time": "",
       "seats": 214,
       "sold": 0,
-      "reserved": 9,
-      "available": 205,
-      "gross": 2250,
-      "occupancy_percent": 4.21
+      "reserved": 11,
+      "available": 203,
+      "gross": 2750,
+      "occupancy_percent": 5.14
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2808,7 +2810,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -2825,42 +2827,38 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181280:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 03",
+      "date": "2026-08-05T17:30:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 23,
+      "reserved": 19,
+      "available": 217,
+      "gross": 10500,
+      "occupancy_percent": 16.22
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181277:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 03",
+      "date": "2026-08-05T11:15:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 29,
+      "reserved": 19,
+      "available": 211,
+      "gross": 12600,
+      "occupancy_percent": 18.53
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2876,25 +2874,23 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181278:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 03",
+      "date": "2026-08-05T20:30:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 15,
+      "reserved": 19,
+      "available": 225,
+      "gross": 8500,
+      "occupancy_percent": 13.13
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2905,11 +2901,11 @@
       "date": "2026-08-05T17:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 42,
+      "sold": 48,
       "reserved": 29,
-      "available": 139,
-      "gross": 17040,
-      "occupancy_percent": 33.81
+      "available": 133,
+      "gross": 18480,
+      "occupancy_percent": 36.67
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2950,11 +2946,11 @@
       "date": "2026-08-05T11:30:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 21,
-      "reserved": 29,
-      "available": 160,
-      "gross": 12000,
-      "occupancy_percent": 23.81
+      "sold": 31,
+      "reserved": 27,
+      "available": 152,
+      "gross": 13920,
+      "occupancy_percent": 27.62
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2966,27 +2962,25 @@
       "time": "",
       "seats": 210,
       "sold": 25,
-      "reserved": 21,
-      "available": 164,
-      "gross": 11040,
-      "occupancy_percent": 21.9
+      "reserved": 27,
+      "available": 158,
+      "gross": 12480,
+      "occupancy_percent": 24.76
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181279:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 03",
+      "date": "2026-08-05T14:30:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 40,
+      "reserved": 22,
+      "available": 197,
+      "gross": 16400,
+      "occupancy_percent": 23.94
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3087,11 +3081,11 @@
       "date": "2026-08-05T14:00:00+05:45",
       "time": "",
       "seats": 285,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 285,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 282,
+      "gross": 525,
+      "occupancy_percent": 1.05
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3117,11 +3111,11 @@
       "date": "2026-08-05T18:15:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 25,
+      "sold": 28,
       "reserved": 0,
-      "available": 114,
-      "gross": 6250,
-      "occupancy_percent": 17.99
+      "available": 111,
+      "gross": 7000,
+      "occupancy_percent": 20.14
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3432,11 +3426,11 @@
       "date": "2026-08-05T08:15:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 20,
+      "sold": 22,
       "reserved": 0,
-      "available": 187,
-      "gross": 5000,
-      "occupancy_percent": 9.66
+      "available": 185,
+      "gross": 5500,
+      "occupancy_percent": 10.63
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3507,11 +3501,11 @@
       "date": "2026-08-05T20:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 103,
+      "sold": 105,
       "reserved": 15,
-      "available": 89,
-      "gross": 29500,
-      "occupancy_percent": 57.0
+      "available": 87,
+      "gross": 30000,
+      "occupancy_percent": 57.97
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3522,11 +3516,11 @@
       "date": "2026-08-05T19:45:00+05:45",
       "time": "",
       "seats": 172,
-      "sold": 110,
+      "sold": 119,
       "reserved": 6,
-      "available": 56,
-      "gross": 23200,
-      "occupancy_percent": 67.44
+      "available": 47,
+      "gross": 25000,
+      "occupancy_percent": 72.67
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3538,10 +3532,10 @@
       "time": "",
       "seats": 207,
       "sold": 104,
-      "reserved": 15,
-      "available": 88,
-      "gross": 30350,
-      "occupancy_percent": 57.49
+      "reserved": 19,
+      "available": 84,
+      "gross": 32550,
+      "occupancy_percent": 59.42
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3552,11 +3546,11 @@
       "date": "2026-08-05T11:15:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 137,
+      "sold": 139,
       "reserved": 15,
-      "available": 55,
-      "gross": 38300,
-      "occupancy_percent": 73.43
+      "available": 53,
+      "gross": 38800,
+      "occupancy_percent": 74.4
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3568,10 +3562,10 @@
       "time": "",
       "seats": 207,
       "sold": 133,
-      "reserved": 15,
-      "available": 59,
-      "gross": 37600,
-      "occupancy_percent": 71.5
+      "reserved": 19,
+      "available": 55,
+      "gross": 38600,
+      "occupancy_percent": 73.43
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3597,11 +3591,11 @@
       "date": "2026-08-05T17:30:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 58,
+      "sold": 65,
       "reserved": 0,
-      "available": 173,
-      "gross": 11600,
-      "occupancy_percent": 25.11
+      "available": 166,
+      "gross": 13000,
+      "occupancy_percent": 28.14
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3627,56 +3621,62 @@
       "date": "2026-08-05T11:30:00+05:45",
       "time": "",
       "seats": 231,
-      "sold": 72,
-      "reserved": 0,
-      "available": 159,
-      "gross": 14400,
-      "occupancy_percent": 31.17
+      "sold": 78,
+      "reserved": 2,
+      "available": 151,
+      "gross": 16000,
+      "occupancy_percent": 34.63
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181669:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-08-05T16:30:00+05:45",
-      "time": "",
-      "seats": 268,
-      "sold": 100,
-      "reserved": 22,
-      "available": 146,
-      "gross": 18300,
-      "occupancy_percent": 45.52
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181667:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-08-05T14:00:00+05:45",
-      "time": "",
-      "seats": 265,
-      "sold": 30,
-      "reserved": 22,
-      "available": 213,
-      "gross": 7800,
-      "occupancy_percent": 19.62
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181668:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-08-05T13:30:00+05:45",
-      "time": "",
-      "seats": 268,
-      "sold": 73,
-      "reserved": 22,
-      "available": 173,
-      "gross": 14250,
-      "occupancy_percent": 35.45
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3697,16 +3697,18 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181671:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-08-05T22:30:00+05:45",
-      "time": "",
-      "seats": 268,
-      "sold": 11,
-      "reserved": 22,
-      "available": 235,
-      "gross": 4950,
-      "occupancy_percent": 12.31
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3727,31 +3729,35 @@
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181670:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 1",
-      "date": "2026-08-05T19:30:00+05:45",
-      "time": "",
-      "seats": 268,
-      "sold": 224,
-      "reserved": 22,
-      "available": 22,
-      "gross": 36900,
-      "occupancy_percent": 91.79
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181666:qfx-jalma",
-      "venue": "qfx-jalma",
-      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
-      "date": "2026-08-05T11:00:00+05:45",
-      "time": "",
-      "seats": 265,
-      "sold": 188,
-      "reserved": 22,
-      "available": 55,
-      "gross": 31500,
-      "occupancy_percent": 79.25
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3777,11 +3783,11 @@
       "date": "2026-08-05T19:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 104,
+      "sold": 105,
       "reserved": 17,
-      "available": 22,
-      "gross": 24200,
-      "occupancy_percent": 84.62
+      "available": 21,
+      "gross": 24400,
+      "occupancy_percent": 85.31
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3822,11 +3828,11 @@
       "date": "2026-08-05T16:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 57,
+      "sold": 60,
       "reserved": 14,
-      "available": 72,
-      "gross": 14200,
-      "occupancy_percent": 49.65
+      "available": 69,
+      "gross": 14800,
+      "occupancy_percent": 51.75
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3852,11 +3858,11 @@
       "date": "2026-08-05T13:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 78,
-      "reserved": 9,
-      "available": 132,
-      "gross": 17400,
-      "occupancy_percent": 39.73
+      "sold": 102,
+      "reserved": 12,
+      "available": 105,
+      "gross": 22800,
+      "occupancy_percent": 52.05
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3867,11 +3873,11 @@
       "date": "2026-08-05T13:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 75,
+      "sold": 81,
       "reserved": 21,
-      "available": 47,
-      "gross": 19200,
-      "occupancy_percent": 67.13
+      "available": 41,
+      "gross": 20400,
+      "occupancy_percent": 71.33
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3882,11 +3888,11 @@
       "date": "2026-08-05T10:00:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 49,
-      "reserved": 14,
-      "available": 80,
-      "gross": 12600,
-      "occupancy_percent": 44.06
+      "sold": 62,
+      "reserved": 24,
+      "available": 57,
+      "gross": 17200,
+      "occupancy_percent": 60.14
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3913,10 +3919,10 @@
       "time": "",
       "seats": 309,
       "sold": 0,
-      "reserved": 19,
-      "available": 290,
-      "gross": 2850,
-      "occupancy_percent": 6.15
+      "reserved": 22,
+      "available": 287,
+      "gross": 3300,
+      "occupancy_percent": 7.12
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3942,28 +3948,26 @@
       "date": "2026-08-05T19:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 120,
-      "reserved": 10,
-      "available": 89,
-      "gross": 26000,
-      "occupancy_percent": 59.36
+      "sold": 146,
+      "reserved": 11,
+      "available": 62,
+      "gross": 31400,
+      "occupancy_percent": 71.69
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
       "movie_name": "Gauthali",
       "show_id": "181549:qfx-skyline",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 1",
+      "date": "2026-08-05T15:15:00+05:45",
+      "time": "",
+      "seats": 132,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 132,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4050,10 +4054,10 @@
       "time": "",
       "seats": 214,
       "sold": 33,
-      "reserved": 0,
-      "available": 181,
-      "gross": 6270,
-      "occupancy_percent": 15.42
+      "reserved": 1,
+      "available": 180,
+      "gross": 6460,
+      "occupancy_percent": 15.89
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4079,11 +4083,11 @@
       "date": "2026-08-05T19:00:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 214,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 211,
+      "gross": 570,
+      "occupancy_percent": 1.4
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4094,11 +4098,11 @@
       "date": "2026-08-05T20:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 25,
-      "reserved": 0,
-      "available": 171,
-      "gross": 5000,
-      "occupancy_percent": 12.76
+      "sold": 33,
+      "reserved": 6,
+      "available": 157,
+      "gross": 7800,
+      "occupancy_percent": 19.9
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4169,11 +4173,11 @@
       "date": "2026-08-05T11:30:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 61,
+      "sold": 72,
       "reserved": 0,
-      "available": 115,
-      "gross": 12200,
-      "occupancy_percent": 34.66
+      "available": 104,
+      "gross": 14400,
+      "occupancy_percent": 40.91
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4199,11 +4203,11 @@
       "date": "2026-08-05T14:00:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 48,
+      "sold": 53,
       "reserved": 0,
-      "available": 148,
-      "gross": 12100,
-      "occupancy_percent": 24.49
+      "available": 143,
+      "gross": 13100,
+      "occupancy_percent": 27.04
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4304,11 +4308,11 @@
       "date": "2026-08-05T18:00:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 286,
-      "gross": 300,
-      "occupancy_percent": 0.69
+      "available": 282,
+      "gross": 900,
+      "occupancy_percent": 2.08
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4499,11 +4503,11 @@
       "date": "2026-08-05T10:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 19,
+      "sold": 22,
       "reserved": 0,
-      "available": 114,
-      "gross": 5320,
-      "occupancy_percent": 14.29
+      "available": 111,
+      "gross": 6520,
+      "occupancy_percent": 16.54
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -4725,10 +4729,10 @@
       "time": "",
       "seats": 143,
       "sold": 1,
-      "reserved": 3,
-      "available": 139,
-      "gross": 900,
-      "occupancy_percent": 2.8
+      "reserved": 16,
+      "available": 126,
+      "gross": 3500,
+      "occupancy_percent": 11.89
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5124,18 +5128,16 @@
       "movie_id": "DybU857d77sjBuHiWzheJm",
       "movie_name": "The Odyssey",
       "show_id": "181275:qfx-civil",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 02",
+      "date": "2026-08-05T10:00:00+05:45",
+      "time": "",
+      "seats": 259,
+      "sold": 25,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "available": 234,
+      "gross": 6550,
+      "occupancy_percent": 9.65
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5206,11 +5208,11 @@
       "date": "2026-08-05T12:00:00+05:45",
       "time": "",
       "seats": 251,
-      "sold": 12,
+      "sold": 15,
       "reserved": 0,
-      "available": 239,
-      "gross": 2700,
-      "occupancy_percent": 4.78
+      "available": 236,
+      "gross": 3375,
+      "occupancy_percent": 5.98
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5237,10 +5239,10 @@
       "time": "",
       "seats": 251,
       "sold": 15,
-      "reserved": 2,
-      "available": 234,
-      "gross": 3825,
-      "occupancy_percent": 6.77
+      "reserved": 4,
+      "available": 232,
+      "gross": 4275,
+      "occupancy_percent": 7.57
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5311,11 +5313,11 @@
       "date": "2026-08-05T10:30:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 15,
+      "sold": 18,
       "reserved": 22,
-      "available": 231,
-      "gross": 8510,
-      "occupancy_percent": 13.81
+      "available": 228,
+      "gross": 9200,
+      "occupancy_percent": 14.93
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5341,11 +5343,11 @@
       "date": "2026-08-05T18:00:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 5,
+      "sold": 10,
       "reserved": 0,
-      "available": 112,
-      "gross": 1300,
-      "occupancy_percent": 4.27
+      "available": 107,
+      "gross": 2600,
+      "occupancy_percent": 8.55
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5798,16 +5800,18 @@
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
       "movie_name": "Spider-Man: Brand New Day - Hindi",
       "show_id": "shw_OAwRImE3FlF3cmRrtVjsXJ:central-multiplex",
-      "venue": "central-multiplex",
-      "theatre": "Central Multiplex - Screen 2",
-      "date": "2026-08-05T12:30:00+05:45",
-      "time": "",
-      "seats": 230,
-      "sold": 10,
-      "reserved": 6,
-      "available": 214,
-      "gross": 4900,
-      "occupancy_percent": 6.96
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -5851,10 +5855,10 @@
       "time": "",
       "seats": 214,
       "sold": 2,
-      "reserved": 4,
-      "available": 208,
-      "gross": 1500,
-      "occupancy_percent": 2.8
+      "reserved": 5,
+      "available": 207,
+      "gross": 1750,
+      "occupancy_percent": 3.27
     },
     {
       "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
@@ -5925,11 +5929,11 @@
       "date": "2026-08-05T12:00:00+05:45",
       "time": "",
       "seats": 85,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 85,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 82,
+      "gross": 750,
+      "occupancy_percent": 3.53
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
