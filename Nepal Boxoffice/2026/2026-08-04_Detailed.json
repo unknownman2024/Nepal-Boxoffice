@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "lastUpdated": "06:31 PM, 04 August 2026",
+  "lastUpdated": "08:57 PM, 04 August 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5074,18 +5074,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "181473:qfx-labim",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-04",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 1",
+      "date": "2026-08-04T21:15:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 82,
+      "reserved": 3,
+      "available": 97,
+      "gross": 46750,
+      "occupancy_percent": 46.7
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5261,11 +5259,11 @@
       "date": "2026-08-04T21:45:00+05:45",
       "time": "",
       "seats": 214,
-      "sold": 178,
-      "reserved": 12,
-      "available": 24,
-      "gross": 45600,
-      "occupancy_percent": 88.79
+      "sold": 208,
+      "reserved": 5,
+      "available": 1,
+      "gross": 51120,
+      "occupancy_percent": 99.53
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5419,11 +5417,11 @@
       "date": "2026-08-04T21:20:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 93,
-      "reserved": 57,
-      "available": 97,
-      "gross": 63600,
-      "occupancy_percent": 60.73
+      "sold": 126,
+      "reserved": 40,
+      "available": 81,
+      "gross": 70200,
+      "occupancy_percent": 67.21
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5479,11 +5477,11 @@
       "date": "2026-08-04T21:30:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 16,
-      "reserved": 0,
-      "available": 113,
-      "gross": 5100,
-      "occupancy_percent": 12.4
+      "sold": 43,
+      "reserved": 7,
+      "available": 79,
+      "gross": 17000,
+      "occupancy_percent": 38.76
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -5751,11 +5749,11 @@
       "date": "2026-08-04T21:15:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 72,
-      "reserved": 9,
-      "available": 58,
-      "gross": 20250,
-      "occupancy_percent": 58.27
+      "sold": 123,
+      "reserved": 10,
+      "available": 6,
+      "gross": 33250,
+      "occupancy_percent": 95.68
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6051,11 +6049,11 @@
       "date": "2026-08-04T21:30:00+05:45",
       "time": "",
       "seats": 118,
-      "sold": 9,
+      "sold": 26,
       "reserved": 0,
-      "available": 109,
-      "gross": 2700,
-      "occupancy_percent": 7.63
+      "available": 92,
+      "gross": 7800,
+      "occupancy_percent": 22.03
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -6111,11 +6109,11 @@
       "date": "2026-08-04T21:30:00+05:45",
       "time": "",
       "seats": 290,
-      "sold": 129,
-      "reserved": 10,
-      "available": 151,
-      "gross": 31970,
-      "occupancy_percent": 47.93
+      "sold": 212,
+      "reserved": 0,
+      "available": 78,
+      "gross": 48760,
+      "occupancy_percent": 73.1
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -6146,6 +6144,98 @@
       "available": 146,
       "gross": 9480,
       "occupancy_percent": 23.16
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181434:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-08-04T23:45:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181560:qfx-one-stop-mall",
+      "venue": "qfx-one-stop-mall",
+      "theatre": "QFX One Stop, Birtamod - AUDI 2",
+      "date": "2026-08-04T22:30:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 104,
+      "reserved": 1,
+      "available": 28,
+      "gross": 31200,
+      "occupancy_percent": 78.95
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181439:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-04T23:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 6,
+      "reserved": 0,
+      "available": 128,
+      "gross": 1380,
+      "occupancy_percent": 4.48
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_mYoAupAKlDEMfXl7fXvpqc:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-08-04T22:15:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 41,
+      "reserved": 2,
+      "available": 174,
+      "gross": 8600,
+      "occupancy_percent": 19.82
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "79075:vfx-cinemas",
+      "venue": "vfx-cinemas",
+      "theatre": "VFX Cinemas - AUDI-2",
+      "date": "2026-08-04T22:15:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 116,
+      "reserved": 49,
+      "available": 0,
+      "gross": 30775,
+      "occupancy_percent": 100.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_JdoTGtjwEgecCMwVS9SyBr:sk-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-04",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
