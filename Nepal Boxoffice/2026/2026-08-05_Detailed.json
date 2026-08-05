@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "lastUpdated": "07:38 PM, 05 August 2026",
+  "lastUpdated": "10:08 PM, 05 August 2026",
   "shows": [
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6057,11 +6057,11 @@
       "date": "2026-08-05T22:30:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 251,
-      "reserved": 15,
-      "available": 2,
-      "gross": 39900,
-      "occupancy_percent": 99.25
+      "sold": 257,
+      "reserved": 0,
+      "available": 11,
+      "gross": 38550,
+      "occupancy_percent": 95.9
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -6327,11 +6327,11 @@
       "date": "2026-08-05T22:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 68,
-      "reserved": 6,
-      "available": 59,
-      "gross": 22520,
-      "occupancy_percent": 55.64
+      "sold": 84,
+      "reserved": 9,
+      "available": 40,
+      "gross": 27960,
+      "occupancy_percent": 69.92
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -6377,6 +6377,66 @@
       "available": 95,
       "gross": 44850,
       "occupancy_percent": 67.24
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "41167:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 3",
+      "date": "2026-08-05T23:00:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 0,
+      "reserved": 44,
+      "available": 120,
+      "gross": 7700,
+      "occupancy_percent": 26.83
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181459:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-08-05T23:00:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 3,
+      "reserved": 0,
+      "available": 131,
+      "gross": 690,
+      "occupancy_percent": 2.24
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181457:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 1",
+      "date": "2026-08-05T23:45:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 0,
+      "reserved": 0,
+      "available": 134,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
+      "movie_name": "Spider-Man: Brand New Day - Hindi",
+      "show_id": "181664:qfx-jalma",
+      "venue": "qfx-jalma",
+      "theatre": "QFX Jalma, Narayangarh - AUDI 2",
+      "date": "2026-08-05T23:00:00+05:45",
+      "time": "",
+      "seats": 265,
+      "sold": 106,
+      "reserved": 22,
+      "available": 137,
+      "gross": 29440,
+      "occupancy_percent": 48.3
     }
   ]
 }
