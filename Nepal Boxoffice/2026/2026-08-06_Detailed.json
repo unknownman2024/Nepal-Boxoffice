@@ -1,5 +1,81 @@
 {
   "date": "2026-08-06",
-  "lastUpdated": "01:54 AM, 06 August 2026",
-  "shows": []
+  "lastUpdated": "03:39 AM, 06 August 2026",
+  "shows": [
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "41119:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 1",
+      "date": "2026-08-06T06:00:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 18,
+      "reserved": 0,
+      "available": 233,
+      "gross": 4050,
+      "occupancy_percent": 7.17
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "28862:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Audi 1",
+      "date": "2026-08-06T07:00:00+05:45",
+      "time": "",
+      "seats": 208,
+      "sold": 57,
+      "reserved": 0,
+      "available": 151,
+      "gross": 17100,
+      "occupancy_percent": 27.4
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "181729:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-06T07:00:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 100,
+      "reserved": 0,
+      "available": 80,
+      "gross": 27500,
+      "occupancy_percent": 55.56
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "shw_bBsbGB555ysIDmLOtzehSq:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 2",
+      "date": "2026-08-06T07:00:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 45,
+      "reserved": 0,
+      "available": 225,
+      "gross": 11250,
+      "occupancy_percent": 16.67
+    },
+    {
+      "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
+      "movie_name": "Spider-Man: Brand New Day - Hindi",
+      "show_id": "41125:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi - 2",
+      "date": "2026-08-06T06:30:00+05:45",
+      "time": "",
+      "seats": 118,
+      "sold": 6,
+      "reserved": 0,
+      "available": 112,
+      "gross": 1050,
+      "occupancy_percent": 5.08
+    }
+  ]
 }
