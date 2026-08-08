@@ -2,19 +2,109 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 2,
-    "seats": 320,
-    "sold": 224,
-    "reserved": 0,
-    "available": 96,
-    "housefull": 1,
-    "fastfilling": 0,
+    "total_shows": 11,
+    "seats": 2078,
+    "sold": 1170,
+    "reserved": 32,
+    "available": 876,
+    "housefull": 2,
+    "fastfilling": 2,
     "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 10,
+        "available": 50,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "chitwan-cineplex",
         "total_shows": 1,
         "seats": 143,
         "sold": 143,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 1,
+        "fastfilling": 0
+      },
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 212,
+        "sold": 28,
+        "reserved": 15,
+        "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 181,
+        "sold": 34,
+        "reserved": 2,
+        "available": 145,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 172,
+        "sold": 78,
+        "reserved": 5,
+        "available": 89,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 247,
+        "sold": 240,
+        "reserved": 0,
+        "available": 7,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 176,
+        "sold": 161,
+        "reserved": 0,
+        "available": 15,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 106,
+        "reserved": 0,
+        "available": 153,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 31,
+        "reserved": 0,
+        "available": 152,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 268,
+        "sold": 268,
         "reserved": 0,
         "available": 0,
         "housefull": 1,
@@ -35,23 +125,93 @@
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 4,
-    "seats": 740,
-    "sold": 546,
-    "reserved": 4,
-    "available": 190,
+    "total_shows": 20,
+    "seats": 3905,
+    "sold": 1889,
+    "reserved": 65,
+    "available": 1951,
     "housefull": 0,
-    "fastfilling": 3,
+    "fastfilling": 9,
     "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 65,
+        "reserved": 0,
+        "available": 284,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
+        "sold": 5,
+        "reserved": 20,
+        "available": 167,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 15,
+        "reserved": 10,
+        "available": 144,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "chitwan-cineplex",
         "total_shows": 1,
         "seats": 219,
         "sold": 212,
-        "reserved": 0,
-        "available": 7,
+        "reserved": 2,
+        "available": 5,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 4,
+        "reserved": 0,
+        "available": 94,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 14,
+        "reserved": 6,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 285,
+        "sold": 44,
+        "reserved": 17,
+        "available": 224,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 35,
+        "reserved": 4,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
       },
       {
         "venue": "one-cinemas-new-baneshwor",
@@ -64,14 +224,74 @@
         "fastfilling": 0
       },
       {
-        "venue": "qfx-labim",
+        "venue": "pathivara-cine-plaza",
         "total_shows": 1,
-        "seats": 180,
-        "sold": 142,
+        "seats": 190,
+        "sold": 22,
+        "reserved": 2,
+        "available": 166,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 248,
+        "sold": 228,
         "reserved": 0,
-        "available": 38,
+        "available": 20,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 115,
+        "reserved": 0,
+        "available": 81,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-civil",
+        "total_shows": 1,
+        "seats": 259,
+        "sold": 181,
+        "reserved": 0,
+        "available": 78,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-durbar",
+        "total_shows": 1,
+        "seats": 53,
+        "sold": 25,
+        "reserved": 0,
+        "available": 28,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-jalma",
+        "total_shows": 1,
+        "seats": 265,
+        "sold": 216,
+        "reserved": 0,
+        "available": 49,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 2,
+        "seats": 362,
+        "sold": 303,
+        "reserved": 0,
+        "available": 59,
+        "housefull": 0,
+        "fastfilling": 2
       },
       {
         "venue": "qfx-one-stop-mall",
@@ -82,6 +302,69 @@
         "available": 37,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 134,
+        "reserved": 0,
+        "available": 31,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 79,
+        "reserved": 0,
+        "available": 103,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
+    "movie_name": "Spider-Man: Brand New Day - Hindi",
+    "total_shows": 3,
+    "seats": 541,
+    "sold": 91,
+    "reserved": 3,
+    "available": 447,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 189,
+        "sold": 52,
+        "reserved": 0,
+        "available": 137,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 24,
+        "reserved": 3,
+        "available": 74,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 251,
+        "sold": 15,
+        "reserved": 0,
+        "available": 236,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   }
