@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "lastUpdated": "12:03 AM, 10 August 2026",
+  "lastUpdated": "02:57 AM, 10 August 2026",
   "shows": [
     {
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
@@ -358,11 +358,11 @@
       "date": "2026-08-11T18:45:00+05:45",
       "time": "",
       "seats": 519,
-      "sold": 9,
+      "sold": 11,
       "reserved": 47,
-      "available": 463,
-      "gross": 14900,
-      "occupancy_percent": 10.79
+      "available": 461,
+      "gross": 15400,
+      "occupancy_percent": 11.18
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -988,11 +988,11 @@
       "date": "2026-08-11T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 2,
+      "sold": 3,
       "reserved": 0,
-      "available": 245,
-      "gross": 350,
-      "occupancy_percent": 0.81
+      "available": 244,
+      "gross": 525,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1363,11 +1363,11 @@
       "date": "2026-08-11T17:00:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 10,
+      "sold": 13,
       "reserved": 0,
-      "available": 166,
-      "gross": 2000,
-      "occupancy_percent": 5.68
+      "available": 163,
+      "gross": 2600,
+      "occupancy_percent": 7.39
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1663,11 +1663,11 @@
       "date": "2026-08-11T12:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 75,
+      "sold": 80,
       "reserved": 78,
-      "available": 94,
-      "gross": 27425,
-      "occupancy_percent": 61.94
+      "available": 89,
+      "gross": 28550,
+      "occupancy_percent": 63.97
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2158,11 +2158,11 @@
       "date": "2026-08-11T11:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 6,
+      "sold": 8,
       "reserved": 0,
-      "available": 253,
-      "gross": 1980,
-      "occupancy_percent": 2.32
+      "available": 251,
+      "gross": 2640,
+      "occupancy_percent": 3.09
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2188,11 +2188,11 @@
       "date": "2026-08-11T14:00:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 20,
-      "reserved": 2,
-      "available": 237,
-      "gross": 7260,
-      "occupancy_percent": 8.49
+      "sold": 24,
+      "reserved": 0,
+      "available": 235,
+      "gross": 7920,
+      "occupancy_percent": 9.27
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2488,11 +2488,11 @@
       "date": "2026-08-11T11:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 13,
+      "sold": 15,
       "reserved": 27,
-      "available": 158,
-      "gross": 11600,
-      "occupancy_percent": 20.2
+      "available": 156,
+      "gross": 12180,
+      "occupancy_percent": 21.21
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2503,11 +2503,11 @@
       "date": "2026-08-11T17:30:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 15,
+      "sold": 17,
       "reserved": 26,
-      "available": 157,
-      "gross": 11890,
-      "occupancy_percent": 20.71
+      "available": 155,
+      "gross": 12470,
+      "occupancy_percent": 21.72
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -3615,11 +3615,11 @@
       "date": "2026-08-11T15:00:00+05:45",
       "time": "",
       "seats": 117,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 117,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 116,
+      "gross": 330,
+      "occupancy_percent": 0.85
     },
     {
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
@@ -3760,18 +3760,16 @@
       "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
       "movie_name": "Spider-Man: Brand New Day - Hindi",
       "show_id": "shw_dR9Y7KjfMXIAxeC51kfAyV:cineroyale",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-11",
-      "time": null,
-      "seats": 0,
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 1",
+      "date": "2026-08-11T09:15:00+05:45",
+      "time": "",
+      "seats": 217,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 217,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     }
   ]
 }
