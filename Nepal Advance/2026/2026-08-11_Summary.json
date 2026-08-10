@@ -2,11 +2,11 @@
   {
     "movie_id": "iWqVqEC9b3Dha7WD893w58",
     "movie_name": "Halee",
-    "total_shows": 10,
-    "seats": 1267,
+    "total_shows": 11,
+    "seats": 1400,
     "sold": 1,
     "reserved": 16,
-    "available": 1250,
+    "available": 1383,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -99,17 +99,27 @@
         "available": 0,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 124,
-    "seats": 25278,
-    "sold": 1065,
-    "reserved": 987,
-    "available": 23226,
+    "total_shows": 128,
+    "seats": 25418,
+    "sold": 1061,
+    "reserved": 960,
+    "available": 23397,
     "housefull": 0,
     "fastfilling": 5,
     "venues": [
@@ -178,8 +188,8 @@
         "total_shows": 4,
         "seats": 1140,
         "sold": 23,
-        "reserved": 15,
-        "available": 1102,
+        "reserved": 20,
+        "available": 1097,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -237,9 +247,9 @@
         "venue": "pokhara-cineplex",
         "total_shows": 5,
         "seats": 1539,
-        "sold": 7,
+        "sold": 11,
         "reserved": 10,
-        "available": 1522,
+        "available": 1518,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -258,8 +268,8 @@
         "total_shows": 4,
         "seats": 852,
         "sold": 7,
-        "reserved": 0,
-        "available": 845,
+        "reserved": 6,
+        "available": 839,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -287,29 +297,39 @@
         "venue": "qfx-butwal",
         "total_shows": 5,
         "seats": 920,
-        "sold": 37,
+        "sold": 42,
         "reserved": 0,
-        "available": 883,
+        "available": 878,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "cineroyale",
-        "total_shows": 9,
-        "seats": 1589,
-        "sold": 180,
-        "reserved": 39,
-        "available": 1370,
+        "total_shows": 8,
+        "seats": 1372,
+        "sold": 158,
+        "reserved": 26,
+        "available": 1188,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 4,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
       },
       {
         "venue": "qfx-cineflix-itahari",
         "total_shows": 4,
         "seats": 536,
         "sold": 73,
-        "reserved": 0,
-        "available": 463,
+        "reserved": 10,
+        "available": 453,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -327,9 +347,9 @@
         "venue": "vfx-cinemas",
         "total_shows": 10,
         "seats": 1978,
-        "sold": 332,
-        "reserved": 454,
-        "available": 1192,
+        "sold": 341,
+        "reserved": 455,
+        "available": 1182,
         "housefull": 0,
         "fastfilling": 4
       },
@@ -354,12 +374,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
-        "total_shows": 3,
-        "seats": 289,
+        "venue": "oasis-cinema",
+        "total_shows": 4,
+        "seats": 646,
         "sold": 0,
-        "reserved": 36,
-        "available": 253,
+        "reserved": 0,
+        "available": 646,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -369,10 +389,10 @@
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
     "total_shows": 81,
-    "seats": 14621,
-    "sold": 428,
-    "reserved": 231,
-    "available": 13962,
+    "seats": 13945,
+    "sold": 434,
+    "reserved": 187,
+    "available": 13324,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -380,9 +400,9 @@
         "venue": "qfx-labim",
         "total_shows": 7,
         "seats": 1265,
-        "sold": 51,
+        "sold": 53,
         "reserved": 0,
-        "available": 1214,
+        "available": 1212,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -420,9 +440,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 8,
         "seats": 1382,
-        "sold": 130,
+        "sold": 132,
         "reserved": 0,
-        "available": 1252,
+        "available": 1250,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -431,8 +451,8 @@
         "total_shows": 6,
         "seats": 1240,
         "sold": 53,
-        "reserved": 136,
-        "available": 1051,
+        "reserved": 137,
+        "available": 1050,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -481,8 +501,8 @@
         "total_shows": 3,
         "seats": 552,
         "sold": 0,
-        "reserved": 46,
-        "available": 506,
+        "reserved": 48,
+        "available": 504,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -500,9 +520,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 5,
         "seats": 1239,
-        "sold": 49,
+        "sold": 51,
         "reserved": 2,
-        "available": 1188,
+        "available": 1186,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -527,12 +547,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "Unknown",
         "total_shows": 4,
-        "seats": 676,
+        "seats": 0,
         "sold": 0,
-        "reserved": 47,
-        "available": 629,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -591,11 +611,11 @@
   {
     "movie_id": "CNCqUVseyiCX3k4gP9LFX4",
     "movie_name": "Kamala Miss",
-    "total_shows": 2,
-    "seats": 275,
+    "total_shows": 4,
+    "seats": 408,
     "sold": 0,
     "reserved": 0,
-    "available": 275,
+    "available": 408,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -616,6 +636,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 143,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -802,6 +842,29 @@
         "sold": 12,
         "reserved": 10,
         "available": 472,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
+    "movie_name": "Dhamaal 4",
+    "total_shows": 1,
+    "seats": 0,
+    "sold": 0,
+    "reserved": 0,
+    "available": 0,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
