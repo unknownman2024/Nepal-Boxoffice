@@ -1,5 +1,23 @@
 {
   "date": "2026-08-13",
-  "lastUpdated": "03:11 AM, 13 August 2026",
-  "shows": []
+  "lastUpdated": "04:06 AM, 13 August 2026",
+  "shows": [
+    {
+      "movie_id": "iWqVqEC9b3Dha7WD893w58",
+      "movie_name": "Halee",
+      "show_id": "shw_cySuhRr7pBEKFlUZUC80Yz:dm-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-13",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    }
+  ]
 }
