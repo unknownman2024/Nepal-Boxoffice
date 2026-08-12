@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "lastUpdated": "03:12 AM, 12 August 2026",
+  "lastUpdated": "06:53 AM, 12 August 2026",
   "shows": [
     {
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
@@ -300,11 +300,11 @@
       "date": "2026-08-13T18:00:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 33,
+      "sold": 35,
       "reserved": 24,
-      "available": 141,
-      "gross": 13680,
-      "occupancy_percent": 28.79
+      "available": 139,
+      "gross": 14160,
+      "occupancy_percent": 29.8
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -870,11 +870,11 @@
       "date": "2026-08-13T11:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 102,
+      "sold": 104,
       "reserved": 12,
-      "available": 93,
-      "gross": 29700,
-      "occupancy_percent": 55.07
+      "available": 91,
+      "gross": 30200,
+      "occupancy_percent": 56.04
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -945,11 +945,11 @@
       "date": "2026-08-13T20:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 24,
+      "sold": 29,
       "reserved": 15,
-      "available": 168,
-      "gross": 11250,
-      "occupancy_percent": 18.84
+      "available": 163,
+      "gross": 12500,
+      "occupancy_percent": 21.26
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1020,11 +1020,11 @@
       "date": "2026-08-13T17:30:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 52,
+      "sold": 58,
       "reserved": 0,
-      "available": 216,
-      "gross": 7800,
-      "occupancy_percent": 19.4
+      "available": 210,
+      "gross": 8700,
+      "occupancy_percent": 21.64
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1035,11 +1035,11 @@
       "date": "2026-08-13T11:30:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 20,
+      "sold": 22,
       "reserved": 0,
-      "available": 248,
-      "gross": 3000,
-      "occupancy_percent": 7.46
+      "available": 246,
+      "gross": 3300,
+      "occupancy_percent": 8.21
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1115,7 +1115,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
     },
     {
@@ -1174,11 +1174,11 @@
       "date": "2026-08-13T11:30:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 13,
+      "sold": 19,
       "reserved": 0,
-      "available": 206,
-      "gross": 2600,
-      "occupancy_percent": 5.94
+      "available": 200,
+      "gross": 3800,
+      "occupancy_percent": 8.68
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1204,11 +1204,11 @@
       "date": "2026-08-13T20:00:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 57,
+      "sold": 59,
       "reserved": 0,
-      "available": 208,
-      "gross": 8550,
-      "occupancy_percent": 21.51
+      "available": 206,
+      "gross": 8850,
+      "occupancy_percent": 22.26
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -1224,7 +1224,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
@@ -1611,11 +1611,11 @@
       "date": "2026-08-13T14:45:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 6,
-      "reserved": 0,
-      "available": 174,
-      "gross": 3300,
-      "occupancy_percent": 3.33
+      "sold": 7,
+      "reserved": 3,
+      "available": 170,
+      "gross": 5500,
+      "occupancy_percent": 5.56
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -2017,10 +2017,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 14,
-      "available": 196,
-      "gross": 5200,
-      "occupancy_percent": 7.55
+      "reserved": 16,
+      "available": 194,
+      "gross": 5850,
+      "occupancy_percent": 8.49
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
