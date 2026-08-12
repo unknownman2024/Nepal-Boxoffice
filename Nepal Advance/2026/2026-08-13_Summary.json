@@ -2,11 +2,11 @@
   {
     "movie_id": "iWqVqEC9b3Dha7WD893w58",
     "movie_name": "Halee",
-    "total_shows": 10,
-    "seats": 1201,
+    "total_shows": 14,
+    "seats": 1731,
     "sold": 0,
     "reserved": 24,
-    "available": 1177,
+    "available": 1707,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -72,7 +72,7 @@
       },
       {
         "venue": "Unknown",
-        "total_shows": 2,
+        "total_shows": 3,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -89,27 +89,57 @@
         "available": 52,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 118,
+        "sold": 0,
+        "reserved": 0,
+        "available": 118,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 0,
+        "available": 279,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 0,
+        "reserved": 0,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 97,
-    "seats": 19638,
-    "sold": 888,
-    "reserved": 551,
-    "available": 18199,
+    "total_shows": 115,
+    "seats": 23481,
+    "sold": 1189,
+    "reserved": 586,
+    "available": 21706,
     "housefull": 0,
-    "fastfilling": 2,
+    "fastfilling": 3,
     "venues": [
       {
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 7,
         "seats": 1149,
-        "sold": 99,
+        "sold": 106,
         "reserved": 0,
-        "available": 1050,
+        "available": 1043,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -137,9 +167,9 @@
         "venue": "fcube",
         "total_shows": 7,
         "seats": 1436,
-        "sold": 58,
-        "reserved": 197,
-        "available": 1181,
+        "sold": 93,
+        "reserved": 129,
+        "available": 1214,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -167,9 +197,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 6,
         "seats": 986,
-        "sold": 6,
+        "sold": 9,
         "reserved": 0,
-        "available": 980,
+        "available": 977,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -217,11 +247,11 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 8,
         "seats": 1820,
-        "sold": 418,
-        "reserved": 111,
-        "available": 1291,
+        "sold": 511,
+        "reserved": 114,
+        "available": 1195,
         "housefull": 0,
-        "fastfilling": 2
+        "fastfilling": 3
       },
       {
         "venue": "pokhara-cineplex",
@@ -237,9 +267,9 @@
         "venue": "qfx-jalma",
         "total_shows": 7,
         "seats": 1864,
-        "sold": 165,
-        "reserved": 0,
-        "available": 1699,
+        "sold": 249,
+        "reserved": 19,
+        "available": 1596,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -257,9 +287,9 @@
         "venue": "chitwan-cineplex",
         "total_shows": 7,
         "seats": 1229,
-        "sold": 43,
+        "sold": 108,
         "reserved": 0,
-        "available": 1186,
+        "available": 1121,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -307,9 +337,9 @@
         "venue": "qfx-cineflix-itahari",
         "total_shows": 6,
         "seats": 804,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 804,
+        "available": 802,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -322,17 +352,57 @@
         "available": 262,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 5,
+        "seats": 1350,
+        "sold": 10,
+        "reserved": 81,
+        "available": 1259,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 5,
+        "seats": 815,
+        "sold": 0,
+        "reserved": 0,
+        "available": 815,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 4,
+        "seats": 1032,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1032,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "oasis-cinema",
+        "total_shows": 4,
+        "seats": 646,
+        "sold": 2,
+        "reserved": 0,
+        "available": 644,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "6enk5qWsdoPanAuwdnoKdA",
     "movie_name": "Spider-Man: Brand New Day",
-    "total_shows": 71,
-    "seats": 13226,
-    "sold": 263,
-    "reserved": 248,
-    "available": 12715,
+    "total_shows": 84,
+    "seats": 16213,
+    "sold": 285,
+    "reserved": 283,
+    "available": 15645,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -340,9 +410,9 @@
         "venue": "qfx-labim",
         "total_shows": 5,
         "seats": 904,
-        "sold": 32,
-        "reserved": 3,
-        "available": 869,
+        "sold": 34,
+        "reserved": 0,
+        "available": 870,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -380,9 +450,9 @@
         "venue": "one-cinemas-new-baneshwor",
         "total_shows": 7,
         "seats": 1174,
-        "sold": 105,
+        "sold": 106,
         "reserved": 0,
-        "available": 1069,
+        "available": 1068,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -390,9 +460,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1044,
-        "sold": 15,
-        "reserved": 87,
-        "available": 942,
+        "sold": 17,
+        "reserved": 92,
+        "available": 935,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -460,9 +530,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 4,
         "seats": 988,
-        "sold": 25,
+        "sold": 33,
         "reserved": 54,
-        "available": 909,
+        "available": 901,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -481,8 +551,8 @@
         "total_shows": 1,
         "seats": 268,
         "sold": 0,
-        "reserved": 0,
-        "available": 268,
+        "reserved": 5,
+        "available": 263,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -507,12 +577,32 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "Unknown",
         "total_shows": 4,
-        "seats": 676,
+        "seats": 0,
         "sold": 0,
-        "reserved": 43,
-        "available": 633,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 8,
+        "seats": 2582,
+        "sold": 9,
+        "reserved": 71,
+        "available": 2502,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 5,
+        "seats": 1081,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1081,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -521,11 +611,11 @@
   {
     "movie_id": "CNCqUVseyiCX3k4gP9LFX4",
     "movie_name": "Kamala Miss",
-    "total_shows": 4,
-    "seats": 230,
+    "total_shows": 5,
+    "seats": 303,
     "sold": 0,
-    "reserved": 12,
-    "available": 218,
+    "reserved": 0,
+    "available": 303,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -541,7 +631,7 @@
       },
       {
         "venue": "Unknown",
-        "total_shows": 1,
+        "total_shows": 2,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -550,12 +640,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "oasis-cinema",
         "total_shows": 1,
-        "seats": 60,
+        "seats": 133,
         "sold": 0,
-        "reserved": 12,
-        "available": 48,
+        "reserved": 0,
+        "available": 133,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -565,10 +655,10 @@
     "movie_id": "DybU857d77sjBuHiWzheJm",
     "movie_name": "The Odyssey",
     "total_shows": 13,
-    "seats": 1739,
+    "seats": 1679,
     "sold": 8,
-    "reserved": 11,
-    "available": 1720,
+    "reserved": 2,
+    "available": 1669,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -577,8 +667,8 @@
         "total_shows": 3,
         "seats": 330,
         "sold": 0,
-        "reserved": 0,
-        "available": 330,
+        "reserved": 2,
+        "available": 328,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -623,12 +713,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 60,
+        "seats": 0,
         "sold": 0,
-        "reserved": 11,
-        "available": 49,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -647,11 +737,11 @@
   {
     "movie_id": "VRm92HEGu5b2t2c5ZgxaAW",
     "movie_name": "Spider-Man: Brand New Day - Hindi",
-    "total_shows": 18,
-    "seats": 2483,
+    "total_shows": 22,
+    "seats": 3134,
     "sold": 6,
-    "reserved": 15,
-    "available": 2462,
+    "reserved": 16,
+    "available": 3112,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -734,6 +824,16 @@
         "available": 0,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 4,
+        "seats": 651,
+        "sold": 0,
+        "reserved": 1,
+        "available": 650,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -742,9 +842,9 @@
     "movie_name": "The Odyssey - Hindi",
     "total_shows": 1,
     "seats": 139,
-    "sold": 1,
+    "sold": 3,
     "reserved": 0,
-    "available": 138,
+    "available": 136,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -752,9 +852,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 1,
         "seats": 139,
-        "sold": 1,
+        "sold": 3,
         "reserved": 0,
-        "available": 138,
+        "available": 136,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -764,10 +864,10 @@
     "movie_id": "fXg5ASiQcsGxVj4EtsUJ2P",
     "movie_name": "Dhamaal 4",
     "total_shows": 3,
-    "seats": 367,
+    "seats": 307,
     "sold": 0,
-    "reserved": 8,
-    "available": 359,
+    "reserved": 0,
+    "available": 307,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -782,12 +882,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "cdc-cinemas",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 60,
+        "seats": 0,
         "sold": 0,
-        "reserved": 8,
-        "available": 52,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
