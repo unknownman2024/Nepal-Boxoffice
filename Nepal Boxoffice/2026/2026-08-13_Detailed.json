@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "lastUpdated": "04:06 AM, 13 August 2026",
+  "lastUpdated": "05:07 AM, 13 August 2026",
   "shows": [
     {
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
@@ -18,6 +18,66 @@
       "occupancy_percent": 0,
       "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
+    },
+    {
+      "movie_id": "iWqVqEC9b3Dha7WD893w58",
+      "movie_name": "Halee",
+      "show_id": "shw_CEBWygZaDoYVQHXQAvYNyC:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 1",
+      "date": "2026-08-13T08:15:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 3,
+      "reserved": 0,
+      "available": 276,
+      "gross": 600,
+      "occupancy_percent": 1.08
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_kbU5xkcsAFsN3rmEQ0Y2zE:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 2",
+      "date": "2026-08-13T08:15:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 16,
+      "reserved": 0,
+      "available": 254,
+      "gross": 3200,
+      "occupancy_percent": 5.93
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "48302:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-08-13T08:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 0,
+      "reserved": 16,
+      "available": 176,
+      "gross": 3200,
+      "occupancy_percent": 8.33
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "29041:one-cinemas-new-baneshwor",
+      "venue": "one-cinemas-new-baneshwor",
+      "theatre": "One Cinemas New Baneshwor - Premium",
+      "date": "2026-08-13T08:00:00+05:45",
+      "time": "",
+      "seats": 67,
+      "sold": 5,
+      "reserved": 0,
+      "available": 62,
+      "gross": 1750,
+      "occupancy_percent": 7.46
     }
   ]
 }
