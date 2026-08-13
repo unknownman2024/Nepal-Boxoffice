@@ -1,5 +1,51 @@
 {
   "date": "2026-08-14",
-  "lastUpdated": "03:10 AM, 14 August 2026",
-  "shows": []
+  "lastUpdated": "04:07 AM, 14 August 2026",
+  "shows": [
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "183204:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-08-14T07:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 16,
+      "reserved": 0,
+      "available": 161,
+      "gross": 3445,
+      "occupancy_percent": 9.04
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "183411:qfx-chhaya",
+      "venue": "qfx-chhaya",
+      "theatre": "QFX Chhaya - AUDI 2",
+      "date": "2026-08-14T07:15:00+05:45",
+      "time": "",
+      "seats": 150,
+      "sold": 0,
+      "reserved": 0,
+      "available": 150,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "183277:qfx-labim",
+      "venue": "qfx-labim",
+      "theatre": "QFX Labim - AUDI 2",
+      "date": "2026-08-14T07:15:00+05:45",
+      "time": "",
+      "seats": 180,
+      "sold": 26,
+      "reserved": 0,
+      "available": 154,
+      "gross": 8320,
+      "occupancy_percent": 14.44
+    }
+  ]
 }
