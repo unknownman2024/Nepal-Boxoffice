@@ -1,5 +1,36 @@
 {
   "date": "2026-08-15",
-  "lastUpdated": "02:51 AM, 15 August 2026",
-  "shows": []
+  "lastUpdated": "03:48 AM, 15 August 2026",
+  "shows": [
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "183642:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-08-15T07:00:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 18,
+      "reserved": 0,
+      "available": 111,
+      "gross": 4070,
+      "occupancy_percent": 13.95
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "183487:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 1",
+      "date": "2026-08-15T07:00:00+05:45",
+      "time": "",
+      "seats": 177,
+      "sold": 128,
+      "reserved": 0,
+      "available": 49,
+      "gross": 28275,
+      "occupancy_percent": 72.32
+    }
+  ]
 }

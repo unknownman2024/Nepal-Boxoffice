@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+    "movie_name": "Awarapan 2",
+    "total_shows": 1,
+    "seats": 129,
+    "sold": 18,
+    "reserved": 0,
+    "available": 111,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 18,
+        "reserved": 0,
+        "available": 111,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 1,
+    "seats": 177,
+    "sold": 128,
+    "reserved": 0,
+    "available": 49,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 128,
+        "reserved": 0,
+        "available": 49,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  }
+]
