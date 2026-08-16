@@ -1,5 +1,96 @@
 {
   "date": "2026-08-17",
-  "lastUpdated": "03:47 AM, 17 August 2026",
-  "shows": []
+  "lastUpdated": "04:46 AM, 17 August 2026",
+  "shows": [
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "shw_Q7jfcfKAITbP5HXOLUGDTL:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 3",
+      "date": "2026-08-17T08:00:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 4,
+      "reserved": 0,
+      "available": 345,
+      "gross": 800,
+      "occupancy_percent": 1.15
+    },
+    {
+      "movie_id": "SbeYPDZRpsz3ksQcpmscFW",
+      "movie_name": "Lajjawati",
+      "show_id": "149296:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-08-17T08:00:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 10,
+      "available": 50,
+      "gross": 4000,
+      "occupancy_percent": 16.67
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "183815:qfx-bhaktapur",
+      "venue": "qfx-bhaktapur",
+      "theatre": "QFX Bhaktapur - AUDI 2",
+      "date": "2026-08-17T08:00:00+05:45",
+      "time": "",
+      "seats": 248,
+      "sold": 35,
+      "reserved": 80,
+      "available": 133,
+      "gross": 23125,
+      "occupancy_percent": 46.37
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "shw_WbvH4G8rQa8xlSpSk0i9sX:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 1",
+      "date": "2026-08-17T08:00:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 3,
+      "reserved": 0,
+      "available": 276,
+      "gross": 750,
+      "occupancy_percent": 1.08
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "183870:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-08-17T08:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 5,
+      "reserved": 0,
+      "available": 160,
+      "gross": 1200,
+      "occupancy_percent": 3.03
+    },
+    {
+      "movie_id": "DybU857d77sjBuHiWzheJm",
+      "movie_name": "The Odyssey",
+      "show_id": "183897:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 03",
+      "date": "2026-08-17T07:45:00+05:45",
+      "time": "",
+      "seats": 139,
+      "sold": 0,
+      "reserved": 0,
+      "available": 139,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
