@@ -1,5 +1,66 @@
 {
   "date": "2026-08-19",
-  "lastUpdated": "03:48 AM, 19 August 2026",
-  "shows": []
+  "lastUpdated": "04:48 AM, 19 August 2026",
+  "shows": [
+    {
+      "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
+      "movie_name": "Awarapan 2",
+      "show_id": "32:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi 2",
+      "date": "2026-08-19T08:00:00+05:45",
+      "time": "",
+      "seats": 118,
+      "sold": 53,
+      "reserved": 0,
+      "available": 65,
+      "gross": 9275,
+      "occupancy_percent": 44.92
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "184401:qfx-guna-cinema",
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 6",
+      "date": "2026-08-19T08:00:00+05:45",
+      "time": "",
+      "seats": 250,
+      "sold": 19,
+      "reserved": 0,
+      "available": 231,
+      "gross": 4750,
+      "occupancy_percent": 7.6
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "3274:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-08-19T08:00:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 0,
+      "reserved": 0,
+      "available": 214,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "shw_83c8wLzlqhJq6RavW48gsO:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 1",
+      "date": "2026-08-19T08:00:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 10,
+      "reserved": 0,
+      "available": 269,
+      "gross": 2500,
+      "occupancy_percent": 3.58
+    }
+  ]
 }
