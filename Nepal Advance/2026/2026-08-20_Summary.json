@@ -2,11 +2,11 @@
   {
     "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
     "movie_name": "Awarapan 2",
-    "total_shows": 55,
-    "seats": 10086,
-    "sold": 16,
+    "total_shows": 56,
+    "seats": 10299,
+    "sold": 24,
     "reserved": 125,
-    "available": 9945,
+    "available": 10150,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -74,9 +74,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 5,
         "seats": 902,
-        "sold": 0,
+        "sold": 8,
         "reserved": 0,
-        "available": 902,
+        "available": 894,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -239,6 +239,16 @@
         "available": 222,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -348,11 +358,11 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 70,
-    "seats": 16240,
-    "sold": 129,
-    "reserved": 279,
-    "available": 15832,
+    "total_shows": 73,
+    "seats": 16879,
+    "sold": 145,
+    "reserved": 287,
+    "available": 16447,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -371,8 +381,8 @@
         "total_shows": 4,
         "seats": 1080,
         "sold": 0,
-        "reserved": 75,
-        "available": 1005,
+        "reserved": 78,
+        "available": 1002,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -380,9 +390,9 @@
         "venue": "fcube",
         "total_shows": 6,
         "seats": 1266,
-        "sold": 65,
-        "reserved": 104,
-        "available": 1097,
+        "sold": 76,
+        "reserved": 109,
+        "available": 1081,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -460,9 +470,9 @@
         "venue": "qs-cinemas",
         "total_shows": 1,
         "seats": 182,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 182,
+        "available": 177,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -575,6 +585,16 @@
         "available": 159,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 3,
+        "seats": 639,
+        "sold": 0,
+        "reserved": 0,
+        "available": 639,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -584,8 +604,8 @@
     "total_shows": 34,
     "seats": 6636,
     "sold": 26,
-    "reserved": 130,
-    "available": 6480,
+    "reserved": 135,
+    "available": 6475,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -644,8 +664,8 @@
         "total_shows": 3,
         "seats": 608,
         "sold": 2,
-        "reserved": 59,
-        "available": 547,
+        "reserved": 64,
+        "available": 542,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -746,9 +766,9 @@
     "movie_name": "The End Of Oak Street",
     "total_shows": 11,
     "seats": 1616,
-    "sold": 0,
+    "sold": 2,
     "reserved": 9,
-    "available": 1607,
+    "available": 1605,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -816,9 +836,9 @@
         "venue": "qfx-labim",
         "total_shows": 1,
         "seats": 182,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 182,
+        "available": 180,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -965,9 +985,9 @@
     "movie_name": "Lajjawati",
     "total_shows": 5,
     "seats": 740,
-    "sold": 0,
+    "sold": 3,
     "reserved": 0,
-    "available": 740,
+    "available": 737,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -995,9 +1015,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 1,
         "seats": 139,
-        "sold": 0,
+        "sold": 3,
         "reserved": 0,
-        "available": 139,
+        "available": 136,
         "housefull": 0,
         "fastfilling": 0
       },
