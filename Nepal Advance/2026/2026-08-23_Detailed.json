@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "lastUpdated": "02:50 AM, 22 August 2026",
+  "lastUpdated": "06:24 AM, 22 August 2026",
   "shows": [
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -821,11 +821,11 @@
       "date": "2026-08-23T09:30:00+05:45",
       "time": "",
       "seats": 250,
-      "sold": 2,
+      "sold": 9,
       "reserved": 0,
-      "available": 248,
-      "gross": 500,
-      "occupancy_percent": 0.8
+      "available": 241,
+      "gross": 2250,
+      "occupancy_percent": 3.6
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -1346,11 +1346,11 @@
       "date": "2026-08-23T12:15:00+05:45",
       "time": "",
       "seats": 183,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 183,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 181,
+      "gross": 960,
+      "occupancy_percent": 1.09
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -3006,18 +3006,16 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "185163:qfx-guna-cinema",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-08-23",
-      "time": null,
-      "seats": 0,
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 4",
+      "date": "2026-08-23T15:45:00+05:45",
+      "time": "",
+      "seats": 256,
       "sold": 0,
       "reserved": 0,
-      "available": 0,
+      "available": 256,
       "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "Sx6PD9T78GpBfxE6ZffkAf",
