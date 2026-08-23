@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "movie_id": "iPcoxptpNj3a22WpQ6vSum",
+    "movie_name": "Masterni",
+    "total_shows": 1,
+    "seats": 129,
+    "sold": 0,
+    "reserved": 129,
+    "available": 0,
+    "housefull": 1,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 0,
+        "reserved": 129,
+        "available": 0,
+        "housefull": 1,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
