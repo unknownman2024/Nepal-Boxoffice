@@ -4,9 +4,9 @@
     "movie_name": "Masterni",
     "total_shows": 34,
     "seats": 5573,
-    "sold": 40,
+    "sold": 41,
     "reserved": 31,
-    "available": 5502,
+    "available": 5501,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -104,9 +104,9 @@
         "venue": "qfx-guna-cinema",
         "total_shows": 2,
         "seats": 354,
-        "sold": 0,
+        "sold": 1,
         "reserved": 0,
-        "available": 354,
+        "available": 353,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -277,9 +277,9 @@
     "movie_name": "Insidious: Out of the Further",
     "total_shows": 53,
     "seats": 9153,
-    "sold": 84,
-    "reserved": 61,
-    "available": 9008,
+    "sold": 85,
+    "reserved": 59,
+    "available": 9009,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -397,9 +397,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 4,
         "seats": 660,
-        "sold": 6,
-        "reserved": 2,
-        "available": 652,
+        "sold": 7,
+        "reserved": 0,
+        "available": 653,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -861,11 +861,11 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 81,
-    "seats": 16748,
-    "sold": 108,
+    "total_shows": 84,
+    "seats": 17420,
+    "sold": 115,
     "reserved": 100,
-    "available": 16540,
+    "available": 17205,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1063,9 +1063,9 @@
         "venue": "cineroyale",
         "total_shows": 4,
         "seats": 868,
-        "sold": 0,
+        "sold": 7,
         "reserved": 0,
-        "available": 868,
+        "available": 861,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1148,6 +1148,16 @@
         "available": 291,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "dm-cinemas",
+        "total_shows": 3,
+        "seats": 672,
+        "sold": 0,
+        "reserved": 0,
+        "available": 672,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -1209,9 +1219,9 @@
     "movie_name": "Spider-Man: Brand New Day",
     "total_shows": 21,
     "seats": 3826,
-    "sold": 13,
+    "sold": 15,
     "reserved": 27,
-    "available": 3786,
+    "available": 3784,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1329,9 +1339,9 @@
         "venue": "qfx-square-mall",
         "total_shows": 1,
         "seats": 177,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 177,
+        "available": 175,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1461,9 +1471,9 @@
     "movie_name": "The Odyssey",
     "total_shows": 5,
     "seats": 675,
-    "sold": 7,
+    "sold": 9,
     "reserved": 0,
-    "available": 668,
+    "available": 666,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1501,9 +1511,9 @@
         "venue": "qs-cinemas",
         "total_shows": 2,
         "seats": 258,
-        "sold": 7,
+        "sold": 9,
         "reserved": 0,
-        "available": 251,
+        "available": 249,
         "housefull": 0,
         "fastfilling": 0
       }

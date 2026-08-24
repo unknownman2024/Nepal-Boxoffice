@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "lastUpdated": "06:27 AM, 24 August 2026",
+  "lastUpdated": "09:21 AM, 24 August 2026",
   "shows": [
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -311,11 +311,11 @@
       "date": "2026-08-25T18:30:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 0,
+      "sold": 1,
       "reserved": 0,
-      "available": 256,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 255,
+      "gross": 250,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "iPcoxptpNj3a22WpQ6vSum",
@@ -1046,11 +1046,11 @@
       "date": "2026-08-25T14:00:00+05:45",
       "time": "",
       "seats": 165,
-      "sold": 0,
-      "reserved": 2,
-      "available": 163,
-      "gross": 660,
-      "occupancy_percent": 1.21
+      "sold": 1,
+      "reserved": 0,
+      "available": 164,
+      "gross": 330,
+      "occupancy_percent": 0.61
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -2831,11 +2831,11 @@
       "date": "2026-08-25T18:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 210,
+      "gross": 1400,
+      "occupancy_percent": 3.23
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -3461,11 +3461,11 @@
       "date": "2026-08-25T12:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 177,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 175,
+      "gross": 760,
+      "occupancy_percent": 1.13
     },
     {
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
@@ -3701,11 +3701,11 @@
       "date": "2026-08-25T12:00:00+05:45",
       "time": "",
       "seats": 129,
-      "sold": 7,
+      "sold": 9,
       "reserved": 0,
-      "available": 122,
-      "gross": 1950,
-      "occupancy_percent": 5.43
+      "available": 120,
+      "gross": 2650,
+      "occupancy_percent": 6.98
     },
     {
       "movie_id": "DybU857d77sjBuHiWzheJm",
@@ -3719,6 +3719,51 @@
       "sold": 0,
       "reserved": 0,
       "available": 129,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_YwBFZjuDH281tVgMryJ3na:dm-cinemas",
+      "venue": "dm-cinemas",
+      "theatre": "DM Cinemas - Audi 1",
+      "date": "2026-08-25T18:00:00+05:45",
+      "time": "",
+      "seats": 224,
+      "sold": 0,
+      "reserved": 0,
+      "available": 224,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_AbxDUrTsoqvL9xxNm2SPlN:dm-cinemas",
+      "venue": "dm-cinemas",
+      "theatre": "DM Cinemas - Audi 1",
+      "date": "2026-08-25T15:00:00+05:45",
+      "time": "",
+      "seats": 224,
+      "sold": 0,
+      "reserved": 0,
+      "available": 224,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_Lhm3IuQrLUqH1fLgbXqAET:dm-cinemas",
+      "venue": "dm-cinemas",
+      "theatre": "DM Cinemas - Audi 1",
+      "date": "2026-08-25T12:00:00+05:45",
+      "time": "",
+      "seats": 224,
+      "sold": 0,
+      "reserved": 0,
+      "available": 224,
       "gross": 0,
       "occupancy_percent": 0.0
     }
