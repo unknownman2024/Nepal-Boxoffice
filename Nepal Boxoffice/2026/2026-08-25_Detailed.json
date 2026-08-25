@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "lastUpdated": "07:16 PM, 25 August 2026",
+  "lastUpdated": "08:11 PM, 25 August 2026",
   "shows": [
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -5411,11 +5411,11 @@
       "date": "2026-08-25T20:45:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 8,
+      "sold": 17,
       "reserved": 0,
-      "available": 209,
-      "gross": 1600,
-      "occupancy_percent": 3.69
+      "available": 200,
+      "gross": 3400,
+      "occupancy_percent": 7.83
     },
     {
       "movie_id": "du5AFfE9RMeqsrRpegN72D",
@@ -5426,11 +5426,11 @@
       "date": "2026-08-25T20:30:00+05:45",
       "time": "",
       "seats": 164,
-      "sold": 8,
+      "sold": 11,
       "reserved": 0,
-      "available": 156,
-      "gross": 2400,
-      "occupancy_percent": 4.88
+      "available": 153,
+      "gross": 3300,
+      "occupancy_percent": 6.71
     },
     {
       "movie_id": "K4rLtr2egbFs5BQxmB2e9Q",
@@ -5456,26 +5456,28 @@
       "date": "2026-08-25T21:00:00+05:45",
       "time": "",
       "seats": 126,
-      "sold": 34,
-      "reserved": 0,
-      "available": 92,
-      "gross": 7850,
-      "occupancy_percent": 26.98
+      "sold": 52,
+      "reserved": 2,
+      "available": 72,
+      "gross": 11850,
+      "occupancy_percent": 42.86
     },
     {
       "movie_id": "iWqVqEC9b3Dha7WD893w58",
       "movie_name": "Halee",
       "show_id": "20051:birat-cine",
-      "venue": "birat-cine",
-      "theatre": "Birat Cine - Audi-1",
-      "date": "2026-08-25T20:55:00+05:45",
-      "time": "",
-      "seats": 122,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-08-25",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 122,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     }
   ]
 }
