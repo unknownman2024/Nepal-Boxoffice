@@ -1,5 +1,81 @@
 {
   "date": "2026-08-26",
-  "lastUpdated": "02:54 AM, 26 August 2026",
-  "shows": []
+  "lastUpdated": "03:52 AM, 26 August 2026",
+  "shows": [
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "48440:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-08-26T07:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 73,
+      "reserved": 24,
+      "available": 95,
+      "gross": 19400,
+      "occupancy_percent": 50.52
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "14283:infinity-movies",
+      "venue": "infinity-movies",
+      "theatre": "Infinity Movies - Audi 2",
+      "date": "2026-08-26T07:00:00+05:45",
+      "time": "",
+      "seats": 154,
+      "sold": 75,
+      "reserved": 1,
+      "available": 78,
+      "gross": 11400,
+      "occupancy_percent": 49.35
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "5025:kirtipur-cineplex",
+      "venue": "kirtipur-cineplex",
+      "theatre": "Kirtipur Cineplex - Audi-1",
+      "date": "2026-08-26T07:00:00+05:45",
+      "time": "",
+      "seats": 285,
+      "sold": 278,
+      "reserved": 7,
+      "available": 0,
+      "gross": 50475,
+      "occupancy_percent": 100.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "90:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-08-26T07:00:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 194,
+      "reserved": 7,
+      "available": 50,
+      "gross": 40200,
+      "occupancy_percent": 80.08
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "shw_cICZE3TxiCwCLAH3TBBwE8:city-cinema",
+      "venue": "city-cinema",
+      "theatre": "City Cinema - HALL A",
+      "date": "2026-08-26T07:00:00+05:45",
+      "time": "",
+      "seats": 189,
+      "sold": 111,
+      "reserved": 14,
+      "available": 64,
+      "gross": 26740,
+      "occupancy_percent": 66.14
+    }
+  ]
 }

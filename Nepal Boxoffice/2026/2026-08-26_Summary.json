@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+    "movie_name": "Toxic",
+    "total_shows": 5,
+    "seats": 1071,
+    "sold": 731,
+    "reserved": 53,
+    "available": 287,
+    "housefull": 1,
+    "fastfilling": 3,
+    "venues": [
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
+        "sold": 73,
+        "reserved": 24,
+        "available": 95,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "city-cinema",
+        "total_shows": 1,
+        "seats": 189,
+        "sold": 111,
+        "reserved": 14,
+        "available": 64,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 75,
+        "reserved": 1,
+        "available": 78,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 285,
+        "sold": 278,
+        "reserved": 7,
+        "available": 0,
+        "housefull": 1,
+        "fastfilling": 0
+      },
+      {
+        "venue": "ranjana-cineplex",
+        "total_shows": 1,
+        "seats": 251,
+        "sold": 194,
+        "reserved": 7,
+        "available": 50,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  }
+]
