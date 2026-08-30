@@ -1,5 +1,51 @@
 {
   "date": "2026-08-31",
-  "lastUpdated": "02:00 AM, 31 August 2026",
-  "shows": []
+  "lastUpdated": "04:37 AM, 31 August 2026",
+  "shows": [
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "shw_U1C53vrrTvn4oS6V660x6K:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 3",
+      "date": "2026-08-31T07:45:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 25,
+      "reserved": 50,
+      "available": 274,
+      "gross": 15000,
+      "occupancy_percent": 21.49
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "c07900a8-b1eb-433f-9e94-720f1790cc22:ini-cinemas-nb-center",
+      "venue": "ini-cinemas-nb-center",
+      "theatre": "iNi NB Center - Audi - 2 DTS: X",
+      "date": "2026-08-31T07:30:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 16,
+      "reserved": 0,
+      "available": 194,
+      "gross": 2800,
+      "occupancy_percent": 7.62
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "3445:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-08-31T07:30:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 2,
+      "reserved": 0,
+      "available": 212,
+      "gross": 380,
+      "occupancy_percent": 0.93
+    }
+  ]
 }
