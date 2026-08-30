@@ -2,11 +2,11 @@
   {
     "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
     "movie_name": "Parbati",
-    "total_shows": 70,
-    "seats": 13111,
+    "total_shows": 75,
+    "seats": 13848,
     "sold": 83,
-    "reserved": 158,
-    "available": 12870,
+    "reserved": 161,
+    "available": 13604,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -75,8 +75,8 @@
         "total_shows": 3,
         "seats": 594,
         "sold": 0,
-        "reserved": 32,
-        "available": 562,
+        "reserved": 33,
+        "available": 561,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -319,17 +319,37 @@
         "available": 396,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 2,
+        "seats": 308,
+        "sold": 0,
+        "reserved": 0,
+        "available": 308,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 3,
+        "seats": 429,
+        "sold": 0,
+        "reserved": 2,
+        "available": 427,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "nNrxAV2qYnScSjkA24GQRd",
     "movie_name": "Toxic",
-    "total_shows": 157,
-    "seats": 32365,
-    "sold": 243,
-    "reserved": 529,
-    "available": 31593,
+    "total_shows": 161,
+    "seats": 33062,
+    "sold": 254,
+    "reserved": 535,
+    "available": 32273,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -337,9 +357,9 @@
         "venue": "qfx-labim",
         "total_shows": 6,
         "seats": 1089,
-        "sold": 7,
+        "sold": 9,
         "reserved": 0,
-        "available": 1082,
+        "available": 1080,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -348,8 +368,8 @@
         "total_shows": 8,
         "seats": 2476,
         "sold": 0,
-        "reserved": 400,
-        "available": 2076,
+        "reserved": 404,
+        "available": 2072,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -398,8 +418,8 @@
         "total_shows": 5,
         "seats": 984,
         "sold": 2,
-        "reserved": 0,
-        "available": 982,
+        "reserved": 2,
+        "available": 980,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -408,8 +428,8 @@
         "total_shows": 8,
         "seats": 1100,
         "sold": 96,
-        "reserved": 0,
-        "available": 1004,
+        "reserved": 1,
+        "available": 1003,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -417,9 +437,9 @@
         "venue": "fcube",
         "total_shows": 5,
         "seats": 1056,
-        "sold": 9,
-        "reserved": 122,
-        "available": 925,
+        "sold": 11,
+        "reserved": 119,
+        "available": 926,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -577,9 +597,9 @@
         "venue": "qfx-bageshwori",
         "total_shows": 4,
         "seats": 1154,
-        "sold": 0,
-        "reserved": 0,
-        "available": 1154,
+        "sold": 2,
+        "reserved": 2,
+        "available": 1150,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -597,9 +617,9 @@
         "venue": "qfx-one-stop-mall",
         "total_shows": 5,
         "seats": 680,
-        "sold": 6,
+        "sold": 11,
         "reserved": 0,
-        "available": 674,
+        "available": 669,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -660,6 +680,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 292,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 4,
+        "seats": 697,
+        "sold": 0,
+        "reserved": 0,
+        "available": 697,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -731,11 +761,11 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 30,
-    "seats": 5342,
+    "total_shows": 32,
+    "seats": 5639,
     "sold": 52,
     "reserved": 78,
-    "available": 5212,
+    "available": 5509,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -996,6 +1026,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "infinity-movies",
+        "total_shows": 1,
+        "seats": 154,
+        "sold": 0,
+        "reserved": 0,
+        "available": 154,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 0,
+        "available": 143,
         "housefull": 0,
         "fastfilling": 0
       }
