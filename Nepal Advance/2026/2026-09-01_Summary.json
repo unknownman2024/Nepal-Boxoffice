@@ -2,11 +2,11 @@
   {
     "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
     "movie_name": "Parbati",
-    "total_shows": 64,
-    "seats": 11112,
-    "sold": 84,
+    "total_shows": 66,
+    "seats": 11760,
+    "sold": 118,
     "reserved": 43,
-    "available": 10985,
+    "available": 11599,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -134,9 +134,9 @@
         "venue": "qs-cinemas",
         "total_shows": 1,
         "seats": 129,
-        "sold": 0,
+        "sold": 5,
         "reserved": 0,
-        "available": 129,
+        "available": 124,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -184,9 +184,9 @@
         "venue": "qfx-jalma",
         "total_shows": 2,
         "seats": 533,
-        "sold": 0,
+        "sold": 9,
         "reserved": 0,
-        "available": 533,
+        "available": 524,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -291,12 +291,22 @@
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "pathivara-cine-plaza",
         "total_shows": 2,
-        "seats": 0,
+        "seats": 380,
+        "sold": 20,
+        "reserved": 0,
+        "available": 360,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 2,
+        "seats": 268,
         "sold": 0,
         "reserved": 0,
-        "available": 0,
+        "available": 268,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -305,11 +315,11 @@
   {
     "movie_id": "nNrxAV2qYnScSjkA24GQRd",
     "movie_name": "Toxic",
-    "total_shows": 127,
-    "seats": 24740,
-    "sold": 303,
-    "reserved": 142,
-    "available": 24295,
+    "total_shows": 131,
+    "seats": 26270,
+    "sold": 310,
+    "reserved": 153,
+    "available": 25807,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -567,19 +577,19 @@
         "venue": "vfx-cinemas",
         "total_shows": 3,
         "seats": 741,
-        "sold": 8,
-        "reserved": 5,
-        "available": 728,
+        "sold": 13,
+        "reserved": 14,
+        "available": 714,
         "housefull": 0,
         "fastfilling": 0
       },
       {
-        "venue": "Unknown",
+        "venue": "pathivara-cine-plaza",
         "total_shows": 4,
-        "seats": 0,
+        "seats": 994,
         "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "reserved": 2,
+        "available": 992,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -620,6 +630,16 @@
         "sold": 20,
         "reserved": 0,
         "available": 547,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 4,
+        "seats": 536,
+        "sold": 2,
+        "reserved": 0,
+        "available": 534,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -671,11 +691,11 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 30,
-    "seats": 4911,
+    "total_shows": 32,
+    "seats": 5235,
     "sold": 6,
     "reserved": 22,
-    "available": 4883,
+    "available": 5207,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -916,6 +936,26 @@
         "sold": 0,
         "reserved": 0,
         "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 0,
+        "reserved": 0,
+        "available": 134,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pathivara-cine-plaza",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
         "housefull": 0,
         "fastfilling": 0
       }
