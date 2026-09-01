@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "lastUpdated": "12:08 AM, 01 September 2026",
+  "lastUpdated": "05:50 AM, 01 September 2026",
   "shows": [
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -1076,11 +1076,11 @@
       "date": "2026-09-02T11:30:00+05:45",
       "time": "",
       "seats": 150,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 150,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 148,
+      "gross": 940,
+      "occupancy_percent": 1.33
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1572,10 +1572,10 @@
       "time": "",
       "seats": 251,
       "sold": 3,
-      "reserved": 6,
-      "available": 242,
-      "gross": 1575,
-      "occupancy_percent": 3.59
+      "reserved": 4,
+      "available": 244,
+      "gross": 1225,
+      "occupancy_percent": 2.79
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -2928,7 +2928,7 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "HTTP 429",
+      "error": "500 Server Error: Internal Server Error for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
       "skipped": true
     },
     {
