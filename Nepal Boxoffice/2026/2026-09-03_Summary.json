@@ -1475,5 +1475,28 @@
         "fastfilling": 0
       }
     ]
+  },
+  {
+    "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+    "movie_name": "Elephants in the Fog",
+    "total_shows": 1,
+    "seats": 306,
+    "sold": 22,
+    "reserved": 1,
+    "available": 283,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "jai-nepal-cinema",
+        "total_shows": 1,
+        "seats": 306,
+        "sold": 22,
+        "reserved": 1,
+        "available": 283,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "lastUpdated": "06:04 PM, 03 September 2026",
+  "lastUpdated": "10:24 PM, 03 September 2026",
   "shows": [
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -3596,6 +3596,21 @@
       "available": 255,
       "gross": 1720,
       "occupancy_percent": 1.54
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "7599:jai-nepal-cinema",
+      "venue": "jai-nepal-cinema",
+      "theatre": "Jai Nepal Cinema - Audi 1",
+      "date": "2026-09-04T00:00:00+05:45",
+      "time": "",
+      "seats": 306,
+      "sold": 22,
+      "reserved": 1,
+      "available": 283,
+      "gross": 4025,
+      "occupancy_percent": 7.52
     }
   ]
 }
