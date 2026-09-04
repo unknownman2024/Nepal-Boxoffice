@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "lastUpdated": "04:28 AM, 04 September 2026",
+  "lastUpdated": "07:58 AM, 04 September 2026",
   "shows": [
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -117,10 +117,10 @@
       "time": "",
       "seats": 210,
       "sold": 6,
-      "reserved": 15,
-      "available": 189,
-      "gross": 10080,
-      "occupancy_percent": 10.0
+      "reserved": 17,
+      "available": 187,
+      "gross": 11040,
+      "occupancy_percent": 10.95
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -192,10 +192,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -547,10 +547,10 @@
       "time": "",
       "seats": 240,
       "sold": 0,
-      "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 1,
+      "available": 239,
+      "gross": 200,
+      "occupancy_percent": 0.42
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -652,10 +652,10 @@
       "time": "",
       "seats": 212,
       "sold": 2,
-      "reserved": 0,
-      "available": 210,
-      "gross": 1160,
-      "occupancy_percent": 0.94
+      "reserved": 2,
+      "available": 208,
+      "gross": 2560,
+      "occupancy_percent": 1.89
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -682,10 +682,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 20,
+      "available": 172,
+      "gross": 4000,
+      "occupancy_percent": 10.42
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -697,10 +697,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -757,10 +757,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -802,10 +802,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -965,18 +965,16 @@
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
       "movie_name": "Mirzapur",
       "show_id": "29568:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-09-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-09-05T17:15:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 16,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 135,
+      "gross": 7040,
+      "occupancy_percent": 10.6
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -999,18 +997,16 @@
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
       "movie_name": "Mirzapur",
       "show_id": "29569:one-cinemas-kalimati",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-09-05",
-      "time": null,
-      "seats": 0,
-      "sold": 0,
+      "venue": "one-cinemas-kalimati",
+      "theatre": "One Cinemas Kalimati - Audi 1",
+      "date": "2026-09-05T20:00:00+05:45",
+      "time": "",
+      "seats": 151,
+      "sold": 14,
       "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "HTTP 429",
-      "skipped": true
+      "available": 137,
+      "gross": 6160,
+      "occupancy_percent": 9.27
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1446,10 +1442,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 2,
-      "available": 190,
-      "gross": 800,
-      "occupancy_percent": 1.04
+      "reserved": 18,
+      "available": 174,
+      "gross": 7200,
+      "occupancy_percent": 9.38
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1461,10 +1457,10 @@
       "time": "",
       "seats": 198,
       "sold": 2,
-      "reserved": 13,
-      "available": 183,
-      "gross": 7200,
-      "occupancy_percent": 7.58
+      "reserved": 15,
+      "available": 181,
+      "gross": 8160,
+      "occupancy_percent": 8.59
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -1784,10 +1780,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 6000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "diPsEnKcCSEkEbks8v4kxU",
@@ -2069,10 +2065,10 @@
       "time": "",
       "seats": 180,
       "sold": 0,
-      "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 15,
+      "available": 165,
+      "gross": 3000,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -2114,10 +2110,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -2144,10 +2140,10 @@
       "time": "",
       "seats": 192,
       "sold": 0,
-      "reserved": 0,
-      "available": 192,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 16,
+      "available": 176,
+      "gross": 6400,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -2173,11 +2169,11 @@
       "date": "2026-09-05T08:30:00+05:45",
       "time": "",
       "seats": 196,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 192,
+      "gross": 660,
+      "occupancy_percent": 2.04
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -2361,11 +2357,11 @@
       "date": "2026-09-05T09:15:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 3,
       "reserved": 30,
-      "available": 187,
-      "gross": 6000,
-      "occupancy_percent": 13.82
+      "available": 184,
+      "gross": 6600,
+      "occupancy_percent": 15.21
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -2546,6 +2542,74 @@
       "movie_id": "6enk5qWsdoPanAuwdnoKdA",
       "movie_name": "Spider-Man: Brand New Day",
       "show_id": "187435:qfx-chhaya",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "187491:qfx-guna-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "187511:qfx-labim",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "187490:qfx-guna-cinema",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-05",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6enk5qWsdoPanAuwdnoKdA",
+      "movie_name": "Spider-Man: Brand New Day",
+      "show_id": "187488:qfx-guna-cinema",
       "venue": null,
       "theatre": null,
       "date": "2026-09-05",
