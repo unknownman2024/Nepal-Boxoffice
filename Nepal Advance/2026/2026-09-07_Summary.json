@@ -2,11 +2,11 @@
   {
     "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
     "movie_name": "Elephants in the Fog",
-    "total_shows": 48,
-    "seats": 9357,
+    "total_shows": 49,
+    "seats": 9417,
     "sold": 44,
     "reserved": 205,
-    "available": 9108,
+    "available": 9168,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -269,17 +269,27 @@
         "available": 288,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 108,
-    "seats": 23002,
+    "total_shows": 114,
+    "seats": 23907,
     "sold": 138,
     "reserved": 479,
-    "available": 22385,
+    "available": 23290,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -602,17 +612,27 @@
         "available": 402,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 6,
+        "seats": 905,
+        "sold": 0,
+        "reserved": 0,
+        "available": 905,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
     "movie_name": "Parbati",
-    "total_shows": 54,
-    "seats": 10210,
+    "total_shows": 55,
+    "seats": 10270,
     "sold": 24,
     "reserved": 210,
-    "available": 9976,
+    "available": 10036,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -905,17 +925,27 @@
         "available": 244,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "nNrxAV2qYnScSjkA24GQRd",
     "movie_name": "Toxic",
-    "total_shows": 32,
-    "seats": 5801,
+    "total_shows": 34,
+    "seats": 5921,
     "sold": 18,
-    "reserved": 190,
-    "available": 5593,
+    "reserved": 192,
+    "available": 5711,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1044,8 +1074,8 @@
         "total_shows": 1,
         "seats": 231,
         "sold": 0,
-        "reserved": 0,
-        "available": 231,
+        "reserved": 2,
+        "available": 229,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1166,6 +1196,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       }
