@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "lastUpdated": "04:07 AM, 06 September 2026",
+  "lastUpdated": "07:56 AM, 06 September 2026",
   "shows": [
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -911,11 +911,11 @@
       "date": "2026-09-07T12:15:00+05:45",
       "time": "",
       "seats": 53,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 51,
-      "gross": 1600,
-      "occupancy_percent": 3.77
+      "available": 49,
+      "gross": 3200,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1587,10 +1587,10 @@
       "time": "",
       "seats": 136,
       "sold": 16,
-      "reserved": 0,
-      "available": 120,
-      "gross": 3300,
-      "occupancy_percent": 11.76
+      "reserved": 2,
+      "available": 118,
+      "gross": 3700,
+      "occupancy_percent": 13.24
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -1916,11 +1916,11 @@
       "date": "2026-09-07T08:30:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 8,
-      "reserved": 18,
-      "available": 221,
-      "gross": 5590,
-      "occupancy_percent": 10.53
+      "sold": 9,
+      "reserved": 19,
+      "available": 219,
+      "gross": 6020,
+      "occupancy_percent": 11.34
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -3447,10 +3447,10 @@
       "time": "",
       "seats": 231,
       "sold": 0,
-      "reserved": 2,
-      "available": 229,
-      "gross": 700,
-      "occupancy_percent": 0.87
+      "reserved": 0,
+      "available": 231,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "nNrxAV2qYnScSjkA24GQRd",
@@ -4214,6 +4214,81 @@
       "sold": 0,
       "reserved": 0,
       "available": 60,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_vTzix7vehUZWiVt6gXXRlz:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-09-07T17:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_lBoSXcaGp27nLd9jZu6FM2:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen B",
+      "date": "2026-09-07T13:00:00+05:45",
+      "time": "",
+      "seats": 133,
+      "sold": 0,
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "shw_NyriYYKdiHLcjEaVGUVGBs:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-09-07T12:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "shw_S8Ml1E1uwOEGuBJdzAO1rR:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-09-07T18:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "shw_D890zetXVckC4LxrPCrU6X:oasis-cinema",
+      "venue": "oasis-cinema",
+      "theatre": "Oasis Cinema - Screen A",
+      "date": "2026-09-07T15:00:00+05:45",
+      "time": "",
+      "seats": 171,
+      "sold": 0,
+      "reserved": 0,
+      "available": 171,
       "gross": 0,
       "occupancy_percent": 0.0
     }
