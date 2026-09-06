@@ -445,11 +445,11 @@
   {
     "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
     "movie_name": "Elephants in the Fog",
-    "total_shows": 45,
-    "seats": 9563,
-    "sold": 1360,
+    "total_shows": 46,
+    "seats": 9692,
+    "sold": 1370,
     "reserved": 132,
-    "available": 8071,
+    "available": 8190,
     "housefull": 1,
     "fastfilling": 2,
     "venues": [
@@ -744,6 +744,16 @@
         "fastfilling": 0
       },
       {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 129,
+        "sold": 10,
+        "reserved": 0,
+        "available": 119,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
         "venue": "ranjana-cineplex",
         "total_shows": 2,
         "seats": 415,
@@ -768,13 +778,13 @@
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 138,
-    "seats": 27992,
-    "sold": 3895,
+    "total_shows": 140,
+    "seats": 28460,
+    "sold": 4042,
     "reserved": 492,
-    "available": 23605,
+    "available": 23926,
     "housefull": 0,
-    "fastfilling": 9,
+    "fastfilling": 10,
     "venues": [
       {
         "venue": "Unknown",
@@ -868,13 +878,13 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 3,
-        "seats": 651,
-        "sold": 212,
+        "total_shows": 4,
+        "seats": 868,
+        "sold": 322,
         "reserved": 4,
-        "available": 435,
+        "available": 542,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 2
       },
       {
         "venue": "city-cinema",
@@ -1268,11 +1278,11 @@
       },
       {
         "venue": "ranjana-cineplex",
-        "total_shows": 3,
-        "seats": 666,
-        "sold": 65,
+        "total_shows": 4,
+        "seats": 917,
+        "sold": 102,
         "reserved": 0,
-        "available": 601,
+        "available": 815,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1301,11 +1311,11 @@
   {
     "movie_id": "nNrxAV2qYnScSjkA24GQRd",
     "movie_name": "Toxic",
-    "total_shows": 48,
-    "seats": 8097,
-    "sold": 334,
-    "reserved": 92,
-    "available": 7671,
+    "total_shows": 51,
+    "seats": 8401,
+    "sold": 346,
+    "reserved": 100,
+    "available": 7955,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1361,11 +1371,11 @@
       },
       {
         "venue": "cdc-cinemas",
-        "total_shows": 1,
-        "seats": 60,
-        "sold": 0,
-        "reserved": 6,
-        "available": 54,
+        "total_shows": 2,
+        "seats": 120,
+        "sold": 4,
+        "reserved": 14,
+        "available": 102,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1391,11 +1401,11 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 3,
-        "seats": 378,
-        "sold": 15,
+        "total_shows": 4,
+        "seats": 504,
+        "sold": 23,
         "reserved": 0,
-        "available": 363,
+        "available": 481,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1651,11 +1661,11 @@
       },
       {
         "venue": "ranjana-cineplex",
-        "total_shows": 1,
-        "seats": 164,
+        "total_shows": 2,
+        "seats": 282,
         "sold": 5,
         "reserved": 0,
-        "available": 159,
+        "available": 277,
         "housefull": 0,
         "fastfilling": 0
       },

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "lastUpdated": "05:27 PM, 06 September 2026",
+  "lastUpdated": "08:25 PM, 06 September 2026",
   "shows": [
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -4931,6 +4931,96 @@
       "available": 83,
       "gross": 7200,
       "occupancy_percent": 15.31
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "187812:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 2",
+      "date": "2026-09-06T21:30:00+05:45",
+      "time": "",
+      "seats": 129,
+      "sold": 10,
+      "reserved": 0,
+      "available": 119,
+      "gross": 4400,
+      "occupancy_percent": 7.75
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "279:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-06T21:30:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 37,
+      "reserved": 0,
+      "available": 214,
+      "gross": 14800,
+      "occupancy_percent": 14.74
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_72TkdACGKRgRUY04J4LoyX:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 2",
+      "date": "2026-09-06T21:15:00+05:45",
+      "time": "",
+      "seats": 217,
+      "sold": 110,
+      "reserved": 0,
+      "available": 107,
+      "gross": 49900,
+      "occupancy_percent": 50.69
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "149501:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-09-06T21:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 4,
+      "reserved": 8,
+      "available": 48,
+      "gross": 7800,
+      "occupancy_percent": 20.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "290:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi 2",
+      "date": "2026-09-06T21:00:00+05:45",
+      "time": "",
+      "seats": 118,
+      "sold": 0,
+      "reserved": 0,
+      "available": 118,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "shw_o1gfxZTIWPH5RNfxnAmJve:cineroyale",
+      "venue": "cineroyale",
+      "theatre": "Cineroyale - Audi 3",
+      "date": "2026-09-06T21:30:00+05:45",
+      "time": "",
+      "seats": 126,
+      "sold": 8,
+      "reserved": 0,
+      "available": 118,
+      "gross": 3200,
+      "occupancy_percent": 6.35
     }
   ]
 }
