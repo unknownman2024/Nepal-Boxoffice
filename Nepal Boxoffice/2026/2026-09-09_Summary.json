@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+    "movie_name": "Elephants in the Fog",
+    "total_shows": 1,
+    "seats": 270,
+    "sold": 18,
+    "reserved": 50,
+    "available": 202,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 18,
+        "reserved": 50,
+        "available": 202,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+    "movie_name": "Mirzapur",
+    "total_shows": 2,
+    "seats": 605,
+    "sold": 41,
+    "reserved": 26,
+    "available": 538,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 35,
+        "reserved": 26,
+        "available": 288,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 256,
+        "sold": 6,
+        "reserved": 0,
+        "available": 250,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+    "movie_name": "Parbati",
+    "total_shows": 2,
+    "seats": 471,
+    "sold": 67,
+    "reserved": 58,
+    "available": 346,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 41,
+        "reserved": 42,
+        "available": 196,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "bsr-movies",
+        "total_shows": 1,
+        "seats": 192,
+        "sold": 26,
+        "reserved": 16,
+        "available": 150,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+    "movie_name": "Toxic",
+    "total_shows": 1,
+    "seats": 98,
+    "sold": 0,
+    "reserved": 0,
+    "available": 98,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 0,
+        "reserved": 0,
+        "available": 98,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]

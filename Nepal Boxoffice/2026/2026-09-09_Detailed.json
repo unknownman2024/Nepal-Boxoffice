@@ -1,5 +1,96 @@
 {
   "date": "2026-09-09",
-  "lastUpdated": "02:10 AM, 09 September 2026",
-  "shows": []
+  "lastUpdated": "04:40 AM, 09 September 2026",
+  "shows": [
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "shw_UX1sY0Qo4K3jDLzsp5f6ks:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 2",
+      "date": "2026-09-09T07:30:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 18,
+      "reserved": 50,
+      "available": 202,
+      "gross": 13600,
+      "occupancy_percent": 25.19
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_MqrGsIINXNkapuHrQKa2rM:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 3",
+      "date": "2026-09-09T07:00:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 35,
+      "reserved": 26,
+      "available": 288,
+      "gross": 12200,
+      "occupancy_percent": 17.48
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "188170:qfx-guna-cinema",
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 5",
+      "date": "2026-09-09T08:00:00+05:45",
+      "time": "",
+      "seats": 256,
+      "sold": 6,
+      "reserved": 0,
+      "available": 250,
+      "gross": 1800,
+      "occupancy_percent": 2.34
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "49629:bsr-movies",
+      "venue": "bsr-movies",
+      "theatre": "BSR Movies - Atmos 1",
+      "date": "2026-09-09T08:00:00+05:45",
+      "time": "",
+      "seats": 192,
+      "sold": 26,
+      "reserved": 16,
+      "available": 150,
+      "gross": 8400,
+      "occupancy_percent": 21.88
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "shw_W1qBglUB58Fi9YrZOLkVZh:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 1",
+      "date": "2026-09-09T08:00:00+05:45",
+      "time": "",
+      "seats": 279,
+      "sold": 41,
+      "reserved": 42,
+      "available": 196,
+      "gross": 16600,
+      "occupancy_percent": 29.75
+    },
+    {
+      "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+      "movie_name": "Toxic",
+      "show_id": "188159:qfx-guna-cinema",
+      "venue": "qfx-guna-cinema",
+      "theatre": "QFX Guna Cinema - AUDI 2",
+      "date": "2026-09-09T08:00:00+05:45",
+      "time": "",
+      "seats": 98,
+      "sold": 0,
+      "reserved": 0,
+      "available": 98,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
