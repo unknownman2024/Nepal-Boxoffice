@@ -1,5 +1,36 @@
 {
   "date": "2026-09-10",
-  "lastUpdated": "01:51 AM, 10 September 2026",
-  "shows": []
+  "lastUpdated": "04:24 AM, 10 September 2026",
+  "shows": [
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "shw_ZBX7Brvnx69vSQqU0ex9Z0:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 2",
+      "date": "2026-09-10T07:30:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 12,
+      "reserved": 50,
+      "available": 208,
+      "gross": 12400,
+      "occupancy_percent": 22.96
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_RmtkRqxIaH9tWzo3cWj5Qm:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 3",
+      "date": "2026-09-10T07:00:00+05:45",
+      "time": "",
+      "seats": 349,
+      "sold": 12,
+      "reserved": 26,
+      "available": 311,
+      "gross": 7600,
+      "occupancy_percent": 10.89
+    }
+  ]
 }

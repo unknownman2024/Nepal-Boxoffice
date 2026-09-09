@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+    "movie_name": "Elephants in the Fog",
+    "total_shows": 1,
+    "seats": 270,
+    "sold": 12,
+    "reserved": 50,
+    "available": 208,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 12,
+        "reserved": 50,
+        "available": 208,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+    "movie_name": "Mirzapur",
+    "total_shows": 1,
+    "seats": 349,
+    "sold": 12,
+    "reserved": 26,
+    "available": 311,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 12,
+        "reserved": 26,
+        "available": 311,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
