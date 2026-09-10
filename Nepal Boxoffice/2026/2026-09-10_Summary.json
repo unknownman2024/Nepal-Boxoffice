@@ -2,21 +2,51 @@
   {
     "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
     "movie_name": "Elephants in the Fog",
-    "total_shows": 1,
-    "seats": 270,
-    "sold": 12,
-    "reserved": 50,
-    "available": 208,
+    "total_shows": 4,
+    "seats": 777,
+    "sold": 178,
+    "reserved": 61,
+    "available": 538,
     "housefull": 0,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
       {
         "venue": "big-movies-updated",
         "total_shows": 1,
         "seats": 270,
-        "sold": 12,
-        "reserved": 50,
-        "available": 208,
+        "sold": 13,
+        "reserved": 51,
+        "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 8,
+        "reserved": 0,
+        "available": 59,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 250,
+        "sold": 156,
+        "reserved": 10,
+        "available": 84,
+        "housefull": 0,
+        "fastfilling": 1
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 1,
+        "reserved": 0,
+        "available": 189,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -25,11 +55,11 @@
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 1,
-    "seats": 349,
-    "sold": 12,
-    "reserved": 26,
-    "available": 311,
+    "total_shows": 5,
+    "seats": 1196,
+    "sold": 42,
+    "reserved": 51,
+    "available": 1103,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -37,9 +67,161 @@
         "venue": "big-movies-updated",
         "total_shows": 1,
         "seats": 349,
-        "sold": 12,
+        "sold": 17,
         "reserved": 26,
-        "available": 311,
+        "available": 306,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 2,
+        "reserved": 25,
+        "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 6,
+        "reserved": 0,
+        "available": 208,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 9,
+        "reserved": 0,
+        "available": 199,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 256,
+        "sold": 8,
+        "reserved": 0,
+        "available": 248,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+    "movie_name": "Parbati",
+    "total_shows": 2,
+    "seats": 501,
+    "sold": 32,
+    "reserved": 42,
+    "available": 427,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 13,
+        "reserved": 42,
+        "available": 224,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 222,
+        "sold": 19,
+        "reserved": 0,
+        "available": 203,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 2,
+    "seats": 119,
+    "sold": 2,
+    "reserved": 0,
+    "available": 117,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kamal-binayak-cinemas",
+        "total_shows": 1,
+        "seats": 75,
+        "sold": 0,
+        "reserved": 0,
+        "available": 75,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 44,
+        "sold": 2,
+        "reserved": 0,
+        "available": 42,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "nNrxAV2qYnScSjkA24GQRd",
+    "movie_name": "Toxic",
+    "total_shows": 1,
+    "seats": 98,
+    "sold": 6,
+    "reserved": 0,
+    "available": 92,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 6,
+        "reserved": 0,
+        "available": 92,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "du5AFfE9RMeqsrRpegN72D",
+    "movie_name": "Insidious: Out of the Further",
+    "total_shows": 1,
+    "seats": 85,
+    "sold": 3,
+    "reserved": 0,
+    "available": 82,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 85,
+        "sold": 3,
+        "reserved": 0,
+        "available": 82,
         "housefull": 0,
         "fastfilling": 0
       }
