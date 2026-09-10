@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "lastUpdated": "04:03 PM, 10 September 2026",
+  "lastUpdated": "08:17 PM, 10 September 2026",
   "shows": [
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -3146,6 +3146,51 @@
       "available": 97,
       "gross": 480,
       "occupancy_percent": 1.02
+    },
+    {
+      "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+      "movie_name": "Elephants in the Fog",
+      "show_id": "188731:qfx-square-mall",
+      "venue": "qfx-square-mall",
+      "theatre": "QFX City Square Mall - Audi 2",
+      "date": "2026-09-10T21:00:00+05:45",
+      "time": "",
+      "seats": 165,
+      "sold": 15,
+      "reserved": 2,
+      "available": 148,
+      "gross": 5950,
+      "occupancy_percent": 10.3
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "330:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi-1",
+      "date": "2026-09-10T21:15:00+05:45",
+      "time": "",
+      "seats": 251,
+      "sold": 57,
+      "reserved": 6,
+      "available": 188,
+      "gross": 11025,
+      "occupancy_percent": 25.1
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "338:ranjana-cineplex",
+      "venue": "ranjana-cineplex",
+      "theatre": "Ranjana Cineplex - Audi 3",
+      "date": "2026-09-10T20:45:00+05:45",
+      "time": "",
+      "seats": 164,
+      "sold": 23,
+      "reserved": 0,
+      "available": 141,
+      "gross": 4025,
+      "occupancy_percent": 14.02
     }
   ]
 }
