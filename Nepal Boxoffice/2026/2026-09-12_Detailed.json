@@ -1,5 +1,96 @@
 {
   "date": "2026-09-12",
-  "lastUpdated": "12:56 AM, 12 September 2026",
-  "shows": []
+  "lastUpdated": "03:43 AM, 12 September 2026",
+  "shows": [
+    {
+      "movie_id": "iWUURQoitQ55hRykLV2Qov",
+      "movie_name": "Fall 2: Deadpoint",
+      "show_id": "188836:qfx-one-stop-mall",
+      "venue": "qfx-one-stop-mall",
+      "theatre": "QFX One Stop, Birtamod - AUDI 1",
+      "date": "2026-09-12T07:00:00+05:45",
+      "time": "",
+      "seats": 138,
+      "sold": 5,
+      "reserved": 0,
+      "available": 133,
+      "gross": 750,
+      "occupancy_percent": 3.62
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "149563:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Theatre",
+      "date": "2026-09-12T07:00:00+05:45",
+      "time": "",
+      "seats": 169,
+      "sold": 11,
+      "reserved": 25,
+      "available": 133,
+      "gross": 7850,
+      "occupancy_percent": 21.3
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "189011:qs-cinemas",
+      "venue": "qs-cinemas",
+      "theatre": "QFX Rising Mall - Audi 01",
+      "date": "2026-09-12T07:00:00+05:45",
+      "time": "",
+      "seats": 182,
+      "sold": 38,
+      "reserved": 0,
+      "available": 144,
+      "gross": 8360,
+      "occupancy_percent": 20.88
+    },
+    {
+      "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+      "movie_name": "Behuli",
+      "show_id": "76349:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-12T07:00:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 64,
+      "reserved": 27,
+      "available": 119,
+      "gross": 21840,
+      "occupancy_percent": 43.33
+    },
+    {
+      "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+      "movie_name": "Behuli",
+      "show_id": "188525:pokhara-cineplex",
+      "venue": "pokhara-cineplex",
+      "theatre": "QFX Cinemas Trade Mall - AUDI 2",
+      "date": "2026-09-12T07:00:00+05:45",
+      "time": "",
+      "seats": 231,
+      "sold": 22,
+      "reserved": 0,
+      "available": 209,
+      "gross": 4290,
+      "occupancy_percent": 9.52
+    },
+    {
+      "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+      "movie_name": "Pension Patta",
+      "show_id": "93253:mangyo-jana-jyoti-cinemas",
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-09-12T06:45:00+05:45",
+      "time": "",
+      "seats": 309,
+      "sold": 0,
+      "reserved": 0,
+      "available": 309,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }

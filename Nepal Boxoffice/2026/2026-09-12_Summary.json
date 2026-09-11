@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "movie_id": "iWUURQoitQ55hRykLV2Qov",
+    "movie_name": "Fall 2: Deadpoint",
+    "total_shows": 1,
+    "seats": 138,
+    "sold": 5,
+    "reserved": 0,
+    "available": 133,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 5,
+        "reserved": 0,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+    "movie_name": "Hanuman Ansh",
+    "total_shows": 2,
+    "seats": 351,
+    "sold": 49,
+    "reserved": 25,
+    "available": 277,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 11,
+        "reserved": 25,
+        "available": 133,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qs-cinemas",
+        "total_shows": 1,
+        "seats": 182,
+        "sold": 38,
+        "reserved": 0,
+        "available": 144,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+    "movie_name": "Behuli",
+    "total_shows": 2,
+    "seats": 441,
+    "sold": 86,
+    "reserved": 27,
+    "available": 328,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 64,
+        "reserved": 27,
+        "available": 119,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 231,
+        "sold": 22,
+        "reserved": 0,
+        "available": 209,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+    "movie_name": "Pension Patta",
+    "total_shows": 1,
+    "seats": 309,
+    "sold": 0,
+    "reserved": 0,
+    "available": 309,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 0,
+        "available": 309,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
