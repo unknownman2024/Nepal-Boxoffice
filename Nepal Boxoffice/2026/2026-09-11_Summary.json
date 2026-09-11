@@ -741,11 +741,11 @@
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 34,
-    "seats": 6026,
-    "sold": 494,
+    "total_shows": 35,
+    "seats": 6160,
+    "sold": 511,
     "reserved": 181,
-    "available": 5351,
+    "available": 5468,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -946,6 +946,16 @@
         "sold": 37,
         "reserved": 0,
         "available": 75,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 17,
+        "reserved": 0,
+        "available": 117,
         "housefull": 0,
         "fastfilling": 0
       },
