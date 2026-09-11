@@ -2,11 +2,11 @@
   {
     "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
     "movie_name": "Elephants in the Fog",
-    "total_shows": 3,
-    "seats": 417,
-    "sold": 4,
+    "total_shows": 4,
+    "seats": 484,
+    "sold": 12,
     "reserved": 12,
-    "available": 401,
+    "available": 460,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -34,9 +34,19 @@
         "venue": "fcube",
         "total_shows": 1,
         "seats": 198,
-        "sold": 4,
+        "sold": 6,
         "reserved": 12,
-        "available": 182,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -45,11 +55,11 @@
   {
     "movie_id": "iWUURQoitQ55hRykLV2Qov",
     "movie_name": "Fall 2: Deadpoint",
-    "total_shows": 3,
-    "seats": 442,
-    "sold": 0,
-    "reserved": 11,
-    "available": 431,
+    "total_shows": 4,
+    "seats": 650,
+    "sold": 19,
+    "reserved": 15,
+    "available": 616,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -57,9 +67,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 1,
         "seats": 118,
-        "sold": 0,
+        "sold": 2,
         "reserved": 0,
-        "available": 118,
+        "available": 116,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -68,8 +78,8 @@
         "total_shows": 1,
         "seats": 198,
         "sold": 0,
-        "reserved": 11,
-        "available": 187,
+        "reserved": 15,
+        "available": 183,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -82,17 +92,27 @@
         "available": 126,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 17,
+        "reserved": 0,
+        "available": 191,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "EWdQsUddUpNoL2DakNuC8X",
     "movie_name": "Hanuman Ansh",
-    "total_shows": 16,
-    "seats": 3180,
-    "sold": 42,
-    "reserved": 109,
-    "available": 3029,
+    "total_shows": 19,
+    "seats": 3663,
+    "sold": 104,
+    "reserved": 114,
+    "available": 3445,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -100,9 +120,9 @@
         "venue": "kirtipur-cineplex",
         "total_shows": 2,
         "seats": 202,
-        "sold": 0,
+        "sold": 6,
         "reserved": 0,
-        "available": 202,
+        "available": 196,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -111,8 +131,8 @@
         "total_shows": 2,
         "seats": 422,
         "sold": 4,
-        "reserved": 46,
-        "available": 372,
+        "reserved": 51,
+        "available": 367,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -120,9 +140,9 @@
         "venue": "ranjana-cineplex",
         "total_shows": 4,
         "seats": 1004,
-        "sold": 6,
+        "sold": 8,
         "reserved": 0,
-        "available": 998,
+        "available": 996,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -140,9 +160,9 @@
         "venue": "cineroyale",
         "total_shows": 5,
         "seats": 1085,
-        "sold": 29,
+        "sold": 39,
         "reserved": 61,
-        "available": 995,
+        "available": 985,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -155,17 +175,27 @@
         "available": 281,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 3,
+        "seats": 483,
+        "sold": 44,
+        "reserved": 0,
+        "available": 439,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 4,
-    "seats": 757,
-    "sold": 0,
-    "reserved": 15,
-    "available": 742,
+    "total_shows": 5,
+    "seats": 824,
+    "sold": 6,
+    "reserved": 16,
+    "available": 802,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -174,8 +204,8 @@
         "total_shows": 2,
         "seats": 328,
         "sold": 0,
-        "reserved": 0,
-        "available": 328,
+        "reserved": 1,
+        "available": 327,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -198,17 +228,27 @@
         "available": 217,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
     "movie_name": "Parbati",
-    "total_shows": 8,
-    "seats": 1366,
-    "sold": 195,
+    "total_shows": 9,
+    "seats": 1433,
+    "sold": 201,
     "reserved": 10,
-    "available": 1161,
+    "available": 1222,
     "housefull": 0,
     "fastfilling": 1,
     "venues": [
@@ -271,17 +311,27 @@
         "available": 204,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 67,
+        "sold": 6,
+        "reserved": 0,
+        "available": 61,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
     "movie_name": "Pension Patta",
-    "total_shows": 17,
-    "seats": 3470,
-    "sold": 38,
+    "total_shows": 21,
+    "seats": 4156,
+    "sold": 95,
     "reserved": 40,
-    "available": 3392,
+    "available": 4021,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -354,17 +404,27 @@
         "available": 434,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 686,
+        "sold": 57,
+        "reserved": 0,
+        "available": 629,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
     "movie_name": "Behuli",
-    "total_shows": 19,
-    "seats": 3934,
-    "sold": 45,
-    "reserved": 57,
-    "available": 3832,
+    "total_shows": 23,
+    "seats": 4610,
+    "sold": 107,
+    "reserved": 61,
+    "available": 4442,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -373,8 +433,8 @@
         "total_shows": 3,
         "seats": 671,
         "sold": 5,
-        "reserved": 0,
-        "available": 666,
+        "reserved": 1,
+        "available": 665,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -392,9 +452,9 @@
         "venue": "fcube",
         "total_shows": 3,
         "seats": 618,
-        "sold": 28,
-        "reserved": 57,
-        "available": 533,
+        "sold": 30,
+        "reserved": 60,
+        "available": 528,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -445,6 +505,16 @@
         "sold": 3,
         "reserved": 0,
         "available": 375,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 4,
+        "seats": 676,
+        "sold": 60,
+        "reserved": 0,
+        "available": 616,
         "housefull": 0,
         "fastfilling": 0
       }
