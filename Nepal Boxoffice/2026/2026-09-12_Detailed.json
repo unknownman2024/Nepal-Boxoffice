@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "lastUpdated": "07:22 PM, 12 September 2026",
+  "lastUpdated": "10:13 PM, 12 September 2026",
   "shows": [
     {
       "movie_id": "iWUURQoitQ55hRykLV2Qov",
@@ -5682,11 +5682,11 @@
       "date": "2026-09-12T22:30:00+05:45",
       "time": "",
       "seats": 134,
-      "sold": 15,
+      "sold": 23,
       "reserved": 0,
-      "available": 119,
-      "gross": 4500,
-      "occupancy_percent": 11.19
+      "available": 111,
+      "gross": 6900,
+      "occupancy_percent": 17.16
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -5948,6 +5948,21 @@
       "available": 39,
       "gross": 2000,
       "occupancy_percent": 11.36
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "188649:qfx-cineflix-itahari",
+      "venue": "qfx-cineflix-itahari",
+      "theatre": "QFX Cineflix, Itahari - Audi 2",
+      "date": "2026-09-12T22:45:00+05:45",
+      "time": "",
+      "seats": 134,
+      "sold": 9,
+      "reserved": 0,
+      "available": 125,
+      "gross": 3100,
+      "occupancy_percent": 6.72
     }
   ]
 }

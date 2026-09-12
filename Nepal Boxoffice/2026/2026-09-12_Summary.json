@@ -640,9 +640,9 @@
     "movie_name": "Behuli",
     "total_shows": 93,
     "seats": 18347,
-    "sold": 4263,
+    "sold": 4271,
     "reserved": 565,
-    "available": 13519,
+    "available": 13511,
     "housefull": 2,
     "fastfilling": 10,
     "venues": [
@@ -1000,9 +1000,9 @@
         "venue": "qfx-cineflix-itahari",
         "total_shows": 1,
         "seats": 134,
-        "sold": 15,
+        "sold": 23,
         "reserved": 0,
-        "available": 119,
+        "available": 111,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1614,11 +1614,11 @@
   {
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
-    "total_shows": 42,
-    "seats": 7027,
-    "sold": 1862,
+    "total_shows": 43,
+    "seats": 7161,
+    "sold": 1871,
     "reserved": 122,
-    "available": 5043,
+    "available": 5168,
     "housefull": 0,
     "fastfilling": 8,
     "venues": [
@@ -1791,6 +1791,16 @@
         "available": 48,
         "housefull": 0,
         "fastfilling": 1
+      },
+      {
+        "venue": "qfx-cineflix-itahari",
+        "total_shows": 1,
+        "seats": 134,
+        "sold": 9,
+        "reserved": 0,
+        "available": 125,
+        "housefull": 0,
+        "fastfilling": 0
       },
       {
         "venue": "qfx-guna-cinema",
