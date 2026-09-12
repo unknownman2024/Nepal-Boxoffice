@@ -66,10 +66,10 @@
     "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
     "movie_name": "Mirzapur",
     "total_shows": 25,
-    "seats": 4673,
+    "seats": 4530,
     "sold": 37,
-    "reserved": 1,
-    "available": 4635,
+    "reserved": 0,
+    "available": 4493,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -254,12 +254,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "elite-cinemas",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 143,
+        "seats": 0,
         "sold": 0,
-        "reserved": 1,
-        "available": 142,
+        "reserved": 0,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -545,10 +545,10 @@
     "movie_id": "EWdQsUddUpNoL2DakNuC8X",
     "movie_name": "Hanuman Ansh",
     "total_shows": 84,
-    "seats": 16813,
+    "seats": 16670,
     "sold": 270,
     "reserved": 0,
-    "available": 16543,
+    "available": 16400,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -803,12 +803,12 @@
         "fastfilling": 0
       },
       {
-        "venue": "elite-cinemas",
+        "venue": "Unknown",
         "total_shows": 1,
-        "seats": 143,
+        "seats": 0,
         "sold": 0,
         "reserved": 0,
-        "available": 143,
+        "available": 0,
         "housefull": 0,
         "fastfilling": 0
       },
