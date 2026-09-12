@@ -1,21 +1,23 @@
 {
   "date": "2026-09-13",
-  "lastUpdated": "04:28 AM, 12 September 2026",
+  "lastUpdated": "08:15 AM, 12 September 2026",
   "shows": [
     {
       "movie_id": "iWUURQoitQ55hRykLV2Qov",
       "movie_name": "Fall 2: Deadpoint",
       "show_id": "377:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 2",
-      "date": "2026-09-13T13:45:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "iWUURQoitQ55hRykLV2Qov",
@@ -276,16 +278,18 @@
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
       "movie_name": "Mirzapur",
       "show_id": "373:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi-1",
-      "date": "2026-09-13T17:30:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -341,11 +345,11 @@
       "date": "2026-09-13T13:30:00+05:45",
       "time": "",
       "seats": 139,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 139,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 137,
+      "gross": 820,
+      "occupancy_percent": 1.44
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -491,11 +495,11 @@
       "date": "2026-09-13T08:30:00+05:45",
       "time": "",
       "seats": 132,
-      "sold": 1,
+      "sold": 3,
       "reserved": 0,
-      "available": 131,
-      "gross": 150,
-      "occupancy_percent": 0.76
+      "available": 129,
+      "gross": 450,
+      "occupancy_percent": 2.27
     },
     {
       "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
@@ -756,16 +760,18 @@
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
       "movie_name": "Elephants in the Fog",
       "show_id": "378:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 2",
-      "date": "2026-09-13T15:45:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -851,11 +857,11 @@
       "date": "2026-09-13T09:30:00+05:45",
       "time": "",
       "seats": 250,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 250,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 247,
+      "gross": 600,
+      "occupancy_percent": 1.2
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -896,11 +902,11 @@
       "date": "2026-09-13T08:30:00+05:45",
       "time": "",
       "seats": 207,
-      "sold": 4,
+      "sold": 7,
       "reserved": 0,
-      "available": 203,
-      "gross": 880,
-      "occupancy_percent": 1.93
+      "available": 200,
+      "gross": 1540,
+      "occupancy_percent": 3.38
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -936,16 +942,18 @@
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
       "movie_name": "Parbati",
       "show_id": "382:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 3",
-      "date": "2026-09-13T14:45:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 164,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -996,16 +1004,18 @@
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
       "movie_name": "Parbati",
       "show_id": "375:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 2",
-      "date": "2026-09-13T08:00:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
@@ -1256,11 +1266,11 @@
       "date": "2026-09-13T11:45:00+05:45",
       "time": "",
       "seats": 110,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 108,
-      "gross": 960,
-      "occupancy_percent": 1.82
+      "available": 106,
+      "gross": 1920,
+      "occupancy_percent": 3.64
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1271,11 +1281,11 @@
       "date": "2026-09-13T15:15:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 180,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 176,
+      "gross": 1920,
+      "occupancy_percent": 2.22
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1386,16 +1396,18 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "381:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 3",
-      "date": "2026-09-13T11:45:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 164,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1461,16 +1473,18 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "370:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi-1",
-      "date": "2026-09-13T08:15:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1491,16 +1505,18 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "372:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi-1",
-      "date": "2026-09-13T14:30:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1521,16 +1537,18 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "374:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi-1",
-      "date": "2026-09-13T21:15:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1616,11 +1634,11 @@
       "date": "2026-09-13T09:15:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 2,
+      "sold": 6,
       "reserved": 0,
-      "available": 254,
-      "gross": 400,
-      "occupancy_percent": 0.78
+      "available": 250,
+      "gross": 1200,
+      "occupancy_percent": 2.34
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1796,11 +1814,11 @@
       "date": "2026-09-13T08:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 7,
+      "sold": 13,
       "reserved": 0,
-      "available": 240,
-      "gross": 1540,
-      "occupancy_percent": 2.83
+      "available": 234,
+      "gross": 2860,
+      "occupancy_percent": 5.26
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1901,11 +1919,11 @@
       "date": "2026-09-13T11:15:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 2,
       "reserved": 18,
-      "available": 229,
-      "gross": 7920,
-      "occupancy_percent": 7.29
+      "available": 227,
+      "gross": 8800,
+      "occupancy_percent": 8.1
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1947,10 +1965,10 @@
       "time": "",
       "seats": 133,
       "sold": 7,
-      "reserved": 0,
-      "available": 126,
-      "gross": 2100,
-      "occupancy_percent": 5.26
+      "reserved": 6,
+      "available": 120,
+      "gross": 3900,
+      "occupancy_percent": 9.77
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1961,11 +1979,11 @@
       "date": "2026-09-13T17:45:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 33,
-      "reserved": 0,
-      "available": 100,
-      "gross": 11900,
-      "occupancy_percent": 24.81
+      "sold": 38,
+      "reserved": 3,
+      "available": 92,
+      "gross": 17300,
+      "occupancy_percent": 30.83
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1976,11 +1994,11 @@
       "date": "2026-09-13T08:00:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 66,
+      "sold": 70,
       "reserved": 5,
-      "available": 62,
-      "gross": 11150,
-      "occupancy_percent": 53.38
+      "available": 58,
+      "gross": 12250,
+      "occupancy_percent": 56.39
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -1991,11 +2009,11 @@
       "date": "2026-09-13T14:30:00+05:45",
       "time": "",
       "seats": 133,
-      "sold": 16,
+      "sold": 21,
       "reserved": 0,
-      "available": 117,
-      "gross": 5800,
-      "occupancy_percent": 12.03
+      "available": 112,
+      "gross": 7300,
+      "occupancy_percent": 15.79
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -2096,11 +2114,11 @@
       "date": "2026-09-13T09:30:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
-      "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "sold": 8,
+      "reserved": 1,
+      "available": 208,
+      "gross": 2200,
+      "occupancy_percent": 4.15
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -2171,11 +2189,11 @@
       "date": "2026-09-13T06:30:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 39,
+      "sold": 50,
       "reserved": 0,
-      "available": 99,
-      "gross": 5850,
-      "occupancy_percent": 28.26
+      "available": 88,
+      "gross": 7825,
+      "occupancy_percent": 36.23
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -2421,16 +2439,18 @@
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "383:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 3",
-      "date": "2026-09-13T17:45:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 164,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -2442,25 +2462,27 @@
       "time": "",
       "seats": 519,
       "sold": 2,
-      "reserved": 1,
-      "available": 516,
-      "gross": 1320,
-      "occupancy_percent": 0.58
+      "reserved": 0,
+      "available": 517,
+      "gross": 880,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "380:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 3",
-      "date": "2026-09-13T08:30:00+05:45",
-      "time": "",
-      "seats": 164,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 164,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -2471,26 +2493,28 @@
       "date": "2026-09-13T08:15:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 2,
+      "sold": 4,
       "reserved": 0,
-      "available": 257,
-      "gross": 550,
-      "occupancy_percent": 0.77
+      "available": 255,
+      "gross": 990,
+      "occupancy_percent": 1.54
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "371:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi-1",
-      "date": "2026-09-13T11:15:00+05:45",
-      "time": "",
-      "seats": 251,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 251,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -2517,10 +2541,10 @@
       "time": "",
       "seats": 285,
       "sold": 0,
-      "reserved": 0,
-      "available": 285,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 283,
+      "gross": 350,
+      "occupancy_percent": 0.7
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -2652,10 +2676,10 @@
       "time": "",
       "seats": 201,
       "sold": 0,
-      "reserved": 0,
-      "available": 201,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 7,
+      "available": 194,
+      "gross": 2450,
+      "occupancy_percent": 3.48
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -2771,11 +2795,11 @@
       "date": "2026-09-13T08:15:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 0,
+      "sold": 5,
       "reserved": 0,
-      "available": 248,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 243,
+      "gross": 1100,
+      "occupancy_percent": 2.02
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -3011,11 +3035,11 @@
       "date": "2026-09-13T14:15:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 176,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 173,
+      "gross": 1050,
+      "occupancy_percent": 1.7
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -3086,11 +3110,11 @@
       "date": "2026-09-13T11:30:00+05:45",
       "time": "",
       "seats": 190,
-      "sold": 7,
+      "sold": 9,
       "reserved": 0,
-      "available": 183,
-      "gross": 1750,
-      "occupancy_percent": 3.68
+      "available": 181,
+      "gross": 2250,
+      "occupancy_percent": 4.74
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -3351,16 +3375,18 @@
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
       "movie_name": "Pension Patta",
       "show_id": "376:ranjana-cineplex",
-      "venue": "ranjana-cineplex",
-      "theatre": "Ranjana Cineplex - Audi 2",
-      "date": "2026-09-13T11:00:00+05:45",
-      "time": "",
-      "seats": 118,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-13",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 118,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -3566,11 +3592,11 @@
       "date": "2026-09-13T12:00:00+05:45",
       "time": "",
       "seats": 177,
-      "sold": 4,
+      "sold": 8,
       "reserved": 0,
-      "available": 173,
-      "gross": 1640,
-      "occupancy_percent": 2.26
+      "available": 169,
+      "gross": 3280,
+      "occupancy_percent": 4.52
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -3866,11 +3892,11 @@
       "date": "2026-09-13T12:30:00+05:45",
       "time": "",
       "seats": 288,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 288,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 286,
+      "gross": 400,
+      "occupancy_percent": 0.69
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -4201,6 +4227,21 @@
       "available": 98,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "189179:qfx-skyline",
+      "venue": "qfx-skyline",
+      "theatre": "QFX Skyline - Audi 3",
+      "date": "2026-09-13T09:00:00+05:45",
+      "time": "",
+      "seats": 117,
+      "sold": 7,
+      "reserved": 7,
+      "available": 103,
+      "gross": 2100,
+      "occupancy_percent": 11.97
     }
   ]
 }
