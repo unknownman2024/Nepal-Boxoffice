@@ -1,5 +1,51 @@
 {
   "date": "2026-09-16",
-  "lastUpdated": "01:00 AM, 16 September 2026",
-  "shows": []
+  "lastUpdated": "04:12 AM, 16 September 2026",
+  "shows": [
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "189921:qfx-one-stop-mall",
+      "venue": "qfx-one-stop-mall",
+      "theatre": "QFX One Stop, Birtamod - AUDI 1",
+      "date": "2026-09-16T06:30:00+05:45",
+      "time": "",
+      "seats": 138,
+      "sold": 23,
+      "reserved": 0,
+      "available": 115,
+      "gross": 3905,
+      "occupancy_percent": 16.67
+    },
+    {
+      "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+      "movie_name": "Mirzapur",
+      "show_id": "shw_QqNKgKOQxsTuS28uDyCERe:big-movies-updated",
+      "venue": "big-movies-updated",
+      "theatre": "Big movies - Audi 2",
+      "date": "2026-09-16T07:30:00+05:45",
+      "time": "",
+      "seats": 270,
+      "sold": 11,
+      "reserved": 50,
+      "available": 209,
+      "gross": 15250,
+      "occupancy_percent": 22.59
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "93277:mangyo-jana-jyoti-cinemas",
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-09-16T06:30:00+05:45",
+      "time": "",
+      "seats": 309,
+      "sold": 0,
+      "reserved": 0,
+      "available": 309,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
