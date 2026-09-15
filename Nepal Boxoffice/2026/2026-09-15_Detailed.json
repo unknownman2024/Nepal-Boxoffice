@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "lastUpdated": "04:31 PM, 15 September 2026",
+  "lastUpdated": "09:01 PM, 15 September 2026",
   "shows": [
     {
       "movie_id": "iWUURQoitQ55hRykLV2Qov",
@@ -3847,6 +3847,51 @@
       "available": 84,
       "gross": 3500,
       "occupancy_percent": 14.29
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "149598:cdc-cinemas",
+      "venue": "cdc-cinemas",
+      "theatre": "CDC Cinemas - Cine Dine",
+      "date": "2026-09-15T21:30:00+05:45",
+      "time": "",
+      "seats": 60,
+      "sold": 0,
+      "reserved": 15,
+      "available": 45,
+      "gross": 7500,
+      "occupancy_percent": 25.0
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "3723:friends-cinemas",
+      "venue": "friends-cinemas",
+      "theatre": "Friends Cinemas - Dharan - Audi 1",
+      "date": "2026-09-15T21:45:00+05:45",
+      "time": "",
+      "seats": 214,
+      "sold": 106,
+      "reserved": 7,
+      "available": 101,
+      "gross": 21470,
+      "occupancy_percent": 52.8
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "189759:qfx-one-stop-mall",
+      "venue": "qfx-one-stop-mall",
+      "theatre": "QFX One Stop, Birtamod - AUDI 1",
+      "date": "2026-09-15T21:30:00+05:45",
+      "time": "",
+      "seats": 138,
+      "sold": 69,
+      "reserved": 16,
+      "available": 53,
+      "gross": 27450,
+      "occupancy_percent": 61.59
     }
   ]
 }
