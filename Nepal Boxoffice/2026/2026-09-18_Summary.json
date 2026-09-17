@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "movie_id": "Cm5wByjB6B2usJcChLiVrn",
+    "movie_name": "Jhingedaau 2",
+    "total_shows": 1,
+    "seats": 138,
+    "sold": 9,
+    "reserved": 0,
+    "available": 129,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 138,
+        "sold": 9,
+        "reserved": 0,
+        "available": 129,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 1,
+    "seats": 309,
+    "sold": 0,
+    "reserved": 0,
+    "available": 309,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 0,
+        "available": 309,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]

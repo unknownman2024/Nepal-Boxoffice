@@ -1,5 +1,36 @@
 {
   "date": "2026-09-18",
-  "lastUpdated": "12:17 AM, 18 September 2026",
-  "shows": []
+  "lastUpdated": "03:24 AM, 18 September 2026",
+  "shows": [
+    {
+      "movie_id": "Cm5wByjB6B2usJcChLiVrn",
+      "movie_name": "Jhingedaau 2",
+      "show_id": "190077:qfx-one-stop-mall",
+      "venue": "qfx-one-stop-mall",
+      "theatre": "QFX One Stop, Birtamod - AUDI 1",
+      "date": "2026-09-18T06:00:00+05:45",
+      "time": "",
+      "seats": 138,
+      "sold": 9,
+      "reserved": 0,
+      "available": 129,
+      "gross": 1675,
+      "occupancy_percent": 6.52
+    },
+    {
+      "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+      "movie_name": "Gauthali",
+      "show_id": "93289:mangyo-jana-jyoti-cinemas",
+      "venue": "mangyo-jana-jyoti-cinemas",
+      "theatre": "Mango Jana Jyoti Cinemas - Screen 1",
+      "date": "2026-09-18T06:45:00+05:45",
+      "time": "",
+      "seats": 309,
+      "sold": 0,
+      "reserved": 0,
+      "available": 309,
+      "gross": 0,
+      "occupancy_percent": 0.0
+    }
+  ]
 }
