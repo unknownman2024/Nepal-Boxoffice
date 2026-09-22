@@ -2,11 +2,11 @@
   {
     "movie_id": "EWdQsUddUpNoL2DakNuC8X",
     "movie_name": "Hanuman Ansh",
-    "total_shows": 51,
-    "seats": 9597,
-    "sold": 1814,
+    "total_shows": 54,
+    "seats": 10220,
+    "sold": 1960,
     "reserved": 134,
-    "available": 7649,
+    "available": 8126,
     "housefull": 1,
     "fastfilling": 4,
     "venues": [
@@ -82,11 +82,11 @@
       },
       {
         "venue": "cineroyale",
-        "total_shows": 2,
-        "seats": 434,
-        "sold": 286,
+        "total_shows": 3,
+        "seats": 651,
+        "sold": 360,
         "reserved": 4,
-        "available": 144,
+        "available": 287,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -222,11 +222,11 @@
       },
       {
         "venue": "qfx-bageshwori",
-        "total_shows": 1,
-        "seats": 290,
-        "sold": 152,
+        "total_shows": 2,
+        "seats": 578,
+        "sold": 215,
         "reserved": 6,
-        "available": 132,
+        "available": 357,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -332,11 +332,11 @@
       },
       {
         "venue": "ranjana-cineplex",
-        "total_shows": 2,
-        "seats": 502,
-        "sold": 1,
+        "total_shows": 3,
+        "seats": 620,
+        "sold": 10,
         "reserved": 0,
-        "available": 501,
+        "available": 610,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -388,13 +388,13 @@
   {
     "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
     "movie_name": "Pension Patta",
-    "total_shows": 87,
-    "seats": 17959,
-    "sold": 6362,
-    "reserved": 858,
-    "available": 10739,
+    "total_shows": 88,
+    "seats": 18206,
+    "sold": 6468,
+    "reserved": 903,
+    "available": 10835,
     "housefull": 7,
-    "fastfilling": 23,
+    "fastfilling": 24,
     "venues": [
       {
         "venue": "Unknown",
@@ -838,26 +838,26 @@
       },
       {
         "venue": "vfx-cinemas",
-        "total_shows": 3,
-        "seats": 741,
-        "sold": 240,
-        "reserved": 134,
-        "available": 367,
+        "total_shows": 4,
+        "seats": 988,
+        "sold": 346,
+        "reserved": 179,
+        "available": 463,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 2
       }
     ]
   },
   {
     "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
     "movie_name": "Behuli",
-    "total_shows": 22,
-    "seats": 3588,
-    "sold": 372,
-    "reserved": 24,
-    "available": 3192,
+    "total_shows": 24,
+    "seats": 4047,
+    "sold": 595,
+    "reserved": 26,
+    "available": 3426,
     "housefull": 1,
-    "fastfilling": 0,
+    "fastfilling": 1,
     "venues": [
       {
         "venue": "Unknown",
@@ -876,6 +876,16 @@
         "sold": 21,
         "reserved": 6,
         "available": 95,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 29,
+        "reserved": 2,
+        "available": 138,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -1018,6 +1028,16 @@
         "available": 180,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bageshwori",
+        "total_shows": 1,
+        "seats": 290,
+        "sold": 194,
+        "reserved": 0,
+        "available": 96,
+        "housefull": 0,
+        "fastfilling": 1
       },
       {
         "venue": "qfx-cineflix-itahari",
@@ -1829,14 +1849,24 @@
   {
     "movie_id": "diPsEnKcCSEkEbks8v4kxU",
     "movie_name": "Gauthali",
-    "total_shows": 1,
-    "seats": 44,
+    "total_shows": 2,
+    "seats": 353,
     "sold": 3,
-    "reserved": 0,
-    "available": 41,
+    "reserved": 7,
+    "available": 343,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 7,
+        "available": 302,
+        "housefull": 0,
+        "fastfilling": 0
+      },
       {
         "venue": "qfx-guna-cinema",
         "total_shows": 1,
