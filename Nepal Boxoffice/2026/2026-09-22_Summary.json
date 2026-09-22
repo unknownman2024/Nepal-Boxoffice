@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+    "movie_name": "Hanuman Ansh",
+    "total_shows": 5,
+    "seats": 957,
+    "sold": 7,
+    "reserved": 0,
+    "available": 950,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 122,
+        "sold": 0,
+        "reserved": 0,
+        "available": 122,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinema-butwal-royal-cine-hub",
+        "total_shows": 1,
+        "seats": 213,
+        "sold": 0,
+        "reserved": 0,
+        "available": 213,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 176,
+        "sold": 3,
+        "reserved": 0,
+        "available": 173,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 256,
+        "sold": 4,
+        "reserved": 0,
+        "available": 252,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "suvakamna-cinemas",
+        "total_shows": 1,
+        "seats": 190,
+        "sold": 0,
+        "reserved": 0,
+        "available": 190,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "iWUURQoitQ55hRykLV2Qov",
+    "movie_name": "Fall 2: Deadpoint",
+    "total_shows": 1,
+    "seats": 98,
+    "sold": 4,
+    "reserved": 0,
+    "available": 94,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 98,
+        "sold": 4,
+        "reserved": 0,
+        "available": 94,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+    "movie_name": "Pension Patta",
+    "total_shows": 5,
+    "seats": 1090,
+    "sold": 103,
+    "reserved": 14,
+    "available": 973,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 4,
+        "available": 139,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 9,
+        "reserved": 2,
+        "available": 203,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "midtown",
+        "total_shows": 1,
+        "seats": 178,
+        "sold": 62,
+        "reserved": 8,
+        "available": 108,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "pokhara-cineplex",
+        "total_shows": 1,
+        "seats": 359,
+        "sold": 18,
+        "reserved": 0,
+        "available": 341,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-butwal",
+        "total_shows": 1,
+        "seats": 196,
+        "sold": 14,
+        "reserved": 0,
+        "available": 182,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+    "movie_name": "Behuli",
+    "total_shows": 2,
+    "seats": 531,
+    "sold": 0,
+    "reserved": 0,
+    "available": 531,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 0,
+        "available": 309,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 222,
+        "sold": 0,
+        "reserved": 0,
+        "available": 222,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
+    "movie_name": "Elephants in the Fog",
+    "total_shows": 2,
+    "seats": 186,
+    "sold": 2,
+    "reserved": 3,
+    "available": 181,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 101,
+        "sold": 0,
+        "reserved": 3,
+        "available": 98,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 85,
+        "sold": 2,
+        "reserved": 0,
+        "available": 83,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+    "movie_name": "Parbati",
+    "total_shows": 1,
+    "seats": 285,
+    "sold": 30,
+    "reserved": 2,
+    "available": 253,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "kirtipur-cineplex",
+        "total_shows": 1,
+        "seats": 285,
+        "sold": 30,
+        "reserved": 2,
+        "available": 253,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "Cm5wByjB6B2usJcChLiVrn",
+    "movie_name": "Jhingedaau 2",
+    "total_shows": 2,
+    "seats": 425,
+    "sold": 35,
+    "reserved": 10,
+    "available": 380,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 17,
+        "reserved": 10,
+        "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 256,
+        "sold": 18,
+        "reserved": 0,
+        "available": 238,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "QnuqDbqvzPU92DebGSYkoH",
+    "movie_name": "Karki Saila",
+    "total_shows": 3,
+    "seats": 457,
+    "sold": 0,
+    "reserved": 9,
+    "available": 448,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 9,
+        "available": 51,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 0,
+        "available": 214,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 183,
+        "sold": 0,
+        "reserved": 0,
+        "available": 183,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5ea7JdfcNVkzkZ9mt9Z4xa",
+    "movie_name": "Mirzapur",
+    "total_shows": 1,
+    "seats": 250,
+    "sold": 0,
+    "reserved": 0,
+    "available": 250,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 250,
+        "sold": 0,
+        "reserved": 0,
+        "available": 250,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 1,
+    "seats": 44,
+    "sold": 3,
+    "reserved": 0,
+    "available": 41,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-guna-cinema",
+        "total_shows": 1,
+        "seats": 44,
+        "sold": 3,
+        "reserved": 0,
+        "available": 41,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
