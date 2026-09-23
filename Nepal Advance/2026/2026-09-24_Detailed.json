@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "lastUpdated": "04:56 AM, 23 September 2026",
+  "lastUpdated": "08:22 AM, 23 September 2026",
   "shows": [
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -186,16 +186,18 @@
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
       "movie_name": "Hanuman Ansh",
       "show_id": "shw_vxooXucO4DP5VGXsfUIlQX:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 1",
-      "date": "2026-09-24T18:15:00+05:45",
-      "time": "",
-      "seats": 217,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 217,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -291,16 +293,18 @@
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
       "movie_name": "Behuli",
       "show_id": "shw_PkIga0WMJlolLhwcgbtqcj:cineroyale",
-      "venue": "cineroyale",
-      "theatre": "Cineroyale - Audi 3",
-      "date": "2026-09-24T18:00:00+05:45",
-      "time": "",
-      "seats": 126,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-24",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 126,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
@@ -371,11 +375,11 @@
       "date": "2026-09-24T18:15:00+05:45",
       "time": "",
       "seats": 198,
-      "sold": 9,
+      "sold": 11,
       "reserved": 28,
-      "available": 161,
-      "gross": 6475,
-      "occupancy_percent": 18.69
+      "available": 159,
+      "gross": 6825,
+      "occupancy_percent": 19.7
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -416,11 +420,11 @@
       "date": "2026-09-24T13:45:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 2,
+      "sold": 5,
       "reserved": 20,
-      "available": 190,
-      "gross": 6050,
-      "occupancy_percent": 10.38
+      "available": 187,
+      "gross": 6875,
+      "occupancy_percent": 11.79
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -431,11 +435,11 @@
       "date": "2026-09-24T16:30:00+05:45",
       "time": "",
       "seats": 212,
-      "sold": 4,
+      "sold": 7,
       "reserved": 14,
-      "available": 194,
-      "gross": 4950,
-      "occupancy_percent": 8.49
+      "available": 191,
+      "gross": 5775,
+      "occupancy_percent": 9.91
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -656,11 +660,11 @@
       "date": "2026-09-24T12:00:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 5,
+      "sold": 16,
       "reserved": 0,
-      "available": 214,
-      "gross": 1000,
-      "occupancy_percent": 2.28
+      "available": 203,
+      "gross": 3200,
+      "occupancy_percent": 7.31
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -716,11 +720,11 @@
       "date": "2026-09-24T12:15:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 36,
-      "reserved": 0,
-      "available": 204,
-      "gross": 6120,
-      "occupancy_percent": 15.0
+      "sold": 45,
+      "reserved": 3,
+      "available": 192,
+      "gross": 8160,
+      "occupancy_percent": 20.0
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -746,11 +750,11 @@
       "date": "2026-09-24T18:30:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 63,
-      "reserved": 0,
-      "available": 177,
-      "gross": 10710,
-      "occupancy_percent": 26.25
+      "sold": 78,
+      "reserved": 3,
+      "available": 159,
+      "gross": 13770,
+      "occupancy_percent": 33.75
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -801,18 +805,16 @@
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
       "movie_name": "Pension Patta",
       "show_id": "714675:elite-cinemas",
-      "venue": null,
-      "theatre": null,
-      "date": "2026-09-24",
-      "time": null,
-      "seats": 0,
+      "venue": "elite-cinemas",
+      "theatre": "Elite Cinemas - Hall-1",
+      "date": "2026-09-24T17:00:00+05:45",
+      "time": "",
+      "seats": 214,
       "sold": 0,
-      "reserved": 0,
-      "available": 0,
-      "gross": 0,
-      "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
-      "skipped": true
+      "reserved": 4,
+      "available": 210,
+      "gross": 850,
+      "occupancy_percent": 1.87
     },
     {
       "movie_id": "U95aHfLuVZSSpoqxMBsv4w",
@@ -943,11 +945,11 @@
       "date": "2026-09-24T20:15:00+05:45",
       "time": "",
       "seats": 210,
-      "sold": 0,
+      "sold": 4,
       "reserved": 14,
-      "available": 196,
-      "gross": 2450,
-      "occupancy_percent": 6.67
+      "available": 192,
+      "gross": 3150,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "Cm5wByjB6B2usJcChLiVrn",
@@ -958,11 +960,11 @@
       "date": "2026-09-24T14:15:00+05:45",
       "time": "",
       "seats": 143,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 143,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 139,
+      "gross": 800,
+      "occupancy_percent": 2.8
     },
     {
       "movie_id": "Cm5wByjB6B2usJcChLiVrn",
@@ -989,10 +991,10 @@
       "time": "",
       "seats": 210,
       "sold": 2,
-      "reserved": 14,
-      "available": 194,
-      "gross": 2800,
-      "occupancy_percent": 7.62
+      "reserved": 16,
+      "available": 192,
+      "gross": 3150,
+      "occupancy_percent": 8.57
     },
     {
       "movie_id": "Cm5wByjB6B2usJcChLiVrn",
