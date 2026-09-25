@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "lastUpdated": "12:38 AM, 26 September 2026",
+  "lastUpdated": "05:19 AM, 26 September 2026",
   "shows": [
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -642,10 +642,10 @@
       "time": "",
       "seats": 133,
       "sold": 0,
-      "reserved": 1,
-      "available": 132,
-      "gross": 300,
-      "occupancy_percent": 0.75
+      "reserved": 0,
+      "available": 133,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -1011,16 +1011,18 @@
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
       "movie_name": "Avengers: Endgame Encore",
       "show_id": "192084:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 01",
-      "date": "2026-09-27T08:15:00+05:45",
-      "time": "",
-      "seats": 519,
-      "sold": 6,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
       "reserved": 0,
-      "available": 513,
-      "gross": 2075,
-      "occupancy_percent": 1.16
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1647,10 +1649,10 @@
       "time": "",
       "seats": 134,
       "sold": 2,
-      "reserved": 1,
-      "available": 131,
-      "gross": 1140,
-      "occupancy_percent": 2.24
+      "reserved": 0,
+      "available": 132,
+      "gross": 760,
+      "occupancy_percent": 1.49
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
