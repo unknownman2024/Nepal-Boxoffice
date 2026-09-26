@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "lastUpdated": "05:19 AM, 26 September 2026",
+  "lastUpdated": "08:35 AM, 26 September 2026",
   "shows": [
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -402,10 +402,10 @@
       "time": "",
       "seats": 231,
       "sold": 0,
-      "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 229,
+      "gross": 780,
+      "occupancy_percent": 0.87
     },
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -941,11 +941,11 @@
       "date": "2026-09-27T15:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 13,
+      "sold": 15,
       "reserved": 0,
-      "available": 167,
-      "gross": 8320,
-      "occupancy_percent": 7.22
+      "available": 165,
+      "gross": 9600,
+      "occupancy_percent": 8.33
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -996,21 +996,6 @@
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
       "movie_name": "Avengers: Endgame Encore",
       "show_id": "192077:qfx-civil",
-      "venue": "qfx-civil",
-      "theatre": "QFX Civil - AUDI 01",
-      "date": "2026-09-27T19:00:00+05:45",
-      "time": "",
-      "seats": 519,
-      "sold": 0,
-      "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
-    },
-    {
-      "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
-      "movie_name": "Avengers: Endgame Encore",
-      "show_id": "192084:qfx-civil",
       "venue": null,
       "theatre": null,
       "date": "2026-09-27",
@@ -1021,8 +1006,23 @@
       "available": 0,
       "gross": 0,
       "occupancy_percent": 0,
-      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "error": "HTTP 429",
       "skipped": true
+    },
+    {
+      "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
+      "movie_name": "Avengers: Endgame Encore",
+      "show_id": "192084:qfx-civil",
+      "venue": "qfx-civil",
+      "theatre": "QFX Civil - AUDI 01",
+      "date": "2026-09-27T08:15:00+05:45",
+      "time": "",
+      "seats": 519,
+      "sold": 11,
+      "reserved": 0,
+      "available": 508,
+      "gross": 3575,
+      "occupancy_percent": 2.12
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1048,11 +1048,11 @@
       "date": "2026-09-27T07:30:00+05:45",
       "time": "",
       "seats": 180,
-      "sold": 11,
+      "sold": 13,
       "reserved": 0,
-      "available": 169,
-      "gross": 3520,
-      "occupancy_percent": 6.11
+      "available": 167,
+      "gross": 4160,
+      "occupancy_percent": 7.22
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1288,11 +1288,11 @@
       "date": "2026-09-27T07:30:00+05:45",
       "time": "",
       "seats": 256,
-      "sold": 11,
+      "sold": 12,
       "reserved": 0,
-      "available": 245,
-      "gross": 2915,
-      "occupancy_percent": 4.3
+      "available": 244,
+      "gross": 3180,
+      "occupancy_percent": 4.69
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1313,16 +1313,18 @@
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
       "movie_name": "Avengers: Endgame Encore",
       "show_id": "192144:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-09-27T15:45:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1349,10 +1351,10 @@
       "time": "",
       "seats": 231,
       "sold": 3,
-      "reserved": 0,
-      "available": 228,
-      "gross": 585,
-      "occupancy_percent": 1.3
+      "reserved": 2,
+      "available": 226,
+      "gross": 975,
+      "occupancy_percent": 2.16
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1363,11 +1365,11 @@
       "date": "2026-09-27T17:00:00+05:45",
       "time": "",
       "seats": 247,
-      "sold": 0,
+      "sold": 3,
       "reserved": 0,
-      "available": 247,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 244,
+      "gross": 1560,
+      "occupancy_percent": 1.21
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1408,11 +1410,11 @@
       "date": "2026-09-27T07:30:00+05:45",
       "time": "",
       "seats": 248,
-      "sold": 26,
-      "reserved": 0,
-      "available": 222,
-      "gross": 6760,
-      "occupancy_percent": 10.48
+      "sold": 27,
+      "reserved": 1,
+      "available": 220,
+      "gross": 7280,
+      "occupancy_percent": 11.29
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1423,26 +1425,28 @@
       "date": "2026-09-27T08:15:00+05:45",
       "time": "",
       "seats": 219,
-      "sold": 10,
+      "sold": 17,
       "reserved": 0,
-      "available": 209,
-      "gross": 2300,
-      "occupancy_percent": 4.57
+      "available": 202,
+      "gross": 3910,
+      "occupancy_percent": 7.76
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
       "movie_name": "Avengers: Endgame Encore",
       "show_id": "192141:qs-cinemas",
-      "venue": "qs-cinemas",
-      "theatre": "QFX Rising Mall - Audi 01",
-      "date": "2026-09-27T08:15:00+05:45",
-      "time": "",
-      "seats": 182,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-27",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 182,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1498,11 +1502,11 @@
       "date": "2026-09-27T08:00:00+05:45",
       "time": "",
       "seats": 268,
-      "sold": 21,
-      "reserved": 0,
-      "available": 247,
-      "gross": 4830,
-      "occupancy_percent": 7.84
+      "sold": 23,
+      "reserved": 2,
+      "available": 243,
+      "gross": 5750,
+      "occupancy_percent": 9.33
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1543,11 +1547,11 @@
       "date": "2026-09-27T20:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 136,
+      "gross": 760,
+      "occupancy_percent": 1.45
     },
     {
       "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
@@ -1664,10 +1668,10 @@
       "time": "",
       "seats": 214,
       "sold": 0,
-      "reserved": 4,
-      "available": 210,
-      "gross": 800,
-      "occupancy_percent": 1.87
+      "reserved": 5,
+      "available": 209,
+      "gross": 1000,
+      "occupancy_percent": 2.34
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -1783,11 +1787,11 @@
       "date": "2026-09-27T08:00:00+05:45",
       "time": "",
       "seats": 182,
-      "sold": 9,
-      "reserved": 0,
-      "available": 173,
-      "gross": 2160,
-      "occupancy_percent": 4.95
+      "sold": 11,
+      "reserved": 3,
+      "available": 168,
+      "gross": 3360,
+      "occupancy_percent": 7.69
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -1933,11 +1937,11 @@
       "date": "2026-09-27T11:45:00+05:45",
       "time": "",
       "seats": 359,
-      "sold": 0,
+      "sold": 4,
       "reserved": 0,
-      "available": 359,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 355,
+      "gross": 1560,
+      "occupancy_percent": 1.11
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -1949,10 +1953,10 @@
       "time": "",
       "seats": 231,
       "sold": 0,
-      "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 229,
+      "gross": 780,
+      "occupancy_percent": 0.87
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2068,11 +2072,11 @@
       "date": "2026-09-27T08:15:00+05:45",
       "time": "",
       "seats": 265,
-      "sold": 11,
-      "reserved": 0,
-      "available": 254,
-      "gross": 2090,
-      "occupancy_percent": 4.15
+      "sold": 14,
+      "reserved": 6,
+      "available": 245,
+      "gross": 3800,
+      "occupancy_percent": 7.55
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2173,11 +2177,11 @@
       "date": "2026-09-27T13:45:00+05:45",
       "time": "",
       "seats": 176,
-      "sold": 20,
+      "sold": 25,
       "reserved": 0,
-      "available": 156,
-      "gross": 7000,
-      "occupancy_percent": 11.36
+      "available": 151,
+      "gross": 8750,
+      "occupancy_percent": 14.2
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2218,11 +2222,11 @@
       "date": "2026-09-27T12:15:00+05:45",
       "time": "",
       "seats": 240,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 240,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 233,
+      "gross": 2170,
+      "occupancy_percent": 2.92
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2233,11 +2237,11 @@
       "date": "2026-09-27T14:00:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 0,
+      "sold": 7,
       "reserved": 0,
-      "available": 138,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 131,
+      "gross": 2100,
+      "occupancy_percent": 5.07
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2308,11 +2312,11 @@
       "date": "2026-09-27T11:15:00+05:45",
       "time": "",
       "seats": 138,
-      "sold": 2,
-      "reserved": 0,
-      "available": 136,
-      "gross": 600,
-      "occupancy_percent": 1.45
+      "sold": 6,
+      "reserved": 6,
+      "available": 126,
+      "gross": 3600,
+      "occupancy_percent": 8.7
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
@@ -2789,10 +2793,10 @@
       "time": "",
       "seats": 196,
       "sold": 0,
-      "reserved": 0,
-      "available": 196,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 194,
+      "gross": 700,
+      "occupancy_percent": 1.02
     },
     {
       "movie_id": "Cm5wByjB6B2usJcChLiVrn",
@@ -3299,10 +3303,10 @@
       "time": "",
       "seats": 231,
       "sold": 0,
-      "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 229,
+      "gross": 780,
+      "occupancy_percent": 0.87
     },
     {
       "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
@@ -3673,11 +3677,11 @@
       "date": "2026-09-27T07:15:00+05:45",
       "time": "",
       "seats": 169,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 169,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 167,
+      "gross": 400,
+      "occupancy_percent": 1.18
     },
     {
       "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
@@ -3838,11 +3842,11 @@
       "date": "2026-09-27T07:45:00+05:45",
       "time": "",
       "seats": 259,
-      "sold": 16,
+      "sold": 0,
       "reserved": 0,
-      "available": 243,
-      "gross": 3520,
-      "occupancy_percent": 6.18
+      "available": 259,
+      "gross": 0,
+      "occupancy_percent": 0.0
     },
     {
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
@@ -3944,10 +3948,10 @@
       "time": "",
       "seats": 231,
       "sold": 0,
-      "reserved": 0,
-      "available": 231,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 229,
+      "gross": 780,
+      "occupancy_percent": 0.87
     },
     {
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
@@ -4123,11 +4127,11 @@
       "date": "2026-09-27T09:00:00+05:45",
       "time": "",
       "seats": 217,
-      "sold": 0,
+      "sold": 2,
       "reserved": 0,
-      "available": 217,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "available": 215,
+      "gross": 400,
+      "occupancy_percent": 0.92
     },
     {
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
@@ -4379,10 +4383,10 @@
       "time": "",
       "seats": 112,
       "sold": 0,
-      "reserved": 0,
-      "available": 112,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 3,
+      "available": 109,
+      "gross": 1440,
+      "occupancy_percent": 2.68
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -4438,11 +4442,11 @@
       "date": "2026-09-27T07:30:00+05:45",
       "time": "",
       "seats": 98,
-      "sold": 7,
+      "sold": 14,
       "reserved": 0,
-      "available": 91,
-      "gross": 1400,
-      "occupancy_percent": 7.14
+      "available": 84,
+      "gross": 2800,
+      "occupancy_percent": 14.29
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -4589,10 +4593,10 @@
       "time": "",
       "seats": 133,
       "sold": 2,
-      "reserved": 1,
-      "available": 130,
-      "gross": 900,
-      "occupancy_percent": 2.26
+      "reserved": 3,
+      "available": 128,
+      "gross": 1500,
+      "occupancy_percent": 3.76
     },
     {
       "movie_id": "EWdQsUddUpNoL2DakNuC8X",
@@ -5163,6 +5167,233 @@
       "available": 98,
       "gross": 0,
       "occupancy_percent": 0.0
+    },
+    {
+      "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
+      "movie_name": "The Paradise",
+      "show_id": "76684:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 3",
+      "date": "2026-09-27T16:45:00+05:45",
+      "time": "",
+      "seats": 212,
+      "sold": 0,
+      "reserved": 10,
+      "available": 202,
+      "gross": 5800,
+      "occupancy_percent": 4.72
+    },
+    {
+      "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
+      "movie_name": "Avengers: Endgame Encore",
+      "show_id": "76682:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-09-27T08:15:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 17,
+      "available": 181,
+      "gross": 4930,
+      "occupancy_percent": 8.59
+    },
+    {
+      "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
+      "movie_name": "Avengers: Endgame Encore",
+      "show_id": "76683:fcube",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-27",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "HTTP 429",
+      "skipped": true
+    },
+    {
+      "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+      "movie_name": "Pension Patta",
+      "show_id": "76679:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-27T17:00:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 4800,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+      "movie_name": "Pension Patta",
+      "show_id": "76680:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-09-27T20:30:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 10,
+      "available": 188,
+      "gross": 4800,
+      "occupancy_percent": 5.05
+    },
+    {
+      "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+      "movie_name": "Pension Patta",
+      "show_id": "76678:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-27T14:15:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 4800,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+      "movie_name": "Pension Patta",
+      "show_id": "76677:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 3",
+      "date": "2026-09-27T11:00:00+05:45",
+      "time": "",
+      "seats": 212,
+      "sold": 0,
+      "reserved": 10,
+      "available": 202,
+      "gross": 5800,
+      "occupancy_percent": 4.72
+    },
+    {
+      "movie_id": "Cm5wByjB6B2usJcChLiVrn",
+      "movie_name": "Jhingedaau 2",
+      "show_id": "76687:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-09-27T14:45:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 10,
+      "available": 188,
+      "gross": 4800,
+      "occupancy_percent": 5.05
+    },
+    {
+      "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
+      "movie_name": "Acharya",
+      "show_id": "76676:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-27T19:45:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 4800,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
+      "movie_name": "Acharya",
+      "show_id": "76675:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 3",
+      "date": "2026-09-27T13:30:00+05:45",
+      "time": "",
+      "seats": 212,
+      "sold": 0,
+      "reserved": 10,
+      "available": 202,
+      "gross": 5800,
+      "occupancy_percent": 4.72
+    },
+    {
+      "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
+      "movie_name": "Acharya",
+      "show_id": "76674:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 3",
+      "date": "2026-09-27T07:45:00+05:45",
+      "time": "",
+      "seats": 212,
+      "sold": 0,
+      "reserved": 10,
+      "available": 202,
+      "gross": 3400,
+      "occupancy_percent": 4.72
+    },
+    {
+      "movie_id": "PU7GnuitqBAp6FXkq647Bn",
+      "movie_name": "Baa: Ek Yoddha",
+      "show_id": "76681:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-27T11:30:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 4800,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+      "movie_name": "Hanuman Ansh",
+      "show_id": "76688:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-09-27T17:45:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 10,
+      "available": 188,
+      "gross": 4800,
+      "occupancy_percent": 5.05
+    },
+    {
+      "movie_id": "j39w5HyxNyEgorcTDLmA6t",
+      "movie_name": "Jadau",
+      "show_id": "76685:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 1",
+      "date": "2026-09-27T08:45:00+05:45",
+      "time": "",
+      "seats": 210,
+      "sold": 0,
+      "reserved": 10,
+      "available": 200,
+      "gross": 2400,
+      "occupancy_percent": 4.76
+    },
+    {
+      "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+      "movie_name": "Behuli",
+      "show_id": "76686:fcube",
+      "venue": "fcube",
+      "theatre": "FCube Cinemas - Cube 2",
+      "date": "2026-09-27T11:45:00+05:45",
+      "time": "",
+      "seats": 198,
+      "sold": 0,
+      "reserved": 10,
+      "available": 188,
+      "gross": 4800,
+      "occupancy_percent": 5.05
     }
   ]
 }
