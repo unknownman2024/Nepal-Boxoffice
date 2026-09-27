@@ -1,1 +1,316 @@
-[]
+[
+  {
+    "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
+    "movie_name": "The Paradise",
+    "total_shows": 1,
+    "seats": 60,
+    "sold": 0,
+    "reserved": 0,
+    "available": 60,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "8ZLhTPN24bva6eEAAqBZ2c",
+    "movie_name": "Avengers: Endgame Encore",
+    "total_shows": 7,
+    "seats": 1426,
+    "sold": 84,
+    "reserved": 9,
+    "available": 1333,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 270,
+        "sold": 15,
+        "reserved": 1,
+        "available": 254,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "birat-cine",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 0,
+        "reserved": 0,
+        "available": 169,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 0,
+        "reserved": 8,
+        "available": 206,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "friends-cinemas-bg-mall",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 0,
+        "reserved": 0,
+        "available": 180,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 248,
+        "sold": 44,
+        "reserved": 0,
+        "available": 204,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-labim",
+        "total_shows": 1,
+        "seats": 180,
+        "sold": 17,
+        "reserved": 0,
+        "available": 163,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 165,
+        "sold": 8,
+        "reserved": 0,
+        "available": 157,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
+    "movie_name": "Pension Patta",
+    "total_shows": 2,
+    "seats": 346,
+    "sold": 61,
+    "reserved": 0,
+    "available": 285,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 207,
+        "sold": 21,
+        "reserved": 0,
+        "available": 186,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 139,
+        "sold": 40,
+        "reserved": 0,
+        "available": 99,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
+    "movie_name": "Acharya",
+    "total_shows": 5,
+    "seats": 1145,
+    "sold": 53,
+    "reserved": 0,
+    "available": 1092,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 349,
+        "sold": 3,
+        "reserved": 0,
+        "available": 346,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 169,
+        "sold": 3,
+        "reserved": 0,
+        "available": 166,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 203,
+        "sold": 6,
+        "reserved": 0,
+        "available": 197,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-bhaktapur",
+        "total_shows": 1,
+        "seats": 247,
+        "sold": 38,
+        "reserved": 0,
+        "available": 209,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-square-mall",
+        "total_shows": 1,
+        "seats": 177,
+        "sold": 3,
+        "reserved": 0,
+        "available": 174,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "PU7GnuitqBAp6FXkq647Bn",
+    "movie_name": "Baa: Ek Yoddha",
+    "total_shows": 2,
+    "seats": 422,
+    "sold": 23,
+    "reserved": 1,
+    "available": 398,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 23,
+        "reserved": 0,
+        "available": 256,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "elite-cinemas",
+        "total_shows": 1,
+        "seats": 143,
+        "sold": 0,
+        "reserved": 1,
+        "available": 142,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "EWdQsUddUpNoL2DakNuC8X",
+    "movie_name": "Hanuman Ansh",
+    "total_shows": 2,
+    "seats": 344,
+    "sold": 24,
+    "reserved": 0,
+    "available": 320,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "one-cinemas-kalimati",
+        "total_shows": 1,
+        "seats": 136,
+        "sold": 16,
+        "reserved": 0,
+        "available": 120,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "one-cinemas-new-baneshwor",
+        "total_shows": 1,
+        "seats": 208,
+        "sold": 8,
+        "reserved": 0,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "5Cv9AMfGRtjocyrqyVNDuv",
+    "movie_name": "Behuli",
+    "total_shows": 1,
+    "seats": 210,
+    "sold": 36,
+    "reserved": 22,
+    "available": 152,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "fcube",
+        "total_shows": 1,
+        "seats": 210,
+        "sold": 36,
+        "reserved": 22,
+        "available": 152,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "diPsEnKcCSEkEbks8v4kxU",
+    "movie_name": "Gauthali",
+    "total_shows": 1,
+    "seats": 309,
+    "sold": 0,
+    "reserved": 0,
+    "available": 309,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "mangyo-jana-jyoti-cinemas",
+        "total_shows": 1,
+        "seats": 309,
+        "sold": 0,
+        "reserved": 0,
+        "available": 309,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
