@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "lastUpdated": "02:33 AM, 29 September 2026",
+  "lastUpdated": "06:27 AM, 29 September 2026",
   "shows": [
     {
       "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
@@ -837,10 +837,10 @@
       "time": "",
       "seats": 198,
       "sold": 0,
-      "reserved": 13,
-      "available": 185,
-      "gross": 3120,
-      "occupancy_percent": 6.57
+      "reserved": 14,
+      "available": 184,
+      "gross": 3360,
+      "occupancy_percent": 7.07
     },
     {
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
@@ -1056,16 +1056,18 @@
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
       "movie_name": "Baa: Ek Yoddha",
       "show_id": "df63df4e-94b4-4a8d-bfa4-f8c8176301dc:bishwojyoti-cineplex",
-      "venue": "bishwojyoti-cineplex",
-      "theatre": "iNi Bishwojyoti - Audi - 2",
-      "date": "2026-09-30T16:45:00+05:45",
-      "time": "",
-      "seats": 89,
+      "venue": null,
+      "theatre": null,
+      "date": "2026-09-30",
+      "time": null,
+      "seats": 0,
       "sold": 0,
       "reserved": 0,
-      "available": 89,
+      "available": 0,
       "gross": 0,
-      "occupancy_percent": 0.0
+      "occupancy_percent": 0,
+      "error": "400 Client Error: Bad Request for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
     },
     {
       "movie_id": "PU7GnuitqBAp6FXkq647Bn",
@@ -1602,10 +1604,10 @@
       "time": "",
       "seats": 519,
       "sold": 0,
-      "reserved": 0,
-      "available": 519,
-      "gross": 0,
-      "occupancy_percent": 0.0
+      "reserved": 2,
+      "available": 517,
+      "gross": 500,
+      "occupancy_percent": 0.39
     },
     {
       "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
