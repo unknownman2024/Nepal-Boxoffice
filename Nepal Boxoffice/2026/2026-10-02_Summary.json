@@ -1,0 +1,91 @@
+[
+  {
+    "movie_id": "3BwirdtEpq2VQXaXmcuzAN",
+    "movie_name": "Resident Evil",
+    "total_shows": 2,
+    "seats": 347,
+    "sold": 27,
+    "reserved": 7,
+    "available": 313,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "friends-cinemas",
+        "total_shows": 1,
+        "seats": 214,
+        "sold": 7,
+        "reserved": 7,
+        "available": 200,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "qfx-one-stop-mall",
+        "total_shows": 1,
+        "seats": 133,
+        "sold": 20,
+        "reserved": 0,
+        "available": 113,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "PU7GnuitqBAp6FXkq647Bn",
+    "movie_name": "Baa: Ek Yoddha",
+    "total_shows": 1,
+    "seats": 258,
+    "sold": 4,
+    "reserved": 150,
+    "available": 104,
+    "housefull": 0,
+    "fastfilling": 1,
+    "venues": [
+      {
+        "venue": "kawaswoti-cinemax",
+        "total_shows": 1,
+        "seats": 258,
+        "sold": 4,
+        "reserved": 150,
+        "available": 104,
+        "housefull": 0,
+        "fastfilling": 1
+      }
+    ]
+  },
+  {
+    "movie_id": "NqxqGmLrbbKyWaCsHSr6jn",
+    "movie_name": "Changul",
+    "total_shows": 2,
+    "seats": 339,
+    "sold": 0,
+    "reserved": 42,
+    "available": 297,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "big-movies-updated",
+        "total_shows": 1,
+        "seats": 279,
+        "sold": 0,
+        "reserved": 21,
+        "available": 258,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 21,
+        "available": 39,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  }
+]
