@@ -2,21 +2,21 @@
   {
     "movie_id": "JnKmjZBDodjojK3JQCSVCB",
     "movie_name": "Drishyam: The Conclusion",
-    "total_shows": 133,
-    "seats": 26955,
-    "sold": 2508,
-    "reserved": 291,
-    "available": 24156,
+    "total_shows": 140,
+    "seats": 28605,
+    "sold": 2525,
+    "reserved": 293,
+    "available": 25787,
     "housefull": 0,
-    "fastfilling": 6,
+    "fastfilling": 7,
     "venues": [
       {
         "venue": "qfx-labim",
         "total_shows": 5,
         "seats": 902,
-        "sold": 285,
+        "sold": 291,
         "reserved": 0,
-        "available": 617,
+        "available": 611,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -25,8 +25,8 @@
         "total_shows": 5,
         "seats": 1666,
         "sold": 79,
-        "reserved": 125,
-        "available": 1462,
+        "reserved": 126,
+        "available": 1461,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -174,9 +174,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 5,
         "seats": 1198,
-        "sold": 330,
+        "sold": 334,
         "reserved": 33,
-        "available": 835,
+        "available": 831,
         "housefull": 0,
         "fastfilling": 1
       },
@@ -205,8 +205,8 @@
         "total_shows": 3,
         "seats": 581,
         "sold": 67,
-        "reserved": 1,
-        "available": 513,
+        "reserved": 2,
+        "available": 512,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -224,11 +224,11 @@
         "venue": "qfx-skyline",
         "total_shows": 4,
         "seats": 515,
-        "sold": 206,
+        "sold": 209,
         "reserved": 11,
-        "available": 298,
+        "available": 295,
         "housefull": 0,
-        "fastfilling": 1
+        "fastfilling": 2
       },
       {
         "venue": "qfx-butwal",
@@ -244,29 +244,19 @@
         "venue": "ini-qbox-butwal",
         "total_shows": 4,
         "seats": 784,
-        "sold": 35,
+        "sold": 39,
         "reserved": 0,
-        "available": 749,
+        "available": 745,
         "housefull": 0,
         "fastfilling": 0
       },
       {
         "venue": "qfx-bageshwori",
-        "total_shows": 2,
-        "seats": 576,
+        "total_shows": 4,
+        "seats": 1152,
         "sold": 0,
         "reserved": 0,
-        "available": 576,
-        "housefull": 0,
-        "fastfilling": 0
-      },
-      {
-        "venue": "Unknown",
-        "total_shows": 2,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
+        "available": 1152,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -359,17 +349,27 @@
         "available": 292,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 7,
+        "seats": 1074,
+        "sold": 0,
+        "reserved": 0,
+        "available": 1074,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "3BwirdtEpq2VQXaXmcuzAN",
     "movie_name": "Resident Evil",
-    "total_shows": 39,
-    "seats": 6986,
-    "sold": 220,
+    "total_shows": 40,
+    "seats": 7046,
+    "sold": 221,
     "reserved": 32,
-    "available": 6734,
+    "available": 6793,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -507,9 +507,9 @@
         "venue": "qfx-bhaktapur",
         "total_shows": 1,
         "seats": 247,
-        "sold": 25,
+        "sold": 26,
         "reserved": 18,
-        "available": 204,
+        "available": 203,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -612,6 +612,16 @@
         "available": 196,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
@@ -620,9 +630,9 @@
     "movie_name": "Baa: Ek Yoddha",
     "total_shows": 30,
     "seats": 5400,
-    "sold": 128,
+    "sold": 132,
     "reserved": 35,
-    "available": 5237,
+    "available": 5233,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -800,9 +810,9 @@
         "venue": "qfx-butwal",
         "total_shows": 2,
         "seats": 372,
-        "sold": 48,
+        "sold": 52,
         "reserved": 0,
-        "available": 324,
+        "available": 320,
         "housefull": 0,
         "fastfilling": 0
       },
@@ -861,11 +871,11 @@
   {
     "movie_id": "nxQYftS8PtZ9QhPf727V9Y",
     "movie_name": "Pension Patta",
-    "total_shows": 58,
-    "seats": 12843,
+    "total_shows": 59,
+    "seats": 12903,
     "sold": 109,
     "reserved": 76,
-    "available": 12658,
+    "available": 12718,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1118,17 +1128,27 @@
         "available": 532,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "h2HrNnphQzFYKR8HFkAiiF",
     "movie_name": "Acharya",
-    "total_shows": 19,
-    "seats": 3617,
+    "total_shows": 20,
+    "seats": 3677,
     "sold": 6,
     "reserved": 12,
-    "available": 3599,
+    "available": 3659,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1281,17 +1301,27 @@
         "available": 268,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "gsgsakLtEhBzDsjt9V3nKD",
     "movie_name": "The Paradise",
-    "total_shows": 4,
-    "seats": 676,
+    "total_shows": 5,
+    "seats": 736,
     "sold": 2,
     "reserved": 0,
-    "available": 674,
+    "available": 734,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1334,17 +1364,27 @@
         "available": 132,
         "housefull": 0,
         "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 1,
+        "seats": 60,
+        "sold": 0,
+        "reserved": 0,
+        "available": 60,
+        "housefull": 0,
+        "fastfilling": 0
       }
     ]
   },
   {
     "movie_id": "NqxqGmLrbbKyWaCsHSr6jn",
     "movie_name": "Changul",
-    "total_shows": 15,
-    "seats": 2744,
+    "total_shows": 17,
+    "seats": 2864,
     "sold": 1,
     "reserved": 0,
-    "available": 2743,
+    "available": 2863,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1485,6 +1525,16 @@
         "sold": 0,
         "reserved": 0,
         "available": 126,
+        "housefull": 0,
+        "fastfilling": 0
+      },
+      {
+        "venue": "cdc-cinemas",
+        "total_shows": 2,
+        "seats": 120,
+        "sold": 0,
+        "reserved": 0,
+        "available": 120,
         "housefull": 0,
         "fastfilling": 0
       }
@@ -1671,9 +1721,9 @@
     "movie_name": "Hanuman Ansh",
     "total_shows": 11,
     "seats": 1855,
-    "sold": 6,
+    "sold": 8,
     "reserved": 28,
-    "available": 1821,
+    "available": 1819,
     "housefull": 0,
     "fastfilling": 0,
     "venues": [
@@ -1701,9 +1751,9 @@
         "venue": "qfx-skyline",
         "total_shows": 3,
         "seats": 367,
-        "sold": 4,
+        "sold": 6,
         "reserved": 3,
-        "available": 360,
+        "available": 358,
         "housefull": 0,
         "fastfilling": 0
       },
