@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-08",
+  "lastUpdated": "04:09 AM, 08 October 2026",
+  "shows": [
+    {
+      "movie_id": "3BwirdtEpq2VQXaXmcuzAN",
+      "movie_name": "Resident Evil",
+      "show_id": "4374:friends-cinemas-bg-mall",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-08",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "6ZAjt3zaoqdiqYdwmvATW2",
+      "movie_name": "Parbati",
+      "show_id": "93423:mangyo-jana-jyoti-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-08",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    }
+  ]
+}
