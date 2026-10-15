@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "lastUpdated": "05:08 AM, 15 October 2026",
+  "lastUpdated": "08:18 AM, 15 October 2026",
   "shows": [
     {
       "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
@@ -1230,6 +1230,40 @@
       "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
       "movie_name": "Jailer 2",
       "show_id": "9695:suvakamna-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-16",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
+      "movie_name": "Aa Bata Aama 2",
+      "show_id": "253386:bamel-cinemas",
+      "venue": null,
+      "theatre": null,
+      "date": "2026-10-16",
+      "time": null,
+      "seats": 0,
+      "sold": 0,
+      "reserved": 0,
+      "available": 0,
+      "gross": 0,
+      "occupancy_percent": 0,
+      "error": "401 Client Error: Unauthorized for url: https://khalti.com/api/v5/service/use/movie/showinfo-v2/",
+      "skipped": true
+    },
+    {
+      "movie_id": "5NNzigz3KHkZNQfVxhkWQB",
+      "movie_name": "Jailer 2",
+      "show_id": "253387:bamel-cinemas",
       "venue": null,
       "theatre": null,
       "date": "2026-10-16",
