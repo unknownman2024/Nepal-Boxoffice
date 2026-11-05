@@ -2,7 +2,7 @@
   {
     "movie_id": "WNKLv5BRHKPwQJ9SYGF5Ea",
     "movie_name": "Panch Pandav",
-    "total_shows": 63,
+    "total_shows": 81,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -12,7 +12,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 63,
+        "total_shows": 81,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -25,7 +25,7 @@
   {
     "movie_id": "QfmNd5e2Xk7Ysy8WyoayKE",
     "movie_name": "Ramayana: Rise of Legend",
-    "total_shows": 262,
+    "total_shows": 301,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -35,7 +35,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 262,
+        "total_shows": 301,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -48,7 +48,7 @@
   {
     "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
     "movie_name": "Kabaddi 5",
-    "total_shows": 45,
+    "total_shows": 62,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -58,7 +58,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 45,
+        "total_shows": 62,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -71,7 +71,7 @@
   {
     "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
     "movie_name": "Aa Bata Aama 2",
-    "total_shows": 17,
+    "total_shows": 23,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -81,7 +81,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 17,
+        "total_shows": 23,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -163,7 +163,7 @@
   {
     "movie_id": "PU7GnuitqBAp6FXkq647Bn",
     "movie_name": "Baa: Ek Yoddha",
-    "total_shows": 2,
+    "total_shows": 3,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -173,7 +173,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 2,
+        "total_shows": 3,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -197,6 +197,29 @@
       {
         "venue": "Unknown",
         "total_shows": 3,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "6KNd4ZRpby5o3PokoZKQiw",
+    "movie_name": "12 Gaun 2",
+    "total_shows": 1,
+    "seats": 0,
+    "sold": 0,
+    "reserved": 0,
+    "available": 0,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 1,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
