@@ -2,7 +2,7 @@
   {
     "movie_id": "WNKLv5BRHKPwQJ9SYGF5Ea",
     "movie_name": "Panch Pandav",
-    "total_shows": 5,
+    "total_shows": 6,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -12,7 +12,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 5,
+        "total_shows": 6,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -25,7 +25,7 @@
   {
     "movie_id": "QfmNd5e2Xk7Ysy8WyoayKE",
     "movie_name": "Ramayana: Rise of Legend",
-    "total_shows": 243,
+    "total_shows": 280,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -35,30 +35,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 243,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      }
-    ]
-  },
-  {
-    "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
-    "movie_name": "Kabaddi 5",
-    "total_shows": 12,
-    "seats": 0,
-    "sold": 0,
-    "reserved": 0,
-    "available": 0,
-    "housefull": 0,
-    "fastfilling": 0,
-    "venues": [
-      {
-        "venue": "Unknown",
-        "total_shows": 12,
+        "total_shows": 280,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -71,7 +48,7 @@
   {
     "movie_id": "JvBkzC6DEAPfPUzMjzku8t",
     "movie_name": "Batulo Jun",
-    "total_shows": 135,
+    "total_shows": 193,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -81,30 +58,7 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 135,
-        "seats": 0,
-        "sold": 0,
-        "reserved": 0,
-        "available": 0,
-        "housefull": 0,
-        "fastfilling": 0
-      }
-    ]
-  },
-  {
-    "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
-    "movie_name": "Aa Bata Aama 2",
-    "total_shows": 3,
-    "seats": 0,
-    "sold": 0,
-    "reserved": 0,
-    "available": 0,
-    "housefull": 0,
-    "fastfilling": 0,
-    "venues": [
-      {
-        "venue": "Unknown",
-        "total_shows": 3,
+        "total_shows": 193,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
@@ -117,7 +71,7 @@
   {
     "movie_id": "GiiPDDHPxQDzj4UPQSS7ES",
     "movie_name": "I Play Rocky",
-    "total_shows": 25,
+    "total_shows": 30,
     "seats": 0,
     "sold": 0,
     "reserved": 0,
@@ -127,7 +81,53 @@
     "venues": [
       {
         "venue": "Unknown",
-        "total_shows": 25,
+        "total_shows": 30,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "M7otmKXTXWw2yvwXa9qNWv",
+    "movie_name": "Kabaddi 5",
+    "total_shows": 17,
+    "seats": 0,
+    "sold": 0,
+    "reserved": 0,
+    "available": 0,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 17,
+        "seats": 0,
+        "sold": 0,
+        "reserved": 0,
+        "available": 0,
+        "housefull": 0,
+        "fastfilling": 0
+      }
+    ]
+  },
+  {
+    "movie_id": "7D9kTNJL2ANba6mNUCGnGH",
+    "movie_name": "Aa Bata Aama 2",
+    "total_shows": 5,
+    "seats": 0,
+    "sold": 0,
+    "reserved": 0,
+    "available": 0,
+    "housefull": 0,
+    "fastfilling": 0,
+    "venues": [
+      {
+        "venue": "Unknown",
+        "total_shows": 5,
         "seats": 0,
         "sold": 0,
         "reserved": 0,
